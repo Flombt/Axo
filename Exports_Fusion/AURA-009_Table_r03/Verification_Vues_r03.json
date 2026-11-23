@@ -1,0 +1,262 @@
+{
+  "source": "Autodesk Fusion · F3D r03 v2 réimporté",
+  "vues": [
+    {
+      "vue": "Face",
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "01.png"
+    },
+    {
+      "vue": "Arrière",
+      "direction": [
+        -1,
+        0,
+        0
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "02.png"
+    },
+    {
+      "vue": "Côté moteurs",
+      "direction": [
+        0,
+        -1,
+        0
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "03.png"
+    },
+    {
+      "vue": "Côté faisceau",
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "04.png"
+    },
+    {
+      "vue": "Dessus",
+      "direction": [
+        0,
+        0,
+        1
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "05.png"
+    },
+    {
+      "vue": "Dessous",
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "06.png"
+    },
+    {
+      "vue": "Trois quarts avant · faisceau · haut",
+      "direction": [
+        1,
+        1,
+        0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "07.png"
+    },
+    {
+      "vue": "Trois quarts avant · faisceau · bas",
+      "direction": [
+        1,
+        1,
+        -0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "08.png"
+    },
+    {
+      "vue": "Trois quarts avant · moteurs · haut",
+      "direction": [
+        1,
+        -1,
+        0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "09.png"
+    },
+    {
+      "vue": "Trois quarts avant · moteurs · bas",
+      "direction": [
+        1,
+        -1,
+        -0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "10.png"
+    },
+    {
+      "vue": "Trois quarts arrière · faisceau · haut",
+      "direction": [
+        -1,
+        1,
+        0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "11.png"
+    },
+    {
+      "vue": "Trois quarts arrière · faisceau · bas",
+      "direction": [
+        -1,
+        1,
+        -0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "12.png"
+    },
+    {
+      "vue": "Trois quarts arrière · moteurs · haut",
+      "direction": [
+        -1,
+        -1,
+        0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "13.png"
+    },
+    {
+      "vue": "Trois quarts arrière · moteurs · bas",
+      "direction": [
+        -1,
+        -1,
+        -0.67
+      ],
+      "pose": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "image": "14.png"
+    },
+    {
+      "vue": "Extrêmes combinés · ouverture",
+      "direction": [
+        -0.8,
+        1,
+        0.65
+      ],
+      "pose": [
+        -18,
+        -10,
+        -10,
+        -28,
+        0
+      ],
+      "image": "15.png"
+    },
+    {
+      "vue": "Extrêmes combinés · fermeture",
+      "direction": [
+        0.8,
+        1,
+        0.65
+      ],
+      "pose": [
+        18,
+        10,
+        14,
+        28,
+        1
+      ],
+      "image": "16.png"
+    }
+  ],
+  "planche": "docs/wireframes/r03/08_controle_tous_les_angles.png"
+}
