@@ -1,0 +1,80 @@
+﻿Réf.,Composant,Qté,Ensemble,Cotes et suite
+01_Platine,01_Platine.stl,1,FDM,180.00 × 144.00 × 6.00 mm
+02_Socle,02_Socle.stl,1,FDM,78.00 × 78.00 × 30.00 mm
+03_Tourelle,03_Tourelle.stl,1,FDM,51.00 × 54.30 × 51.00 mm
+04_Segment_1,04_Segment_1.stl,1,FDM,67.80 × 26.10 × 37.40 mm
+05_Segment_2,05_Segment_2.stl,1,FDM,57.64 × 17.30 × 16.60 mm
+06_Segment_3,06_Segment_3.stl,1,FDM,41.84 × 26.04 × 24.44 mm
+07_Paume,07_Paume.stl,1,FDM,50.52 × 55.47 × 24.33 mm
+08_Capot,08_Capot.stl,1,FDM,23.90 × 15.30 × 1.65 mm
+09_Capot,09_Capot.stl,1,FDM,20.90 × 15.30 × 1.65 mm
+P07_Porte_J2,P07_Porte_J2.stl,1,FDM,61.00 × 29.40 × 24.25 mm
+P09_Frein_J2,P09_Frein_J2.stl,1,FDM,32.20 × 32.15 × 14.55 mm
+P11_Garde_J2,P11_Garde_J2.stl,1,FDM,46.00 × 46.00 × 7.20 mm
+P08_Porte_J3,P08_Porte_J3.stl,1,FDM,42.00 × 29.40 × 33.65 mm
+P10_Frein_J3,P10_Frein_J3.stl,1,FDM,32.20 × 32.15 × 14.55 mm
+P12_Garde_J3,P12_Garde_J3.stl,1,FDM,46.00 × 46.00 × 7.20 mm
+P15_Platine_cartes,P15_Platine_cartes.stl,1,FDM,70.00 × 27.00 × 2.56 mm
+12_Support_Pouce,12_Support_Pouce.stl,1,FDM,22.94 × 20.80 × 9.51 mm
+13_Bride_Poignet,13_Bride_Poignet.stl,1,FDM,40.08 × 32.96 × 24.40 mm
+14_Moyeu,14_Moyeu.stl,1,FDM,12.40 × 12.40 × 20.87 mm
+10_Tambour,10_Tambour.stl,1,FDM,14.48 × 14.48 × 6.05 mm
+11_Palonnier,11_Palonnier.stl,1,FDM,3.06 × 40.46 × 5.10 mm
+Phalange_14,Phalange_14.stl,5,FDM,21.42 × 9.30 × 8.02 mm
+Phalange_12p5,Phalange_12p5.stl,2,FDM,19.92 × 9.30 × 8.02 mm
+Bout_11,Bout_11.stl,2,FDM,14.37 × 8.40 × 7.42 mm
+Phalange_16,Phalange_16.stl,3,FDM,23.42 × 9.30 × 8.02 mm
+Bout_12p5,Bout_12p5.stl,3,FDM,15.87 × 8.40 × 7.42 mm
+Attache_J1_A,Attache_J1_A.stl,1,FDM,12.08 × 12.08 × 18.93 mm
+Attache_J1_B,Attache_J1_B.stl,1,FDM,23.08 × 8.36 × 24.16 mm
+Guide_24.5mm_J1,Guide_24.5mm_J1.stl,2,FDM,32.86 × 8.36 × 7.22 mm
+Attache_J2_A,Attache_J2_A.stl,1,FDM,8.36 × 8.36 × 15.43 mm
+Attache_J2_B,Attache_J2_B.stl,1,FDM,16.25 × 8.68 × 20.15 mm
+Guide_14mm_J2,Guide_14mm_J2.stl,2,FDM,22.36 × 8.36 × 7.22 mm
+Attache_J3_A,Attache_J3_A.stl,1,FDM,8.36 × 8.36 × 15.43 mm
+Attache_J3_B,Attache_J3_B.stl,1,FDM,9.85 × 17.97 × 20.15 mm
+Guide_14mm_J3,Guide_14mm_J3.stl,2,FDM,22.36 × 8.36 × 7.22 mm
+Attache_J7_A,Attache_J7_A.stl,1,FDM,12.35 × 14.87 × 7.17 mm
+Attache_J7_B,Attache_J7_B.stl,1,FDM,11.50 × 13.08 × 19.86 mm
+Guide_22mm_J7,Guide_22mm_J7.stl,2,FDM,30.36 × 8.36 × 7.22 mm
+Collier_faisceau_01,Collier_faisceau_01.stl,1,FDM,9.11 × 4.60 × 4.54 mm
+Collier_faisceau_02,Collier_faisceau_02.stl,1,FDM,9.11 × 4.60 × 4.54 mm
+Collier_faisceau_03,Collier_faisceau_03.stl,1,FDM,10.12 × 4.38 × 4.54 mm
+Collier_faisceau_04,Collier_faisceau_04.stl,1,FDM,10.12 × 4.38 × 4.54 mm
+Collier_faisceau_05,Collier_faisceau_05.stl,1,FDM,10.15 × 4.74 × 5.33 mm
+Collier_faisceau_06,Collier_faisceau_06.stl,1,FDM,5.76 × 4.74 × 4.38 mm
+Coupon_01_Axes_horizontaux,Coupon_01_Axes_horizontaux.stl,1,Coupon d’atelier,38.00 × 12.00 × 8.00 mm
+Coupon_02_Pilotes_bagues_ecrous,Coupon_02_Pilotes_bagues_ecrous.stl,1,Coupon d’atelier,50.00 × 18.00 × 7.00 mm
+Coupon_03_Encombrement_MG996R,Coupon_03_Encombrement_MG996R.stl,1,Coupon d’atelier,58.00 × 26.80 × 4.40 mm
+FAI-01,"Axes creux de guide Ø4,38, longueur 2,80",12,J1/J2/J3/J7,"Épaulements Ø4,86 et passage adapté au câble. Vérifier le maintien et la rotation avant mise sous tension."
+FAI-02,Conducteurs souples et fourreaux,1,Faisceau complet,"Cinq tronçons, quatre servos, guides et colliers. Dimensionner les conducteurs et relever la fatigue en flexion."
+FAI-03,Fixation des pieds et colliers,14,Guide et maintien,"Appui profilé. Choisir vis ou collier aux interfaces existantes et semelle adhésive pour les petits colliers, avec essai d’arrachement."
+MTR-01,MG996R de position 180°,1,J2,"55 g, 4,8–6,6 V, cadre traversant"
+MTR-02,ROBOTIS XC330-M288-T 902-0173-000,1,J3,"23 g, 5 V nominal, TTL, palonnier sur Ø12"
+MTR-03,MG90S de position,1,J7,"Cassette déportée, raccord court à ajuster"
+MTR-04,MG90S de position,1,T1,"Tambour Ø12, mesurer l’effort utile"
+FIX-01,"Vis M5, rondelles et quatre entretoises",4,Platine,"Appui de Ø12, entraxe 156 × 120, vis à longueur du support"
+FIX-02,"Axe Ø8, douille d’appui et collier",1,J1,"Un jeu, régler le jeu axial"
+FIX-03,Pion Ø3,1,J1,"Trois positions, vérifier retenue et dépose"
+FIX-04,"Platine acier optionnelle env. 146 × 92 × 2,8",1,Socle,"Lest démontable, dans la CAO"
+FIX-05,Arbre acier Ø5 à méplat et perçage,2,J2/J3,"L nominale 63,8 mm, goupille Ø2 transverse"
+FIX-06,igus PFM-0507-05,4,J2/J3,"Ø5 × Ø7 × 5, collerette Ø11"
+FIX-07,Accouplement à méplat,2,J2/J3,Adaptateur cannelé J2 et flasque Ø12 J3
+FIX-08,"M2,5 traversante et écrou",4,J2,"Pilote de passage Ø2,78, vérifier le lot de pattes"
+FIX-09,Vis du palonnier et porte-actionneur,1,J3,"Jeu de vis M2 ROBOTIS, confirmer longueurs utiles et accès"
+FIX-10,Tirants M3 et rondelles/écrous,8,J2/J3,Deux par support et deux par carter
+FIX-11,Disque acier et surfaces de friction,2,J2/J3,"Un jeu à deux faces par axe, Ø25,9"
+FIX-12,Ressort d’assistance et ressort de précharge,2,J2/J3,"Un jeu par axe, spécifier précharge et courbe au banc"
+FIX-13,Pion de butée et colliers de retenue,4,J2/J3,"Deux pions Ø3 par axe, axe porteur retenu"
+FIX-14,SKF 61800-2RS1,2,J7,"10 × 19 × 5, assises et jeu axial à mesurer"
+FIX-15,"Arbre Ø10, entretoise et entraîneur court",1,J7,"Ensemble et clé de paume, ajuster longueur"
+FIX-16,M2×12 bride et M2×6 moyeu,1,J7,"4 + 2, longueur réelle à confirmer"
+FIX-17,M3 traversante et appui,1,Segments 2–3,Vérifier pile réelle autour de la vis
+FIX-18,Vis M2 et écrous de doigts et pouce,13,Main,11 axes + 2 fixations de chape amovible
+FIX-19,Tige Ø2 et deux arrêts démontables,1,Main,"Tige 47,5–47,6 mm, vérifier rondelles et vis"
+FIX-20,"Rondelles, manchon et vis M3",1,Pouce,"Un renvoi, manchon lisse Ø4,8"
+TRN-01,Tendeur M2 + ressort de compression,5,Traverse,"Ajustage individuel, compression à mesurer"
+TRN-02,"Tendons, cordage et rappels",1,Main,"5 tendons, 1 cordage et 5 rappels, mesurer longueur"
+ELEC-01,Nano compatible 5 V et interface TTL,1,Platine,"Volume de la carte et embase, électronique r03 à qualifier"
+ELEC-02,Alimentation 5 V et circuit de déconnexion,1,Coffret externe,"Dimensionnement initial 6,5 A, qualifier limites du lot et fusibles"
+CAB-01,Connecteurs des servos et de commande,1,Base et bras,Connecteurs adaptés au lot PWM/TTL et immobilisation dans les guides. Vérifier insertion et tenue.

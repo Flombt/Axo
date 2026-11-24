@@ -1,0 +1,60 @@
+{
+  "prusa": "PrusaSlicer-2.9.6 based on Slic3r (with GUI support)",
+  "plateau_mm": [
+    220,
+    220,
+    250
+  ],
+  "buse_mm": 0.4,
+  "couche_mm": 0.2,
+  "materiau": "PETG",
+  "pieces_verifiees": 9,
+  "filament_total_g": 161.28,
+  "plateaux": [
+    {
+      "fichier": "01_Platine_socle_tourelle.3mf",
+      "instances": 3,
+      "filament_g": 104.79,
+      "duree": "10h 31m 27s",
+      "supports": true,
+      "sections_de_pont": 11,
+      "messages": [],
+      "sha256": "378182a7eb82e4ecfbc3bc75903bd3e15e187fd8ef85782afcc6864ec6f2558e",
+      "pieces": [
+        "01_Platine",
+        "02_Socle",
+        "03_Tourelle"
+      ]
+    },
+    {
+      "fichier": "02_Segments_et_capots.3mf",
+      "instances": 5,
+      "filament_g": 42.43,
+      "duree": "4h 33m 14s",
+      "supports": true,
+      "sections_de_pont": 35,
+      "messages": [],
+      "sha256": "9f92fc80e163eb92071bfaa5dca139b21ede30b2e0af99c42416f88118edc295",
+      "pieces": [
+        "04_Segment_1",
+        "05_Segment_2",
+        "06_Segment_3",
+        "08_Capot",
+        "09_Capot"
+      ]
+    },
+    {
+      "fichier": "03_Main_blanche.3mf",
+      "instances": 1,
+      "filament_g": 14.06,
+      "duree": "1h 19m 55s",
+      "supports": true,
+      "sections_de_pont": 10,
+      "messages": [],
+      "sha256": "4da156b1fdf39f9236eab4a0f7f1abb3ec21755c227ef27910e7f3f72e62d584",
+      "pieces": [
+        "07_Main"
+      ]
+    }
+  ]
+}

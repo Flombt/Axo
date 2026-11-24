@@ -1,0 +1,9 @@
+# Local-only private files and potential secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.token
+__pycache__/
+.DS_Store

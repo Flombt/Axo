@@ -1,0 +1,5871 @@
+{
+  "application": "2706.1.17",
+  "etape": "CAO et exports FDM contrôlés",
+  "audit_r02": {
+    "source": "AURA-01_V3_Main-articulee_r02.f3d",
+    "sha256": "eec40e19250220faa4a20de99bf05ea4f58c6f0620339bec9f65af76cc9d2c32",
+    "reimport_fusion": true,
+    "attribution": "occurrence ou composant propriétaire natif",
+    "pivots": 22,
+    "occurrences": 23,
+    "corps_total": 209,
+    "corps_controles": 154,
+    "interferences_entre_occurrences_a_HOME": 13,
+    "recouvrements_dans_les_occurrences_a_HOME": 110,
+    "exemples_recouvrements_internes": [
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "02 Moyeu de main"
+        ],
+        "b": [
+          "07 · Poignet, roulis et paume blanche",
+          "03 Coque blanche de paume"
+        ],
+        "volume_mm3": 9291.537
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "03 Coque blanche de paume"
+        ],
+        "b": [
+          "07 · Poignet, roulis et paume blanche",
+          "06 Renfort traversant des doigts"
+        ],
+        "volume_mm3": 8647.11
+      },
+      {
+        "a": [
+          "06 · Poignet, flexion",
+          "02 Corps de flexion"
+        ],
+        "b": [
+          "06 · Poignet, flexion",
+          "03 Palier de roulis"
+        ],
+        "volume_mm3": 5815.789
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "03 Coque blanche de paume"
+        ],
+        "b": [
+          "07 · Poignet, roulis et paume blanche",
+          "07 Support de pouce"
+        ],
+        "volume_mm3": 3535.824
+      },
+      {
+        "a": [
+          "01 · Tourelle de lacet",
+          "04 Montant d’épaule"
+        ],
+        "b": [
+          "01 · Tourelle de lacet",
+          "05 Chape épaule"
+        ],
+        "volume_mm3": 2220.0
+      },
+      {
+        "a": [
+          "01 · Tourelle de lacet",
+          "04 Montant d’épaule"
+        ],
+        "b": [
+          "01 · Tourelle de lacet",
+          "06 Chape épaule"
+        ],
+        "volume_mm3": 2220.0
+      },
+      {
+        "a": [
+          "02 · Segment proximal",
+          "02 Longeron évidé"
+        ],
+        "b": [
+          "02 · Segment proximal",
+          "08 Pont de chape"
+        ],
+        "volume_mm3": 1835.102
+      },
+      {
+        "a": [
+          "03 · Segment intermédiaire",
+          "02 Longeron évidé"
+        ],
+        "b": [
+          "03 · Segment intermédiaire",
+          "08 Pont de chape"
+        ],
+        "volume_mm3": 1835.102
+      },
+      {
+        "a": [
+          "04 · Segment distal",
+          "02 Longeron évidé"
+        ],
+        "b": [
+          "04 · Segment distal",
+          "08 Pont de chape"
+        ],
+        "volume_mm3": 1674.337
+      },
+      {
+        "a": [
+          "04 · Segment distal",
+          "02 Longeron évidé"
+        ],
+        "b": [
+          "04 · Segment distal",
+          "06 Chape de sortie"
+        ],
+        "volume_mm3": 1280.16
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "02 Moyeu de main"
+        ],
+        "b": [
+          "07 · Poignet, roulis et paume blanche",
+          "04 Capot blanc démontable"
+        ],
+        "volume_mm3": 950.395
+      },
+      {
+        "a": [
+          "03 · Segment intermédiaire",
+          "02 Longeron évidé"
+        ],
+        "b": [
+          "03 · Segment intermédiaire",
+          "06 Chape de sortie"
+        ],
+        "volume_mm3": 833.76
+      }
+    ],
+    "interferences": [
+      {
+        "a": [
+          "01 · Tourelle de lacet",
+          "04 Montant d’épaule"
+        ],
+        "b": [
+          "02 · Segment proximal",
+          "02 Longeron évidé"
+        ],
+        "volume_mm3": 7196.317
+      },
+      {
+        "a": [
+          "04 · Segment distal",
+          "07 Chape de sortie"
+        ],
+        "b": [
+          "05 · Poignet, déviation",
+          "03 Cape du poignet"
+        ],
+        "volume_mm3": 1149.721
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "07 Support de pouce"
+        ],
+        "b": [
+          "Pouce · Phalange 1 · KST X06",
+          "03 Châssis blanc à logement moteur"
+        ],
+        "volume_mm3": 1092.21
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "03 Coque blanche de paume"
+        ],
+        "b": [
+          "Pouce · Phalange 1 · KST X06",
+          "03 Châssis blanc à logement moteur"
+        ],
+        "volume_mm3": 342.151
+      },
+      {
+        "a": [
+          "04 · Segment distal",
+          "07 Chape de sortie"
+        ],
+        "b": [
+          "05 · Poignet, déviation",
+          "02 Corps de déviation"
+        ],
+        "volume_mm3": 212.429
+      },
+      {
+        "a": [
+          "02 · Segment proximal",
+          "02 Longeron évidé"
+        ],
+        "b": [
+          "03 · Segment intermédiaire",
+          "02 Longeron évidé"
+        ],
+        "volume_mm3": 193.162
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "06 Renfort traversant des doigts"
+        ],
+        "b": [
+          "Auriculaire · Phalange 1 · KST X06",
+          "03 Châssis blanc à logement moteur"
+        ],
+        "volume_mm3": 185.158
+      },
+      {
+        "a": [
+          "04 · Segment distal",
+          "06 Chape de sortie"
+        ],
+        "b": [
+          "05 · Poignet, déviation",
+          "02 Corps de déviation"
+        ],
+        "volume_mm3": 77.208
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "07 Support de pouce"
+        ],
+        "b": [
+          "Pouce · Phalange 1 · KST X06",
+          "04 Capot blanc démontable"
+        ],
+        "volume_mm3": 32.673
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "07 Support de pouce"
+        ],
+        "b": [
+          "Pouce · Phalange 1 · KST X06",
+          "07 Rail d’appui du servo"
+        ],
+        "volume_mm3": 22.347
+      },
+      {
+        "a": [
+          "03 · Segment intermédiaire",
+          "02 Longeron évidé"
+        ],
+        "b": [
+          "04 · Segment distal",
+          "02 Longeron évidé"
+        ],
+        "volume_mm3": 12.978
+      },
+      {
+        "a": [
+          "07 · Poignet, roulis et paume blanche",
+          "03 Coque blanche de paume"
+        ],
+        "b": [
+          "Pouce · Phalange 1 · KST X06",
+          "07 Rail d’appui du servo"
+        ],
+        "volume_mm3": 0.969
+      },
+      {
+        "a": [
+          "02 · Segment proximal",
+          "08 Pont de chape"
+        ],
+        "b": [
+          "03 · Segment intermédiaire",
+          "02 Longeron évidé"
+        ],
+        "volume_mm3": 0.123
+      }
+    ]
+  },
+  "pivots": {
+    "J1": {
+      "axe": "Z",
+      "bornes_deg": [
+        -70,
+        70
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "J2": {
+      "axe": "Y",
+      "bornes_deg": [
+        -31,
+        14
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "J3": {
+      "axe": "Y",
+      "bornes_deg": [
+        -22,
+        25
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "J4": {
+      "axe": "Y",
+      "bornes_deg": [
+        -32,
+        31
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "J5": {
+      "axe": "Z",
+      "bornes_deg": [
+        -36,
+        36
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "J6": {
+      "axe": "Y",
+      "bornes_deg": [
+        -29,
+        29
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "J7": {
+      "axe": "X",
+      "bornes_deg": [
+        -55,
+        55
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "P1": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        56
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "P2": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        63
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "P3": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        55
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "I1": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        56
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "I2": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        63
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "I3": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        55
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "M1": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        56
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "M2": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        63
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "M3": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        55
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "A1": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        56
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "A2": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        63
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "A3": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        55
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "O1": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        56
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "O2": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        63
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    },
+    "O3": {
+      "axe": "Y",
+      "bornes_deg": [
+        0,
+        55
+      ],
+      "temoin_8deg_mm": 2.5112,
+      "variation_max_autre_axe_deg": 0.0
+    }
+  },
+  "analyse_r03": {
+    "corps_controles": 41,
+    "poses": 165,
+    "poses_en_interference": 0,
+    "interferences": [],
+    "poses_sans_interference": [
+      {
+        "nom": "HOME",
+        "angles_deg": {}
+      },
+      {
+        "nom": "J1 seul 35% de -70°",
+        "angles_deg": {
+          "J1": -24.5
+        }
+      },
+      {
+        "nom": "J1 seul 68% de -70°",
+        "angles_deg": {
+          "J1": -47.6
+        }
+      },
+      {
+        "nom": "J1 seul 100% de -70°",
+        "angles_deg": {
+          "J1": -70
+        }
+      },
+      {
+        "nom": "J1 seul 35% de 70°",
+        "angles_deg": {
+          "J1": 24.5
+        }
+      },
+      {
+        "nom": "J1 seul 68% de 70°",
+        "angles_deg": {
+          "J1": 47.6
+        }
+      },
+      {
+        "nom": "J1 seul 100% de 70°",
+        "angles_deg": {
+          "J1": 70
+        }
+      },
+      {
+        "nom": "J2 seul 35% de -31°",
+        "angles_deg": {
+          "J2": -10.85
+        }
+      },
+      {
+        "nom": "J2 seul 68% de -31°",
+        "angles_deg": {
+          "J2": -21.080000000000002
+        }
+      },
+      {
+        "nom": "J2 seul 100% de -31°",
+        "angles_deg": {
+          "J2": -31
+        }
+      },
+      {
+        "nom": "J2 seul 35% de 14°",
+        "angles_deg": {
+          "J2": 4.8999999999999995
+        }
+      },
+      {
+        "nom": "J2 seul 68% de 14°",
+        "angles_deg": {
+          "J2": 9.520000000000001
+        }
+      },
+      {
+        "nom": "J2 seul 100% de 14°",
+        "angles_deg": {
+          "J2": 14
+        }
+      },
+      {
+        "nom": "J3 seul 35% de -22°",
+        "angles_deg": {
+          "J3": -7.699999999999999
+        }
+      },
+      {
+        "nom": "J3 seul 68% de -22°",
+        "angles_deg": {
+          "J3": -14.96
+        }
+      },
+      {
+        "nom": "J3 seul 100% de -22°",
+        "angles_deg": {
+          "J3": -22
+        }
+      },
+      {
+        "nom": "J3 seul 35% de 25°",
+        "angles_deg": {
+          "J3": 8.75
+        }
+      },
+      {
+        "nom": "J3 seul 68% de 25°",
+        "angles_deg": {
+          "J3": 17.0
+        }
+      },
+      {
+        "nom": "J3 seul 100% de 25°",
+        "angles_deg": {
+          "J3": 25
+        }
+      },
+      {
+        "nom": "J4 seul 35% de -32°",
+        "angles_deg": {
+          "J4": -11.2
+        }
+      },
+      {
+        "nom": "J4 seul 68% de -32°",
+        "angles_deg": {
+          "J4": -21.76
+        }
+      },
+      {
+        "nom": "J4 seul 100% de -32°",
+        "angles_deg": {
+          "J4": -32
+        }
+      },
+      {
+        "nom": "J4 seul 35% de 31°",
+        "angles_deg": {
+          "J4": 10.85
+        }
+      },
+      {
+        "nom": "J4 seul 68% de 31°",
+        "angles_deg": {
+          "J4": 21.080000000000002
+        }
+      },
+      {
+        "nom": "J4 seul 100% de 31°",
+        "angles_deg": {
+          "J4": 31
+        }
+      },
+      {
+        "nom": "J5 seul 35% de -36°",
+        "angles_deg": {
+          "J5": -12.6
+        }
+      },
+      {
+        "nom": "J5 seul 68% de -36°",
+        "angles_deg": {
+          "J5": -24.48
+        }
+      },
+      {
+        "nom": "J5 seul 100% de -36°",
+        "angles_deg": {
+          "J5": -36
+        }
+      },
+      {
+        "nom": "J5 seul 35% de 36°",
+        "angles_deg": {
+          "J5": 12.6
+        }
+      },
+      {
+        "nom": "J5 seul 68% de 36°",
+        "angles_deg": {
+          "J5": 24.48
+        }
+      },
+      {
+        "nom": "J5 seul 100% de 36°",
+        "angles_deg": {
+          "J5": 36
+        }
+      },
+      {
+        "nom": "J6 seul 35% de -29°",
+        "angles_deg": {
+          "J6": -10.149999999999999
+        }
+      },
+      {
+        "nom": "J6 seul 68% de -29°",
+        "angles_deg": {
+          "J6": -19.720000000000002
+        }
+      },
+      {
+        "nom": "J6 seul 100% de -29°",
+        "angles_deg": {
+          "J6": -29
+        }
+      },
+      {
+        "nom": "J6 seul 35% de 29°",
+        "angles_deg": {
+          "J6": 10.149999999999999
+        }
+      },
+      {
+        "nom": "J6 seul 68% de 29°",
+        "angles_deg": {
+          "J6": 19.720000000000002
+        }
+      },
+      {
+        "nom": "J6 seul 100% de 29°",
+        "angles_deg": {
+          "J6": 29
+        }
+      },
+      {
+        "nom": "J7 seul 35% de -55°",
+        "angles_deg": {
+          "J7": -19.25
+        }
+      },
+      {
+        "nom": "J7 seul 68% de -55°",
+        "angles_deg": {
+          "J7": -37.400000000000006
+        }
+      },
+      {
+        "nom": "J7 seul 100% de -55°",
+        "angles_deg": {
+          "J7": -55
+        }
+      },
+      {
+        "nom": "J7 seul 35% de 55°",
+        "angles_deg": {
+          "J7": 19.25
+        }
+      },
+      {
+        "nom": "J7 seul 68% de 55°",
+        "angles_deg": {
+          "J7": 37.400000000000006
+        }
+      },
+      {
+        "nom": "J7 seul 100% de 55°",
+        "angles_deg": {
+          "J7": 55
+        }
+      },
+      {
+        "nom": "P1 seul 35% de 56°",
+        "angles_deg": {
+          "P1": 19.599999999999998
+        }
+      },
+      {
+        "nom": "P1 seul 68% de 56°",
+        "angles_deg": {
+          "P1": 38.080000000000005
+        }
+      },
+      {
+        "nom": "P1 seul 100% de 56°",
+        "angles_deg": {
+          "P1": 56
+        }
+      },
+      {
+        "nom": "P2 seul 35% de 63°",
+        "angles_deg": {
+          "P2": 22.049999999999997
+        }
+      },
+      {
+        "nom": "P2 seul 68% de 63°",
+        "angles_deg": {
+          "P2": 42.84
+        }
+      },
+      {
+        "nom": "P2 seul 100% de 63°",
+        "angles_deg": {
+          "P2": 63
+        }
+      },
+      {
+        "nom": "P3 seul 35% de 55°",
+        "angles_deg": {
+          "P3": 19.25
+        }
+      },
+      {
+        "nom": "P3 seul 68% de 55°",
+        "angles_deg": {
+          "P3": 37.400000000000006
+        }
+      },
+      {
+        "nom": "P3 seul 100% de 55°",
+        "angles_deg": {
+          "P3": 55
+        }
+      },
+      {
+        "nom": "I1 seul 35% de 56°",
+        "angles_deg": {
+          "I1": 19.599999999999998
+        }
+      },
+      {
+        "nom": "I1 seul 68% de 56°",
+        "angles_deg": {
+          "I1": 38.080000000000005
+        }
+      },
+      {
+        "nom": "I1 seul 100% de 56°",
+        "angles_deg": {
+          "I1": 56
+        }
+      },
+      {
+        "nom": "I2 seul 35% de 63°",
+        "angles_deg": {
+          "I2": 22.049999999999997
+        }
+      },
+      {
+        "nom": "I2 seul 68% de 63°",
+        "angles_deg": {
+          "I2": 42.84
+        }
+      },
+      {
+        "nom": "I2 seul 100% de 63°",
+        "angles_deg": {
+          "I2": 63
+        }
+      },
+      {
+        "nom": "I3 seul 35% de 55°",
+        "angles_deg": {
+          "I3": 19.25
+        }
+      },
+      {
+        "nom": "I3 seul 68% de 55°",
+        "angles_deg": {
+          "I3": 37.400000000000006
+        }
+      },
+      {
+        "nom": "I3 seul 100% de 55°",
+        "angles_deg": {
+          "I3": 55
+        }
+      },
+      {
+        "nom": "M1 seul 35% de 56°",
+        "angles_deg": {
+          "M1": 19.599999999999998
+        }
+      },
+      {
+        "nom": "M1 seul 68% de 56°",
+        "angles_deg": {
+          "M1": 38.080000000000005
+        }
+      },
+      {
+        "nom": "M1 seul 100% de 56°",
+        "angles_deg": {
+          "M1": 56
+        }
+      },
+      {
+        "nom": "M2 seul 35% de 63°",
+        "angles_deg": {
+          "M2": 22.049999999999997
+        }
+      },
+      {
+        "nom": "M2 seul 68% de 63°",
+        "angles_deg": {
+          "M2": 42.84
+        }
+      },
+      {
+        "nom": "M2 seul 100% de 63°",
+        "angles_deg": {
+          "M2": 63
+        }
+      },
+      {
+        "nom": "M3 seul 35% de 55°",
+        "angles_deg": {
+          "M3": 19.25
+        }
+      },
+      {
+        "nom": "M3 seul 68% de 55°",
+        "angles_deg": {
+          "M3": 37.400000000000006
+        }
+      },
+      {
+        "nom": "M3 seul 100% de 55°",
+        "angles_deg": {
+          "M3": 55
+        }
+      },
+      {
+        "nom": "A1 seul 35% de 56°",
+        "angles_deg": {
+          "A1": 19.599999999999998
+        }
+      },
+      {
+        "nom": "A1 seul 68% de 56°",
+        "angles_deg": {
+          "A1": 38.080000000000005
+        }
+      },
+      {
+        "nom": "A1 seul 100% de 56°",
+        "angles_deg": {
+          "A1": 56
+        }
+      },
+      {
+        "nom": "A2 seul 35% de 63°",
+        "angles_deg": {
+          "A2": 22.049999999999997
+        }
+      },
+      {
+        "nom": "A2 seul 68% de 63°",
+        "angles_deg": {
+          "A2": 42.84
+        }
+      },
+      {
+        "nom": "A2 seul 100% de 63°",
+        "angles_deg": {
+          "A2": 63
+        }
+      },
+      {
+        "nom": "A3 seul 35% de 55°",
+        "angles_deg": {
+          "A3": 19.25
+        }
+      },
+      {
+        "nom": "A3 seul 68% de 55°",
+        "angles_deg": {
+          "A3": 37.400000000000006
+        }
+      },
+      {
+        "nom": "A3 seul 100% de 55°",
+        "angles_deg": {
+          "A3": 55
+        }
+      },
+      {
+        "nom": "O1 seul 35% de 56°",
+        "angles_deg": {
+          "O1": 19.599999999999998
+        }
+      },
+      {
+        "nom": "O1 seul 68% de 56°",
+        "angles_deg": {
+          "O1": 38.080000000000005
+        }
+      },
+      {
+        "nom": "O1 seul 100% de 56°",
+        "angles_deg": {
+          "O1": 56
+        }
+      },
+      {
+        "nom": "O2 seul 35% de 63°",
+        "angles_deg": {
+          "O2": 22.049999999999997
+        }
+      },
+      {
+        "nom": "O2 seul 68% de 63°",
+        "angles_deg": {
+          "O2": 42.84
+        }
+      },
+      {
+        "nom": "O2 seul 100% de 63°",
+        "angles_deg": {
+          "O2": 63
+        }
+      },
+      {
+        "nom": "O3 seul 35% de 55°",
+        "angles_deg": {
+          "O3": 19.25
+        }
+      },
+      {
+        "nom": "O3 seul 68% de 55°",
+        "angles_deg": {
+          "O3": 37.400000000000006
+        }
+      },
+      {
+        "nom": "O3 seul 100% de 55°",
+        "angles_deg": {
+          "O3": 55
+        }
+      },
+      {
+        "nom": "Fermeture Pouce 20 %",
+        "angles_deg": {
+          "P1": 11.2,
+          "P2": 12.6,
+          "P3": 11.0
+        }
+      },
+      {
+        "nom": "Fermeture Pouce 40 %",
+        "angles_deg": {
+          "P1": 22.4,
+          "P2": 25.2,
+          "P3": 22.0
+        }
+      },
+      {
+        "nom": "Fermeture Pouce 60 %",
+        "angles_deg": {
+          "P1": 33.6,
+          "P2": 37.8,
+          "P3": 33.0
+        }
+      },
+      {
+        "nom": "Fermeture Pouce 80 %",
+        "angles_deg": {
+          "P1": 44.8,
+          "P2": 50.4,
+          "P3": 44.0
+        }
+      },
+      {
+        "nom": "Fermeture Pouce 100 %",
+        "angles_deg": {
+          "P1": 56.0,
+          "P2": 63.0,
+          "P3": 55.0
+        }
+      },
+      {
+        "nom": "Fermeture Index 20 %",
+        "angles_deg": {
+          "I1": 11.2,
+          "I2": 12.6,
+          "I3": 11.0
+        }
+      },
+      {
+        "nom": "Fermeture Index 40 %",
+        "angles_deg": {
+          "I1": 22.4,
+          "I2": 25.2,
+          "I3": 22.0
+        }
+      },
+      {
+        "nom": "Fermeture Index 60 %",
+        "angles_deg": {
+          "I1": 33.6,
+          "I2": 37.8,
+          "I3": 33.0
+        }
+      },
+      {
+        "nom": "Fermeture Index 80 %",
+        "angles_deg": {
+          "I1": 44.8,
+          "I2": 50.4,
+          "I3": 44.0
+        }
+      },
+      {
+        "nom": "Fermeture Index 100 %",
+        "angles_deg": {
+          "I1": 56.0,
+          "I2": 63.0,
+          "I3": 55.0
+        }
+      },
+      {
+        "nom": "Fermeture Majeur 20 %",
+        "angles_deg": {
+          "M1": 11.2,
+          "M2": 12.6,
+          "M3": 11.0
+        }
+      },
+      {
+        "nom": "Fermeture Majeur 40 %",
+        "angles_deg": {
+          "M1": 22.4,
+          "M2": 25.2,
+          "M3": 22.0
+        }
+      },
+      {
+        "nom": "Fermeture Majeur 60 %",
+        "angles_deg": {
+          "M1": 33.6,
+          "M2": 37.8,
+          "M3": 33.0
+        }
+      },
+      {
+        "nom": "Fermeture Majeur 80 %",
+        "angles_deg": {
+          "M1": 44.8,
+          "M2": 50.4,
+          "M3": 44.0
+        }
+      },
+      {
+        "nom": "Fermeture Majeur 100 %",
+        "angles_deg": {
+          "M1": 56.0,
+          "M2": 63.0,
+          "M3": 55.0
+        }
+      },
+      {
+        "nom": "Fermeture Annulaire 20 %",
+        "angles_deg": {
+          "A1": 11.2,
+          "A2": 12.6,
+          "A3": 11.0
+        }
+      },
+      {
+        "nom": "Fermeture Annulaire 40 %",
+        "angles_deg": {
+          "A1": 22.4,
+          "A2": 25.2,
+          "A3": 22.0
+        }
+      },
+      {
+        "nom": "Fermeture Annulaire 60 %",
+        "angles_deg": {
+          "A1": 33.6,
+          "A2": 37.8,
+          "A3": 33.0
+        }
+      },
+      {
+        "nom": "Fermeture Annulaire 80 %",
+        "angles_deg": {
+          "A1": 44.8,
+          "A2": 50.4,
+          "A3": 44.0
+        }
+      },
+      {
+        "nom": "Fermeture Annulaire 100 %",
+        "angles_deg": {
+          "A1": 56.0,
+          "A2": 63.0,
+          "A3": 55.0
+        }
+      },
+      {
+        "nom": "Fermeture Auriculaire 20 %",
+        "angles_deg": {
+          "O1": 11.2,
+          "O2": 12.6,
+          "O3": 11.0
+        }
+      },
+      {
+        "nom": "Fermeture Auriculaire 40 %",
+        "angles_deg": {
+          "O1": 22.4,
+          "O2": 25.2,
+          "O3": 22.0
+        }
+      },
+      {
+        "nom": "Fermeture Auriculaire 60 %",
+        "angles_deg": {
+          "O1": 33.6,
+          "O2": 37.8,
+          "O3": 33.0
+        }
+      },
+      {
+        "nom": "Fermeture Auriculaire 80 %",
+        "angles_deg": {
+          "O1": 44.8,
+          "O2": 50.4,
+          "O3": 44.0
+        }
+      },
+      {
+        "nom": "Fermeture Auriculaire 100 %",
+        "angles_deg": {
+          "O1": 56.0,
+          "O2": 63.0,
+          "O3": 55.0
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 1/8",
+        "angles_deg": {
+          "P1": 7.0,
+          "P2": 7.875,
+          "P3": 6.875,
+          "I1": 7.0,
+          "I2": 7.875,
+          "I3": 6.875,
+          "M1": 7.0,
+          "M2": 7.875,
+          "M3": 6.875,
+          "A1": 7.0,
+          "A2": 7.875,
+          "A3": 6.875,
+          "O1": 7.0,
+          "O2": 7.875,
+          "O3": 6.875
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 2/8",
+        "angles_deg": {
+          "P1": 14.0,
+          "P2": 15.75,
+          "P3": 13.75,
+          "I1": 14.0,
+          "I2": 15.75,
+          "I3": 13.75,
+          "M1": 14.0,
+          "M2": 15.75,
+          "M3": 13.75,
+          "A1": 14.0,
+          "A2": 15.75,
+          "A3": 13.75,
+          "O1": 14.0,
+          "O2": 15.75,
+          "O3": 13.75
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 3/8",
+        "angles_deg": {
+          "P1": 21.0,
+          "P2": 23.625,
+          "P3": 20.625,
+          "I1": 21.0,
+          "I2": 23.625,
+          "I3": 20.625,
+          "M1": 21.0,
+          "M2": 23.625,
+          "M3": 20.625,
+          "A1": 21.0,
+          "A2": 23.625,
+          "A3": 20.625,
+          "O1": 21.0,
+          "O2": 23.625,
+          "O3": 20.625
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 4/8",
+        "angles_deg": {
+          "P1": 28.0,
+          "P2": 31.5,
+          "P3": 27.5,
+          "I1": 28.0,
+          "I2": 31.5,
+          "I3": 27.5,
+          "M1": 28.0,
+          "M2": 31.5,
+          "M3": 27.5,
+          "A1": 28.0,
+          "A2": 31.5,
+          "A3": 27.5,
+          "O1": 28.0,
+          "O2": 31.5,
+          "O3": 27.5
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 5/8",
+        "angles_deg": {
+          "P1": 35.0,
+          "P2": 39.375,
+          "P3": 34.375,
+          "I1": 35.0,
+          "I2": 39.375,
+          "I3": 34.375,
+          "M1": 35.0,
+          "M2": 39.375,
+          "M3": 34.375,
+          "A1": 35.0,
+          "A2": 39.375,
+          "A3": 34.375,
+          "O1": 35.0,
+          "O2": 39.375,
+          "O3": 34.375
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 6/8",
+        "angles_deg": {
+          "P1": 42.0,
+          "P2": 47.25,
+          "P3": 41.25,
+          "I1": 42.0,
+          "I2": 47.25,
+          "I3": 41.25,
+          "M1": 42.0,
+          "M2": 47.25,
+          "M3": 41.25,
+          "A1": 42.0,
+          "A2": 47.25,
+          "A3": 41.25,
+          "O1": 42.0,
+          "O2": 47.25,
+          "O3": 41.25
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 7/8",
+        "angles_deg": {
+          "P1": 49.0,
+          "P2": 55.125,
+          "P3": 48.125,
+          "I1": 49.0,
+          "I2": 55.125,
+          "I3": 48.125,
+          "M1": 49.0,
+          "M2": 55.125,
+          "M3": 48.125,
+          "A1": 49.0,
+          "A2": 55.125,
+          "A3": 48.125,
+          "O1": 49.0,
+          "O2": 55.125,
+          "O3": 48.125
+        }
+      },
+      {
+        "nom": "Flexion synchronisée 8/8",
+        "angles_deg": {
+          "P1": 56.0,
+          "P2": 63.0,
+          "P3": 55.0,
+          "I1": 56.0,
+          "I2": 63.0,
+          "I3": 55.0,
+          "M1": 56.0,
+          "M2": 63.0,
+          "M3": 55.0,
+          "A1": 56.0,
+          "A2": 63.0,
+          "A3": 55.0,
+          "O1": 56.0,
+          "O2": 63.0,
+          "O3": 55.0
+        }
+      },
+      {
+        "nom": "Salut 1/11",
+        "angles_deg": {
+          "J1": 4.090909090909091,
+          "J2": -1.7272727272727273,
+          "J3": 2.0,
+          "J4": -1.2727272727272727,
+          "J5": -2.0,
+          "J6": 1.4545454545454546,
+          "J7": 4.363636363636363,
+          "P1": 3.665454545454546,
+          "P2": 4.123636363636364,
+          "P3": 3.6,
+          "I1": 3.665454545454546,
+          "I2": 4.123636363636364,
+          "I3": 3.6,
+          "M1": 3.665454545454546,
+          "M2": 4.123636363636364,
+          "M3": 3.6,
+          "A1": 3.665454545454546,
+          "A2": 4.123636363636364,
+          "A3": 3.6,
+          "O1": 3.665454545454546,
+          "O2": 4.123636363636364,
+          "O3": 3.6
+        }
+      },
+      {
+        "nom": "Salut 2/11",
+        "angles_deg": {
+          "J1": 8.181818181818182,
+          "J2": -3.4545454545454546,
+          "J3": 4.0,
+          "J4": -2.5454545454545454,
+          "J5": -4.0,
+          "J6": 2.909090909090909,
+          "J7": 8.727272727272727,
+          "P1": 7.330909090909092,
+          "P2": 8.247272727272728,
+          "P3": 7.2,
+          "I1": 7.330909090909092,
+          "I2": 8.247272727272728,
+          "I3": 7.2,
+          "M1": 7.330909090909092,
+          "M2": 8.247272727272728,
+          "M3": 7.2,
+          "A1": 7.330909090909092,
+          "A2": 8.247272727272728,
+          "A3": 7.2,
+          "O1": 7.330909090909092,
+          "O2": 8.247272727272728,
+          "O3": 7.2
+        }
+      },
+      {
+        "nom": "Salut 3/11",
+        "angles_deg": {
+          "J1": 12.272727272727272,
+          "J2": -5.181818181818182,
+          "J3": 6.0,
+          "J4": -3.818181818181818,
+          "J5": -6.0,
+          "J6": 4.363636363636363,
+          "J7": 13.09090909090909,
+          "P1": 10.996363636363636,
+          "P2": 12.37090909090909,
+          "P3": 10.799999999999999,
+          "I1": 10.996363636363636,
+          "I2": 12.37090909090909,
+          "I3": 10.799999999999999,
+          "M1": 10.996363636363636,
+          "M2": 12.37090909090909,
+          "M3": 10.799999999999999,
+          "A1": 10.996363636363636,
+          "A2": 12.37090909090909,
+          "A3": 10.799999999999999,
+          "O1": 10.996363636363636,
+          "O2": 12.37090909090909,
+          "O3": 10.799999999999999
+        }
+      },
+      {
+        "nom": "Salut 4/11",
+        "angles_deg": {
+          "J1": 16.363636363636363,
+          "J2": -6.909090909090909,
+          "J3": 8.0,
+          "J4": -5.090909090909091,
+          "J5": -8.0,
+          "J6": 5.818181818181818,
+          "J7": 17.454545454545453,
+          "P1": 14.661818181818184,
+          "P2": 16.494545454545456,
+          "P3": 14.4,
+          "I1": 14.661818181818184,
+          "I2": 16.494545454545456,
+          "I3": 14.4,
+          "M1": 14.661818181818184,
+          "M2": 16.494545454545456,
+          "M3": 14.4,
+          "A1": 14.661818181818184,
+          "A2": 16.494545454545456,
+          "A3": 14.4,
+          "O1": 14.661818181818184,
+          "O2": 16.494545454545456,
+          "O3": 14.4
+        }
+      },
+      {
+        "nom": "Salut 5/11",
+        "angles_deg": {
+          "J1": 20.454545454545453,
+          "J2": -8.636363636363637,
+          "J3": 10.0,
+          "J4": -6.363636363636363,
+          "J5": -10.0,
+          "J6": 7.2727272727272725,
+          "J7": 21.818181818181817,
+          "P1": 18.327272727272728,
+          "P2": 20.618181818181817,
+          "P3": 18.0,
+          "I1": 18.327272727272728,
+          "I2": 20.618181818181817,
+          "I3": 18.0,
+          "M1": 18.327272727272728,
+          "M2": 20.618181818181817,
+          "M3": 18.0,
+          "A1": 18.327272727272728,
+          "A2": 20.618181818181817,
+          "A3": 18.0,
+          "O1": 18.327272727272728,
+          "O2": 20.618181818181817,
+          "O3": 18.0
+        }
+      },
+      {
+        "nom": "Salut 6/11",
+        "angles_deg": {
+          "J1": 24.545454545454543,
+          "J2": -10.363636363636363,
+          "J3": 12.0,
+          "J4": -7.636363636363636,
+          "J5": -12.0,
+          "J6": 8.727272727272727,
+          "J7": 26.18181818181818,
+          "P1": 21.992727272727272,
+          "P2": 24.74181818181818,
+          "P3": 21.599999999999998,
+          "I1": 21.992727272727272,
+          "I2": 24.74181818181818,
+          "I3": 21.599999999999998,
+          "M1": 21.992727272727272,
+          "M2": 24.74181818181818,
+          "M3": 21.599999999999998,
+          "A1": 21.992727272727272,
+          "A2": 24.74181818181818,
+          "A3": 21.599999999999998,
+          "O1": 21.992727272727272,
+          "O2": 24.74181818181818,
+          "O3": 21.599999999999998
+        }
+      },
+      {
+        "nom": "Salut 7/11",
+        "angles_deg": {
+          "J1": 28.636363636363637,
+          "J2": -12.09090909090909,
+          "J3": 14.0,
+          "J4": -8.909090909090908,
+          "J5": -14.0,
+          "J6": 10.181818181818182,
+          "J7": 30.545454545454547,
+          "P1": 25.658181818181816,
+          "P2": 28.865454545454543,
+          "P3": 25.199999999999996,
+          "I1": 25.658181818181816,
+          "I2": 28.865454545454543,
+          "I3": 25.199999999999996,
+          "M1": 25.658181818181816,
+          "M2": 28.865454545454543,
+          "M3": 25.199999999999996,
+          "A1": 25.658181818181816,
+          "A2": 28.865454545454543,
+          "A3": 25.199999999999996,
+          "O1": 25.658181818181816,
+          "O2": 28.865454545454543,
+          "O3": 25.199999999999996
+        }
+      },
+      {
+        "nom": "Salut 8/11",
+        "angles_deg": {
+          "J1": 32.72727272727273,
+          "J2": -13.818181818181818,
+          "J3": 16.0,
+          "J4": -10.181818181818182,
+          "J5": -16.0,
+          "J6": 11.636363636363637,
+          "J7": 34.90909090909091,
+          "P1": 29.323636363636368,
+          "P2": 32.98909090909091,
+          "P3": 28.8,
+          "I1": 29.323636363636368,
+          "I2": 32.98909090909091,
+          "I3": 28.8,
+          "M1": 29.323636363636368,
+          "M2": 32.98909090909091,
+          "M3": 28.8,
+          "A1": 29.323636363636368,
+          "A2": 32.98909090909091,
+          "A3": 28.8,
+          "O1": 29.323636363636368,
+          "O2": 32.98909090909091,
+          "O3": 28.8
+        }
+      },
+      {
+        "nom": "Salut 9/11",
+        "angles_deg": {
+          "J1": 36.81818181818182,
+          "J2": -15.545454545454547,
+          "J3": 18.0,
+          "J4": -11.454545454545455,
+          "J5": -18.0,
+          "J6": 13.090909090909092,
+          "J7": 39.27272727272727,
+          "P1": 32.98909090909091,
+          "P2": 37.11272727272728,
+          "P3": 32.4,
+          "I1": 32.98909090909091,
+          "I2": 37.11272727272728,
+          "I3": 32.4,
+          "M1": 32.98909090909091,
+          "M2": 37.11272727272728,
+          "M3": 32.4,
+          "A1": 32.98909090909091,
+          "A2": 37.11272727272728,
+          "A3": 32.4,
+          "O1": 32.98909090909091,
+          "O2": 37.11272727272728,
+          "O3": 32.4
+        }
+      },
+      {
+        "nom": "Salut 10/11",
+        "angles_deg": {
+          "J1": 40.90909090909091,
+          "J2": -17.272727272727273,
+          "J3": 20.0,
+          "J4": -12.727272727272727,
+          "J5": -20.0,
+          "J6": 14.545454545454545,
+          "J7": 43.63636363636363,
+          "P1": 36.654545454545456,
+          "P2": 41.236363636363635,
+          "P3": 36.0,
+          "I1": 36.654545454545456,
+          "I2": 41.236363636363635,
+          "I3": 36.0,
+          "M1": 36.654545454545456,
+          "M2": 41.236363636363635,
+          "M3": 36.0,
+          "A1": 36.654545454545456,
+          "A2": 41.236363636363635,
+          "A3": 36.0,
+          "O1": 36.654545454545456,
+          "O2": 41.236363636363635,
+          "O3": 36.0
+        }
+      },
+      {
+        "nom": "Salut 11/11",
+        "angles_deg": {
+          "J1": 45.0,
+          "J2": -19.0,
+          "J3": 22.0,
+          "J4": -14.0,
+          "J5": -22.0,
+          "J6": 16.0,
+          "J7": 48.0,
+          "P1": 40.32,
+          "P2": 45.36,
+          "P3": 39.6,
+          "I1": 40.32,
+          "I2": 45.36,
+          "I3": 39.6,
+          "M1": 40.32,
+          "M2": 45.36,
+          "M3": 39.6,
+          "A1": 40.32,
+          "A2": 45.36,
+          "A3": 39.6,
+          "O1": 40.32,
+          "O2": 45.36,
+          "O3": 39.6
+        }
+      },
+      {
+        "nom": "Retour à gauche 1/11",
+        "angles_deg": {
+          "J1": -5.0,
+          "J2": -1.0,
+          "J3": 1.2727272727272727,
+          "J4": -1.0,
+          "J5": 2.5454545454545454,
+          "J6": -1.0909090909090908,
+          "J7": -5.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 2/11",
+        "angles_deg": {
+          "J1": -10.0,
+          "J2": -2.0,
+          "J3": 2.5454545454545454,
+          "J4": -2.0,
+          "J5": 5.090909090909091,
+          "J6": -2.1818181818181817,
+          "J7": -10.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 3/11",
+        "angles_deg": {
+          "J1": -14.999999999999998,
+          "J2": -3.0,
+          "J3": 3.818181818181818,
+          "J4": -3.0,
+          "J5": 7.636363636363636,
+          "J6": -3.2727272727272725,
+          "J7": -14.999999999999998
+        }
+      },
+      {
+        "nom": "Retour à gauche 4/11",
+        "angles_deg": {
+          "J1": -20.0,
+          "J2": -4.0,
+          "J3": 5.090909090909091,
+          "J4": -4.0,
+          "J5": 10.181818181818182,
+          "J6": -4.363636363636363,
+          "J7": -20.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 5/11",
+        "angles_deg": {
+          "J1": -25.0,
+          "J2": -5.0,
+          "J3": 6.363636363636363,
+          "J4": -5.0,
+          "J5": 12.727272727272727,
+          "J6": -5.454545454545454,
+          "J7": -25.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 6/11",
+        "angles_deg": {
+          "J1": -29.999999999999996,
+          "J2": -6.0,
+          "J3": 7.636363636363636,
+          "J4": -6.0,
+          "J5": 15.272727272727272,
+          "J6": -6.545454545454545,
+          "J7": -29.999999999999996
+        }
+      },
+      {
+        "nom": "Retour à gauche 7/11",
+        "angles_deg": {
+          "J1": -35.0,
+          "J2": -7.0,
+          "J3": 8.909090909090908,
+          "J4": -7.0,
+          "J5": 17.818181818181817,
+          "J6": -7.636363636363637,
+          "J7": -35.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 8/11",
+        "angles_deg": {
+          "J1": -40.0,
+          "J2": -8.0,
+          "J3": 10.181818181818182,
+          "J4": -8.0,
+          "J5": 20.363636363636363,
+          "J6": -8.727272727272727,
+          "J7": -40.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 9/11",
+        "angles_deg": {
+          "J1": -45.0,
+          "J2": -9.0,
+          "J3": 11.454545454545455,
+          "J4": -9.0,
+          "J5": 22.90909090909091,
+          "J6": -9.818181818181818,
+          "J7": -45.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 10/11",
+        "angles_deg": {
+          "J1": -50.0,
+          "J2": -10.0,
+          "J3": 12.727272727272727,
+          "J4": -10.0,
+          "J5": 25.454545454545453,
+          "J6": -10.909090909090908,
+          "J7": -50.0
+        }
+      },
+      {
+        "nom": "Retour à gauche 11/11",
+        "angles_deg": {
+          "J1": -55.0,
+          "J2": -11.0,
+          "J3": 14.0,
+          "J4": -11.0,
+          "J5": 28.0,
+          "J6": -12.0,
+          "J7": -55.0
+        }
+      },
+      {
+        "nom": "Bras tendu 1/11",
+        "angles_deg": {
+          "J1": 0.9090909090909092,
+          "J2": 0.6363636363636364,
+          "J3": -0.6363636363636364,
+          "J4": -1.7272727272727273,
+          "J5": -1.7272727272727273,
+          "J6": 0.2727272727272727,
+          "J7": 0.7272727272727273
+        }
+      },
+      {
+        "nom": "Bras tendu 2/11",
+        "angles_deg": {
+          "J1": 1.8181818181818183,
+          "J2": 1.2727272727272727,
+          "J3": -1.2727272727272727,
+          "J4": -3.4545454545454546,
+          "J5": -3.4545454545454546,
+          "J6": 0.5454545454545454,
+          "J7": 1.4545454545454546
+        }
+      },
+      {
+        "nom": "Bras tendu 3/11",
+        "angles_deg": {
+          "J1": 2.727272727272727,
+          "J2": 1.909090909090909,
+          "J3": -1.909090909090909,
+          "J4": -5.181818181818182,
+          "J5": -5.181818181818182,
+          "J6": 0.8181818181818181,
+          "J7": 2.1818181818181817
+        }
+      },
+      {
+        "nom": "Bras tendu 4/11",
+        "angles_deg": {
+          "J1": 3.6363636363636367,
+          "J2": 2.5454545454545454,
+          "J3": -2.5454545454545454,
+          "J4": -6.909090909090909,
+          "J5": -6.909090909090909,
+          "J6": 1.0909090909090908,
+          "J7": 2.909090909090909
+        }
+      },
+      {
+        "nom": "Bras tendu 5/11",
+        "angles_deg": {
+          "J1": 4.545454545454545,
+          "J2": 3.1818181818181817,
+          "J3": -3.1818181818181817,
+          "J4": -8.636363636363637,
+          "J5": -8.636363636363637,
+          "J6": 1.3636363636363635,
+          "J7": 3.6363636363636362
+        }
+      },
+      {
+        "nom": "Bras tendu 6/11",
+        "angles_deg": {
+          "J1": 5.454545454545454,
+          "J2": 3.818181818181818,
+          "J3": -3.818181818181818,
+          "J4": -10.363636363636363,
+          "J5": -10.363636363636363,
+          "J6": 1.6363636363636362,
+          "J7": 4.363636363636363
+        }
+      },
+      {
+        "nom": "Bras tendu 7/11",
+        "angles_deg": {
+          "J1": 6.363636363636363,
+          "J2": 4.454545454545454,
+          "J3": -4.454545454545454,
+          "J4": -12.09090909090909,
+          "J5": -12.09090909090909,
+          "J6": 1.9090909090909092,
+          "J7": 5.090909090909091
+        }
+      },
+      {
+        "nom": "Bras tendu 8/11",
+        "angles_deg": {
+          "J1": 7.272727272727273,
+          "J2": 5.090909090909091,
+          "J3": -5.090909090909091,
+          "J4": -13.818181818181818,
+          "J5": -13.818181818181818,
+          "J6": 2.1818181818181817,
+          "J7": 5.818181818181818
+        }
+      },
+      {
+        "nom": "Bras tendu 9/11",
+        "angles_deg": {
+          "J1": 8.181818181818182,
+          "J2": 5.7272727272727275,
+          "J3": -5.7272727272727275,
+          "J4": -15.545454545454547,
+          "J5": -15.545454545454547,
+          "J6": 2.4545454545454546,
+          "J7": 6.545454545454546
+        }
+      },
+      {
+        "nom": "Bras tendu 10/11",
+        "angles_deg": {
+          "J1": 9.09090909090909,
+          "J2": 6.363636363636363,
+          "J3": -6.363636363636363,
+          "J4": -17.272727272727273,
+          "J5": -17.272727272727273,
+          "J6": 2.727272727272727,
+          "J7": 7.2727272727272725
+        }
+      },
+      {
+        "nom": "Bras tendu 11/11",
+        "angles_deg": {
+          "J1": 10.0,
+          "J2": 7.0,
+          "J3": -7.0,
+          "J4": -19.0,
+          "J5": -19.0,
+          "J6": 3.0,
+          "J7": 8.0
+        }
+      },
+      {
+        "nom": "Main retournée 1/11",
+        "angles_deg": {
+          "J1": 1.1818181818181819,
+          "J2": -0.4545454545454546,
+          "J3": 0.7272727272727273,
+          "J4": 0.18181818181818182,
+          "J5": -2.0,
+          "J6": -1.5454545454545454,
+          "J7": 5.0,
+          "P1": 3.665454545454546,
+          "P2": 4.123636363636364,
+          "P3": 3.6,
+          "I1": 3.665454545454546,
+          "I2": 4.123636363636364,
+          "I3": 3.6,
+          "M1": 3.665454545454546,
+          "M2": 4.123636363636364,
+          "M3": 3.6,
+          "A1": 3.665454545454546,
+          "A2": 4.123636363636364,
+          "A3": 3.6,
+          "O1": 3.665454545454546,
+          "O2": 4.123636363636364,
+          "O3": 3.6
+        }
+      },
+      {
+        "nom": "Main retournée 2/11",
+        "angles_deg": {
+          "J1": 2.3636363636363638,
+          "J2": -0.9090909090909092,
+          "J3": 1.4545454545454546,
+          "J4": 0.36363636363636365,
+          "J5": -4.0,
+          "J6": -3.090909090909091,
+          "J7": 10.0,
+          "P1": 7.330909090909092,
+          "P2": 8.247272727272728,
+          "P3": 7.2,
+          "I1": 7.330909090909092,
+          "I2": 8.247272727272728,
+          "I3": 7.2,
+          "M1": 7.330909090909092,
+          "M2": 8.247272727272728,
+          "M3": 7.2,
+          "A1": 7.330909090909092,
+          "A2": 8.247272727272728,
+          "A3": 7.2,
+          "O1": 7.330909090909092,
+          "O2": 8.247272727272728,
+          "O3": 7.2
+        }
+      },
+      {
+        "nom": "Main retournée 3/11",
+        "angles_deg": {
+          "J1": 3.545454545454545,
+          "J2": -1.3636363636363635,
+          "J3": 2.1818181818181817,
+          "J4": 0.5454545454545454,
+          "J5": -6.0,
+          "J6": -4.636363636363636,
+          "J7": 14.999999999999998,
+          "P1": 10.996363636363636,
+          "P2": 12.37090909090909,
+          "P3": 10.799999999999999,
+          "I1": 10.996363636363636,
+          "I2": 12.37090909090909,
+          "I3": 10.799999999999999,
+          "M1": 10.996363636363636,
+          "M2": 12.37090909090909,
+          "M3": 10.799999999999999,
+          "A1": 10.996363636363636,
+          "A2": 12.37090909090909,
+          "A3": 10.799999999999999,
+          "O1": 10.996363636363636,
+          "O2": 12.37090909090909,
+          "O3": 10.799999999999999
+        }
+      },
+      {
+        "nom": "Main retournée 4/11",
+        "angles_deg": {
+          "J1": 4.7272727272727275,
+          "J2": -1.8181818181818183,
+          "J3": 2.909090909090909,
+          "J4": 0.7272727272727273,
+          "J5": -8.0,
+          "J6": -6.181818181818182,
+          "J7": 20.0,
+          "P1": 14.661818181818184,
+          "P2": 16.494545454545456,
+          "P3": 14.4,
+          "I1": 14.661818181818184,
+          "I2": 16.494545454545456,
+          "I3": 14.4,
+          "M1": 14.661818181818184,
+          "M2": 16.494545454545456,
+          "M3": 14.4,
+          "A1": 14.661818181818184,
+          "A2": 16.494545454545456,
+          "A3": 14.4,
+          "O1": 14.661818181818184,
+          "O2": 16.494545454545456,
+          "O3": 14.4
+        }
+      },
+      {
+        "nom": "Main retournée 5/11",
+        "angles_deg": {
+          "J1": 5.909090909090909,
+          "J2": -2.2727272727272725,
+          "J3": 3.6363636363636362,
+          "J4": 0.9090909090909091,
+          "J5": -10.0,
+          "J6": -7.727272727272727,
+          "J7": 25.0,
+          "P1": 18.327272727272728,
+          "P2": 20.618181818181817,
+          "P3": 18.0,
+          "I1": 18.327272727272728,
+          "I2": 20.618181818181817,
+          "I3": 18.0,
+          "M1": 18.327272727272728,
+          "M2": 20.618181818181817,
+          "M3": 18.0,
+          "A1": 18.327272727272728,
+          "A2": 20.618181818181817,
+          "A3": 18.0,
+          "O1": 18.327272727272728,
+          "O2": 20.618181818181817,
+          "O3": 18.0
+        }
+      },
+      {
+        "nom": "Main retournée 6/11",
+        "angles_deg": {
+          "J1": 7.09090909090909,
+          "J2": -2.727272727272727,
+          "J3": 4.363636363636363,
+          "J4": 1.0909090909090908,
+          "J5": -12.0,
+          "J6": -9.272727272727272,
+          "J7": 29.999999999999996,
+          "P1": 21.992727272727272,
+          "P2": 24.74181818181818,
+          "P3": 21.599999999999998,
+          "I1": 21.992727272727272,
+          "I2": 24.74181818181818,
+          "I3": 21.599999999999998,
+          "M1": 21.992727272727272,
+          "M2": 24.74181818181818,
+          "M3": 21.599999999999998,
+          "A1": 21.992727272727272,
+          "A2": 24.74181818181818,
+          "A3": 21.599999999999998,
+          "O1": 21.992727272727272,
+          "O2": 24.74181818181818,
+          "O3": 21.599999999999998
+        }
+      },
+      {
+        "nom": "Main retournée 7/11",
+        "angles_deg": {
+          "J1": 8.272727272727273,
+          "J2": -3.1818181818181817,
+          "J3": 5.090909090909091,
+          "J4": 1.2727272727272727,
+          "J5": -14.0,
+          "J6": -10.818181818181818,
+          "J7": 35.0,
+          "P1": 25.658181818181816,
+          "P2": 28.865454545454543,
+          "P3": 25.199999999999996,
+          "I1": 25.658181818181816,
+          "I2": 28.865454545454543,
+          "I3": 25.199999999999996,
+          "M1": 25.658181818181816,
+          "M2": 28.865454545454543,
+          "M3": 25.199999999999996,
+          "A1": 25.658181818181816,
+          "A2": 28.865454545454543,
+          "A3": 25.199999999999996,
+          "O1": 25.658181818181816,
+          "O2": 28.865454545454543,
+          "O3": 25.199999999999996
+        }
+      },
+      {
+        "nom": "Main retournée 8/11",
+        "angles_deg": {
+          "J1": 9.454545454545455,
+          "J2": -3.6363636363636367,
+          "J3": 5.818181818181818,
+          "J4": 1.4545454545454546,
+          "J5": -16.0,
+          "J6": -12.363636363636363,
+          "J7": 40.0,
+          "P1": 29.323636363636368,
+          "P2": 32.98909090909091,
+          "P3": 28.8,
+          "I1": 29.323636363636368,
+          "I2": 32.98909090909091,
+          "I3": 28.8,
+          "M1": 29.323636363636368,
+          "M2": 32.98909090909091,
+          "M3": 28.8,
+          "A1": 29.323636363636368,
+          "A2": 32.98909090909091,
+          "A3": 28.8,
+          "O1": 29.323636363636368,
+          "O2": 32.98909090909091,
+          "O3": 28.8
+        }
+      },
+      {
+        "nom": "Main retournée 9/11",
+        "angles_deg": {
+          "J1": 10.636363636363637,
+          "J2": -4.090909090909091,
+          "J3": 6.545454545454546,
+          "J4": 1.6363636363636365,
+          "J5": -18.0,
+          "J6": -13.90909090909091,
+          "J7": 45.0,
+          "P1": 32.98909090909091,
+          "P2": 37.11272727272728,
+          "P3": 32.4,
+          "I1": 32.98909090909091,
+          "I2": 37.11272727272728,
+          "I3": 32.4,
+          "M1": 32.98909090909091,
+          "M2": 37.11272727272728,
+          "M3": 32.4,
+          "A1": 32.98909090909091,
+          "A2": 37.11272727272728,
+          "A3": 32.4,
+          "O1": 32.98909090909091,
+          "O2": 37.11272727272728,
+          "O3": 32.4
+        }
+      },
+      {
+        "nom": "Main retournée 10/11",
+        "angles_deg": {
+          "J1": 11.818181818181818,
+          "J2": -4.545454545454545,
+          "J3": 7.2727272727272725,
+          "J4": 1.8181818181818181,
+          "J5": -20.0,
+          "J6": -15.454545454545453,
+          "J7": 50.0,
+          "P1": 36.654545454545456,
+          "P2": 41.236363636363635,
+          "P3": 36.0,
+          "I1": 36.654545454545456,
+          "I2": 41.236363636363635,
+          "I3": 36.0,
+          "M1": 36.654545454545456,
+          "M2": 41.236363636363635,
+          "M3": 36.0,
+          "A1": 36.654545454545456,
+          "A2": 41.236363636363635,
+          "A3": 36.0,
+          "O1": 36.654545454545456,
+          "O2": 41.236363636363635,
+          "O3": 36.0
+        }
+      },
+      {
+        "nom": "Main retournée 11/11",
+        "angles_deg": {
+          "J1": 13.0,
+          "J2": -5.0,
+          "J3": 8.0,
+          "J4": 2.0,
+          "J5": -22.0,
+          "J6": -17.0,
+          "J7": 55.0,
+          "P1": 40.32,
+          "P2": 45.36,
+          "P3": 39.6,
+          "I1": 40.32,
+          "I2": 45.36,
+          "I3": 39.6,
+          "M1": 40.32,
+          "M2": 45.36,
+          "M3": 39.6,
+          "A1": 40.32,
+          "A2": 45.36,
+          "A3": 39.6,
+          "O1": 40.32,
+          "O2": 45.36,
+          "O3": 39.6
+        }
+      }
+    ]
+  },
+  "reouverture_fusion_r03": {
+    "occurrences": 23,
+    "pivots": 22
+  },
+  "archive": "AURA-01_V3_FDM_r03.f3d",
+  "archive_sha256": "d38022761fa19056245025fe9375998c66fc1983c6b01918c6e7a26e85b234cb",
+  "apercu": "AURA_V3_FDM_Apercu.png",
+  "nomenclature": [
+    {
+      "reference": "01_Socle",
+      "nom": "Socle ancré",
+      "quantite": 1,
+      "face": "base",
+      "volume_cm3": 453.849,
+      "dimensions_mm": [
+        186.0,
+        176.0,
+        26.0
+      ],
+      "stl": "01_Socle.stl",
+      "sha256": "c3d5cd35da4511aae9b360d057e159ad9f6cadcd6e7b8eb5de8b09fe2744b426"
+    },
+    {
+      "reference": "02_Tourelle",
+      "nom": "Tourelle et chape d’épaule",
+      "quantite": 1,
+      "face": "base",
+      "volume_cm3": 116.968,
+      "dimensions_mm": [
+        95.0,
+        95.0,
+        85.0
+      ],
+      "stl": "02_Tourelle.stl",
+      "sha256": "346476c369b680fe7317e0050a6a7f831be368962e5572e56a79211589e33370"
+    },
+    {
+      "reference": "03_Segment_proximal",
+      "nom": "Segment proximal",
+      "quantite": 1,
+      "face": "dos",
+      "volume_cm3": 167.004,
+      "dimensions_mm": [
+        168.0,
+        69.3,
+        46.0
+      ],
+      "stl": "03_Segment_proximal.stl",
+      "sha256": "ff6563a905252c16f13c8de7291ef79908861bdfa69ec36cb2854c9a233b2a6a"
+    },
+    {
+      "reference": "04_Segment_intermediaire",
+      "nom": "Segment intermédiaire",
+      "quantite": 1,
+      "face": "dos",
+      "volume_cm3": 131.169,
+      "dimensions_mm": [
+        151.0,
+        60.3,
+        44.0
+      ],
+      "stl": "04_Segment_intermediaire.stl",
+      "sha256": "52395f076c6fc37e1814a43801dce356b88d1d5d3ca0d20fa33066b820fe2e85"
+    },
+    {
+      "reference": "05_Segment_distal",
+      "nom": "Segment distal",
+      "quantite": 1,
+      "face": "flanc",
+      "volume_cm3": 102.938,
+      "dimensions_mm": [
+        143.6,
+        38.0,
+        46.0
+      ],
+      "stl": "05_Segment_distal.stl",
+      "sha256": "a01a45f3f2759ab11b18273ca447baaa395f7bf757714867ab35b8b2ca0ec1ac"
+    },
+    {
+      "reference": "06_Poignet_deviation",
+      "nom": "Poignet · déviation",
+      "quantite": 1,
+      "face": "dos",
+      "volume_cm3": 37.593,
+      "dimensions_mm": [
+        68.0,
+        48.6,
+        19.2
+      ],
+      "stl": "06_Poignet_deviation.stl",
+      "sha256": "a06052839614fdae80b79e69fce1b9fe9551010592eaee0f0d4df99b7ea3c5a1"
+    },
+    {
+      "reference": "07_Poignet_flexion",
+      "nom": "Poignet · flexion et palier de roulis",
+      "quantite": 1,
+      "face": "dos",
+      "volume_cm3": 29.764,
+      "dimensions_mm": [
+        49.8,
+        36.0,
+        23.2
+      ],
+      "stl": "07_Poignet_flexion.stl",
+      "sha256": "ded445459c8dfd712635630ba1354f534fd86cbd48e5d538d8023c3c9a34d6f6"
+    },
+    {
+      "reference": "08_Paume",
+      "nom": "Paume blanche",
+      "quantite": 1,
+      "face": "dos",
+      "volume_cm3": 125.077,
+      "dimensions_mm": [
+        124.05,
+        148.294,
+        22.1
+      ],
+      "stl": "08_Paume.stl",
+      "sha256": "747cc6f417a5bcdd8e3a04f0df4c521e694ca369d608ee994979821f936bcd81"
+    },
+    {
+      "reference": "09_Phalange_proximale",
+      "nom": "Phalange proximale",
+      "quantite": 5,
+      "face": "dos",
+      "volume_cm3": 10.357,
+      "dimensions_mm": [
+        65.2,
+        30.0,
+        16.4
+      ],
+      "stl": "09_Phalange_proximale.stl",
+      "sha256": "2b8f7e4f9f3bba41021fc88773f72e59070b2a1c4118b8b2aa489712a2608a28"
+    },
+    {
+      "reference": "10_Phalange_moyenne",
+      "nom": "Phalange moyenne",
+      "quantite": 5,
+      "face": "dos",
+      "volume_cm3": 9.0,
+      "dimensions_mm": [
+        61.2,
+        30.0,
+        16.4
+      ],
+      "stl": "10_Phalange_moyenne.stl",
+      "sha256": "8baaa6199b999e03c46bf6912587e22804b89a65b57134a8d1f72d90cc775799"
+    },
+    {
+      "reference": "11_Phalange_distale",
+      "nom": "Phalange distale",
+      "quantite": 5,
+      "face": "dos",
+      "volume_cm3": 7.32,
+      "dimensions_mm": [
+        45.9,
+        22.1,
+        16.4
+      ],
+      "stl": "11_Phalange_distale.stl",
+      "sha256": "f07ff3c012cc592bae76334f948a8274c7d2e4460c7bcdfd9ff87ced931158d4"
+    }
+  ],
+  "nombre_pieces_imprimees": 23,
+  "comparaison_r02": {
+    "poses_communes": 22,
+    "poses_en_interference_r02": 22,
+    "poses_d_origine_refusees": [],
+    "interferences": [
+      {
+        "pose": "HOME",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.21
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Fermeture Pouce 100 %",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 172.089
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1506.972
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 4.931
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 25.559
+          }
+        ]
+      },
+      {
+        "pose": "Fermeture Index 100 %",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.21
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Fermeture Majeur 100 %",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.21
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Fermeture Annulaire 100 %",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.21
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Fermeture Auriculaire 100 %",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 19.237
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 176.941
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.21
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 1/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 335.929
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 1.226
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 6.861
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 217.199
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1159.242
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 12.998
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 23.345
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 2/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 328.487
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 1.341
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 19.716
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 222.548
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1237.614
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 2.95
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 23.862
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 3/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 315.473
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 1.278
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 30.869
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 228.065
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1322.197
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 0.066
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.002
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 24.307
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 4/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 295.734
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.986
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 38.278
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 232.316
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1401.149
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.331
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 25.042
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 5/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 269.411
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.491
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 40.906
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 231.961
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1454.878
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 1.356
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 26.371
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 6/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 237.38
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.084
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 38.35
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 225.593
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1479.002
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 2.815
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 27.053
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 7/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 201.859
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 30.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 208.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1492.103
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 4.181
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 26.267
+          }
+        ]
+      },
+      {
+        "pose": "Flexion synchronisée 8/8",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7196.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 193.162
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.123
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 12.978
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 77.208
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1149.721
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 172.089
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 19.237
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 176.941
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1506.956
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 4.931
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 25.559
+          }
+        ]
+      },
+      {
+        "pose": "Salut 5/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 6943.588
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 378.411
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 38.66
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 0.024
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 80.937
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1140.442
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 321.259
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 1.327
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 26.935
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 225.85
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1289.552
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 0.565
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 24.144
+          }
+        ]
+      },
+      {
+        "pose": "Salut 11/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 6804.781
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 385.91
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 34.733
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 99.518
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1109.761
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 245.611
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.153
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 39.457
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 227.906
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1474.736
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 2.44
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 27.251
+          }
+        ]
+      },
+      {
+        "pose": "Retour à gauche 5/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7039.497
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 325.635
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 22.604
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 1.17
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 83.238
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1135.138
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.21
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Retour à gauche 11/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 6889.435
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 411.402
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 49.122
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 117.4
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1088.146
+          },
+          {
+            "a": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "b": [
+              "06 · Poignet, flexion",
+              "02 Corps de flexion"
+            ],
+            "volume_mm3": 28.963
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.209
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Bras tendu 5/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7310.106
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 119.676
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 79.971
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1142.774
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.211
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Bras tendu 11/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7460.166
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 42.557
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 92.694
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1119.078
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 342.151
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.969
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 185.158
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1092.211
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 32.673
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 22.347
+          }
+        ]
+      },
+      {
+        "pose": "Main retournée 5/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7121.005
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 272.317
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 9.703
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 15.404
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 80.937
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1140.442
+          },
+          {
+            "a": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "b": [
+              "06 · Poignet, flexion",
+              "02 Corps de flexion"
+            ],
+            "volume_mm3": 1.754
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 321.259
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 1.327
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 26.933
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 225.85
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1289.544
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "04 Capot blanc démontable"
+            ],
+            "volume_mm3": 0.565
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 24.144
+          }
+        ]
+      },
+      {
+        "pose": "Main retournée 11/11",
+        "contacts": [
+          {
+            "a": [
+              "01 · Tourelle de lacet",
+              "04 Montant d’épaule"
+            ],
+            "b": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 7039.497
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 351.53
+          },
+          {
+            "a": [
+              "02 · Segment proximal",
+              "08 Pont de chape"
+            ],
+            "b": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 30.176
+          },
+          {
+            "a": [
+              "03 · Segment intermédiaire",
+              "02 Longeron évidé"
+            ],
+            "b": [
+              "04 · Segment distal",
+              "02 Longeron évidé"
+            ],
+            "volume_mm3": 18.197
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "06 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 99.518
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "volume_mm3": 212.429
+          },
+          {
+            "a": [
+              "04 · Segment distal",
+              "07 Chape de sortie"
+            ],
+            "b": [
+              "05 · Poignet, déviation",
+              "03 Cape du poignet"
+            ],
+            "volume_mm3": 1109.761
+          },
+          {
+            "a": [
+              "05 · Poignet, déviation",
+              "02 Corps de déviation"
+            ],
+            "b": [
+              "06 · Poignet, flexion",
+              "02 Corps de flexion"
+            ],
+            "volume_mm3": 77.404
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 245.611
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 0.153
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "03 Coque blanche de paume"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 39.456
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "06 Renfort traversant des doigts"
+            ],
+            "b": [
+              "Auriculaire · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 227.906
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "03 Châssis blanc à logement moteur"
+            ],
+            "volume_mm3": 1474.736
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "06 Rail d’appui du servo"
+            ],
+            "volume_mm3": 2.44
+          },
+          {
+            "a": [
+              "07 · Poignet, roulis et paume blanche",
+              "07 Support de pouce"
+            ],
+            "b": [
+              "Pouce · Phalange 1 · KST X06",
+              "07 Rail d’appui du servo"
+            ],
+            "volume_mm3": 27.251
+          }
+        ]
+      }
+    ]
+  },
+  "tranchage": {
+    "prusa": "PrusaSlicer-2.9.6 based on Slic3r (with GUI support)",
+    "plateau_mm": [
+      220,
+      220,
+      250
+    ],
+    "maillages_fermes_et_connectes": 11,
+    "plateaux": [
+      {
+        "fichier": "01_Socle.3mf",
+        "instances": 1,
+        "filament_g": 244.6,
+        "duree": "23h 31m 55s",
+        "supports": false,
+        "sections_de_pont": 12,
+        "messages": [],
+        "sha256": "2652b6f57f1509bd873309655250fe6028abbaf9abb5c174eab37995fc57a096",
+        "repartitions": {
+          "01_Socle": 1
+        }
+      },
+      {
+        "fichier": "02_Trois_segments.3mf",
+        "instances": 3,
+        "filament_g": 349.4,
+        "duree": "1d 4h 24m 4s",
+        "supports": true,
+        "sections_de_pont": 35,
+        "messages": [],
+        "sha256": "79c0f58355747fa09757f2ee38d088921b78e606b7251bceb80bd65b30504c9a",
+        "repartitions": {
+          "03_Segment_proximal": 1,
+          "04_Segment_intermediaire": 1,
+          "05_Segment_distal": 1
+        }
+      },
+      {
+        "fichier": "03_Tourelle_et_poignet.3mf",
+        "instances": 3,
+        "filament_g": 140.56,
+        "duree": "13h 0m 51s",
+        "supports": false,
+        "sections_de_pont": 16,
+        "messages": [],
+        "sha256": "001e0e18f12a8b112369fd667294c17036482b725c93282b7e535fe594c2a305",
+        "repartitions": {
+          "02_Tourelle": 1,
+          "06_Poignet_deviation": 1,
+          "07_Poignet_flexion": 1
+        }
+      },
+      {
+        "fichier": "04_Paume.3mf",
+        "instances": 1,
+        "filament_g": 106.17,
+        "duree": "9h 31m 13s",
+        "supports": false,
+        "sections_de_pont": 14,
+        "messages": [],
+        "sha256": "519c324f25c76acac468e4d86c3c81e9fba855faaa9d29e6bf46b3177e45e7a6",
+        "repartitions": {
+          "08_Paume": 1
+        }
+      },
+      {
+        "fichier": "05_Phalanges_proximales_et_moyennes.3mf",
+        "instances": 10,
+        "filament_g": 115.97,
+        "duree": "12h 46m 8s",
+        "supports": false,
+        "sections_de_pont": 20,
+        "messages": [],
+        "sha256": "6686f495ddc36690212269e200020ee6c60b9b1c6709b6cf163bddd0cf04f486",
+        "repartitions": {
+          "09_Phalange_proximale": 5,
+          "10_Phalange_moyenne": 5
+        }
+      },
+      {
+        "fichier": "06_Bouts_de_doigts.3mf",
+        "instances": 5,
+        "filament_g": 45.09,
+        "duree": "5h 8m 10s",
+        "supports": false,
+        "sections_de_pont": 5,
+        "messages": [],
+        "sha256": "a3e48e525082d301f609a23564dc86aec3c5c3d77cb74598f5af65c46c9e4ea7",
+        "repartitions": {
+          "11_Phalange_distale": 5
+        }
+      }
+    ],
+    "filament_total_g": 1001.79,
+    "temps_total_s": 332541,
+    "controle_supports_unitaires": {
+      "03_Segment_proximal": {
+        "supports": false
+      },
+      "04_Segment_intermediaire": {
+        "supports": false
+      },
+      "05_Segment_distal": {
+        "supports": true,
+        "masse_supports_g": 0.593,
+        "hauteur_supports_mm": 2.15
+      }
+    }
+  }
+}

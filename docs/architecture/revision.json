@@ -1,0 +1,43 @@
+{
+  "revision": "V5-roulis-v1",
+  "date": "2026-11-24",
+  "state": "developpement",
+  "fusion": {
+    "path": "fusion/AURA-01.f3d",
+    "cloud_version": 1,
+    "sha256": "55d3f7964cd04625a4f9062db03c406900fc6acf57cedec86a5bfd5b46495361",
+    "external_references": 0
+  },
+  "required": [
+    "README.md",
+    "VERSION.md",
+    "CHANGELOG.md",
+    "AGENTS.md",
+    "DIAGNOSTIC_ROBOT_COMPLET.md",
+    "assembly/README.md",
+    "electronics/README.md",
+    "firmware/README.md",
+    "manufacturing/README.md",
+    "purchases/NOMENCLATURE.md",
+    "docs/architecture/PROJECT_CONTEXT.md"
+  ],
+  "revision_documents": [
+    "VERSION.md",
+    "docs/architecture/PROJECT_CONTEXT.md",
+    "assembly/README.md",
+    "electronics/README.md",
+    "firmware/README.md",
+    "manufacturing/README.md",
+    "purchases/NOMENCLATURE.md"
+  ],
+  "fabrication": {
+    "status": "bloquee",
+    "note": "Kit de production V5 à produire après corrections du diagnostic.",
+    "exports": []
+  },
+  "firmware": {
+    "status": "a_developper",
+    "files": []
+  },
+  "budget_max_eur": 150
+}

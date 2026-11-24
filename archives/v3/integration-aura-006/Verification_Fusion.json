@@ -1,0 +1,2372 @@
+{
+  "fusion": "2706.1.17",
+  "reprise": {
+    "source": "AURA-01_V3_FDM_r03.f3d",
+    "sha256_source": "d38022761fa19056245025fe9375998c66fc1983c6b01918c6e7a26e85b234cb",
+    "r03_rouverte_dans_fusion": true,
+    "pivots": 22,
+    "occurrences": 23,
+    "enveloppes_moteur": [
+      "Segment proximal:1",
+      "Segment intermédiaire:1",
+      "Segment distal:1",
+      "Phalange proximale:1",
+      "Phalange moyenne:1",
+      "Phalange distale:1",
+      "Phalange proximale:2",
+      "Phalange moyenne:2",
+      "Phalange distale:2",
+      "Phalange proximale:3",
+      "Phalange moyenne:3",
+      "Phalange distale:3",
+      "Phalange proximale:4",
+      "Phalange moyenne:4",
+      "Phalange distale:4",
+      "Phalange proximale:5",
+      "Phalange moyenne:5",
+      "Phalange distale:5"
+    ],
+    "branche": "AURA-01 — V3 — Intégration mécatronique.f3d",
+    "sha256_branche": "8267d8c421c8f06e9590061d6009b7373f8a64c9b7e26e6ad4b335a79199145d"
+  },
+  "etape": "Contrôle Fusion controle",
+  "doigt": {
+    "pivots_moteurs": 3,
+    "liaisons": 36,
+    "deplacement_temoins_mm_pour_8deg": [
+      2.372,
+      2.372,
+      2.372
+    ],
+    "poses": [
+      {
+        "commandes": [
+          0,
+          0,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          10,
+          0,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          25,
+          0,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          35,
+          0,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          45,
+          0,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          47,
+          0,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          53,
+          0,
+          0
+        ],
+        "interferences": [
+          {
+            "a": "D00_Banc",
+            "b": "Doigt_arret_1",
+            "mm3": 3.6887
+          }
+        ]
+      },
+      {
+        "commandes": [
+          0,
+          10,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          25,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          35,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          45,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          47,
+          0
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          53,
+          0
+        ],
+        "interferences": [
+          {
+            "a": "D01_Phalange",
+            "b": "Doigt_arret_2",
+            "mm3": 3.6887
+          }
+        ]
+      },
+      {
+        "commandes": [
+          0,
+          0,
+          10
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          0,
+          25
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          0,
+          35
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          0,
+          45
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          0,
+          47
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          0,
+          0,
+          53
+        ],
+        "interferences": [
+          {
+            "a": "D02_Phalange",
+            "b": "Doigt_arret_3",
+            "mm3": 3.6887
+          }
+        ]
+      },
+      {
+        "commandes": [
+          9,
+          9,
+          9
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          18,
+          18,
+          18
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          27,
+          27,
+          27
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          36,
+          36,
+          36
+        ],
+        "interferences": []
+      },
+      {
+        "commandes": [
+          45,
+          45,
+          45
+        ],
+        "interferences": []
+      }
+    ],
+    "archive": "AURA-01_Doigt_Pilote.f3d",
+    "sha256": "e121503b876d482a3e6582e22f3ad061e049b148f67e4181f3ba0c67e8e22d29",
+    "fabrication": [
+      {
+        "reference": "D00_Banc",
+        "dimensions_mm": [
+          67.15,
+          56.0,
+          27.9
+        ],
+        "volume_cm3": 46.435,
+        "3mf": {
+          "fichier": "D00_Banc.3mf",
+          "sha256": "5d22c2dad8143a7dae3c9dbc3594291bbcca69a9534a63a6455fe42536913174"
+        },
+        "step": {
+          "fichier": "D00_Banc.step",
+          "sha256": "98a992f971703b02005ce200f5edde69f863fa29679a2e6709242358ec364078"
+        }
+      },
+      {
+        "reference": "D01_Phalange",
+        "dimensions_mm": [
+          68.45,
+          30.8,
+          18.3
+        ],
+        "volume_cm3": 9.838,
+        "3mf": {
+          "fichier": "D01_Phalange.3mf",
+          "sha256": "d2334954fef6de0a1be7805ae4edc09c0192806db457192e5a3c417a28839062"
+        },
+        "step": {
+          "fichier": "D01_Phalange.step",
+          "sha256": "4e221d47ab57838f4ad0c83f176b5aaa601218bfb0089d2b707cd0e5e1e402cc"
+        }
+      },
+      {
+        "reference": "D02_Phalange",
+        "dimensions_mm": [
+          64.45,
+          30.8,
+          18.3
+        ],
+        "volume_cm3": 8.482,
+        "3mf": {
+          "fichier": "D02_Phalange.3mf",
+          "sha256": "2e03b24f3ad352839985ba0ddb41b250c892fb8e71aee3f7b31aea6a88403c3f"
+        },
+        "step": {
+          "fichier": "D02_Phalange.step",
+          "sha256": "eb0351899ad7a11b9c6fa9c74550b6774413933409df1cc6547fd7774a9383d0"
+        }
+      },
+      {
+        "reference": "D03_Phalange",
+        "dimensions_mm": [
+          45.9,
+          22.1,
+          16.4
+        ],
+        "volume_cm3": 6.774,
+        "3mf": {
+          "fichier": "D03_Phalange.3mf",
+          "sha256": "559d73d4ac10493647be539c3b3915c7df90886f30f3c2acfac0acff9804574e"
+        },
+        "step": {
+          "fichier": "D03_Phalange.step",
+          "sha256": "a54334630820a2ed7266d99ac06c012335afc25ddaf96fe3aa6a085f2d3ef2a0"
+        }
+      }
+    ],
+    "termine": true
+  },
+  "epaule": {
+    "rapport": 4,
+    "entraxe_mm": 105.507,
+    "enroulement_petite_poulie_deg": 137.55,
+    "positions_mm": {
+      "moteur": [
+        -58.0,
+        0,
+        57.865329037582185
+      ],
+      "arbre": [
+        0,
+        0,
+        146.0
+      ]
+    },
+    "entraine_par_le_moteur": true,
+    "controle_entree_16deg_sortie": 4.0,
+    "liaisons": 70,
+    "poses": [
+      {
+        "commande_sortie_deg": 0,
+        "course_moteur_deg": 0.0,
+        "course_sortie_deg": 0.0,
+        "temoin_xyz_mm": [
+          155.0,
+          0.0,
+          146.0
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 5,
+        "course_moteur_deg": 20.0,
+        "course_sortie_deg": 5.0,
+        "temoin_xyz_mm": [
+          154.41,
+          0.0,
+          159.509
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 10,
+        "course_moteur_deg": 40.0,
+        "course_sortie_deg": 10.0,
+        "temoin_xyz_mm": [
+          152.645,
+          0.0,
+          172.915
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 15,
+        "course_moteur_deg": 60.0,
+        "course_sortie_deg": 15.0,
+        "temoin_xyz_mm": [
+          149.719,
+          0.0,
+          186.117
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 20,
+        "course_moteur_deg": 80.0,
+        "course_sortie_deg": 20.0,
+        "temoin_xyz_mm": [
+          145.652,
+          0.0,
+          199.013
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 25,
+        "course_moteur_deg": 100.0,
+        "course_sortie_deg": 25.0,
+        "temoin_xyz_mm": [
+          140.478,
+          0.0,
+          211.506
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 30,
+        "course_moteur_deg": 120.0,
+        "course_sortie_deg": 30.0,
+        "temoin_xyz_mm": [
+          134.234,
+          0.0,
+          223.5
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 35,
+        "course_moteur_deg": 140.0,
+        "course_sortie_deg": 35.0,
+        "temoin_xyz_mm": [
+          126.969,
+          0.0,
+          234.904
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 40,
+        "course_moteur_deg": 160.0,
+        "course_sortie_deg": 40.0,
+        "temoin_xyz_mm": [
+          118.737,
+          0.0,
+          245.632
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 45,
+        "course_moteur_deg": 180.0,
+        "course_sortie_deg": 45.0,
+        "temoin_xyz_mm": [
+          109.602,
+          0.0,
+          255.602
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 50,
+        "course_moteur_deg": 200.0,
+        "course_sortie_deg": 50.0,
+        "temoin_xyz_mm": [
+          99.632,
+          0.0,
+          264.737
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 55,
+        "course_moteur_deg": 220.0,
+        "course_sortie_deg": 55.0,
+        "temoin_xyz_mm": [
+          88.904,
+          0.0,
+          272.969
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 60,
+        "course_moteur_deg": 240.0,
+        "course_sortie_deg": 60.0,
+        "temoin_xyz_mm": [
+          77.5,
+          0.0,
+          280.234
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 69,
+        "course_moteur_deg": 276.0,
+        "course_sortie_deg": 69.0,
+        "temoin_xyz_mm": [
+          55.547,
+          0.0,
+          290.705
+        ],
+        "interferences": [
+          {
+            "a": "Platine_butee",
+            "b": "Pion_butee",
+            "mm3": 175.7435
+          }
+        ]
+      },
+      {
+        "commande_sortie_deg": 60,
+        "course_moteur_deg": 240.0,
+        "course_sortie_deg": 60.0,
+        "temoin_xyz_mm": [
+          77.5,
+          0.0,
+          280.234
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 40,
+        "course_moteur_deg": 160.0,
+        "course_sortie_deg": 40.0,
+        "temoin_xyz_mm": [
+          118.737,
+          0.0,
+          245.632
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": 0,
+        "course_moteur_deg": 0.0,
+        "course_sortie_deg": 0.0,
+        "temoin_xyz_mm": [
+          155.0,
+          0.0,
+          146.0
+        ],
+        "interferences": []
+      },
+      {
+        "commande_sortie_deg": -7,
+        "course_moteur_deg": -28.0,
+        "course_sortie_deg": -7.0,
+        "temoin_xyz_mm": [
+          153.845,
+          0.0,
+          127.11
+        ],
+        "interferences": [
+          {
+            "a": "Platine_butee",
+            "b": "Pion_butee",
+            "mm3": 121.5393
+          }
+        ]
+      }
+    ],
+    "dimensionnement": {
+      "masse_distale_kg": 1.7901,
+      "hypotheses_kg_m": [
+        [
+          "segment_1",
+          0.14272,
+          0.075
+        ],
+        [
+          "motor_J3",
+          0.165,
+          0.13
+        ],
+        [
+          "hardware_J3",
+          0.08,
+          0.14
+        ],
+        [
+          "segment_2",
+          0.11904,
+          0.2
+        ],
+        [
+          "motor_J4",
+          0.082,
+          0.253
+        ],
+        [
+          "hardware_J4",
+          0.06,
+          0.263
+        ],
+        [
+          "segment_3",
+          0.08771,
+          0.319
+        ],
+        [
+          "motor_J5",
+          0.023,
+          0.375
+        ],
+        [
+          "hardware_J5",
+          0.04,
+          0.375
+        ],
+        [
+          "wrist_1",
+          0.02737,
+          0.395
+        ],
+        [
+          "wrist_2",
+          0.0258,
+          0.443
+        ],
+        [
+          "motor_J6",
+          0.082,
+          0.414
+        ],
+        [
+          "motor_J7",
+          0.023,
+          0.455
+        ],
+        [
+          "hardware_J6_J7",
+          0.045,
+          0.44
+        ],
+        [
+          "hand_and_15_KST",
+          0.40746,
+          0.58
+        ],
+        [
+          "cables",
+          0.06,
+          0.38
+        ],
+        [
+          "payload",
+          0.1,
+          0.7
+        ],
+        [
+          "J2_mobile_moyeu_estimation",
+          0.22,
+          0.036
+        ]
+      ],
+      "couple_statique_Nm": 5.678,
+      "inertie_kgm2": 0.269,
+      "acceleration_rad_s2": 0.6,
+      "frottement_Nm_hyp": 0.25,
+      "coefficient": 1.35,
+      "couple_dimensionnement_Nm": 8.221,
+      "rendement_hyp": 0.85,
+      "couple_moteur_Nm": 2.418,
+      "vitesse_sortie_a_vide_tr_min": 7,
+      "surcouple_maintien_frein_Nm": 1.95
+    },
+    "archive": "AURA-01_J2_Epaule_Pilote.f3d",
+    "sha256": "873b32b1eee0d0409d6f54bd621d010878c0f110c8225a3a0264cd78b5c422e7",
+    "fabrication": [
+      {
+        "reference": "J20_Socle",
+        "dimensions_mm": [
+          185.0,
+          192.0,
+          172.0
+        ],
+        "volume_cm3": 716.33,
+        "3mf": {
+          "fichier": "J20_Socle.3mf",
+          "sha256": "bb057dc5a54a4a23e373df16127b6bf3a284bd285a87e7bd7f863d805b7594af"
+        },
+        "step": {
+          "fichier": "J20_Socle.step",
+          "sha256": "d3e650a61911d6e7f07e2097a3d4c471d1db5adcaec73fdd346d90c6b2a39a1f"
+        }
+      },
+      {
+        "reference": "J22_Cartouche",
+        "dimensions_mm": [
+          60.0,
+          52.3,
+          49.835
+        ],
+        "volume_cm3": 49.078,
+        "3mf": {
+          "fichier": "J22_Cartouche.3mf",
+          "sha256": "bfb89e09774ff2ed62a4a8bf32b0373d192740d538437b9f6aeadd9fbaabc3a1"
+        },
+        "step": {
+          "fichier": "J22_Cartouche.step",
+          "sha256": "8ca47a5742a3ea608e45cbd967f731917d6aafe08a2ace02093cfa0f12a868c5"
+        }
+      },
+      {
+        "reference": "J21_Levier",
+        "dimensions_mm": [
+          164.0,
+          38.0,
+          24.0
+        ],
+        "volume_cm3": 112.314,
+        "3mf": {
+          "fichier": "J21_Levier.3mf",
+          "sha256": "528234ecfeee42f671482cfeb8555ea8cc95d445dc13366b9b9c32eeb0eb2bd4"
+        },
+        "step": {
+          "fichier": "J21_Levier.step",
+          "sha256": "70b4d4861ed0510ba5d7f168836137529ebd9d80c0c08da39b07d140e713c393"
+        }
+      },
+      {
+        "reference": "J23_Carter",
+        "dimensions_mm": [
+          170.0,
+          34.0,
+          195.96
+        ],
+        "volume_cm3": 274.95,
+        "3mf": {
+          "fichier": "J23_Carter.3mf",
+          "sha256": "98238efaa1272695f4eb2def7c9a96a6a4c4a3d62715af0f7766a2eefffe9d4f"
+        },
+        "step": {
+          "fichier": "J23_Carter.step",
+          "sha256": "5fb01e4d6a71bd931bf0a0fdcfd8a535bebc36b0bda628d6656c98cf76e8c3c1"
+        }
+      }
+    ],
+    "termine": true,
+    "revision_modele": 4
+  },
+  "erreurs_par_phase": {},
+  "integration": {
+    "pivots_r03_repris": 7,
+    "pivots_doigts_motorises": 15,
+    "avance_temoin_7deg_mm": {
+      "P1": 2.32,
+      "P2": 2.32,
+      "P3": 2.32,
+      "I1": 2.32,
+      "I2": 2.32,
+      "I3": 2.32,
+      "M1": 2.32,
+      "M2": 2.32,
+      "M3": 2.32,
+      "A1": 2.32,
+      "A2": 2.32,
+      "A3": 2.32,
+      "O1": 2.32,
+      "O2": 2.32,
+      "O3": 2.32
+    },
+    "modeles_moteurs_constructeurs": {
+      "J1": {
+        "famille": "XM430",
+        "solides": [
+          "OEM_J1_1",
+          "OEM_J1_2",
+          "OEM_J1_3",
+          "OEM_J1_4",
+          "OEM_J1_5",
+          "OEM_J1_6",
+          "OEM_J1_7",
+          "OEM_J1_8",
+          "OEM_J1_9",
+          "OEM_J1_10",
+          "OEM_J1_11",
+          "OEM_J1_12",
+          "OEM_J1_13",
+          "OEM_J1_14",
+          "OEM_J1_15",
+          "OEM_J1_16",
+          "OEM_J1_17",
+          "OEM_J1_18"
+        ]
+      },
+      "J3": {
+        "famille": "XM540",
+        "solides": [
+          "OEM_J3_1"
+        ]
+      },
+      "J4": {
+        "famille": "XM430",
+        "solides": [
+          "OEM_J4_1",
+          "OEM_J4_2",
+          "OEM_J4_3",
+          "OEM_J4_4",
+          "OEM_J4_5",
+          "OEM_J4_6",
+          "OEM_J4_7",
+          "OEM_J4_8",
+          "OEM_J4_9",
+          "OEM_J4_10",
+          "OEM_J4_11",
+          "OEM_J4_12",
+          "OEM_J4_13",
+          "OEM_J4_14",
+          "OEM_J4_15",
+          "OEM_J4_16",
+          "OEM_J4_17",
+          "OEM_J4_18"
+        ]
+      },
+      "J5": {
+        "famille": "XC330",
+        "solides": [
+          "OEM_J5_1",
+          "OEM_J5_2",
+          "OEM_J5_3",
+          "OEM_J5_4",
+          "OEM_J5_5",
+          "OEM_J5_6",
+          "OEM_J5_7",
+          "OEM_J5_8",
+          "OEM_J5_9",
+          "OEM_J5_10",
+          "OEM_J5_11",
+          "OEM_J5_12",
+          "OEM_J5_13",
+          "OEM_J5_14",
+          "OEM_J5_15"
+        ]
+      },
+      "J6": {
+        "famille": "XM430",
+        "solides": [
+          "OEM_J6_1",
+          "OEM_J6_2",
+          "OEM_J6_3",
+          "OEM_J6_4",
+          "OEM_J6_5",
+          "OEM_J6_6",
+          "OEM_J6_7",
+          "OEM_J6_8",
+          "OEM_J6_9",
+          "OEM_J6_10",
+          "OEM_J6_11",
+          "OEM_J6_12",
+          "OEM_J6_13",
+          "OEM_J6_14",
+          "OEM_J6_15",
+          "OEM_J6_16",
+          "OEM_J6_17",
+          "OEM_J6_18"
+        ]
+      },
+      "Paume": {
+        "famille": "XC330",
+        "solides": [
+          "OEM_Paume_1",
+          "OEM_Paume_2",
+          "OEM_Paume_3",
+          "OEM_Paume_4",
+          "OEM_Paume_5",
+          "OEM_Paume_6",
+          "OEM_Paume_7",
+          "OEM_Paume_8",
+          "OEM_Paume_9",
+          "OEM_Paume_10",
+          "OEM_Paume_11",
+          "OEM_Paume_12",
+          "OEM_Paume_13",
+          "OEM_Paume_14",
+          "OEM_Paume_15"
+        ]
+      }
+    },
+    "interferences_implantations_OEM": [
+      {
+        "a": "Socle",
+        "b": "OEM_J1_1",
+        "mm3": 19315.395
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_2",
+        "mm3": 93.193
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_3",
+        "mm3": 93.193
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_4",
+        "mm3": 93.9635
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_5",
+        "mm3": 93.9635
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_6",
+        "mm3": 14.5393
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_7",
+        "mm3": 14.5393
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_8",
+        "mm3": 14.5393
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_9",
+        "mm3": 14.5393
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_14",
+        "mm3": 28.3728
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_15",
+        "mm3": 28.3728
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_16",
+        "mm3": 26.5861
+      },
+      {
+        "a": "Socle",
+        "b": "OEM_J1_17",
+        "mm3": 26.5861
+      },
+      {
+        "a": "J3",
+        "b": "OEM_J3_1",
+        "mm3": 1050.7858
+      },
+      {
+        "a": "J4",
+        "b": "OEM_J4_1",
+        "mm3": 369.8898
+      },
+      {
+        "a": "J4",
+        "b": "OEM_J5_1",
+        "mm3": 1637.2957
+      },
+      {
+        "a": "J4",
+        "b": "OEM_J5_2",
+        "mm3": 1398.3259
+      },
+      {
+        "a": "J4",
+        "b": "OEM_J5_4",
+        "mm3": 375.0401
+      },
+      {
+        "a": "J4",
+        "b": "OEM_J5_6",
+        "mm3": 15.2025
+      },
+      {
+        "a": "J4",
+        "b": "OEM_J5_7",
+        "mm3": 15.2025
+      },
+      {
+        "a": "J5",
+        "b": "OEM_J6_1",
+        "mm3": 114.8258
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_1",
+        "mm3": 24651.481
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_2",
+        "mm3": 25.5139
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_3",
+        "mm3": 84.1187
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_4",
+        "mm3": 28.1163
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_5",
+        "mm3": 91.2272
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_6",
+        "mm3": 91.2272
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_7",
+        "mm3": 28.1163
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_8",
+        "mm3": 84.1187
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_9",
+        "mm3": 25.5139
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_10",
+        "mm3": 16.6184
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_11",
+        "mm3": 8.8901
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_12",
+        "mm3": 23.8785
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_13",
+        "mm3": 12.0591
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_14",
+        "mm3": 12.0591
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_15",
+        "mm3": 23.8785
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_16",
+        "mm3": 8.8901
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_17",
+        "mm3": 16.6198
+      },
+      {
+        "a": "J6",
+        "b": "OEM_J6_18",
+        "mm3": 250.3128
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_1",
+        "mm3": 5555.2216
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_2",
+        "mm3": 1361.5779
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_3",
+        "mm3": 710.4247
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_4",
+        "mm3": 9.5061
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_6",
+        "mm3": 40.3887
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_7",
+        "mm3": 26.7479
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_11",
+        "mm3": 41.326
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_14",
+        "mm3": 107.0299
+      },
+      {
+        "a": "J6",
+        "b": "OEM_Paume_15",
+        "mm3": 65.6796
+      },
+      {
+        "a": "Paume",
+        "b": "OEM_Paume_4",
+        "mm3": 66.6745
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_1",
+        "mm3": 7286.5815
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_2",
+        "mm3": 12.7395
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_3",
+        "mm3": 1956.665
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_5",
+        "mm3": 31.6406
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_6",
+        "mm3": 30.9593
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_7",
+        "mm3": 30.9593
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_10",
+        "mm3": 15.9985
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_11",
+        "mm3": 464.6753
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_12",
+        "mm3": 65.3932
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_13",
+        "mm3": 68.8042
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_14",
+        "mm3": 107.0299
+      },
+      {
+        "a": "OEM_J6_1",
+        "b": "OEM_Paume_15",
+        "mm3": 107.0299
+      },
+      {
+        "a": "OEM_J6_4",
+        "b": "OEM_Paume_1",
+        "mm3": 11.9812
+      },
+      {
+        "a": "OEM_J6_5",
+        "b": "OEM_Paume_1",
+        "mm3": 11.9812
+      },
+      {
+        "a": "OEM_J6_6",
+        "b": "OEM_Paume_1",
+        "mm3": 1.6027
+      },
+      {
+        "a": "OEM_J6_7",
+        "b": "OEM_Paume_1",
+        "mm3": 1.6027
+      },
+      {
+        "a": "OEM_J6_14",
+        "b": "OEM_Paume_1",
+        "mm3": 9.4943
+      },
+      {
+        "a": "OEM_J6_15",
+        "b": "OEM_Paume_1",
+        "mm3": 9.4943
+      }
+    ],
+    "positions_doigts_mm": [
+      [
+        "P",
+        "Pouce",
+        [
+          44,
+          -78.7,
+          0
+        ],
+        -51
+      ],
+      [
+        "I",
+        "Index",
+        [
+          112,
+          -54,
+          0
+        ],
+        -1
+      ],
+      [
+        "M",
+        "Majeur",
+        [
+          117,
+          -18,
+          0
+        ],
+        0
+      ],
+      [
+        "A",
+        "Annulaire",
+        [
+          113,
+          18,
+          0
+        ],
+        0
+      ],
+      [
+        "O",
+        "Auriculaire",
+        [
+          107,
+          54,
+          0
+        ],
+        2
+      ]
+    ],
+    "poses_main": [
+      {
+        "flexion_simultanee": 0,
+        "interferences": []
+      },
+      {
+        "flexion_simultanee": 12,
+        "interferences": []
+      },
+      {
+        "flexion_simultanee": 24,
+        "interferences": []
+      },
+      {
+        "flexion_simultanee": 36,
+        "interferences": []
+      },
+      {
+        "flexion_simultanee": 45,
+        "interferences": []
+      },
+      {
+        "flexions_individuelles": {
+          "P": [
+            27,
+            45,
+            27
+          ],
+          "I": [
+            45,
+            28,
+            34
+          ],
+          "M": [
+            38,
+            41,
+            39
+          ]
+        },
+        "interferences": []
+      },
+      {
+        "flexions_individuelles": {
+          "P": [
+            0,
+            30,
+            18
+          ],
+          "I": [
+            45,
+            14,
+            2
+          ],
+          "A": [
+            40,
+            45,
+            44
+          ],
+          "O": [
+            45,
+            25,
+            19
+          ]
+        },
+        "interferences": []
+      },
+      {
+        "flexions_individuelles": {
+          "M": [
+            45,
+            45,
+            45
+          ],
+          "O": [
+            45,
+            45,
+            45
+          ]
+        },
+        "interferences": []
+      }
+    ],
+    "encombrements_electriques": [
+      {
+        "angles": {},
+        "interferences": [],
+        "boucles_de_service": [
+          {
+            "transition": "Socle_J1",
+            "longueur_mm": 72.66,
+            "rayon_min_mm": 12.0,
+            "cible_hypothese_mm": 43.0,
+            "rayon_cible_atteint": false,
+            "interferences": [
+              {
+                "piece": "J1",
+                "mm3": 716.4
+              },
+              {
+                "piece": "Socle",
+                "mm3": 1006.089
+              }
+            ]
+          },
+          {
+            "transition": "J1_J2",
+            "longueur_mm": 54.19,
+            "rayon_min_mm": 4.78,
+            "cible_hypothese_mm": 42.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J2_J3",
+            "longueur_mm": 9.44,
+            "rayon_min_mm": 2.58,
+            "cible_hypothese_mm": 40.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J3_J4",
+            "longueur_mm": 24.15,
+            "rayon_min_mm": 7.63,
+            "cible_hypothese_mm": 39.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J4_J5",
+            "longueur_mm": 38.49,
+            "rayon_min_mm": 1.88,
+            "cible_hypothese_mm": 35.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J5_J6",
+            "longueur_mm": 26.93,
+            "rayon_min_mm": 1.27,
+            "cible_hypothese_mm": 33.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J6_Paume",
+            "longueur_mm": 8.22,
+            "rayon_min_mm": 1.39,
+            "cible_hypothese_mm": 32.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          }
+        ]
+      },
+      {
+        "angles": {
+          "J1": -52
+        },
+        "interferences": [],
+        "boucles_de_service": [
+          {
+            "transition": "Socle_J1",
+            "longueur_mm": 123.46,
+            "rayon_min_mm": 20.26,
+            "cible_hypothese_mm": 43.0,
+            "rayon_cible_atteint": false,
+            "interferences": [
+              {
+                "piece": "J1",
+                "mm3": 708.392
+              },
+              {
+                "piece": "Socle",
+                "mm3": 2435.071
+              }
+            ]
+          },
+          {
+            "transition": "J1_J2",
+            "longueur_mm": 54.19,
+            "rayon_min_mm": 4.78,
+            "cible_hypothese_mm": 42.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J2_J3",
+            "longueur_mm": 9.44,
+            "rayon_min_mm": 2.58,
+            "cible_hypothese_mm": 40.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J3_J4",
+            "longueur_mm": 24.15,
+            "rayon_min_mm": 7.63,
+            "cible_hypothese_mm": 39.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J4_J5",
+            "longueur_mm": 38.49,
+            "rayon_min_mm": 1.88,
+            "cible_hypothese_mm": 35.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J5_J6",
+            "longueur_mm": 26.93,
+            "rayon_min_mm": 1.27,
+            "cible_hypothese_mm": 33.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J6_Paume",
+            "longueur_mm": 8.22,
+            "rayon_min_mm": 1.39,
+            "cible_hypothese_mm": 32.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          }
+        ]
+      },
+      {
+        "angles": {
+          "J1": 52
+        },
+        "interferences": [],
+        "boucles_de_service": [
+          {
+            "transition": "Socle_J1",
+            "longueur_mm": 44.79,
+            "rayon_min_mm": 7.15,
+            "cible_hypothese_mm": 43.0,
+            "rayon_cible_atteint": false,
+            "interferences": [
+              {
+                "piece": "J1",
+                "mm3": 637.829
+              },
+              {
+                "piece": "Socle",
+                "mm3": 92.147
+              }
+            ]
+          },
+          {
+            "transition": "J1_J2",
+            "longueur_mm": 54.19,
+            "rayon_min_mm": 4.78,
+            "cible_hypothese_mm": 42.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J2_J3",
+            "longueur_mm": 9.44,
+            "rayon_min_mm": 2.58,
+            "cible_hypothese_mm": 40.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J3_J4",
+            "longueur_mm": 24.15,
+            "rayon_min_mm": 7.63,
+            "cible_hypothese_mm": 39.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J4_J5",
+            "longueur_mm": 38.49,
+            "rayon_min_mm": 1.88,
+            "cible_hypothese_mm": 35.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J5_J6",
+            "longueur_mm": 26.93,
+            "rayon_min_mm": 1.27,
+            "cible_hypothese_mm": 33.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J6_Paume",
+            "longueur_mm": 8.22,
+            "rayon_min_mm": 1.39,
+            "cible_hypothese_mm": 32.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          }
+        ]
+      },
+      {
+        "angles": {
+          "J2": -25,
+          "J3": 17,
+          "J4": 18
+        },
+        "interferences": [],
+        "boucles_de_service": [
+          {
+            "transition": "Socle_J1",
+            "longueur_mm": 72.66,
+            "rayon_min_mm": 12.0,
+            "cible_hypothese_mm": 43.0,
+            "rayon_cible_atteint": false,
+            "interferences": [
+              {
+                "piece": "J1",
+                "mm3": 716.4
+              },
+              {
+                "piece": "Socle",
+                "mm3": 1006.089
+              }
+            ]
+          },
+          {
+            "transition": "J1_J2",
+            "longueur_mm": 54.89,
+            "rayon_min_mm": 4.34,
+            "cible_hypothese_mm": 42.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J2_J3",
+            "longueur_mm": 13.01,
+            "rayon_min_mm": 3.99,
+            "cible_hypothese_mm": 40.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J3_J4",
+            "longueur_mm": 27.54,
+            "rayon_min_mm": 11.21,
+            "cible_hypothese_mm": 39.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J4_J5",
+            "longueur_mm": 38.49,
+            "rayon_min_mm": 1.88,
+            "cible_hypothese_mm": 35.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J5_J6",
+            "longueur_mm": 26.93,
+            "rayon_min_mm": 1.27,
+            "cible_hypothese_mm": 33.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J6_Paume",
+            "longueur_mm": 8.22,
+            "rayon_min_mm": 1.39,
+            "cible_hypothese_mm": 32.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          }
+        ]
+      },
+      {
+        "angles": {
+          "J5": 27,
+          "J6": -20,
+          "Paume": 35
+        },
+        "interferences": [],
+        "boucles_de_service": [
+          {
+            "transition": "Socle_J1",
+            "longueur_mm": 72.66,
+            "rayon_min_mm": 12.0,
+            "cible_hypothese_mm": 43.0,
+            "rayon_cible_atteint": false,
+            "interferences": [
+              {
+                "piece": "J1",
+                "mm3": 716.4
+              },
+              {
+                "piece": "Socle",
+                "mm3": 1006.089
+              }
+            ]
+          },
+          {
+            "transition": "J1_J2",
+            "longueur_mm": 54.19,
+            "rayon_min_mm": 4.78,
+            "cible_hypothese_mm": 42.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J2_J3",
+            "longueur_mm": 9.44,
+            "rayon_min_mm": 2.58,
+            "cible_hypothese_mm": 40.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J3_J4",
+            "longueur_mm": 24.15,
+            "rayon_min_mm": 7.63,
+            "cible_hypothese_mm": 39.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J4_J5",
+            "longueur_mm": 49.63,
+            "rayon_min_mm": 1.23,
+            "cible_hypothese_mm": 35.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J5_J6",
+            "longueur_mm": 23.62,
+            "rayon_min_mm": 1.06,
+            "cible_hypothese_mm": 33.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J6_Paume",
+            "longueur_mm": 31.67,
+            "rayon_min_mm": 2.18,
+            "cible_hypothese_mm": 32.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          }
+        ]
+      },
+      {
+        "angles": {
+          "J5": -27,
+          "J6": 20,
+          "Paume": -35
+        },
+        "interferences": [],
+        "boucles_de_service": [
+          {
+            "transition": "Socle_J1",
+            "longueur_mm": 72.66,
+            "rayon_min_mm": 12.0,
+            "cible_hypothese_mm": 43.0,
+            "rayon_cible_atteint": false,
+            "interferences": [
+              {
+                "piece": "J1",
+                "mm3": 716.4
+              },
+              {
+                "piece": "Socle",
+                "mm3": 1006.089
+              }
+            ]
+          },
+          {
+            "transition": "J1_J2",
+            "longueur_mm": 54.19,
+            "rayon_min_mm": 4.78,
+            "cible_hypothese_mm": 42.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J2_J3",
+            "longueur_mm": 9.44,
+            "rayon_min_mm": 2.58,
+            "cible_hypothese_mm": 40.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J3_J4",
+            "longueur_mm": 24.15,
+            "rayon_min_mm": 7.63,
+            "cible_hypothese_mm": 39.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J4_J5",
+            "longueur_mm": 32.74,
+            "rayon_min_mm": 3.6,
+            "cible_hypothese_mm": 35.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J5_J6",
+            "longueur_mm": 26.19,
+            "rayon_min_mm": 1.21,
+            "cible_hypothese_mm": 33.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          },
+          {
+            "transition": "J6_Paume",
+            "longueur_mm": 29.89,
+            "rayon_min_mm": 2.48,
+            "cible_hypothese_mm": 32.0,
+            "rayon_cible_atteint": false,
+            "interferences": []
+          }
+        ]
+      }
+    ],
+    "longueurs_troncons_droits_mm": {
+      "Socle": 100.6,
+      "J1": 57.9,
+      "J2": 123.2,
+      "J3": 87.3,
+      "J4": 80.6,
+      "J5": 41.0,
+      "J6": 30.0
+    },
+    "batterie_dimensions_mm": [
+      195,
+      131,
+      171
+    ],
+    "batterie": "RELiON RB24V20",
+    "solides_mecaniques_repris": [
+      "J1",
+      "J2",
+      "J3",
+      "J4",
+      "J5",
+      "J6",
+      "Socle"
+    ],
+    "statut_J2": "Banc J2 indépendant. J2 de l'assemblage r03 représente une articulation virtuelle.",
+    "archive": "AURA-01 — V3 — Intégration mécatronique.f3d",
+    "sha256": "8894cd8deaaf9027427432ee5f2f507e573f114d98e6dfb8959ab97b70cc5c8b",
+    "fabrication": [
+      {
+        "reference": "Paume",
+        "dimensions_mm": [
+          128.3,
+          167.157,
+          22.1
+        ],
+        "volume_cm3": 127.504,
+        "3mf": {
+          "fichier": "Paume.3mf",
+          "sha256": "11ab0e092008871cbbc07cd3db35c37b395e71936cb6ffb5fc835459406d8122"
+        },
+        "step": {
+          "fichier": "Paume.step",
+          "sha256": "355a975c4405de92dc75e10b675e1217aa251206ca3e454ec9a235fad95aca04"
+        }
+      },
+      {
+        "reference": "E01_Berceau_batterie",
+        "dimensions_mm": [
+          214.0,
+          150.0,
+          21.4
+        ],
+        "volume_cm3": 319.75,
+        "3mf": {
+          "fichier": "E01_Berceau_batterie.3mf",
+          "sha256": "ba10984ce1b253f7da175d1f114d346d1f8b5324006ce0ebfe5805805798505c"
+        },
+        "step": {
+          "fichier": "E01_Berceau_batterie.step",
+          "sha256": "2adb7a46f32fc7b175e803c90720aa11e163ee3c80e65919c4fc8f2e7f548701"
+        }
+      },
+      {
+        "reference": "E02_Platine",
+        "dimensions_mm": [
+          180.0,
+          94.0,
+          31.0
+        ],
+        "volume_cm3": 150.577,
+        "3mf": {
+          "fichier": "E02_Platine.3mf",
+          "sha256": "a42900a1be32d7cbb431296941244071f5188ec0e5f2392c4674b6c96c4e6c6e"
+        },
+        "step": {
+          "fichier": "E02_Platine.step",
+          "sha256": "52f5d833e20872d8418225bc4f35fe3613ca891c4847410ea5bbe6f07b8deea3"
+        }
+      },
+      {
+        "reference": "E_Support_camera",
+        "dimensions_mm": [
+          32.0,
+          29.5,
+          17.36
+        ],
+        "volume_cm3": 16.254,
+        "3mf": {
+          "fichier": "E_Support_camera.3mf",
+          "sha256": "909e1d467fb6ead40c2c2f306922faf38675310735d1bb429e5b8a418c061f0e"
+        },
+        "step": {
+          "fichier": "E_Support_camera.step",
+          "sha256": "ba690e7101aee799306a335e3e4afbf90b1a836ea67f35a3a1ae79c884e5f5fc"
+        }
+      },
+      {
+        "reference": "E03_Platine_PWM",
+        "dimensions_mm": [
+          71.0,
+          37.0,
+          6.3
+        ],
+        "volume_cm3": 8.822,
+        "3mf": {
+          "fichier": "E03_Platine_PWM.3mf",
+          "sha256": "ace0fbce35db46aacd1d895c27c06c4e95a8803521660797b58dfab9c53c2b7a"
+        },
+        "step": {
+          "fichier": "E03_Platine_PWM.step",
+          "sha256": "95e21b6ede42b079cb98e7cbc9f4ba2aa480ced7928abd10c731588e0e80a5a6"
+        }
+      },
+      {
+        "reference": "E04_Coupon_ajustements",
+        "dimensions_mm": [
+          130.0,
+          46.0,
+          9.0
+        ],
+        "volume_cm3": 35.943,
+        "3mf": {
+          "fichier": "E04_Coupon_ajustements.3mf",
+          "sha256": "e9bf21c328eb209713449748bd72a89eb6ad825e768467c5a217f6a309f367d8"
+        },
+        "step": {
+          "fichier": "E04_Coupon_ajustements.step",
+          "sha256": "6bd42cf77ee88afb4dc3530561a9524a538228b46a51d4a7c8cb5ff3de17461b"
+        }
+      }
+    ],
+    "rouvert_dans_fusion": true,
+    "liaisons_archive_rouverte": 321,
+    "termine": true,
+    "revision_modele": 3
+  },
+  "controle": {
+    "bancs": {
+      "doigt": {
+        "archive": "AURA-01_Doigt_Pilote.f3d",
+        "sha256": "e121503b876d482a3e6582e22f3ad061e049b148f67e4181f3ba0c67e8e22d29",
+        "pivots": [
+          "Moteur_P1",
+          "Moteur_P2",
+          "Moteur_P3"
+        ],
+        "composants": 37,
+        "historique_parametrique": true,
+        "chemins": {
+          "sortie_moteur_1_vers_le_bas": [
+            {
+              "translation_mm": 0,
+              "interferences": []
+            },
+            {
+              "translation_mm": 1,
+              "interferences": []
+            },
+            {
+              "translation_mm": 2,
+              "interferences": []
+            },
+            {
+              "translation_mm": 3,
+              "interferences": []
+            },
+            {
+              "translation_mm": 4,
+              "interferences": []
+            },
+            {
+              "translation_mm": 5,
+              "interferences": []
+            },
+            {
+              "translation_mm": 6,
+              "interferences": []
+            },
+            {
+              "translation_mm": 7,
+              "interferences": []
+            },
+            {
+              "translation_mm": 8,
+              "interferences": []
+            },
+            {
+              "translation_mm": 9,
+              "interferences": []
+            },
+            {
+              "translation_mm": 10,
+              "interferences": []
+            },
+            {
+              "translation_mm": 11,
+              "interferences": []
+            },
+            {
+              "translation_mm": 12,
+              "interferences": []
+            },
+            {
+              "translation_mm": 13,
+              "interferences": []
+            },
+            {
+              "translation_mm": 14,
+              "interferences": []
+            },
+            {
+              "translation_mm": 15,
+              "interferences": []
+            },
+            {
+              "translation_mm": 16,
+              "interferences": []
+            }
+          ],
+          "sortie_moteur_2_vers_le_bas": [
+            {
+              "translation_mm": 0,
+              "interferences": []
+            },
+            {
+              "translation_mm": 1,
+              "interferences": []
+            },
+            {
+              "translation_mm": 2,
+              "interferences": []
+            },
+            {
+              "translation_mm": 3,
+              "interferences": []
+            },
+            {
+              "translation_mm": 4,
+              "interferences": []
+            },
+            {
+              "translation_mm": 5,
+              "interferences": []
+            },
+            {
+              "translation_mm": 6,
+              "interferences": []
+            },
+            {
+              "translation_mm": 7,
+              "interferences": []
+            },
+            {
+              "translation_mm": 8,
+              "interferences": []
+            },
+            {
+              "translation_mm": 9,
+              "interferences": []
+            },
+            {
+              "translation_mm": 10,
+              "interferences": []
+            },
+            {
+              "translation_mm": 11,
+              "interferences": []
+            },
+            {
+              "translation_mm": 12,
+              "interferences": []
+            },
+            {
+              "translation_mm": 13,
+              "interferences": []
+            },
+            {
+              "translation_mm": 14,
+              "interferences": []
+            },
+            {
+              "translation_mm": 15,
+              "interferences": []
+            },
+            {
+              "translation_mm": 16,
+              "interferences": []
+            }
+          ],
+          "sortie_moteur_3_vers_le_bas": [
+            {
+              "translation_mm": 0,
+              "interferences": []
+            },
+            {
+              "translation_mm": 1,
+              "interferences": []
+            },
+            {
+              "translation_mm": 2,
+              "interferences": []
+            },
+            {
+              "translation_mm": 3,
+              "interferences": []
+            },
+            {
+              "translation_mm": 4,
+              "interferences": []
+            },
+            {
+              "translation_mm": 5,
+              "interferences": []
+            },
+            {
+              "translation_mm": 6,
+              "interferences": []
+            },
+            {
+              "translation_mm": 7,
+              "interferences": []
+            },
+            {
+              "translation_mm": 8,
+              "interferences": []
+            },
+            {
+              "translation_mm": 9,
+              "interferences": []
+            },
+            {
+              "translation_mm": 10,
+              "interferences": []
+            },
+            {
+              "translation_mm": 11,
+              "interferences": []
+            },
+            {
+              "translation_mm": 12,
+              "interferences": []
+            },
+            {
+              "translation_mm": 13,
+              "interferences": []
+            },
+            {
+              "translation_mm": 14,
+              "interferences": []
+            },
+            {
+              "translation_mm": 15,
+              "interferences": []
+            },
+            {
+              "translation_mm": 16,
+              "interferences": []
+            }
+          ]
+        }
+      },
+      "epaule": {
+        "archive": "AURA-01_J2_Epaule_Pilote.f3d",
+        "sha256": "873b32b1eee0d0409d6f54bd621d010878c0f110c8225a3a0264cd78b5c422e7",
+        "pivots": [
+          "Moteur_J2",
+          "Sortie_J2"
+        ],
+        "composants": 71,
+        "historique_parametrique": true,
+        "chemins": {
+          "carter_sans_vis_vers_exterieur": [
+            {
+              "translation_mm": 0,
+              "interferences": []
+            },
+            {
+              "translation_mm": 3,
+              "interferences": []
+            },
+            {
+              "translation_mm": 6,
+              "interferences": []
+            },
+            {
+              "translation_mm": 9,
+              "interferences": []
+            },
+            {
+              "translation_mm": 12,
+              "interferences": []
+            },
+            {
+              "translation_mm": 15,
+              "interferences": []
+            },
+            {
+              "translation_mm": 18,
+              "interferences": []
+            },
+            {
+              "translation_mm": 21,
+              "interferences": []
+            },
+            {
+              "translation_mm": 24,
+              "interferences": []
+            },
+            {
+              "translation_mm": 27,
+              "interferences": []
+            },
+            {
+              "translation_mm": 30,
+              "interferences": []
+            },
+            {
+              "translation_mm": 33,
+              "interferences": []
+            },
+            {
+              "translation_mm": 36,
+              "interferences": []
+            },
+            {
+              "translation_mm": 39,
+              "interferences": []
+            },
+            {
+              "translation_mm": 42,
+              "interferences": []
+            },
+            {
+              "translation_mm": 45,
+              "interferences": []
+            },
+            {
+              "translation_mm": 48,
+              "interferences": []
+            },
+            {
+              "translation_mm": 51,
+              "interferences": []
+            },
+            {
+              "translation_mm": 54,
+              "interferences": []
+            },
+            {
+              "translation_mm": 57,
+              "interferences": []
+            },
+            {
+              "translation_mm": 60,
+              "interferences": []
+            },
+            {
+              "translation_mm": 63,
+              "interferences": []
+            }
+          ],
+          "moteur_sans_palonnier_vers_arriere": [
+            {
+              "translation_mm": 0,
+              "interferences": []
+            },
+            {
+              "translation_mm": 2,
+              "interferences": []
+            },
+            {
+              "translation_mm": 4,
+              "interferences": []
+            },
+            {
+              "translation_mm": 6,
+              "interferences": []
+            },
+            {
+              "translation_mm": 8,
+              "interferences": []
+            },
+            {
+              "translation_mm": 10,
+              "interferences": []
+            },
+            {
+              "translation_mm": 12,
+              "interferences": []
+            },
+            {
+              "translation_mm": 14,
+              "interferences": []
+            },
+            {
+              "translation_mm": 16,
+              "interferences": []
+            },
+            {
+              "translation_mm": 18,
+              "interferences": []
+            },
+            {
+              "translation_mm": 20,
+              "interferences": []
+            },
+            {
+              "translation_mm": 22,
+              "interferences": []
+            },
+            {
+              "translation_mm": 24,
+              "interferences": []
+            },
+            {
+              "translation_mm": 26,
+              "interferences": []
+            },
+            {
+              "translation_mm": 28,
+              "interferences": []
+            },
+            {
+              "translation_mm": 30,
+              "interferences": []
+            },
+            {
+              "translation_mm": 32,
+              "interferences": []
+            },
+            {
+              "translation_mm": 34,
+              "interferences": []
+            },
+            {
+              "translation_mm": 36,
+              "interferences": []
+            },
+            {
+              "translation_mm": 38,
+              "interferences": []
+            },
+            {
+              "translation_mm": 40,
+              "interferences": []
+            },
+            {
+              "translation_mm": 42,
+              "interferences": []
+            },
+            {
+              "translation_mm": 44,
+              "interferences": []
+            },
+            {
+              "translation_mm": 46,
+              "interferences": []
+            },
+            {
+              "translation_mm": 48,
+              "interferences": []
+            },
+            {
+              "translation_mm": 50,
+              "interferences": []
+            },
+            {
+              "translation_mm": 52,
+              "interferences": []
+            },
+            {
+              "translation_mm": 54,
+              "interferences": []
+            }
+          ]
+        }
+      }
+    },
+    "termine": true,
+    "revision_modele": 1
+  }
+}

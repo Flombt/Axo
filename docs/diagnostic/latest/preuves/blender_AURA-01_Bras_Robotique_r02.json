@@ -1,0 +1,26 @@
+{
+  "file": "AURA-01_Bras_Robotique_r02.blend",
+  "saved_with": [
+    5,
+    2,
+    44
+  ],
+  "checked_with": "5.2.1 LTS",
+  "scenes": [
+    {
+      "name": "AURA-01 · Montage r02",
+      "range": [
+        1,
+        250
+      ],
+      "fps": 24.0
+    }
+  ],
+  "types": {
+    "EMPTY": 16,
+    "MESH": 94
+  },
+  "actions": [],
+  "motion_objects": [],
+  "linked_libraries": []
+}

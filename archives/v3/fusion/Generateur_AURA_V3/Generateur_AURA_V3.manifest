@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "id": "15c50bd8-9afd-4ae5-8f55-682664b1ed43",
+  "author": "AURA-01",
+  "description": {
+    "": "Construit la maquette AURA-01 V3 et exporte les mouvements depuis Fusion."
+  },
+  "version": "1.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows",
+  "editEnabled": true
+}

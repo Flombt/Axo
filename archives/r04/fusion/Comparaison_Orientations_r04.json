@@ -1,0 +1,114 @@
+[
+  {
+    "ref": "02_Socle",
+    "retenu_s": 11642,
+    "retenu_g": 41.88,
+    "retourne_s": 9196,
+    "retourne_g": 29.25,
+    "retourne_supports": false,
+    "retourne_appui_mm2": 2662.54,
+    "retenu_appui_mm2": 753.39,
+    "avertissements": []
+  },
+  {
+    "ref": "05_Segment_2",
+    "retenu_s": 4554,
+    "retenu_g": 11.37,
+    "retourne_s": 4545,
+    "retourne_g": 11.38,
+    "retourne_supports": true,
+    "retourne_appui_mm2": 10.37,
+    "retenu_appui_mm2": 10.37,
+    "avertissements": []
+  },
+  {
+    "ref": "07_Paume",
+    "retenu_s": 8120,
+    "retenu_g": 18.1,
+    "retourne_s": 10308,
+    "retourne_g": 29.43,
+    "retourne_supports": true,
+    "retourne_appui_mm2": 8.06,
+    "retenu_appui_mm2": 2010.45,
+    "avertissements": []
+  },
+  {
+    "ref": "J1_Porte_Moteur",
+    "retenu_s": 7218,
+    "retenu_g": 15.89,
+    "retourne_s": 8314,
+    "retourne_g": 22.19,
+    "retourne_supports": true,
+    "retourne_appui_mm2": 376.05,
+    "retenu_appui_mm2": 1924.97,
+    "avertissements": []
+  },
+  {
+    "ref": "J1_Couronne",
+    "retenu_s": 9485,
+    "retenu_g": 25.0,
+    "retourne_s": 9444,
+    "retourne_g": 24.87,
+    "retourne_supports": false,
+    "retourne_appui_mm2": 4737.56,
+    "retenu_appui_mm2": 4697.36,
+    "avertissements": []
+  },
+  {
+    "ref": "J1_Garde",
+    "retenu_s": 7615,
+    "retenu_g": 19.92,
+    "retourne_s": 9233,
+    "retourne_g": 27.02,
+    "retourne_supports": true,
+    "retourne_appui_mm2": 850.79,
+    "retenu_appui_mm2": 6133.6,
+    "avertissements": []
+  },
+  {
+    "ref": "MAIN_Cassette",
+    "retenu_s": 6992,
+    "retenu_g": 17.1,
+    "retourne_s": 7543,
+    "retourne_g": 19.01,
+    "retourne_supports": true,
+    "retourne_appui_mm2": 391.54,
+    "retenu_appui_mm2": 69.37,
+    "avertissements": []
+  },
+  {
+    "ref": "MAIN_Peigne_M2",
+    "retenu_s": 1973,
+    "retenu_g": 5.46,
+    "retourne_s": 1758,
+    "retourne_g": 4.33,
+    "retourne_supports": false,
+    "retourne_appui_mm2": 550.53,
+    "retenu_appui_mm2": 7.72,
+    "avertissements": [
+      "print warning: Empty layer between 8 and 9."
+    ]
+  },
+  {
+    "ref": "MAIN_Peigne_Paume",
+    "retenu_s": 1134,
+    "retenu_g": 2.33,
+    "retourne_s": 1119,
+    "retourne_g": 2.32,
+    "retourne_supports": true,
+    "retourne_appui_mm2": 0.78,
+    "retenu_appui_mm2": 281.78,
+    "avertissements": []
+  },
+  {
+    "ref": "Enrouleur_X06",
+    "retenu_s": 137,
+    "retenu_g": 0.26,
+    "retourne_s": 128,
+    "retourne_g": 0.24,
+    "retourne_supports": false,
+    "retourne_appui_mm2": 55.49,
+    "retenu_appui_mm2": 53.1,
+    "avertissements": []
+  }
+]

@@ -1,0 +1,214 @@
+{
+  "pivots": [
+    {
+      "joint": "J1",
+      "axe_local": "Z",
+      "limites_deg": [
+        -30,
+        30
+      ],
+      "angle_test_deg": 5,
+      "deplacement_temoin_mm": 1.9193,
+      "derive_autres_axes_deg": 0.0
+    },
+    {
+      "joint": "J2",
+      "axe_local": "Y",
+      "limites_deg": [
+        -12,
+        12
+      ],
+      "angle_test_deg": 5,
+      "deplacement_temoin_mm": 1.9193,
+      "derive_autres_axes_deg": 0.0
+    },
+    {
+      "joint": "J3",
+      "axe_local": "Y",
+      "limites_deg": [
+        -13,
+        18
+      ],
+      "angle_test_deg": 5,
+      "deplacement_temoin_mm": 1.9193,
+      "derive_autres_axes_deg": 0.0
+    }
+  ],
+  "poses_analysees": 62,
+  "seuil_interference_mm3": 0.006,
+  "interferences": [],
+  "couple_statique": {
+    "hypothese": "PETG plein 1,27 g/cm³, 13,4 g par servo, à vide, 6 g de câbles et de vis au poignet",
+    "axes": {
+      "J2": {
+        "max_Nm": 0.0552,
+        "pose_deg": [
+          0,
+          -12,
+          18
+        ],
+        "masse_mobile_g": 79.6
+      },
+      "J3": {
+        "max_Nm": 0.0327,
+        "pose_deg": [
+          30,
+          12,
+          -13
+        ],
+        "masse_mobile_g": 48.6
+      }
+    }
+  },
+  "reference": "AURA-01 — V3 — Intégration mécatronique",
+  "version_fusion": "2706.1.17",
+  "occurrences": 19,
+  "pieces": 9,
+  "archive": {
+    "nom": "AURA-01_V3_de_table_r01.f3d",
+    "occurrences_reouvertes": 19,
+    "pivots_reouverts": 3,
+    "sha256": "f33089ec822f9787dcb99fb733a84f56129855906d32fe06d08580f8c7cc9fd9"
+  },
+  "nomenclature": [
+    {
+      "reference": "01_Platine",
+      "nom": "01 · Platine et commande",
+      "quantite": 1,
+      "stl": "01_Platine.stl",
+      "orientation_roulis_deg": 0,
+      "dimensions_mm": [
+        126.0,
+        100.0,
+        8.7
+      ],
+      "volume_cm3": 49.2697,
+      "sha256": "e95bfdd6f5d052e2a9165817d4d415fc250bf7f096e8fc6a1eb5771099eb8521"
+    },
+    {
+      "reference": "02_Socle",
+      "nom": "02 · Socle évasé, logement J1",
+      "quantite": 1,
+      "stl": "02_Socle.stl",
+      "orientation_roulis_deg": 180,
+      "dimensions_mm": [
+        66.0,
+        58.0,
+        32.25
+      ],
+      "volume_cm3": 26.5771,
+      "sha256": "c9d8cb3ac3f0726ff652ebf4be68065546916b01974f491fd884c2bccb3f8f49"
+    },
+    {
+      "reference": "03_Tourelle",
+      "nom": "03 · Tourelle et chape d’épaule",
+      "quantite": 1,
+      "stl": "03_Tourelle.stl",
+      "orientation_roulis_deg": 180,
+      "dimensions_mm": [
+        47.7,
+        45.4,
+        40.0
+      ],
+      "volume_cm3": 10.898,
+      "sha256": "8542156cc0663200e4c8b4a3d4c71306103c723d5309c718e8ef38d684fc4d6f"
+    },
+    {
+      "reference": "04_Segment_1",
+      "nom": "04 · Segment 1, bras supérieur",
+      "quantite": 1,
+      "stl": "04_Segment_1.stl",
+      "orientation_roulis_deg": 90,
+      "dimensions_mm": [
+        67.8,
+        18.2,
+        36.4
+      ],
+      "volume_cm3": 11.1067,
+      "sha256": "c7d0c5b52013cfbf7b855d8b0459a2a9add266b20057d5433d2c6141eb7b4461"
+    },
+    {
+      "reference": "05_Segment_2",
+      "nom": "05 · Segment 2, avant-bras",
+      "quantite": 1,
+      "stl": "05_Segment_2.stl",
+      "orientation_roulis_deg": 0,
+      "dimensions_mm": [
+        58.0752,
+        20.2,
+        18.2
+      ],
+      "volume_cm3": 9.4309,
+      "sha256": "a47afef3f04e73cd709c415969d96d2827149d9af651c545a7d83538fddf0656"
+    },
+    {
+      "reference": "06_Segment_3",
+      "nom": "06 · Segment 3 et poignet fixe",
+      "quantite": 1,
+      "stl": "06_Segment_3.stl",
+      "orientation_roulis_deg": 0,
+      "dimensions_mm": [
+        49.603,
+        18.8,
+        18.4
+      ],
+      "volume_cm3": 7.9476,
+      "sha256": "ec0848924a0fbb772dd19ef5e6b5b4a85f3c883e8dc5faf1ecbf9ac323ceef72"
+    },
+    {
+      "reference": "07_Main",
+      "nom": "07 · Main blanche monobloc",
+      "quantite": 1,
+      "stl": "07_Main.stl",
+      "orientation_roulis_deg": 0,
+      "dimensions_mm": [
+        73.7,
+        54.3549,
+        7.0
+      ],
+      "volume_cm3": 15.0962,
+      "sha256": "5d80d65854fefcf9bdc7660ea7dac9eb5c3f9753bb3ed299b5ba7c29af6e1ddc"
+    },
+    {
+      "reference": "08_Capot",
+      "nom": "08 · Capot démontable du segment 1",
+      "quantite": 1,
+      "stl": "08_Capot.stl",
+      "orientation_roulis_deg": 0,
+      "dimensions_mm": [
+        23.9,
+        15.3,
+        1.65
+      ],
+      "volume_cm3": 0.582,
+      "sha256": "da32830478e8b40746f305405ab9e8011811658fba70bda34e25eec9bcfff46b"
+    },
+    {
+      "reference": "09_Capot",
+      "nom": "09 · Capot démontable du segment 2",
+      "quantite": 1,
+      "stl": "09_Capot.stl",
+      "orientation_roulis_deg": 0,
+      "dimensions_mm": [
+        20.9,
+        15.3,
+        1.65
+      ],
+      "volume_cm3": 0.5062,
+      "sha256": "f57a2d5341c505b38799ac319454c922022987f35d0e0f9e5238dbe34e6e994b"
+    }
+  ],
+  "cloud": {
+    "nom": "AURA-01 — V3 de table — 3 axes",
+    "projet": "Robotic Arm — V1",
+    "version": 1,
+    "fusion_id": "urn:adsk.wipprod:dm.lineage:Xq1T75pGQI6yCNXRReJqBg",
+    "url": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uS0w2NDZueTlSV3VLYXF5Z2ZkN196UQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOlhxMVQ3NXBHUUk2eUNOWFJSZUpxQmc",
+    "traitement_termine": true
+  },
+  "demonstration": {
+    "source": "Liaisons natives Fusion",
+    "images": 147,
+    "cadence_images_s": 24
+  }
+}

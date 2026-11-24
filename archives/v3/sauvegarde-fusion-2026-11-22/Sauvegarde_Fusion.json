@@ -1,0 +1,218 @@
+{
+  "etape": "terminé",
+  "references_locales": {
+    "AURA-01 — V3 — Intégration mécatronique": {
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_01_Integration_mecatronique\\AURA-01 — V3 — Intégration mécatronique.f3d",
+      "octets": 9509115,
+      "sha256": "8894cd8deaaf9027427432ee5f2f507e573f114d98e6dfb8959ab97b70cc5c8b"
+    },
+    "AURA-01 — Doigt motorisé — Banc pilote": {
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_01_Integration_mecatronique\\01_Doigt\\AURA-01_Doigt_Pilote.f3d",
+      "octets": 1262281,
+      "sha256": "e121503b876d482a3e6582e22f3ad061e049b148f67e4181f3ba0c67e8e22d29"
+    },
+    "AURA-01 — Épaule J2 — Banc pilote": {
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_01_Integration_mecatronique\\02_Epaule\\AURA-01_J2_Epaule_Pilote.f3d",
+      "octets": 1905582,
+      "sha256": "873b32b1eee0d0409d6f54bd621d010878c0f110c8225a3a0264cd78b5c422e7"
+    },
+    "AURA-01 — V3 — Fabrication r03": {
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_V3\\Fabrication_r03\\AURA-01_V3_FDM_r03.f3d",
+      "octets": 1306838,
+      "sha256": "d38022761fa19056245025fe9375998c66fc1983c6b01918c6e7a26e85b234cb"
+    },
+    "AURA-01 — V3 — Main articulée r02": {
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_V3\\AURA-01_V3_Main-articulee_r02.f3d",
+      "octets": 1992186,
+      "sha256": "eec40e19250220faa4a20de99bf05ea4f58c6f0620339bec9f65af76cc9d2c32"
+    },
+    "AURA-01 — V3 — Main articulée r01": {
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_V3\\AURA-01_V3_Main-articulee_r01.f3d",
+      "octets": 1773776,
+      "sha256": "c06565f3b42a1711ba856b804119c4fcbf2664ce8b16b9588f573fb2a497a256"
+    },
+    "AURA-004 — Coupons de fabrication": {
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA-004_Fabrication\\Coupons\\AURA-004_Coupons.f3d",
+      "octets": 262870,
+      "sha256": "540f9b6c3121ee1a3e7864453877e6df9e6570787d1e184a17bdd3fe3c57cee9"
+    }
+  },
+  "onglets": [
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\01 — Sans nom (23 compos., 22 liaisons).f3d",
+      "octets": 1998004,
+      "sha256": "73df6a93f235cf72f6911fe88d00a71d0e59e9cb4a65ca1165d3f4fa8022fad1"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\02 — AURA-01 V3 — Main articulée (23 compos., 22 liaisons).f3d",
+      "octets": 2006418,
+      "sha256": "5514de9a06e7be4874084bf3c9eb3ac37aba1e8e5c6c59c3a706103bcf6abcb3"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\03 — AURA-01 V3 — Main articulée (23 compos., 22 liaisons).f3d",
+      "octets": 2223488,
+      "sha256": "7799ef6816c9ccef982bd3f377feb9607f26dfe0e4871fa93c0b8c71812d8554"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\04 — V3 FDM r03 (23 compos., 22 liaisons).f3d",
+      "octets": 1306777,
+      "sha256": "2de8db5557a5b9415323663eea3ae19415f527e2238cbfecc3420eb30cce4275"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\05 — V3 FDM r03 (23 compos., 22 liaisons).f3d",
+      "octets": 1306309,
+      "sha256": "571b9160a9f590fb9903fa15ddaacecc4df1f575c32309f614741ed2f1615ab9"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\06 — Doigt motorisé et plaque d’essai (34 compos., 33 liaisons).f3d",
+      "octets": 1243332,
+      "sha256": "3dacb32cf83da5011bcb4019157b1c7687661436922bb176903fba69ae22059e"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\07 — Doigt motorisé et plaque d’essai (37 compos., 36 liaisons).f3d",
+      "octets": 1262409,
+      "sha256": "09e3cbdf7f1f843fb83f67bea8b27aec30d6cc63110f30055faf8f1d93703829"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\08 — J2 épaule avec frein à manque de courant (59 compos., 58 liaisons).f3d",
+      "octets": 1660029,
+      "sha256": "4cbbc9275ee0a3d1800f987b4d68bb07e5d94cede5bd8c1d0470a659b934aa80"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\09 — J2 épaule avec frein à manque de courant (59 compos., 58 liaisons).f3d",
+      "octets": 1697258,
+      "sha256": "cfcbdab7fdd5f389e1f4fec952cd34982ac043873eb4ab182ad18fff831c7786"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\10 — J2 épaule avec frein à manque de courant (65 compos., 64 liaisons).f3d",
+      "octets": 1832929,
+      "sha256": "ebcb8383708ac2f6039fd4824801ba4e8e2481663ee7f6a7d9f27463c42b8f4c"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\11 — J2 épaule avec frein à manque de courant (67 compos., 66 liaisons).f3d",
+      "octets": 1855695,
+      "sha256": "e82b5a944fd787f7ff7189e9c408aa8f2fa515a438d3966e812ff1527546d421"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\12 — AURA-01 — V3 — Intégration mécatronique (315 compos., 314 liaisons).f3d",
+      "octets": 9059412,
+      "sha256": "476fa8e668b5e19f5e0170686a3a77e61749651eefb5e0f67ed031c0889eb824"
+    },
+    {
+      "onglet": "Untitled",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\13 — AURA-01 — V3 — Intégration mécatronique (315 compos., 314 liaisons).f3d",
+      "octets": 9037020,
+      "sha256": "c7d5d05e22622e0543fbcbff309fdae6058dea133de34f0bcf34bed1afef36db"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\14 — J2 épaule avec frein à manque de courant (71 compos., 70 liaisons).f3d",
+      "octets": 1905971,
+      "sha256": "00e41f1093823ad710e9f65d909e8320913a702ef461a30ae585695fe4e6b0b6"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\15 — AURA-01 — V3 — Intégration mécatronique (315 compos., 314 liaisons).f3d",
+      "octets": 9175558,
+      "sha256": "7cf44fb07f565004d576848db8494186867b3f5b625ea19b2332ec9d54b3f4f5"
+    },
+    {
+      "onglet": "Untitled",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\16 — AURA-01 — V3 — Intégration mécatronique (315 compos., 314 liaisons).f3d",
+      "octets": 7221860,
+      "sha256": "3a2492306e0509efe7ba815046a0740482f5c814391696bc37e82f6d976b86a2"
+    },
+    {
+      "onglet": "Sans nom",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\17 — AURA-01 — V3 — Intégration mécatronique (322 compos., 321 liaisons).f3d",
+      "octets": 9508239,
+      "sha256": "b07aa19d0811301316e51977cd63f04404a8be601540b41304effdec24976418"
+    },
+    {
+      "onglet": "Untitled",
+      "etat": "copie locale intacte",
+      "fichier": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\Sauvegarde_Fusion_2026-11-22\\Onglets ouverts — 17h1033\\18 — AURA-01 — V3 — Intégration mécatronique (322 compos., 321 liaisons).f3d",
+      "octets": 9466293,
+      "sha256": "33872bdbc43560e5424b6bf37170560a0cf939171167491fcb3b4ac670cbbdc2"
+    }
+  ],
+  "erreurs": [],
+  "cloud": {
+    "projet": "Robotic Arm — V1",
+    "dossier": "AURA-01 — Sauvegarde V3 et bancs — 2026-11-22",
+    "documents": {
+      "AURA-01 — V3 — Intégration mécatronique": {
+        "etat": "enregistré",
+        "nom_fusion": "AURA-01 — V3 — Intégration mécatronique",
+        "version": 1,
+        "lien": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZklOeDVCbVFRQi1mc2FubXZzaHJ4Zw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOjB2S2RYUVd2VGphZjFLQXJKSFE2d2c"
+      },
+      "AURA-01 — Doigt motorisé — Banc pilote": {
+        "etat": "enregistré",
+        "nom_fusion": "AURA-01 — Doigt motorisé — Banc pilote",
+        "version": 1,
+        "lien": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZklOeDVCbVFRQi1mc2FubXZzaHJ4Zw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOlI4cm9sVlBEUzVHbmpUMXlZb0tVbVE"
+      },
+      "AURA-01 — Épaule J2 — Banc pilote": {
+        "etat": "enregistré",
+        "nom_fusion": "AURA-01 — Épaule J2 — Banc pilote",
+        "version": 1,
+        "lien": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZklOeDVCbVFRQi1mc2FubXZzaHJ4Zw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOmtFZXh5T0FNU2Y2WWZGeWs1dzV4NHc"
+      },
+      "AURA-01 — V3 — Fabrication r03": {
+        "etat": "enregistré",
+        "nom_fusion": "AURA-01 — V3 — Fabrication r03",
+        "version": 1,
+        "lien": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZklOeDVCbVFRQi1mc2FubXZzaHJ4Zw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOmRHNVZSUVFsUkYycHJ6ZG9kLXVFREE"
+      },
+      "AURA-01 — V3 — Main articulée r02": {
+        "etat": "enregistré",
+        "nom_fusion": "AURA-01 — V3 — Main articulée r02",
+        "version": 1,
+        "lien": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZklOeDVCbVFRQi1mc2FubXZzaHJ4Zw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOlo4b1Y4cFQyUWZtWlFSdzFyVnZ2OXc"
+      },
+      "AURA-01 — V3 — Main articulée r01": {
+        "etat": "enregistré",
+        "nom_fusion": "AURA-01 — V3 — Main articulée r01",
+        "version": 1,
+        "lien": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZklOeDVCbVFRQi1mc2FubXZzaHJ4Zw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOlpGeVBhaVhoUTNLRzNDd2I4LTdJWUE"
+      },
+      "AURA-004 — Coupons de fabrication": {
+        "etat": "enregistré",
+        "nom_fusion": "AURA-004 — Coupons de fabrication",
+        "version": 1,
+        "lien": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uZklOeDVCbVFRQi1mc2FubXZzaHJ4Zw/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOmo2QUlKS3g5UmhXdXNXdHNkNFlIR1E"
+      }
+    },
+    "branche_rouverte": true
+  }
+}

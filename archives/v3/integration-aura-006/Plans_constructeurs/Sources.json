@@ -1,0 +1,17 @@
+{
+  "XM540": {
+    "source": "https://www.dropbox.com/s/np9jmkc1u7y1k30/XM%2CH%2CD-540.N101.I101.STP?dl=1",
+    "sha256": "6e0df65638b3a23b12c7ee1114d4d06f5ec2de9e84e3ffddd7e115e8f8faf39f",
+    "octets": 467167
+  },
+  "XM430": {
+    "source": "https://www.dropbox.com/scl/fi/5h3gp05sd9kjgtma5nuw1/XM_H-430_idler.stp?rlkey=09db2f2uz3b9lkacbp31tsu6r&dl=1",
+    "sha256": "7ff4e39475245d5c1fc4f703e9241fca1a09d57aed920274498dbe2cd5e31e22",
+    "octets": 698785
+  },
+  "XC330": {
+    "source": "https://www.dropbox.com/s/qlzmp8mlvzrxmzu/XL,XC-330.stp?dl=1",
+    "sha256": "e2f7b060801a1d6a21f23bca2554f29a402f7d73b8498cb201c9e6adf3139eb6",
+    "octets": 791238
+  }
+}

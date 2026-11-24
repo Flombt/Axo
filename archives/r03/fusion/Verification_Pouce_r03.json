@@ -1,0 +1,800 @@
+{
+  "poses": 72,
+  "jeu_min_paume_mm": 3.2413,
+  "jeu_min_chape_mm": 0.54,
+  "interferences": [],
+  "mesures": [
+    {
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        0,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        19,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        19,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        39,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        39,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        0,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        0,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        19,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        19,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        39,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        39,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        0,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        0,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        19,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        19,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        39,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        39,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        0,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        0,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        19,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        19,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        39,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        39,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        0,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        0,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        19,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        19,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        39,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        39,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        0,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        0,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        19,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        19,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        39,
+        0
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        39,
+        36
+      ],
+      "index_fraction": 0,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        0,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        0,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        19,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        19,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        39,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        0,
+        39,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        0,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        0,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        19,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        19,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        39,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        8,
+        39,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        0,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        0,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        19,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        19,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        39,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        16,
+        39,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        0,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        0,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        19,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        19,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        39,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        24,
+        39,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        0,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        0,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        19,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        19,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        39,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        31,
+        39,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        0,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        0,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        19,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        19,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        39,
+        0
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    },
+    {
+      "angles_deg": [
+        33,
+        39,
+        36
+      ],
+      "index_fraction": 1,
+      "jeu_paume_mm": 3.2413,
+      "jeu_chape_mm": 0.54,
+      "interferences": []
+    }
+  ]
+}

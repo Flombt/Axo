@@ -1,0 +1,11 @@
+﻿file;status;qty;rotate_x_deg;rotate_y_deg;material;filament_mm_each;grams_each;time_each;details
+01_Base.3mf;TRANCHÉ;1;0;0;PETG;12981.11;39.65;4h 12m 30s;
+02_Epaule.3mf;TRANCHÉ;1;0;0;PETG;10123.01;30.92;3h 7m 17s;
+03_Bras-superieur.3mf;TRANCHÉ;1;90;0;PETG;10852.69;33.15;2h 59m 6s;
+04_Avant-bras.3mf;TRANCHÉ;1;90;0;PETG;6657.45;20.34;1h 59m 41s;
+05_Chape-J4.3mf;TRANCHÉ;1;90;0;PETG;2781.89;8.5;56m 22s;
+06_Support-J4-J5.3mf;TRANCHÉ;1;0;90;PETG;2529.4;7.73;44m 53s;
+10_Berceau-G1.3mf;TRANCHÉ;1;0;0;PETG;2608.59;7.97;1h 7m 22s;
+22_Pont-J1.3mf;TRANCHÉ;1;0;0;PETG;694.15;2.12;16m 4s;
+23_Cassette-J4.3mf;TRANCHÉ;1;90;0;PETG;3063.38;9.36;58m 24s;
+24_Cassette-G1.3mf;TRANCHÉ;1;90;0;PETG;2655.8;8.11;52m 29s;

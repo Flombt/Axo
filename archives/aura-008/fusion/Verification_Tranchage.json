@@ -1,0 +1,73 @@
+{
+  "trancheur": "PrusaSlicer-2.9.6 based on Slic3r (with GUI support)",
+  "profil": "PETG · 0,20 mm · buse 0,4 mm",
+  "quantites": {
+    "stl": 17,
+    "pieces": 26
+  },
+  "filament_g": 196.11,
+  "plateaux": [
+    {
+      "fichier": "01_Platine_socle_tourelle.3mf",
+      "instances": 3,
+      "filament_g": 110.34,
+      "duree": "10h 57m 31s",
+      "supports": true,
+      "sections_de_pont": 10,
+      "messages": [],
+      "sha256": "3cceea8276b91e5c067fd85c04420787e6f61362f1e908789419c0809dcb1d91",
+      "pieces": [
+        "01_Platine",
+        "02_Socle",
+        "03_Tourelle"
+      ]
+    },
+    {
+      "fichier": "02_Segments_transmission.3mf",
+      "instances": 7,
+      "filament_g": 48.64,
+      "duree": "5h 17m 4s",
+      "supports": true,
+      "sections_de_pont": 29,
+      "messages": [],
+      "sha256": "7556e7bbdb68de653ff0ce2b54f83f982b9139c14c5e50cefd9d78933a40e619",
+      "pieces": [
+        "04_Segment_1",
+        "05_Segment_2",
+        "06_Segment_3",
+        "08_Capot",
+        "09_Capot",
+        "10_Tambour",
+        "11_Palonnier"
+      ]
+    },
+    {
+      "fichier": "03_Main_blanche_articulee.3mf",
+      "instances": 16,
+      "filament_g": 37.13,
+      "duree": "4h 57m 45s",
+      "supports": true,
+      "sections_de_pont": 56,
+      "messages": [],
+      "sha256": "6d8692ea5f852ae0a6dcd9fae7988aa3d423223b21e0b57314dbf4fd92b3ccc7",
+      "pieces": [
+        "07_Paume",
+        "Phalange_pouce_1",
+        "Phalange_doigt_1",
+        "Phalange_doigt_1",
+        "Phalange_doigt_1",
+        "Phalange_doigt_1",
+        "Phalange_pouce_2",
+        "Phalange_doigt_2",
+        "Phalange_doigt_2",
+        "Phalange_doigt_2",
+        "Phalange_doigt_2",
+        "Phalange_pouce_3",
+        "Phalange_doigt_3",
+        "Phalange_doigt_3",
+        "Phalange_doigt_3",
+        "Phalange_doigt_3"
+      ]
+    }
+  ]
+}

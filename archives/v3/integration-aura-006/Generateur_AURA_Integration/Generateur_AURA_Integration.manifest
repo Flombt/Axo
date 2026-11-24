@@ -1,0 +1,11 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "id": "f28a56bc-9220-4553-bd76-33232b3ba513",
+  "author": "AURA-01",
+  "description": {"": "Reprend la V3 r03 et fabrique les preuves natives du doigt et de J2."},
+  "version": "1.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows",
+  "editEnabled": true
+}

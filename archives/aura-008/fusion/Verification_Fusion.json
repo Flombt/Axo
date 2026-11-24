@@ -1,0 +1,443 @@
+{
+  "fusion": "2706.1.17",
+  "poses": 72,
+  "erreurs": [],
+  "occurrences": 39,
+  "pivots": 20,
+  "couplages": 16,
+  "pieces_fdm": 26,
+  "course_traverse_mm": 7.5,
+  "angles_flexion_nominale_deg": {
+    "P1": 31,
+    "P2": 38,
+    "P3": 35,
+    "I1": 38,
+    "I2": 48,
+    "I3": 40,
+    "M1": 38,
+    "M2": 48,
+    "M3": 40,
+    "A1": 38,
+    "A2": 48,
+    "A3": 40,
+    "U1": 36,
+    "U2": 45,
+    "U3": 38
+  },
+  "couple_statique": {
+    "J2": {
+      "Nm": 0.1204,
+      "pose": [
+        30,
+        -12,
+        18,
+        -36,
+        1
+      ],
+      "masse_mobile_g": 128.8
+    },
+    "J3": {
+      "Nm": 0.0829,
+      "pose": [
+        0,
+        0,
+        0,
+        -36,
+        0
+      ],
+      "masse_mobile_g": 97.7
+    }
+  },
+  "calibration": {
+    "03_Tourelle": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "04_Segment_1": [
+      0.0,
+      1,
+      1.2564
+    ],
+    "05_Segment_2": [
+      0.0,
+      1,
+      1.2564
+    ],
+    "07_Paume": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "10_Tambour": [
+      0.0,
+      1,
+      1.2564
+    ],
+    "P1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "P2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "P3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "I1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "I2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "I3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "M1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "M2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "M3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "A1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "A2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "A3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "U1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "U2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "U3": [
+      0.0,
+      -1,
+      1.2564
+    ]
+  },
+  "calibration_traverse": [
+    0.0,
+    1
+  ],
+  "archive": {
+    "fichier": "AURA-01_V3_Main_Poignet_r01.f3d",
+    "sha256": "9267449098a6e68497b17cca9dc378d0430b784c0628dd0d973041ff2be3e46b",
+    "occurrences": 39,
+    "liaisons": 38,
+    "couplages": 16
+  },
+  "nomenclature": [
+    {
+      "reference": "01_Platine",
+      "quantite": 1,
+      "instances": [
+        "01_Platine"
+      ],
+      "stl": "01_Platine.stl",
+      "dimensions_mm": [
+        126.0,
+        100.0,
+        8.7
+      ],
+      "volume_cm3": 49.2697,
+      "sha256": "e95bfdd6f5d052e2a9165817d4d415fc250bf7f096e8fc6a1eb5771099eb8521"
+    },
+    {
+      "reference": "02_Socle",
+      "quantite": 1,
+      "instances": [
+        "02_Socle"
+      ],
+      "stl": "02_Socle.stl",
+      "dimensions_mm": [
+        66.0,
+        58.0,
+        32.25
+      ],
+      "volume_cm3": 26.2563,
+      "sha256": "732b0915191259c91641dcba898585c4b20d78a1be8f8a88bebad4b66dc565da"
+    },
+    {
+      "reference": "03_Tourelle",
+      "quantite": 1,
+      "instances": [
+        "03_Tourelle"
+      ],
+      "stl": "03_Tourelle.stl",
+      "dimensions_mm": [
+        63.9,
+        48.95,
+        44.0
+      ],
+      "volume_cm3": 15.1745,
+      "sha256": "81d579ce5fddbdf9ede93bdb8d277615f7a0cc95271e4b16a4a22aa89cff1bf1"
+    },
+    {
+      "reference": "04_Segment_1",
+      "quantite": 1,
+      "instances": [
+        "04_Segment_1"
+      ],
+      "stl": "04_Segment_1.stl",
+      "dimensions_mm": [
+        67.8,
+        18.2,
+        36.4
+      ],
+      "volume_cm3": 11.1067,
+      "sha256": "a29ad0bb8eac89b84901561fb5966c0ae27ee1142b3bdb8f0d962a81c35e9cc4"
+    },
+    {
+      "reference": "05_Segment_2",
+      "quantite": 1,
+      "instances": [
+        "05_Segment_2"
+      ],
+      "stl": "05_Segment_2.stl",
+      "dimensions_mm": [
+        58.0752,
+        20.2,
+        18.2
+      ],
+      "volume_cm3": 9.4309,
+      "sha256": "a47afef3f04e73cd709c415969d96d2827149d9af651c545a7d83538fddf0656"
+    },
+    {
+      "reference": "06_Segment_3",
+      "quantite": 1,
+      "instances": [
+        "06_Segment_3"
+      ],
+      "stl": "06_Segment_3.stl",
+      "dimensions_mm": [
+        49.978,
+        24.8,
+        37.2342
+      ],
+      "volume_cm3": 7.4635,
+      "sha256": "95f6759b9775b1157a4763acc3d750518fd7080a843b8c216a3a1f2d6d0cd8cc"
+    },
+    {
+      "reference": "07_Paume",
+      "quantite": 1,
+      "instances": [
+        "07_Paume"
+      ],
+      "stl": "07_Paume.stl",
+      "dimensions_mm": [
+        59.2,
+        48.6972,
+        29.35
+      ],
+      "volume_cm3": 15.7774,
+      "sha256": "9a8a98e0609f0a79891ff2c41fa175cf9f3a8f7af2c90d8529ebc7b3bb09d44e"
+    },
+    {
+      "reference": "08_Capot",
+      "quantite": 1,
+      "instances": [
+        "08_Capot"
+      ],
+      "stl": "08_Capot.stl",
+      "dimensions_mm": [
+        23.9,
+        15.3,
+        1.65
+      ],
+      "volume_cm3": 0.582,
+      "sha256": "da32830478e8b40746f305405ab9e8011811658fba70bda34e25eec9bcfff46b"
+    },
+    {
+      "reference": "09_Capot",
+      "quantite": 1,
+      "instances": [
+        "09_Capot"
+      ],
+      "stl": "09_Capot.stl",
+      "dimensions_mm": [
+        20.9,
+        15.3,
+        1.65
+      ],
+      "volume_cm3": 0.5062,
+      "sha256": "f57a2d5341c505b38799ac319454c922022987f35d0e0f9e5238dbe34e6e994b"
+    },
+    {
+      "reference": "10_Tambour",
+      "quantite": 1,
+      "instances": [
+        "10_Tambour"
+      ],
+      "stl": "10_Tambour.stl",
+      "dimensions_mm": [
+        15.1,
+        15.1,
+        6.05
+      ],
+      "volume_cm3": 0.7835,
+      "sha256": "855a559f54e4f66c249d66a15982d985e4f2d0907820888bf757cb234afdcf26"
+    },
+    {
+      "reference": "11_Palonnier",
+      "quantite": 1,
+      "instances": [
+        "11_Palonnier"
+      ],
+      "stl": "11_Palonnier.stl",
+      "dimensions_mm": [
+        2.5,
+        40.46,
+        2.26
+      ],
+      "volume_cm3": 0.2065,
+      "sha256": "6d0c8f652b785788dd213f24ae45486f2f553126d55d11c97ad9924cb6187c00"
+    },
+    {
+      "reference": "Phalange_pouce_1",
+      "quantite": 1,
+      "instances": [
+        "P1"
+      ],
+      "stl": "Phalange_pouce_1.stl",
+      "dimensions_mm": [
+        20.79,
+        8.4,
+        7.5
+      ],
+      "volume_cm3": 0.6156,
+      "sha256": "12ee7edbad3b8937fa3bcd979b12fac1fa4d0e4d680815b019ab378d4fd291b7"
+    },
+    {
+      "reference": "Phalange_pouce_2",
+      "quantite": 1,
+      "instances": [
+        "P2"
+      ],
+      "stl": "Phalange_pouce_2.stl",
+      "dimensions_mm": [
+        18.79,
+        8.4,
+        7.5
+      ],
+      "volume_cm3": 0.4961,
+      "sha256": "715c6dbe7e1f17331fc8b1adc64bdaeb17ea041291ba0ebf995024dcde29ea2e"
+    },
+    {
+      "reference": "Phalange_pouce_3",
+      "quantite": 1,
+      "instances": [
+        "P3"
+      ],
+      "stl": "Phalange_pouce_3.stl",
+      "dimensions_mm": [
+        14.34,
+        8.4,
+        7.5
+      ],
+      "volume_cm3": 0.526,
+      "sha256": "20c2aae4f2e6f526e596f18957673e80afb21a93c0e8302196b5b103dfe0a348"
+    },
+    {
+      "reference": "Phalange_doigt_1",
+      "quantite": 4,
+      "instances": [
+        "I1",
+        "M1",
+        "A1",
+        "U1"
+      ],
+      "stl": "Phalange_doigt_1.stl",
+      "dimensions_mm": [
+        22.79,
+        8.4,
+        7.5
+      ],
+      "volume_cm3": 0.735,
+      "sha256": "87512721a36ce93176370f9e932859abcdab2a2cc85249b8265d956aed1274b5"
+    },
+    {
+      "reference": "Phalange_doigt_2",
+      "quantite": 4,
+      "instances": [
+        "I2",
+        "M2",
+        "A2",
+        "U2"
+      ],
+      "stl": "Phalange_doigt_2.stl",
+      "dimensions_mm": [
+        20.79,
+        8.4,
+        7.5
+      ],
+      "volume_cm3": 0.6156,
+      "sha256": "12ee7edbad3b8937fa3bcd979b12fac1fa4d0e4d680815b019ab378d4fd291b7"
+    },
+    {
+      "reference": "Phalange_doigt_3",
+      "quantite": 4,
+      "instances": [
+        "I3",
+        "M3",
+        "A3",
+        "U3"
+      ],
+      "stl": "Phalange_doigt_3.stl",
+      "dimensions_mm": [
+        15.84,
+        8.4,
+        7.5
+      ],
+      "volume_cm3": 0.6181,
+      "sha256": "725b42dd675d17855445a3f9d75e1a3c714bc042dae14660e2c1ee642f6061d3"
+    }
+  ],
+  "cloud": {
+    "nom": "AURA-01 — V3 de table — Main et poignet articulés",
+    "projet": "Robotic Arm — V1",
+    "version": 2,
+    "id": "urn:adsk.wipprod:dm.lineage:o0SmCpQpT_iCykHgVy8qGA",
+    "url": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uS0w2NDZueTlSV3VLYXF5Z2ZkN196UQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOm8wU21DcFFwVF9pQ3lrSGdWeThxR0E",
+    "synchronise": true
+  },
+  "video": {
+    "images_fusion": 160,
+    "cadence": 24,
+    "nom": "AURA-01_Poignet_Phalanges.mp4"
+  }
+}

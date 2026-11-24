@@ -1,0 +1,6 @@
+﻿file;status;qty;rotate_x_deg;rotate_y_deg;material;filament_mm_each;grams_each;time_each;details
+Guidage_G1_paires_axe_D3.3mf;TRANCHÉ;1;0;0;PETG;4427.28;13.52;1h 38m 41s;
+Insert_M3_5p7.3mf;TRANCHÉ;1;0;0;PETG;2026.64;6.19;41m 40s;
+Pivot_horizontal_D5.3mf;TRANCHÉ;1;0;0;PETG;5376.37;16.42;1h 56m 0s;
+Pivot_horizontal_D6.3mf;TRANCHÉ;1;0;0;PETG;5437.73;16.61;2h 0m 21s;
+Portee_verticale_D15.3mf;TRANCHÉ;1;0;0;PETG;4341.55;13.26;1h 17m 8s;

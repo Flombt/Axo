@@ -1,0 +1,35 @@
+# Données de session, paramètres d’interface et sauvegardes de travail locales
+.obsidian/
+archives/.local/
+.local/
+.env
+.env.*
+!.env.example
+*.local.json
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+credentials.json
+
+# Fichiers intermédiaires et caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+.cache/
+tmp/
+temp/
+*.tmp
+*.part
+*.log
+*.gcode
+*.bgcode
+*.blend[1-9]
+Thumbs.db
+Desktop.ini
+.DS_Store
+~$*

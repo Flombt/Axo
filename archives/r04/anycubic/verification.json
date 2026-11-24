@@ -1,0 +1,3443 @@
+{
+  "ind_01_Platine": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 14716,
+    "masse_g": 82.35,
+    "longueur_m": 26.34,
+    "emprise_xy_mm": [
+      229.1,
+      229.1
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "01_Platine": {
+        "reference": "01_Platine",
+        "ecart_max_mm": 6.821477971428054e-08,
+        "emprise_mm": [
+          98.448702478,
+          95.448701478,
+          0.0,
+          327.551299522,
+          324.551298522,
+          6.0
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/01_Platine.3mf",
+    "sha256_3mf": "19d48ec3e966cec96fcf1d9b70045d4c9b0798f2116c03beb2e3ef52b2160f5e"
+  },
+  "ind_02_Socle": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 4317,
+    "masse_g": 23.44,
+    "longueur_m": 7.5,
+    "emprise_xy_mm": [
+      74.66,
+      80.98
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "02_Socle": {
+        "reference": "02_Socle",
+        "ecart_max_mm": 4.791995979028232e-07,
+        "emprise_mm": [
+          175.6679392,
+          169.5076561,
+          0.0,
+          250.3320628,
+          250.4923439,
+          21.5
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/02_Socle.3mf",
+    "sha256_3mf": "73e48c5bba4c6bab8c1c6671754dcf4ae0ce625c0e5c450cf188b31c11d1302c"
+  },
+  "ind_03_Tourelle": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 6313,
+    "masse_g": 25.68,
+    "longueur_m": 8.21,
+    "emprise_xy_mm": [
+      65.17,
+      65.17
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "03_Tourelle": {
+        "reference": "03_Tourelle",
+        "ecart_max_mm": 9.927766968139123e-07,
+        "emprise_mm": [
+          183.06556170427825,
+          179.8534292631927,
+          0.0,
+          242.9344397368073,
+          240.14657164716448,
+          51.0
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/03_Tourelle.3mf",
+    "sha256_3mf": "66116000aed46bf7be8ff1c103c0021ecfbd4c24c8c9cced42956cf489f1468e"
+  },
+  "ind_04_Segment_1": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 3093,
+    "masse_g": 14.78,
+    "longueur_m": 4.73,
+    "emprise_xy_mm": [
+      38.54,
+      76.51
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "04_Segment_1": {
+        "reference": "04_Segment_1",
+        "ecart_max_mm": 4.616377615793906e-07,
+        "emprise_mm": [
+          196.8914270085619,
+          176.85718516616532,
+          0.0,
+          229.10402093356174,
+          243.14290539568097,
+          37.4000016
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/04_Segment_1.3mf",
+    "sha256_3mf": "e4b3ad5a9e37d915708757234522835dc8b55977ea88e7049f2d63b1e2dfa3e4"
+  },
+  "ind_05_Segment_2": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 2269,
+    "masse_g": 8.93,
+    "longueur_m": 2.86,
+    "emprise_xy_mm": [
+      25.53,
+      58.09
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "05_Segment_2": {
+        "reference": "05_Segment_2",
+        "ecart_max_mm": 4.768003111269514e-07,
+        "emprise_mm": [
+          203.96578265392824,
+          181.20749405233227,
+          0.0,
+          222.0330108414563,
+          238.87637267261687,
+          17.71999932
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/05_Segment_2.3mf",
+    "sha256_3mf": "09d6427e7b426242a0680016dfd03f8395b8584fdceec1e346efd55ebe97e72b"
+  },
+  "ind_06_Segment_3": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 1686,
+    "masse_g": 6.48,
+    "longueur_m": 2.07,
+    "emprise_xy_mm": [
+      39.1,
+      53.49
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "06_Segment_3": {
+        "reference": "06_Segment_3",
+        "ecart_max_mm": 5.024750245832485e-07,
+        "emprise_mm": [
+          199.9800005,
+          189.079633121631,
+          1.77635684e-15,
+          226.0200015,
+          230.92036572163101,
+          24.433954200000002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/06_Segment_3.3mf",
+    "sha256_3mf": "f0980ae9134b28518d26aa95cce0365ee1d7ba384f41464b52fc9aafe4006da3"
+  },
+  "ind_07_Paume": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 4212,
+    "masse_g": 14.73,
+    "longueur_m": 4.71,
+    "emprise_xy_mm": [
+      69.07,
+      81.68
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "07_Paume": {
+        "reference": "07_Paume",
+        "ecart_max_mm": 1.104292865080714e-06,
+        "emprise_mm": [
+          179.77208657098066,
+          174.75022938938966,
+          3.55271368e-15,
+          246.07613425520486,
+          245.2470011120441,
+          24.330000000000002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/07_Paume.3mf",
+    "sha256_3mf": "c75295f2f30361bdaa471ec66a23c45a4a3cd44c3f70ff029eec6363547bf1ec"
+  },
+  "ind_08_Capot": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 123,
+    "masse_g": 0.7,
+    "longueur_m": 0.22,
+    "emprise_xy_mm": [
+      25.63,
+      25.63
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "08_Capot": {
+        "reference": "08_Capot",
+        "ecart_max_mm": 4.923461740889392e-08,
+        "emprise_mm": [
+          200.18575407747494,
+          197.18575407747494,
+          5.55111512e-16,
+          225.81424592252506,
+          222.81424592252506,
+          1.6499999760000004
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/08_Capot.3mf",
+    "sha256_3mf": "312038c5ec5a75325a31ed38b3fa3b4213980fecf1aa5800fcc14062cc689c5b"
+  },
+  "ind_09_Capot": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 111,
+    "masse_g": 0.61,
+    "longueur_m": 0.19,
+    "emprise_xy_mm": [
+      23.51,
+      23.51
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "09_Capot": {
+        "reference": "09_Capot",
+        "ecart_max_mm": 3.3029220534888873e-08,
+        "emprise_mm": [
+          201.24641528433028,
+          198.24641428433029,
+          5.55111512e-16,
+          224.7535867156697,
+          221.75358571566971,
+          1.6499999760000004
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/09_Capot.3mf",
+    "sha256_3mf": "0a90756867b3873f88f206a935b69bab45ff8424201efde04e89eadebb0e6747"
+  },
+  "ind_P07_Porte_J2": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 1962,
+    "masse_g": 8.31,
+    "longueur_m": 2.66,
+    "emprise_xy_mm": [
+      59.98,
+      62.39
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "P07_Porte_J2": {
+        "reference": "P07_Porte_J2",
+        "ecart_max_mm": 2.4250753022643155e-07,
+        "emprise_mm": [
+          183.1012382536443,
+          178.80281195722407,
+          0.0,
+          243.08283407761758,
+          241.19718804277593,
+          24.25
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/P07_Porte_J2.3mf",
+    "sha256_3mf": "e3520946301632f4f1847d9fb13da64436af5ef96c5a6dc7537cabaebfc54239"
+  },
+  "ind_P09_Frein_J2": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 918,
+    "masse_g": 3.62,
+    "longueur_m": 1.16,
+    "emprise_xy_mm": [
+      44.86,
+      50.61
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "P09_Frein_J2": {
+        "reference": "P09_Frein_J2",
+        "ecart_max_mm": 2.4193733195539584e-07,
+        "emprise_mm": [
+          195.80140796154595,
+          192.18262027228238,
+          0.0,
+          230.19866286096766,
+          227.81731203845408,
+          14.5500002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/P09_Frein_J2.3mf",
+    "sha256_3mf": "8598be4e52c90ce7e69e018273118afa6c741193b172880015175b003dd99c68"
+  },
+  "ind_P11_Garde_J2": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 466,
+    "masse_g": 1.96,
+    "longueur_m": 0.63,
+    "emprise_xy_mm": [
+      45.95,
+      46.0
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "P11_Garde_J2": {
+        "reference": "P11_Garde_J2",
+        "ecart_max_mm": 6.792544708914756e-08,
+        "emprise_mm": [
+          190.0231607082402,
+          187.00000085910744,
+          4.4408921e-16,
+          235.9768412917598,
+          232.99999914089256,
+          7.1999998000000005
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/P11_Garde_J2.3mf",
+    "sha256_3mf": "793e20754ab6ea216e1a52be258c56ef573e27585b316cf8fd99c862e98d38d3"
+  },
+  "ind_P08_Porte_J3": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 2227,
+    "masse_g": 9.97,
+    "longueur_m": 3.19,
+    "emprise_xy_mm": [
+      47.42,
+      48.72
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "P08_Porte_J3": {
+        "reference": "P08_Porte_J3",
+        "ecart_max_mm": 5.259663065959284e-07,
+        "emprise_mm": [
+          189.17619703268312,
+          185.64143824373153,
+          0.0,
+          236.60553070047024,
+          234.35856175626847,
+          33.6500016
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/P08_Porte_J3.3mf",
+    "sha256_3mf": "dcf358a7f2454030c18959f827481c4f94b6f45b12b37d050db64ddb067a00e6"
+  },
+  "ind_P10_Frein_J3": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 916,
+    "masse_g": 3.62,
+    "longueur_m": 1.16,
+    "emprise_xy_mm": [
+      44.86,
+      50.61
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "P10_Frein_J3": {
+        "reference": "P10_Frein_J3",
+        "ecart_max_mm": 2.4193733195539584e-07,
+        "emprise_mm": [
+          195.80140796154595,
+          192.18262027228238,
+          0.0,
+          230.19866286096766,
+          227.81731203845408,
+          14.5500002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/P10_Frein_J3.3mf",
+    "sha256_3mf": "17883c525ac3690633db6ca896fb5ef49fcbac8d82438b7491435df9ceaf6e21"
+  },
+  "ind_P12_Garde_J3": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 462,
+    "masse_g": 1.93,
+    "longueur_m": 0.62,
+    "emprise_xy_mm": [
+      45.95,
+      46.0
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "P12_Garde_J3": {
+        "reference": "P12_Garde_J3",
+        "ecart_max_mm": 6.565865704607256e-08,
+        "emprise_mm": [
+          190.0231607082402,
+          187.00000085910744,
+          2.66453526e-15,
+          235.9768412917598,
+          232.99999914089256,
+          7.199999800000002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/P12_Garde_J3.3mf",
+    "sha256_3mf": "aa40b73be1578763f3016d5f6a8a8c668cc8508345ff9301b94d163912b3f042"
+  },
+  "ind_12_Support_Pouce": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 570,
+    "masse_g": 1.33,
+    "longueur_m": 0.43,
+    "emprise_xy_mm": [
+      26.76,
+      29.33
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "12_Support_Pouce": {
+        "reference": "12_Support_Pouce",
+        "ecart_max_mm": 2.424021727032514e-07,
+        "emprise_mm": [
+          202.61537996114498,
+          198.4856099,
+          8.8817842e-16,
+          223.411783761145,
+          221.4243401,
+          9.507624620000001
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/12_Support_Pouce.3mf",
+    "sha256_3mf": "61fdbfa1a0517b9a7b4d9da393c3f93b604c21c4e51e3937f8d0bdfa85ff64ba"
+  },
+  "ind_13_Bride_Poignet": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 1992,
+    "masse_g": 9.03,
+    "longueur_m": 2.89,
+    "emprise_xy_mm": [
+      39.1,
+      45.32
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "13_Bride_Poignet": {
+        "reference": "13_Bride_Poignet",
+        "ecart_max_mm": 4.7850771768214e-07,
+        "emprise_mm": [
+          196.5207701,
+          189.9599991,
+          0.0,
+          229.4792319,
+          230.0400009,
+          24.3999996
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/13_Bride_Poignet.3mf",
+    "sha256_3mf": "1ca17642944ac10a29d9de03a4029bc1aaabc636ff32016805263700b2aa59d6"
+  },
+  "ind_14_Moyeu": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 1011,
+    "masse_g": 2.09,
+    "longueur_m": 0.67,
+    "emprise_xy_mm": [
+      27.66,
+      27.66
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "14_Moyeu": {
+        "reference": "14_Moyeu",
+        "ecart_max_mm": 2.43408699937379e-07,
+        "emprise_mm": [
+          206.81116812043834,
+          203.80558593272826,
+          0.0,
+          219.18883263233823,
+          216.19441284168056,
+          20.8700008
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/14_Moyeu.3mf",
+    "sha256_3mf": "c64ec9b18f02e60a80aa9cd9bc5b3b394f4b73d2bfed5431c5273fdbae3caac0"
+  },
+  "ind_Phalange_14": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 534,
+    "masse_g": 0.87,
+    "longueur_m": 0.28,
+    "emprise_xy_mm": [
+      19.96,
+      28.8
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Phalange_14": {
+        "reference": "Phalange_14",
+        "ecart_max_mm": 5.089469143294498e-07,
+        "emprise_mm": [
+          208.3499999,
+          199.29081054973798,
+          0.0,
+          217.6500001,
+          220.709191349738,
+          8.019907
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/Phalange_14.3mf",
+    "sha256_3mf": "9479187d3812727815277d6fa0245720c77a4803a264d6b81b605181ec70a2a5"
+  },
+  "ind_Phalange_12p5": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 514,
+    "masse_g": 0.76,
+    "longueur_m": 0.24,
+    "emprise_xy_mm": [
+      19.96,
+      27.22
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Phalange_12p5": {
+        "reference": "Phalange_12p5",
+        "ecart_max_mm": 4.936844405882908e-07,
+        "emprise_mm": [
+          208.3499999,
+          200.04081057973798,
+          0.0,
+          217.6500001,
+          219.95919131973798,
+          8.019907
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/Phalange_12p5.3mf",
+    "sha256_3mf": "d77ccf8ddc571606cb0381fc7a7cb9c1948ea39a8391cc11a8d2c22ab2d2dc3f"
+  },
+  "ind_Bout_11": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 439,
+    "masse_g": 0.65,
+    "longueur_m": 0.21,
+    "emprise_xy_mm": [
+      19.52,
+      19.52
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Bout_11": {
+        "reference": "Bout_11",
+        "ecart_max_mm": 2.7256713228362574e-07,
+        "emprise_mm": [
+          205.6161243056576,
+          202.8253177380703,
+          0.0,
+          220.1746832619297,
+          217.3838766943424,
+          7.42000008
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/Bout_11.3mf",
+    "sha256_3mf": "97f304d9c670e58690d0b58ce32b5a2d375bcd13a98a0813090b8b5f709845b9"
+  },
+  "ind_Phalange_16": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 542,
+    "masse_g": 0.98,
+    "longueur_m": 0.31,
+    "emprise_xy_mm": [
+      19.96,
+      24.29
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Phalange_16": {
+        "reference": "Phalange_16",
+        "ecart_max_mm": 5.384183822508564e-07,
+        "emprise_mm": [
+          208.3500009,
+          198.29081054973798,
+          0.0,
+          217.6500011,
+          221.709191349738,
+          8.019907
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/Phalange_16.3mf",
+    "sha256_3mf": "f9fa4f851ca146b36e385e4e332c0f5dd8b193db6ddfb2682eb4657056683977"
+  },
+  "ind_Bout_12p5": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 483,
+    "masse_g": 0.76,
+    "longueur_m": 0.24,
+    "emprise_xy_mm": [
+      15.91,
+      20.04
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Bout_12p5": {
+        "reference": "Bout_12p5",
+        "ecart_max_mm": 2.7256713228362574e-07,
+        "emprise_mm": [
+          208.80000019,
+          202.06554443961602,
+          0.0,
+          217.19999981,
+          217.934456179616,
+          7.42000008
+        ]
+      }
+    },
+    "chemin": "individual_parts/Blanc_Ceramique/Bout_12p5.3mf",
+    "sha256_3mf": "3a3aa6c9dd46e8702dd5791ec9a056aeeb90888fe9641c32b1a1d335fce57c84"
+  },
+  "ind_Attache_J2_A": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 277,
+    "masse_g": 0.54,
+    "longueur_m": 0.17,
+    "emprise_xy_mm": [
+      8.36,
+      8.36
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Attache_J2_A": {
+        "reference": "Attache_J2_A",
+        "ecart_max_mm": 1.8166101614468933e-07,
+        "emprise_mm": [
+          208.82000117,
+          205.82000017000001,
+          0.0,
+          217.18000082999998,
+          214.17999982999999,
+          15.4250002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/Attache_J2_A.3mf",
+    "sha256_3mf": "5bc7ab27d4e6d2e1885ff3e227ab92f9a8e97ac33cc86b283294818ec2032f7d"
+  },
+  "ind_Attache_J2_B": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 782,
+    "masse_g": 1.56,
+    "longueur_m": 0.5,
+    "emprise_xy_mm": [
+      21.84,
+      27.57
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Attache_J2_B": {
+        "reference": "Attache_J2_B",
+        "ecart_max_mm": 4.911141323347266e-08,
+        "emprise_mm": [
+          208.82189864755665,
+          201.80937776754658,
+          0.0,
+          217.1789240016679,
+          218.19013269449357,
+          20.1499996
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/Attache_J2_B.3mf",
+    "sha256_3mf": "d4e54652e804d5e57ce84ce0555dcd947d514e3a0b8ac15b3e251d76c67a2c2a"
+  },
+  "ind_Guide_14mm_J2": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 422,
+    "masse_g": 1.1,
+    "longueur_m": 0.35,
+    "emprise_xy_mm": [
+      21.84,
+      33.35
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Guide_14mm_J2": {
+        "reference": "Guide_14mm_J2",
+        "ecart_max_mm": 1.1863583251044935e-07,
+        "emprise_mm": [
+          208.82000116999998,
+          198.8199997,
+          0.0,
+          217.18000083,
+          221.1800003,
+          7.2249999
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/Guide_14mm_J2.3mf",
+    "sha256_3mf": "1f6a6be6a99161e2a7bf77011b6c9a877039145cc69e2b5fcaefb01e42c582b9"
+  },
+  "ind_Attache_J3_A": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 283,
+    "masse_g": 0.54,
+    "longueur_m": 0.17,
+    "emprise_xy_mm": [
+      8.36,
+      8.36
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Attache_J3_A": {
+        "reference": "Attache_J3_A",
+        "ecart_max_mm": 1.8166101614468933e-07,
+        "emprise_mm": [
+          208.82000117,
+          205.82000017000001,
+          0.0,
+          217.18000082999998,
+          214.17999982999999,
+          15.4250002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/Attache_J3_A.3mf",
+    "sha256_3mf": "49826ce074db1a93f2b2012123768a05e47e22cd18caa4bc85ab3126d6f4efbc"
+  },
+  "ind_Attache_J3_B": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 837,
+    "masse_g": 1.67,
+    "longueur_m": 0.53,
+    "emprise_xy_mm": [
+      22.03,
+      31.04
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Attache_J3_B": {
+        "reference": "Attache_J3_B",
+        "ecart_max_mm": 4.891984449280624e-08,
+        "emprise_mm": [
+          207.4642240860314,
+          201.20908285181181,
+          0.0,
+          218.53614214455888,
+          218.79091621376716,
+          20.1499996
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/Attache_J3_B.3mf",
+    "sha256_3mf": "f69ed4d9a91805c89a4217072b6d4d2cd260275cd3af5ec4148f23d742145559"
+  },
+  "ind_Guide_14mm_J3": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 422,
+    "masse_g": 1.13,
+    "longueur_m": 0.36,
+    "emprise_xy_mm": [
+      21.84,
+      33.35
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Guide_14mm_J3": {
+        "reference": "Guide_14mm_J3",
+        "ecart_max_mm": 1.1863583251044935e-07,
+        "emprise_mm": [
+          208.82000116999998,
+          198.8199997,
+          0.0,
+          217.18000083,
+          221.1800003,
+          7.2249999
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/Guide_14mm_J3.3mf",
+    "sha256_3mf": "6e176d314bba622e5bde0f255f3710706ebba96ad20c294d16610fda626af7b8"
+  },
+  "ind_Collier_faisceau_03": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 125,
+    "masse_g": 0.21,
+    "longueur_m": 0.07,
+    "emprise_xy_mm": [
+      16.11,
+      19.74
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Collier_faisceau_03": {
+        "reference": "Collier_faisceau_03",
+        "ecart_max_mm": 1.1082680518929676e-07,
+        "emprise_mm": [
+          210.8092885,
+          204.94277545508,
+          0.0,
+          215.1907115,
+          215.05722495508,
+          4.54089022
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/Collier_faisceau_03.3mf",
+    "sha256_3mf": "cdf3c83494187749f6dd22ecb6cdebb4a523a82d39f9c874cb6a5c96467e054e"
+  },
+  "ind_Collier_faisceau_04": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 95,
+    "masse_g": 0.14,
+    "longueur_m": 0.05,
+    "emprise_xy_mm": [
+      17.63,
+      15.79
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Collier_faisceau_04": {
+        "reference": "Collier_faisceau_04",
+        "ecart_max_mm": 6.442119379873403e-08,
+        "emprise_mm": [
+          210.8092885,
+          204.94277545508,
+          0.0,
+          215.1907115,
+          215.05722495508,
+          4.54089022
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/Collier_faisceau_04.3mf",
+    "sha256_3mf": "02f9259594422ff5a56ab0c0a99f5a325467b954d521707b1423e530a6da2005"
+  },
+  "ind_J1_Bague_Basse": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 309,
+    "masse_g": 1.72,
+    "longueur_m": 0.55,
+    "emprise_xy_mm": [
+      52.0,
+      52.0
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Bague_Basse": {
+        "reference": "J1_Bague_Basse",
+        "ecart_max_mm": 5.4463227224773665e-08,
+        "emprise_mm": [
+          186.99999999440539,
+          183.99999999440539,
+          0.0,
+          239.00000000559461,
+          236.00000000559461,
+          2.48000002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/J1_Bague_Basse.3mf",
+    "sha256_3mf": "e8f4df4e1ce3f3329b93bb4816541fe0aabfde2c95d487f902e6d774d3cc1037"
+  },
+  "ind_J1_Bride_RLT": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 318,
+    "masse_g": 1.53,
+    "longueur_m": 0.49,
+    "emprise_xy_mm": [
+      61.26,
+      61.3
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "J1_Bride_RLT": {
+        "reference": "J1_Bride_RLT",
+        "ecart_max_mm": 6.020519971006991e-08,
+        "emprise_mm": [
+          182.37249257778936,
+          179.3500010028852,
+          0.0,
+          243.62750942221064,
+          240.6499989971148,
+          1.120000004
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/J1_Bride_RLT.3mf",
+    "sha256_3mf": "7894f04d9a4faa7f6979521f1e2bc1104bec98ae7bc9efd6e3d8d7afcbb52ab7"
+  },
+  "ind_J1_Porte_Moteur": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#777F88",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 2807,
+    "masse_g": 13.15,
+    "longueur_m": 4.21,
+    "emprise_xy_mm": [
+      85.14,
+      85.14
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Porte_Moteur": {
+        "reference": "J1_Porte_Moteur",
+        "ecart_max_mm": 2.4291998694108543e-07,
+        "emprise_mm": [
+          178.28281951655163,
+          175.28281951655163,
+          1.77635684e-15,
+          247.71718048344837,
+          244.71718048344837,
+          22.620000800000003
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Acier/J1_Porte_Moteur.3mf",
+    "sha256_3mf": "bef7a86a4c148a009100071498e11ef81632ecd73276588df318430bddf578a5"
+  },
+  "ind_J1_Couronne": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 3827,
+    "masse_g": 18.83,
+    "longueur_m": 6.02,
+    "emprise_xy_mm": [
+      89.97,
+      89.97
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Couronne": {
+        "reference": "J1_Couronne",
+        "ecart_max_mm": 6.723313603993698e-08,
+        "emprise_mm": [
+          168.01724986110904,
+          165.01724986110904,
+          0.0,
+          257.982750138891,
+          254.98275013889096,
+          6.0
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/J1_Couronne.3mf",
+    "sha256_3mf": "ac93341d36ca3fdf063950baeb480233510f273b738758196fc9b9ec403819e8"
+  },
+  "ind_J1_Pignon": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#777F88",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 553,
+    "masse_g": 1.74,
+    "longueur_m": 0.56,
+    "emprise_xy_mm": [
+      21.99,
+      21.99
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "J1_Pignon": {
+        "reference": "J1_Pignon",
+        "ecart_max_mm": 3.8270543814601137e-08,
+        "emprise_mm": [
+          202.00418589361465,
+          199.00418489361465,
+          0.0,
+          223.99581610638535,
+          220.99581510638535,
+          6.0
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Acier/J1_Pignon.3mf",
+    "sha256_3mf": "aa768ba1098485f20e0c06481635cdfec50b1763fb544760609909a80f02a1ef"
+  },
+  "ind_J1_Moyeu_Pignon": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 352,
+    "masse_g": 1.02,
+    "longueur_m": 0.32,
+    "emprise_xy_mm": [
+      14.78,
+      14.79
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Moyeu_Pignon": {
+        "reference": "J1_Moyeu_Pignon",
+        "ecart_max_mm": 6.692494745915012e-09,
+        "emprise_mm": [
+          205.61085701974892,
+          202.60574259553675,
+          0.0,
+          220.38914435483898,
+          217.39488203648054,
+          6.5
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/J1_Moyeu_Pignon.3mf",
+    "sha256_3mf": "d3c5c88ee461a1619db711fc392b40210717462dcab22a91c9791ebd9bc5b3db"
+  },
+  "ind_J1_Garde": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 2780,
+    "masse_g": 19.02,
+    "longueur_m": 6.08,
+    "emprise_xy_mm": [
+      100.97,
+      125.9
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Garde": {
+        "reference": "J1_Garde",
+        "ecart_max_mm": 1.3189163825697448e-07,
+        "emprise_mm": [
+          162.50356620754238,
+          147.05175594067947,
+          2.66453526e-15,
+          263.49642252447813,
+          272.94862484316707,
+          8.140000340000004
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/J1_Garde.3mf",
+    "sha256_3mf": "8e31c2002502ad0801259367e547de76b161c8b70cfababfc55349eb646da305"
+  },
+  "ind_J1_Chapeau_Aimant": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 197,
+    "masse_g": 0.36,
+    "longueur_m": 0.11,
+    "emprise_xy_mm": [
+      9.6,
+      9.6
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Chapeau_Aimant": {
+        "reference": "J1_Chapeau_Aimant",
+        "ecart_max_mm": 7.454251653302623e-09,
+        "emprise_mm": [
+          208.2000012026761,
+          205.2000002026761,
+          0.0,
+          217.8000007973239,
+          214.7999997973239,
+          6.0500002
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/J1_Chapeau_Aimant.3mf",
+    "sha256_3mf": "62e7182191d1e8b342f75cc1c07da951a2c8bd2bed97bc8d0169cbfbaeb94c2b"
+  },
+  "ind_J1_Capteur_Capot": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 827,
+    "masse_g": 3.58,
+    "longueur_m": 1.15,
+    "emprise_xy_mm": [
+      28.38,
+      28.38
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Capteur_Capot": {
+        "reference": "J1_Capteur_Capot",
+        "ecart_max_mm": 2.3887829249432147e-07,
+        "emprise_mm": [
+          198.80845779981507,
+          195.80845679981508,
+          0.0,
+          227.19154420018492,
+          224.19154320018492,
+          14.22999954
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/J1_Capteur_Capot.3mf",
+    "sha256_3mf": "c9fe1ca2a856fa57c0e4d5ca5cb414480ac12867c18cb26c250bd729f0274709"
+  },
+  "ind_MAIN_Cassette": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 3364,
+    "masse_g": 15.01,
+    "longueur_m": 4.8,
+    "emprise_xy_mm": [
+      67.88,
+      67.88
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "MAIN_Cassette": {
+        "reference": "MAIN_Cassette",
+        "ecart_max_mm": 2.428061226060761e-07,
+        "emprise_mm": [
+          184.63759760582255,
+          181.63759760582255,
+          0.0,
+          241.36152432607355,
+          238.36152432607355,
+          24.5200004
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/MAIN_Cassette.3mf",
+    "sha256_3mf": "fe620c7631dadc425c5faf9ec58ae5b3b514b162d3ce19bb18b5d88d1c203371"
+  },
+  "ind_MAIN_Peigne_M2": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 1107,
+    "masse_g": 4.33,
+    "longueur_m": 1.38,
+    "emprise_xy_mm": [
+      21.89,
+      68.06
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "MAIN_Peigne_M2": {
+        "reference": "MAIN_Peigne_M2",
+        "ecart_max_mm": 2.432560254218549e-07,
+        "emprise_mm": [
+          207.625,
+          181.75,
+          0.0,
+          218.375,
+          238.25,
+          9.76000022
+        ]
+      }
+    },
+    "chemin": "individual_parts/Gris_Perle/MAIN_Peigne_M2.3mf",
+    "sha256_3mf": "698cb4d4345ee94e2ecdfadbee0e85d1b58e9014e87c374898c24a940a6bdff2"
+  },
+  "ind_MAIN_Peigne_Paume": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 483,
+    "masse_g": 2.04,
+    "longueur_m": 0.65,
+    "emprise_xy_mm": [
+      7.0,
+      43.86
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "MAIN_Peigne_Paume": {
+        "reference": "MAIN_Peigne_Paume",
+        "ecart_max_mm": 1.2460572958351615e-07,
+        "emprise_mm": [
+          209.5,
+          186.8999996,
+          0.0,
+          216.5,
+          233.1000004,
+          6.26000022
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/MAIN_Peigne_Paume.3mf",
+    "sha256_3mf": "cf6cd18befd0c8326d550de4b187d8b86b88aaccb47ab5624ff8d1000e361454"
+  },
+  "ind_Enrouleur_X06": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 132,
+    "masse_g": 0.26,
+    "longueur_m": 0.08,
+    "emprise_xy_mm": [
+      16.09,
+      21.84
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Enrouleur_X06": {
+        "reference": "Enrouleur_X06",
+        "ecart_max_mm": 8.287970633734323e-09,
+        "emprise_mm": [
+          208.32000017000001,
+          205.32000017000001,
+          0.0,
+          217.67999982999999,
+          214.67999982999999,
+          3.24
+        ]
+      }
+    },
+    "chemin": "individual_parts/Bleu_Petrole/Enrouleur_X06.3mf",
+    "sha256_3mf": "ff40c5c407485536b363a7cb936695b18ff4d1305024ba1f78be73b799d95292"
+  },
+  "ind_J1_Chariot_Cartes": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 369,
+    "masse_g": 2.04,
+    "longueur_m": 0.65,
+    "emprise_xy_mm": [
+      41.37,
+      41.37
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "J1_Chariot_Cartes": {
+        "reference": "J1_Chariot_Cartes",
+        "ecart_max_mm": 5.737901963752509e-08,
+        "emprise_mm": [
+          192.3128462656124,
+          189.3128452656124,
+          4.4408921e-15,
+          233.6871557343876,
+          230.6871547343876,
+          2.6199998800000044
+        ]
+      }
+    },
+    "chemin": "a_verifier/AURA_r04_J1_Chariot_Cartes.3mf",
+    "sha256_3mf": "58df13c747ad085c928324f52c8edeb8a5ab6b1144b47351531dbd91e6626a8d"
+  },
+  "ind_J1_Arret_Cordon": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 257,
+    "masse_g": 0.47,
+    "longueur_m": 0.15,
+    "emprise_xy_mm": [
+      10.19,
+      10.19
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Arret_Cordon": {
+        "reference": "J1_Arret_Cordon",
+        "ecart_max_mm": 1.2249348037701336e-07,
+        "emprise_mm": [
+          207.90747114883064,
+          204.90747114883064,
+          0.0,
+          218.09252885116936,
+          215.09252885116936,
+          8.14999962
+        ]
+      }
+    },
+    "chemin": "individual_parts/Graphite/J1_Arret_Cordon.3mf",
+    "sha256_3mf": "596357bf9503631c020d0326af458af9e738a7ec8bf4bcfe0162986671be00b0"
+  },
+  "ind_Coupon_Axes_J2_J3": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 686,
+    "masse_g": 3.26,
+    "longueur_m": 1.04,
+    "emprise_xy_mm": [
+      12.0,
+      38.0
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Coupon_Axes_J2_J3": {
+        "reference": "Coupon_Axes_J2_J3",
+        "ecart_max_mm": 4.936696199003448e-08,
+        "emprise_mm": [
+          207.000001,
+          191.0,
+          0.0,
+          219.000001,
+          229.0,
+          8.0
+        ]
+      }
+    },
+    "chemin": "individual_parts/Coupons/Coupon_Axes_J2_J3.3mf",
+    "sha256_3mf": "7aaa969f73aef8f8fd1caeb7dc9c40761c9d65cae0ff17f4d962307b8c6214a2"
+  },
+  "ind_Coupon_Bagues_Ecrous": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 1025,
+    "masse_g": 5.0,
+    "longueur_m": 1.6,
+    "emprise_xy_mm": [
+      18.0,
+      50.0
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "Coupon_Bagues_Ecrous": {
+        "reference": "Coupon_Bagues_Ecrous",
+        "ecart_max_mm": 4.738271773505533e-08,
+        "emprise_mm": [
+          204.0,
+          185.0,
+          0.0,
+          222.0,
+          235.0,
+          7.0
+        ]
+      }
+    },
+    "chemin": "individual_parts/Coupons/Coupon_Bagues_Ecrous.3mf",
+    "sha256_3mf": "c68201e5f9cdc9cb7e97b61fc3e0d9eb9fc5c7f1ec480bf1bdf865cfb36eac41"
+  },
+  "ind_Coupon_Porte_MG996R": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 704,
+    "masse_g": 3.31,
+    "longueur_m": 1.06,
+    "emprise_xy_mm": [
+      58.29,
+      58.29
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "Coupon_Porte_MG996R": {
+        "reference": "Coupon_Porte_MG996R",
+        "ecart_max_mm": 5.966654700444793e-08,
+        "emprise_mm": [
+          183.85470972293498,
+          180.85470972293498,
+          0.0,
+          242.14529027706502,
+          239.14529027706502,
+          4.4000001
+        ]
+      }
+    },
+    "chemin": "individual_parts/Coupons/Coupon_Porte_MG996R.3mf",
+    "sha256_3mf": "90270b9a23b0385200d8c223416b2c6d7eb81e4774e2f1b81a3ff17af7985ad1"
+  },
+  "ind_Coupon_J1_Portee_5200": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 464,
+    "masse_g": 2.71,
+    "longueur_m": 0.87,
+    "emprise_xy_mm": [
+      58.35,
+      58.35
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Coupon_J1_Portee_5200": {
+        "reference": "Coupon_J1_Portee_5200",
+        "ecart_max_mm": 5.9500077518807374e-08,
+        "emprise_mm": [
+          183.82251137700445,
+          180.82251137700445,
+          0.0,
+          242.17748862299555,
+          239.17748862299555,
+          4.0999999
+        ]
+      }
+    },
+    "chemin": "individual_parts/Coupons/Coupon_J1_Portee_5200.3mf",
+    "sha256_3mf": "2183e39097c04f4b2bb4695ae9022dbc27db3fefcdf94ee27e073bac732c7bdc"
+  },
+  "ind_Coupon_J1_Portee_5220": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 465,
+    "masse_g": 2.72,
+    "longueur_m": 0.87,
+    "emprise_xy_mm": [
+      58.55,
+      58.55
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Coupon_J1_Portee_5220": {
+        "reference": "Coupon_J1_Portee_5220",
+        "ecart_max_mm": 6.629033575889436e-08,
+        "emprise_mm": [
+          183.72258934815457,
+          180.72258934815457,
+          0.0,
+          242.27741065184543,
+          239.27741065184543,
+          4.0999999
+        ]
+      }
+    },
+    "chemin": "individual_parts/Coupons/Coupon_J1_Portee_5220.3mf",
+    "sha256_3mf": "bc61bda7fe1d5ca9f7ccf2b90c276bc1fe97fadb7091ba8c256e180afdf37524"
+  },
+  "ind_Coupon_J1_Portee_5240": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 467,
+    "masse_g": 2.73,
+    "longueur_m": 0.87,
+    "emprise_xy_mm": [
+      58.75,
+      58.75
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "Coupon_J1_Portee_5240": {
+        "reference": "Coupon_J1_Portee_5240",
+        "ecart_max_mm": 5.118387827515558e-08,
+        "emprise_mm": [
+          183.62266722650403,
+          180.62266622650404,
+          0.0,
+          242.37733477349596,
+          239.37733377349596,
+          4.0999999
+        ]
+      }
+    },
+    "chemin": "individual_parts/Coupons/Coupon_J1_Portee_5240.3mf",
+    "sha256_3mf": "a0d5b4cfcdd2cbe00dace2a27a58841b5abb6e3b8357fdcb29e252b048ed5338"
+  },
+  "ind_Coupon_Microservo_Gaine": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 1050,
+    "masse_g": 5.36,
+    "longueur_m": 1.71,
+    "emprise_xy_mm": [
+      46.66,
+      46.66
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "Coupon_Microservo_Gaine": {
+        "reference": "Coupon_Microservo_Gaine",
+        "ecart_max_mm": 6.42611699711659e-08,
+        "emprise_mm": [
+          189.6690010835926,
+          186.6690010835926,
+          0.0,
+          236.3309989164074,
+          233.3309989164074,
+          6.5
+        ]
+      }
+    },
+    "chemin": "individual_parts/Coupons/Coupon_Microservo_Gaine.3mf",
+    "sha256_3mf": "75a18eea3e39599c5cb4906e24e7781311f13eac28fcde89a5ddf05d8818162b"
+  },
+  "plate_coupons": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#858591",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": false,
+    "temps_s": 4836,
+    "masse_g": 25.09,
+    "longueur_m": 8.02,
+    "emprise_xy_mm": [
+      262.46,
+      77.89
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      }
+    ],
+    "objets": {
+      "Coupon_J1_Portee_5240": {
+        "reference": "Coupon_J1_Portee_5240",
+        "ecart_max_mm": 5.118387827515558e-08,
+        "emprise_mm": [
+          142.12274477222374,
+          171.05364777222374,
+          0.0,
+          200.87741122777626,
+          229.80831422777626,
+          4.0999999
+        ]
+      },
+      "Coupon_J1_Portee_5220": {
+        "reference": "Coupon_J1_Portee_5220",
+        "ecart_max_mm": 6.629033575889436e-08,
+        "emprise_mm": [
+          202.87740933514402,
+          171.05364733514403,
+          0.0,
+          261.432230664856,
+          229.608468664856,
+          4.0999999
+        ]
+      },
+      "Coupon_J1_Portee_5200": {
+        "reference": "Coupon_J1_Portee_5200",
+        "ecart_max_mm": 5.9500077518807374e-08,
+        "emprise_mm": [
+          81.76776984279614,
+          171.05364784279612,
+          0.0,
+          140.12274615720386,
+          229.40862415720386,
+          4.0999999
+        ]
+      },
+      "Coupon_Porte_MG996R": {
+        "reference": "Coupon_Porte_MG996R",
+        "ecart_max_mm": 5.966654700444793e-08,
+        "emprise_mm": [
+          263.4322294,
+          171.053649,
+          0.0,
+          290.2322286,
+          229.053649,
+          4.4000001
+        ]
+      },
+      "Coupon_Microservo_Gaine": {
+        "reference": "Coupon_Microservo_Gaine",
+        "ecart_max_mm": 6.42611699711659e-08,
+        "emprise_mm": [
+          292.232229,
+          171.053649,
+          0.0,
+          324.232229,
+          207.053649,
+          6.5
+        ]
+      },
+      "Coupon_Bagues_Ecrous": {
+        "reference": "Coupon_Bagues_Ecrous",
+        "ecart_max_mm": 4.738271773505533e-08,
+        "emprise_mm": [
+          326.23223,
+          171.053649,
+          0.0,
+          344.23223,
+          221.053649,
+          7.0
+        ]
+      },
+      "Coupon_Axes_J2_J3": {
+        "reference": "Coupon_Axes_J2_J3",
+        "ecart_max_mm": 4.936696199003448e-08,
+        "emprise_mm": [
+          194.20142434215487,
+          215.09588134215488,
+          0.0,
+          228.0518956578451,
+          248.94635265784513,
+          8.0
+        ]
+      }
+    },
+    "chemin": "plates/par_couleur/AURA_r04_P00_Coupons.3mf",
+    "sha256_3mf": "826fc66ac13dc70b830515d2aa36f1ecea0687f7c261154a3ca7466b01b113f7",
+    "reouverture": {
+      "temps_s": 4836,
+      "masse_g": 25.09,
+      "avertissements": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        }
+      ],
+      "objets": 7
+    }
+  },
+  "plate_graphite": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#343942",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 32130,
+    "masse_g": 171.89,
+    "longueur_m": 54.97,
+    "emprise_xy_mm": [
+      345.14,
+      233.14
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "01_Platine": {
+        "reference": "01_Platine",
+        "ecart_max_mm": 6.821477971428054e-08,
+        "emprise_mm": [
+          40.429270999999986,
+          97.17519599999999,
+          0.0,
+          184.42927100000003,
+          277.175196,
+          6.0
+        ]
+      },
+      "J1_Garde": {
+        "reference": "J1_Garde",
+        "ecart_max_mm": 1.3189163825697448e-07,
+        "emprise_mm": [
+          196.42927081096016,
+          97.1757019317179,
+          2.66453526e-15,
+          298.9063851847702,
+          203.33878847456717,
+          8.140000340000004
+        ]
+      },
+      "02_Socle": {
+        "reference": "02_Socle",
+        "ecart_max_mm": 4.791995979028232e-07,
+        "emprise_mm": [
+          310.9066082,
+          97.17627009999998,
+          0.0,
+          385.57073180000003,
+          178.1609579,
+          21.5
+        ]
+      },
+      "MAIN_Cassette": {
+        "reference": "MAIN_Cassette",
+        "ecart_max_mm": 2.428061226060761e-07,
+        "emprise_mm": [
+          196.4292708,
+          215.3393345,
+          0.0,
+          250.02926920000002,
+          247.7093335,
+          24.5200004
+        ]
+      },
+      "04_Segment_1": {
+        "reference": "04_Segment_1",
+        "ecart_max_mm": 4.616377615793906e-07,
+        "emprise_mm": [
+          260.0764960085619,
+          206.75203716616534,
+          0.0,
+          292.28908993356174,
+          273.03775739568096,
+          37.4000016
+        ]
+      },
+      "05_Segment_2": {
+        "reference": "05_Segment_2",
+        "ecart_max_mm": 4.768003111269514e-07,
+        "emprise_mm": [
+          196.43321366036028,
+          259.7098277836107,
+          0.0,
+          244.31682534289536,
+          300.8054647726544,
+          17.71999932
+        ]
+      },
+      "P09_Frein_J2": {
+        "reference": "P09_Frein_J2",
+        "ecart_max_mm": 2.4193733195539584e-07,
+        "emprise_mm": [
+          174.59166696154594,
+          287.1900432722823,
+          0.0,
+          208.98892186096765,
+          322.82473503845404,
+          14.5500002
+        ]
+      },
+      "P10_Frein_J3": {
+        "reference": "P10_Frein_J3",
+        "ecart_max_mm": 2.4193733195539584e-07,
+        "emprise_mm": [
+          299.36072527228237,
+          180.22097813903235,
+          0.0,
+          334.9954170384541,
+          214.61823303845406,
+          14.5500002
+        ]
+      },
+      "J1_Moyeu_Pignon": {
+        "reference": "J1_Moyeu_Pignon",
+        "ecart_max_mm": 6.692494745915012e-09,
+        "emprise_mm": [
+          301.79483057157285,
+          225.74335369541012,
+          0.0,
+          316.5839700109437,
+          240.52164097946402,
+          6.5
+        ]
+      },
+      "J1_Arret_Cordon": {
+        "reference": "J1_Arret_Cordon",
+        "ecart_max_mm": 1.2249348037701336e-07,
+        "emprise_mm": [
+          232.672705,
+          259.709333,
+          0.0,
+          240.672705,
+          267.709333,
+          8.14999962
+        ]
+      }
+    },
+    "chemin": "plates/par_couleur/AURA_r04_P01_Graphite.3mf",
+    "sha256_3mf": "6ba6675e760654b312aaecd661b8bfe507d4b7aa3214f5f0cdd6f4b9e0f89ea6",
+    "reouverture": {
+      "temps_s": 32139,
+      "masse_g": 171.88,
+      "avertissements": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "objets": 10
+    }
+  },
+  "plate_perle": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#A4ADB3",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 16706,
+    "masse_g": 78.91,
+    "longueur_m": 25.24,
+    "emprise_xy_mm": [
+      224.92,
+      174.34
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Bride_RLT": {
+        "reference": "J1_Bride_RLT",
+        "ecart_max_mm": 6.020519971006991e-08,
+        "emprise_mm": [
+          173.14010372672175,
+          125.98475889224989,
+          0.0,
+          234.39512027327828,
+          187.28475710775012,
+          1.120000004
+        ]
+      },
+      "J1_Bague_Basse": {
+        "reference": "J1_Bague_Basse",
+        "ecart_max_mm": 5.4463227224773665e-08,
+        "emprise_mm": [
+          191.88184501029565,
+          197.78813501029566,
+          0.0,
+          243.88184498970435,
+          249.78813498970436,
+          2.48000002
+        ]
+      },
+      "03_Tourelle": {
+        "reference": "03_Tourelle",
+        "ecart_max_mm": 9.927766968139123e-07,
+        "emprise_mm": [
+          127.60140070427825,
+          164.5847882631927,
+          0.0,
+          187.4702787368073,
+          224.87793064716448,
+          51.0
+        ]
+      },
+      "P07_Porte_J2": {
+        "reference": "P07_Porte_J2",
+        "ecart_max_mm": 2.4250753022643155e-07,
+        "emprise_mm": [
+          246.28100368263497,
+          141.71033497495472,
+          0.0,
+          276.25675431736505,
+          202.9216279223,
+          24.25
+        ]
+      },
+      "P11_Garde_J2": {
+        "reference": "P11_Garde_J2",
+        "ecart_max_mm": 6.792544708914756e-08,
+        "emprise_mm": [
+          142.05512416580433,
+          231.17599184872506,
+          4.4408921e-16,
+          188.0088058341957,
+          277.17599015127496,
+          7.1999998000000005
+        ]
+      },
+      "P12_Garde_J3": {
+        "reference": "P12_Garde_J3",
+        "ecart_max_mm": 6.565865704607256e-08,
+        "emprise_mm": [
+          254.28028684872504,
+          214.57020116580432,
+          2.66453526e-15,
+          300.28028515127494,
+          260.5238828341957,
+          7.199999800000002
+        ]
+      },
+      "P08_Porte_J3": {
+        "reference": "P08_Porte_J3",
+        "ecart_max_mm": 5.259663065959284e-07,
+        "emprise_mm": [
+          198.31564496618256,
+          261.5028478486055,
+          0.0,
+          240.68604542306971,
+          291.5401681513945,
+          33.6500016
+        ]
+      },
+      "13_Bride_Poignet": {
+        "reference": "13_Bride_Poignet",
+        "ecart_max_mm": 4.7850771768214e-07,
+        "emprise_mm": [
+          288.1896771,
+          170.3734731,
+          0.0,
+          321.1481389,
+          210.4534749,
+          24.3999996
+        ]
+      },
+      "06_Segment_3": {
+        "reference": "06_Segment_3",
+        "ecart_max_mm": 5.024750245832485e-07,
+        "emprise_mm": [
+          121.454713278369,
+          127.0995635,
+          1.77635684e-15,
+          163.295445878369,
+          153.1395645,
+          24.433954200000002
+        ]
+      },
+      "MAIN_Peigne_M2": {
+        "reference": "MAIN_Peigne_M2",
+        "ecart_max_mm": 2.432560254218549e-07,
+        "emprise_mm": [
+          104.851401,
+          163.788396,
+          0.0,
+          115.601401,
+          220.288396,
+          9.76000022
+        ]
+      },
+      "J1_Capteur_Capot": {
+        "reference": "J1_Capteur_Capot",
+        "ecart_max_mm": 2.3887829249432147e-07,
+        "emprise_mm": [
+          252.57022940000002,
+          272.015241,
+          0.0,
+          273.3702286,
+          294.015241,
+          14.22999954
+        ]
+      },
+      "Attache_J3_B": {
+        "reference": "Attache_J3_B",
+        "ecart_max_mm": 4.891984449280624e-08,
+        "emprise_mm": [
+          287.81678208603137,
+          142.47810585181182,
+          0.0,
+          298.88870014455887,
+          160.05993921376717,
+          20.1499996
+        ]
+      },
+      "Attache_J2_B": {
+        "reference": "Attache_J2_B",
+        "ecart_max_mm": 4.911141323347266e-08,
+        "emprise_mm": [
+          117.4561773055064,
+          233.17221264755665,
+          0.0,
+          133.83693223245342,
+          241.5292380016679,
+          20.1499996
+        ]
+      },
+      "Attache_J2_A": {
+        "reference": "Attache_J2_A",
+        "ecart_max_mm": 1.8166101614468933e-07,
+        "emprise_mm": [
+          177.98154017000002,
+          285.22050017000004,
+          0.0,
+          186.34153983,
+          293.58049983,
+          15.4250002
+        ]
+      },
+      "Attache_J3_A": {
+        "reference": "Attache_J3_A",
+        "ecart_max_mm": 1.8166101614468933e-07,
+        "emprise_mm": [
+          121.83781217,
+          253.17950517000003,
+          0.0,
+          130.19781183,
+          261.53950483,
+          15.4250002
+        ]
+      },
+      "Collier_faisceau_03": {
+        "reference": "Collier_faisceau_03",
+        "ecart_max_mm": 1.1082680518929676e-07,
+        "emprise_mm": [
+          236.18676045508002,
+          126.1483285,
+          0.0,
+          246.30120995508,
+          130.5297515,
+          4.54089022
+        ]
+      },
+      "Collier_faisceau_04": {
+        "reference": "Collier_faisceau_04",
+        "ecart_max_mm": 6.442119379873403e-08,
+        "emprise_mm": [
+          275.43176345508,
+          125.98762649999999,
+          0.0,
+          285.54621295507997,
+          130.3690495,
+          4.54089022
+        ]
+      }
+    },
+    "chemin": "plates/par_couleur/AURA_r04_P02_Gris_Perle.3mf",
+    "sha256_3mf": "0c451d841750af439fabb24177590074ec72c9a5310a21698ec8de0c5a4964fc",
+    "reouverture": {
+      "temps_s": 16695,
+      "masse_g": 78.8,
+      "avertissements": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "objets": 17
+    }
+  },
+  "plate_blanc": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#F2F0EA",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 9912,
+    "masse_g": 30.45,
+    "longueur_m": 9.74,
+    "emprise_xy_mm": [
+      138.77,
+      135.26
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "07_Paume": {
+        "reference": "07_Paume",
+        "ecart_max_mm": 1.104292865080714e-06,
+        "emprise_mm": [
+          180.8159796935913,
+          146.124148390063,
+          3.55271368e-15,
+          231.33579329359128,
+          201.593832990063,
+          24.330000000000002
+        ]
+      },
+      "12_Support_Pouce": {
+        "reference": "12_Support_Pouce",
+        "ecart_max_mm": 2.424021727032514e-07,
+        "emprise_mm": [
+          190.81542848179387,
+          210.25951506122814,
+          8.8817842e-16,
+          213.53350538073963,
+          232.17585436560702,
+          9.507624620000001
+        ]
+      },
+      "Phalange_16__I1": {
+        "reference": "Phalange_16",
+        "ecart_max_mm": 5.384183822508564e-07,
+        "emprise_mm": [
+          224.4167659,
+          213.596900549738,
+          0.0,
+          233.7167661,
+          237.01528134973802,
+          8.019907
+        ]
+      },
+      "Phalange_16__M1": {
+        "reference": "Phalange_16",
+        "ecart_max_mm": 5.384183822508564e-07,
+        "emprise_mm": [
+          243.2257179,
+          187.488163549738,
+          0.0,
+          252.5257181,
+          210.90654434973803,
+          8.019907
+        ]
+      },
+      "Phalange_16__A1": {
+        "reference": "Phalange_16",
+        "ecart_max_mm": 5.384183822508564e-07,
+        "emprise_mm": [
+          169.7154969,
+          204.47091454973798,
+          0.0,
+          179.0154971,
+          227.889295349738,
+          8.019907
+        ]
+      },
+      "Phalange_14__P1": {
+        "reference": "Phalange_14",
+        "ecart_max_mm": 5.089469143294498e-07,
+        "emprise_mm": [
+          159.5747569,
+          171.052534549738,
+          0.0,
+          168.8747571,
+          192.47091534973802,
+          8.019907
+        ]
+      },
+      "Phalange_14__I2": {
+        "reference": "Phalange_14",
+        "ecart_max_mm": 5.089469143294498e-07,
+        "emprise_mm": [
+          195.522553650262,
+          244.1758539,
+          0.0,
+          216.940934450262,
+          253.4758541,
+          8.019907
+        ]
+      },
+      "Phalange_14__M2": {
+        "reference": "Phalange_14",
+        "ecart_max_mm": 5.089469143294498e-07,
+        "emprise_mm": [
+          243.0068389,
+          154.069783549738,
+          0.0,
+          252.3068391,
+          175.488164349738,
+          8.019907
+        ]
+      },
+      "Phalange_14__A2": {
+        "reference": "Phalange_14",
+        "ecart_max_mm": 5.089469143294498e-07,
+        "emprise_mm": [
+          245.7167659,
+          222.906543549738,
+          0.0,
+          255.0167661,
+          244.324924349738,
+          8.019907
+        ]
+      },
+      "Phalange_14__U1": {
+        "reference": "Phalange_14",
+        "ecart_max_mm": 5.089469143294498e-07,
+        "emprise_mm": [
+          264.5257179,
+          189.56995654973798,
+          0.0,
+          273.8257181,
+          210.988337349738,
+          8.019907
+        ]
+      },
+      "Phalange_12p5__P2": {
+        "reference": "Phalange_12p5",
+        "ecart_max_mm": 4.936844405882908e-07,
+        "emprise_mm": [
+          227.5480519,
+          249.406464579738,
+          0.0,
+          236.8480521,
+          269.324845319738,
+          8.019907
+        ]
+      },
+      "Phalange_12p5__U2": {
+        "reference": "Phalange_12p5",
+        "ecart_max_mm": 4.936844405882908e-07,
+        "emprise_mm": [
+          163.60417368026202,
+          239.8892939,
+          0.0,
+          183.52255442026203,
+          249.1892941,
+          8.019907
+        ]
+      },
+      "Bout_12p5__I3": {
+        "reference": "Bout_12p5",
+        "ecart_max_mm": 2.7256713228362574e-07,
+        "emprise_mm": [
+          149.31549819,
+          204.470913439616,
+          0.0,
+          157.71549781000002,
+          220.33982517961599,
+          7.42000008
+        ]
+      },
+      "Bout_12p5__M3": {
+        "reference": "Bout_12p5",
+        "ecart_max_mm": 2.7256713228362574e-07,
+        "emprise_mm": [
+          199.679139820384,
+          265.47585319,
+          0.0,
+          215.54805156038398,
+          273.87585281,
+          7.42000008
+        ]
+      },
+      "Bout_12p5__A3": {
+        "reference": "Bout_12p5",
+        "ecart_max_mm": 2.7256713228362574e-07,
+        "emprise_mm": [
+          171.810229820384,
+          261.18929319,
+          0.0,
+          187.67914156038398,
+          269.58929281,
+          7.42000008
+        ]
+      },
+      "Bout_11__P3": {
+        "reference": "Bout_11",
+        "ecart_max_mm": 2.7256713228362574e-07,
+        "emprise_mm": [
+          267.01676519,
+          222.988335439616,
+          0.0,
+          275.41676481,
+          237.357247179616,
+          7.42000008
+        ]
+      },
+      "Bout_11__U3": {
+        "reference": "Bout_11",
+        "ecart_max_mm": 2.7256713228362574e-07,
+        "emprise_mm": [
+          248.848050820384,
+          256.32492219,
+          0.0,
+          263.216962560384,
+          264.72492181,
+          7.42000008
+        ]
+      },
+      "14_Moyeu": {
+        "reference": "14_Moyeu",
+        "ecart_max_mm": 2.43408699937379e-07,
+        "emprise_mm": [
+          264.3068381204384,
+          165.17571793272825,
+          0.0,
+          276.68450263233825,
+          177.56454484168054,
+          20.8700008
+        ]
+      }
+    },
+    "chemin": "plates/par_couleur/AURA_r04_P03_Blanc_Ceramique.3mf",
+    "sha256_3mf": "6a01a269192508e9720f94304179df90d051a142c5048f0d59f6c74a82d48520",
+    "reouverture": {
+      "temps_s": 9910,
+      "masse_g": 30.44,
+      "avertissements": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "objets": 18
+    }
+  },
+  "plate_bleu": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#397986",
+    "epaisseur_couche_mm": 0.16,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 7287,
+    "masse_g": 29.25,
+    "longueur_m": 9.35,
+    "emprise_xy_mm": [
+      144.63,
+      165.1
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Couronne": {
+        "reference": "J1_Couronne",
+        "ecart_max_mm": 6.723313603993698e-08,
+        "emprise_mm": [
+          155.41323546368957,
+          131.2050614636896,
+          0.0,
+          245.37873253631042,
+          221.17055853631044,
+          6.0
+        ]
+      },
+      "MAIN_Peigne_Paume": {
+        "reference": "MAIN_Peigne_Paume",
+        "ecart_max_mm": 1.2460572958351615e-07,
+        "emprise_mm": [
+          180.2683446,
+          233.170557,
+          0.0,
+          226.4683454,
+          240.170557,
+          6.26000022
+        ]
+      },
+      "08_Capot": {
+        "reference": "08_Capot",
+        "ecart_max_mm": 4.923461740889392e-08,
+        "emprise_mm": [
+          234.76400807747493,
+          207.59580707747494,
+          5.55111512e-16,
+          260.392499922525,
+          233.22429892252507,
+          1.6499999760000004
+        ]
+      },
+      "09_Capot": {
+        "reference": "09_Capot",
+        "ecart_max_mm": 3.3029220534888873e-08,
+        "emprise_mm": [
+          203.0966652,
+          252.1705569,
+          5.55111512e-16,
+          223.9966648,
+          267.4705571,
+          1.6499999760000004
+        ]
+      },
+      "Guide_14mm_J2__G_J2_A": {
+        "reference": "Guide_14mm_J2",
+        "ecart_max_mm": 1.1863583251044935e-07,
+        "emprise_mm": [
+          235.38318470000002,
+          245.77710517,
+          0.0,
+          257.7431853,
+          254.13710483000003,
+          7.2249999
+        ]
+      },
+      "Guide_14mm_J2__G_J2_B": {
+        "reference": "Guide_14mm_J2",
+        "ecart_max_mm": 1.1863583251044935e-07,
+        "emprise_mm": [
+          255.19527130736975,
+          188.24524530736977,
+          0.0,
+          273.45143869263023,
+          206.50141269263025,
+          7.2249999
+        ]
+      },
+      "Guide_14mm_J3__G_J3_A": {
+        "reference": "Guide_14mm_J3",
+        "ecart_max_mm": 1.1863583251044935e-07,
+        "emprise_mm": [
+          262.83525930736977,
+          220.59758830736976,
+          0.0,
+          281.09142669263025,
+          238.85375569263024,
+          7.2249999
+        ]
+      },
+      "Guide_14mm_J3__G_J3_B": {
+        "reference": "Guide_14mm_J3",
+        "ecart_max_mm": 1.1863583251044935e-07,
+        "emprise_mm": [
+          235.21354870000002,
+          266.13710317,
+          0.0,
+          257.5735493,
+          274.49710282999996,
+          7.2249999
+        ]
+      },
+      "J1_Chapeau_Aimant": {
+        "reference": "J1_Chapeau_Aimant",
+        "ecart_max_mm": 7.454251653302623e-09,
+        "emprise_mm": [
+          181.53319731549095,
+          252.17055731549095,
+          0.0,
+          191.09666668450905,
+          261.73402668450905,
+          6.0500002
+        ]
+      },
+      "Enrouleur_X06__Enrouleur_P": {
+        "reference": "Enrouleur_X06",
+        "ecart_max_mm": 8.287970633734323e-09,
+        "emprise_mm": [
+          159.84675317,
+          221.66729117,
+          0.0,
+          169.20675283000003,
+          231.02729083000003,
+          3.24
+        ]
+      },
+      "Enrouleur_X06__Enrouleur_I": {
+        "reference": "Enrouleur_X06",
+        "ecart_max_mm": 8.287970633734323e-09,
+        "emprise_mm": [
+          161.5103888545575,
+          244.93291485455748,
+          0.0,
+          170.83477114544252,
+          254.2572971454425,
+          3.24
+        ]
+      },
+      "Enrouleur_X06__Enrouleur_A": {
+        "reference": "Enrouleur_X06",
+        "ecart_max_mm": 8.287970633734323e-09,
+        "emprise_mm": [
+          186.67992017,
+          273.13978717000003,
+          0.0,
+          196.03991982999997,
+          282.49978683,
+          3.24
+        ]
+      },
+      "Enrouleur_X06__Enrouleur_U": {
+        "reference": "Enrouleur_X06",
+        "ecart_max_mm": 8.287970633734323e-09,
+        "emprise_mm": [
+          209.43336385455748,
+          279.47055585455746,
+          0.0,
+          218.7577461454425,
+          288.79493814544253,
+          3.24
+        ]
+      },
+      "Enrouleur_X06__Enrouleur_M": {
+        "reference": "Enrouleur_X06",
+        "ecart_max_mm": 8.287970633734323e-09,
+        "emprise_mm": [
+          144.90732516999998,
+          206.44949117,
+          0.0,
+          154.26732483,
+          215.80949083000002,
+          3.24
+        ]
+      }
+    },
+    "chemin": "plates/par_couleur/AURA_r04_P04_Bleu_Petrole.3mf",
+    "sha256_3mf": "1bb40bd8888c14fe06d48c88859a1d9e8fb35c9929a853e8c7a40250c43fb786",
+    "reouverture": {
+      "temps_s": 7287,
+      "masse_g": 29.25,
+      "avertissements": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "objets": 14
+    }
+  },
+  "plate_acier": {
+    "application": "Anycubic Slicer Next 2.0.0.3 20260904033713",
+    "machine": "Anycubic Kobra 3 Max",
+    "buse_mm": 0.4,
+    "couleur_hex": "#777F88",
+    "epaisseur_couche_mm": 0.2,
+    "temperature_buse_c": 225,
+    "temperature_pei_c": 75,
+    "supports": true,
+    "temps_s": 3143,
+    "masse_g": 14.82,
+    "longueur_m": 4.74,
+    "emprise_xy_mm": [
+      56.37,
+      94.55
+    ],
+    "avertissements": [
+      {
+        "msg": "bed_temperature_too_high_than_filament",
+        "level": "1",
+        "error_code": "1000C001"
+      },
+      {
+        "msg": "not_support_traditional_timelapse",
+        "level": "1",
+        "error_code": "1000C003"
+      }
+    ],
+    "objets": {
+      "J1_Porte_Moteur": {
+        "reference": "J1_Porte_Moteur",
+        "ecart_max_mm": 2.4291998694108543e-07,
+        "emprise_mm": [
+          190.2000008,
+          166.2921008,
+          1.77635684e-15,
+          235.7999992,
+          219.8920992,
+          22.620000800000003
+        ]
+      },
+      "J1_Pignon": {
+        "reference": "J1_Pignon",
+        "ecart_max_mm": 3.8270543814601137e-08,
+        "emprise_mm": [
+          203.2919742,
+          231.89209820000002,
+          0.0,
+          225.10777579999998,
+          253.7078998,
+          6.0
+        ]
+      }
+    },
+    "chemin": "plates/par_couleur/AURA_r04_P05_Gris_Acier.3mf",
+    "sha256_3mf": "764c2d1d3146f81e0a1085b209b377b477defdb0d724847dfef3876120ee4fa9",
+    "reouverture": {
+      "temps_s": 3147,
+      "masse_g": 14.83,
+      "avertissements": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "objets": 2
+    }
+  }
+}

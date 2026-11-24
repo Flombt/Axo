@@ -1,0 +1,720 @@
+{
+  "file": "AURA-01_Bras_Robotique_r02_Presentation.blend",
+  "saved_with": [
+    5,
+    2,
+    44
+  ],
+  "checked_with": "5.2.1 LTS",
+  "scenes": [
+    {
+      "name": "AURA-01 · Montage r02",
+      "range": [
+        1,
+        720
+      ],
+      "fps": 24.0
+    }
+  ],
+  "types": {
+    "ARMATURE": 1,
+    "CAMERA": 3,
+    "EMPTY": 16,
+    "MESH": 94
+  },
+  "actions": [
+    {
+      "name": "AURA-01 · 01  Épaule et coude",
+      "range": [
+        0.0,
+        144.0
+      ]
+    },
+    {
+      "name": "AURA-01 · 02  Poignet à gauche",
+      "range": [
+        0.0,
+        108.0
+      ]
+    },
+    {
+      "name": "AURA-01 · 03  Poignet à droite",
+      "range": [
+        0.0,
+        120.0
+      ]
+    },
+    {
+      "name": "AURA-01 · 04  Fermer les cinq doigts",
+      "range": [
+        0.0,
+        120.0
+      ]
+    },
+    {
+      "name": "AURA-01 · 05  Rouvrir les cinq doigts",
+      "range": [
+        0.0,
+        96.0
+      ]
+    },
+    {
+      "name": "AURA-01 · 06  Retour à la pose de départ",
+      "range": [
+        0.0,
+        132.0
+      ]
+    }
+  ],
+  "motion_objects": [
+    {
+      "name": "04 · Segment 1, bras supérieur",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "05 · Segment 2, avant-bras",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "06 · Segment 3, logement du poignet",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "07 · Paume blanche et selle MG90S",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "08 · Capot démontable du segment 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "09 · Capot démontable du segment 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "10 · Tambour de traction",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "11 · Traverse des cinq tendons",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "12 · Support démontable du pouce",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "13 · Bride et support du servo J7",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "14 · Moyeu tournant démontable",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "A2 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "A3 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Annulaire · Phalange 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Annulaire · Phalange 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Annulaire · Phalange 3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "AURA-01 · Mouvements Fusion",
+      "type": "ARMATURE",
+      "parent": null,
+      "action": null,
+      "constraints": [],
+      "bones": 17
+    },
+    {
+      "name": "Auriculaire · Phalange 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Auriculaire · Phalange 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Auriculaire · Phalange 3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Axe acier commun aux quatre doigts",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Axe passif M3 · J3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Entretoise lisse · renvoi du pouce",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "I2 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "I3 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Index · Phalange 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Index · Phalange 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Index · Phalange 3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×10 · Support du pouce 1",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×10 · Support du pouce 2",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×12 · Bride de poignet 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×12 · Bride de poignet 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×12 · Bride de poignet 3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×12 · Bride de poignet 4",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×6 · Butée du répartiteur 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×6 · Butée du répartiteur 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×6 · Moyeu 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M2×6 · Moyeu 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M3 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "M3×8 · Renvoi de tendon du pouce",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Majeur · Phalange 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Majeur · Phalange 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Majeur · Phalange 3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "MG90S · Coude J3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "MG90S · Fermeture des cinq doigts",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "MG90S · Rotation du poignet",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "P1 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "P2 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "P3 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Palonnier de roulis · enveloppe",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Palonnier du tambour · enveloppe",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Palonnier J2 · enveloppe",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Palonnier J3 · enveloppe",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Pouce · Phalange 1",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Pouce · Phalange 2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Pouce · Phalange 3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Retenue d’axe · côté +1",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Retenue d’axe · côté -1",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Rondelle de renvoi du pouce",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Rondelle de renvoi du pouce (1)",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "U2 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "U3 · Vis M2×10 et écrou captif",
+      "type": "EMPTY",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Écrou M3 captif · J2",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    },
+    {
+      "name": "Écrou M3 captif · J3",
+      "type": "MESH",
+      "parent": null,
+      "action": null,
+      "constraints": [
+        "COPY_TRANSFORMS AURA-01 · Mouvement Fusion r02"
+      ],
+      "bones": null
+    }
+  ],
+  "linked_libraries": []
+}

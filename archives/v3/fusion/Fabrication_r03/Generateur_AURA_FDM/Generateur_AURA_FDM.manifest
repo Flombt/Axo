@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "id": "fad97fd9-2f13-423e-abe8-a894a3404518",
+  "author": "AURA-01",
+  "description": {
+    "": "Audite la V3 précédente, construit et contrôle la variante FDM."
+  },
+  "version": "1.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows",
+  "editEnabled": true
+}

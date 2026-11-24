@@ -1,0 +1,294 @@
+{
+  "etape": "Capture terminée",
+  "application": "2706.1.17",
+  "liaisons": 22,
+  "pivots": {
+    "J1": {
+      "axe_local": "Z",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        -100,
+        100
+      ],
+      "signe_natif": -1
+    },
+    "J2": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        -30,
+        33
+      ],
+      "signe_natif": -1
+    },
+    "J3": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        -30,
+        33
+      ],
+      "signe_natif": -1
+    },
+    "J4": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        -30,
+        33
+      ],
+      "signe_natif": -1
+    },
+    "J5": {
+      "axe_local": "Z",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        -32,
+        32
+      ],
+      "signe_natif": -1
+    },
+    "J6": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        -32,
+        34
+      ],
+      "signe_natif": -1
+    },
+    "J7": {
+      "axe_local": "X",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.093,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        -72,
+        72
+      ],
+      "signe_natif": -1
+    },
+    "P1": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        62
+      ],
+      "signe_natif": -1
+    },
+    "P2": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        72
+      ],
+      "signe_natif": -1
+    },
+    "P3": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        66
+      ],
+      "signe_natif": -1
+    },
+    "I1": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        62
+      ],
+      "signe_natif": -1
+    },
+    "I2": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        72
+      ],
+      "signe_natif": -1
+    },
+    "I3": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        66
+      ],
+      "signe_natif": -1
+    },
+    "M1": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        62
+      ],
+      "signe_natif": -1
+    },
+    "M2": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        72
+      ],
+      "signe_natif": -1
+    },
+    "M3": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        66
+      ],
+      "signe_natif": -1
+    },
+    "A1": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        62
+      ],
+      "signe_natif": -1
+    },
+    "A2": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        72
+      ],
+      "signe_natif": -1
+    },
+    "A3": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        66
+      ],
+      "signe_natif": -1
+    },
+    "O1": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        62
+      ],
+      "signe_natif": -1
+    },
+    "O2": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        72
+      ],
+      "signe_natif": -1
+    },
+    "O3": {
+      "axe_local": "Y",
+      "commande_deg": 8.0,
+      "deplacement_temoin_mm": 2.79,
+      "derive_max_autre_joint_deg": 0.0,
+      "bornes_mecaniques_deg": [
+        0,
+        66
+      ],
+      "signe_natif": -1
+    }
+  },
+  "composants": 23,
+  "corps": 209,
+  "moteurs_main_visibles": 15,
+  "apercu_motion": "Chaque pivot natif testé séparément à 8°. Mesure au point témoin.",
+  "logements_testes_sans_interference": 15,
+  "volumes_phalanges_hors_servo_et_axe_cm3": {
+    "P1": 13.523,
+    "P2": 12.065,
+    "P3": 10.883,
+    "I1": 14.981,
+    "I2": 12.794,
+    "I3": 10.883,
+    "M1": 16.074,
+    "M2": 13.887,
+    "M3": 11.257,
+    "A1": 14.616,
+    "A2": 12.794,
+    "A3": 10.883,
+    "O1": 12.43,
+    "O2": 11.336,
+    "O3": 10.509
+  },
+  "archive": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_V3\\AURA-01_V3_Main-articulee_r02.f3d",
+  "apercu": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_V3\\AURA_V3_Apercu.png",
+  "dossier_images": "C:\\Users\\mauba\\AppData\\Local\\Temp\\AURA_V3_Fusion_swautb5z",
+  "frequence_images": 16,
+  "images_produites": 168,
+  "animation": "Rendu du viewport natif d’Autodesk Fusion",
+  "video": "C:\\Users\\mauba\\OneDrive\\Desktop\\Aura\\Exports_Fusion\\AURA_V3\\AURA-01_V3_Demonstration.mp4",
+  "video_octets": 2642550,
+  "video_sha256": "840120beb076ad509f970f8a7eaeb856f83badc8a36e0790ab9e78ec26d39cd3",
+  "archive_sha256": "eec40e19250220faa4a20de99bf05ea4f58c6f0620339bec9f65af76cc9d2c32",
+  "video_publication": {
+    "resolution": [
+      1000,
+      650
+    ],
+    "secondes": 10.5,
+    "chapitres": [
+      "Roulis du poignet",
+      "Flexion des cinq doigts",
+      "Bras à trois segments"
+    ],
+    "decodage_complet": true
+  }
+}

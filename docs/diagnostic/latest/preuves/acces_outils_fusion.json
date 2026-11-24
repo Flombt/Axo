@@ -1,0 +1,302 @@
+{
+  "alternate_paths": [
+    {
+      "moving": "Moteur_J7",
+      "moving_keys": [
+        "Moteur_J7"
+      ],
+      "removed": [
+        "Coque_Avant",
+        "Capot_Cassette",
+        "Capot_Paume",
+        "Palonnier_J7",
+        "Support_J7"
+      ],
+      "listed_not_found": [],
+      "directions": [
+        {
+          "dir": [
+            -1,
+            0,
+            0
+          ],
+          "first_overlap": [
+            1,
+            "Moteur_J7",
+            "08_Avant_bras",
+            62.736369
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            1,
+            0,
+            0
+          ],
+          "first_overlap": [
+            1,
+            "Moteur_J7",
+            "08_Avant_bras",
+            34.250688
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            -1,
+            0
+          ],
+          "first_overlap": [
+            1,
+            "Moteur_J7",
+            "08_Avant_bras",
+            22.03422
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            1,
+            0
+          ],
+          "first_overlap": [
+            1,
+            "Moteur_J7",
+            "08_Avant_bras",
+            49.640019
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            0,
+            -1
+          ],
+          "first_overlap": [
+            1,
+            "Moteur_J7",
+            "08_Avant_bras",
+            3.164882
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            0,
+            1
+          ],
+          "first_overlap": [
+            1,
+            "Moteur_J7",
+            "08_Avant_bras",
+            68.403165
+          ],
+          "indeterminate": 0
+        }
+      ]
+    },
+    {
+      "moving": "Moteur_J1",
+      "moving_keys": [
+        "Moteur_J1"
+      ],
+      "removed": [
+        "06_Garde_J1",
+        "Coque_Socle",
+        "J1_Pignon",
+        "03_Porte_J1"
+      ],
+      "listed_not_found": [],
+      "directions": [
+        {
+          "dir": [
+            -1,
+            0,
+            0
+          ],
+          "first_overlap": null,
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            1,
+            0,
+            0
+          ],
+          "first_overlap": [
+            12,
+            "Moteur_J1",
+            "02_Palier_J1",
+            8.860879
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            -1,
+            0
+          ],
+          "first_overlap": [
+            6,
+            "Moteur_J1",
+            "Support_J2R",
+            39.216844
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            1,
+            0
+          ],
+          "first_overlap": [
+            6,
+            "Moteur_J1",
+            "Support_J3R",
+            39.216844
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            0,
+            -1
+          ],
+          "first_overlap": [
+            12,
+            "Moteur_J1",
+            "01_Platine",
+            1618.296044
+          ],
+          "indeterminate": 0
+        },
+        {
+          "dir": [
+            0,
+            0,
+            1
+          ],
+          "first_overlap": [
+            22,
+            "Moteur_J1",
+            "Moteur_J2",
+            361.00258
+          ],
+          "indeterminate": 0
+        }
+      ]
+    }
+  ],
+  "tooling": [
+    {
+      "test": "J2 tête M5 + douille",
+      "start_mm": [
+        0,
+        -32.32,
+        82
+      ],
+      "end_mm": [
+        0,
+        -67.32,
+        82
+      ],
+      "radius_mm": 6,
+      "removed": [
+        "Coque_Epaule",
+        "Garde_J2"
+      ],
+      "collisions": [],
+      "indeterminate": [],
+      "support_plane_conflict": false
+    },
+    {
+      "test": "J2 écrou M5 + douille",
+      "start_mm": [
+        0,
+        24.82,
+        82
+      ],
+      "end_mm": [
+        0,
+        59.82,
+        82
+      ],
+      "radius_mm": 6,
+      "removed": [
+        "Coque_Epaule",
+        "Garde_J2"
+      ],
+      "collisions": [],
+      "indeterminate": [],
+      "support_plane_conflict": false
+    },
+    {
+      "test": "J3 tête M5 + douille",
+      "start_mm": [
+        71.903524,
+        -32.32,
+        117.069692
+      ],
+      "end_mm": [
+        71.903524,
+        -67.32,
+        117.069692
+      ],
+      "radius_mm": 6,
+      "removed": [
+        "Coque_Bras",
+        "Garde_J3"
+      ],
+      "collisions": [],
+      "indeterminate": [],
+      "support_plane_conflict": false
+    },
+    {
+      "test": "J3 écrou M5 + douille",
+      "start_mm": [
+        71.903524,
+        24.82,
+        117.069692
+      ],
+      "end_mm": [
+        71.903524,
+        59.82,
+        117.069692
+      ],
+      "radius_mm": 6,
+      "removed": [
+        "Coque_Bras",
+        "Garde_J3"
+      ],
+      "collisions": [],
+      "indeterminate": [],
+      "support_plane_conflict": false
+    },
+    {
+      "test": "J1 tête M8 depuis le dessous",
+      "start_mm": [
+        0,
+        0.0,
+        0
+      ],
+      "end_mm": [
+        0,
+        0.0,
+        -40
+      ],
+      "radius_mm": 10,
+      "removed": [],
+      "collisions": [],
+      "indeterminate": [],
+      "support_plane_conflict": true
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "trancheur": "PrusaSlicer-2.9.6 based on Slic3r (with GUI support)",
+  "profil": "PETG · buse 0,4 mm · couche 0,20 mm",
+  "pieces_robot": 29,
+  "references_robot": 19,
+  "filament_robot_g": 195.05,
+  "preuves_individuelles": [
+    {
+      "reference": "01_Platine",
+      "appui_stl_mm2": 12272.36,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 47.77,
+      "duree": "5h 37m 58s",
+      "ponts": 1,
+      "alertes": []
+    },
+    {
+      "reference": "02_Socle",
+      "appui_stl_mm2": 1299.36,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 31.23,
+      "duree": "2h 29m 48s",
+      "ponts": 3,
+      "alertes": []
+    },
+    {
+      "reference": "03_Tourelle",
+      "appui_stl_mm2": 183.4,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 31.37,
+      "duree": "2h 48m 4s",
+      "ponts": 6,
+      "alertes": []
+    },
+    {
+      "reference": "04_Segment_1",
+      "appui_stl_mm2": 321.49,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 17.68,
+      "duree": "1h 47m 44s",
+      "ponts": 16,
+      "alertes": []
+    },
+    {
+      "reference": "05_Segment_2",
+      "appui_stl_mm2": 236.12,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 11.69,
+      "duree": "1h 17m 44s",
+      "ponts": 17,
+      "alertes": []
+    },
+    {
+      "reference": "06_Segment_3",
+      "appui_stl_mm2": 56.1,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 12.33,
+      "duree": "1h 21m 1s",
+      "ponts": 7,
+      "alertes": []
+    },
+    {
+      "reference": "07_Paume",
+      "appui_stl_mm2": 2010.51,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 18.87,
+      "duree": "2h 20m 10s",
+      "ponts": 20,
+      "alertes": []
+    },
+    {
+      "reference": "08_Capot",
+      "appui_stl_mm2": 352.64,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.8,
+      "duree": "5m 41s",
+      "ponts": 0,
+      "alertes": []
+    },
+    {
+      "reference": "09_Capot",
+      "appui_stl_mm2": 306.74,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.7,
+      "duree": "4m 58s",
+      "ponts": 0,
+      "alertes": []
+    },
+    {
+      "reference": "12_Support_Pouce",
+      "appui_stl_mm2": 212.56,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 1.55,
+      "duree": "13m 40s",
+      "ponts": 0,
+      "alertes": []
+    },
+    {
+      "reference": "13_Bride_Poignet",
+      "appui_stl_mm2": 300.31,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 6.2,
+      "duree": "45m 15s",
+      "ponts": 6,
+      "alertes": []
+    },
+    {
+      "reference": "14_Moyeu",
+      "appui_stl_mm2": 117.39,
+      "profil_supports_actif": true,
+      "supports_generes": true,
+      "filament_g": 2.39,
+      "duree": "18m 10s",
+      "ponts": 3,
+      "alertes": []
+    },
+    {
+      "reference": "10_Tambour",
+      "appui_stl_mm2": 152.09,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.99,
+      "duree": "8m 57s",
+      "ponts": 1,
+      "alertes": []
+    },
+    {
+      "reference": "11_Palonnier",
+      "appui_stl_mm2": 80.44,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.33,
+      "duree": "4m 5s",
+      "ponts": 0,
+      "alertes": []
+    },
+    {
+      "reference": "Phalange_14",
+      "appui_stl_mm2": 77.16,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.78,
+      "duree": "8m 12s",
+      "ponts": 2,
+      "alertes": []
+    },
+    {
+      "reference": "Phalange_12p5",
+      "appui_stl_mm2": 64.56,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.68,
+      "duree": "7m 15s",
+      "ponts": 0,
+      "alertes": []
+    },
+    {
+      "reference": "Bout_11",
+      "appui_stl_mm2": 59.38,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.6,
+      "duree": "6m 40s",
+      "ponts": 2,
+      "alertes": []
+    },
+    {
+      "reference": "Phalange_16",
+      "appui_stl_mm2": 93.96,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.92,
+      "duree": "9m 13s",
+      "ponts": 2,
+      "alertes": []
+    },
+    {
+      "reference": "Bout_12p5",
+      "appui_stl_mm2": 71.98,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 0.71,
+      "duree": "7m 43s",
+      "ponts": 3,
+      "alertes": []
+    },
+    {
+      "reference": "15_Coupon_Jeux",
+      "appui_stl_mm2": 400.09,
+      "profil_supports_actif": false,
+      "supports_generes": false,
+      "filament_g": 1.66,
+      "duree": "13m 23s",
+      "ponts": 0,
+      "alertes": []
+    }
+  ],
+  "plateaux": [
+    {
+      "fichier": "00_Coupon_Jeux.3mf",
+      "instances": 1,
+      "filament_g": 1.66,
+      "duree": "13m 23s",
+      "supports": false,
+      "sections_de_pont": 0,
+      "messages": [],
+      "sha256": "263ef7e5886e92a7547384d608dd0e238ee1a2d5b5fb334796b358da5cd50d1e",
+      "repartition": {
+        "15_Coupon_Jeux": 1
+      }
+    },
+    {
+      "fichier": "01_Chassis.3mf",
+      "instances": 3,
+      "filament_g": 110.33,
+      "duree": "10h 58m 4s",
+      "supports": true,
+      "sections_de_pont": 10,
+      "messages": [],
+      "sha256": "ce6994046121999f7ea27ce1c1e38922fd72eb9e94aa6ad2fbe8625cc3e2958f",
+      "repartition": {
+        "01_Platine": 1,
+        "02_Socle": 1,
+        "03_Tourelle": 1
+      }
+    },
+    {
+      "fichier": "02_Bras_Poignet.3mf",
+      "instances": 7,
+      "filament_g": 51.72,
+      "duree": "5h 43m 34s",
+      "supports": true,
+      "sections_de_pont": 49,
+      "messages": [],
+      "sha256": "da5b55d27402f0d415e837982b395680c5381d4d3fc7bc126004fa7e10875763",
+      "repartition": {
+        "04_Segment_1": 1,
+        "05_Segment_2": 1,
+        "06_Segment_3": 1,
+        "08_Capot": 1,
+        "09_Capot": 1,
+        "13_Bride_Poignet": 1,
+        "14_Moyeu": 1
+      }
+    },
+    {
+      "fichier": "03_Paume_Pouce_Transmission.3mf",
+      "instances": 4,
+      "filament_g": 21.72,
+      "duree": "2h 47m 5s",
+      "supports": true,
+      "sections_de_pont": 23,
+      "messages": [],
+      "sha256": "04bb0fc6cd8a716e74cda7b1d45ae581f71fc5ef262e521cd90da1b19b98ae8c",
+      "repartition": {
+        "07_Paume": 1,
+        "12_Support_Pouce": 1,
+        "10_Tambour": 1,
+        "11_Palonnier": 1
+      }
+    },
+    {
+      "fichier": "04_Phalanges.3mf",
+      "instances": 15,
+      "filament_g": 11.28,
+      "duree": "2h 0m 17s",
+      "supports": false,
+      "sections_de_pont": 29,
+      "messages": [],
+      "sha256": "09edfaeac4451c9d3f8492828c1a3781206be78e335bcee3a4a60d569a3c4da2",
+      "repartition": {
+        "Phalange_14": 5,
+        "Phalange_12p5": 2,
+        "Bout_11": 2,
+        "Phalange_16": 3,
+        "Bout_12p5": 3
+      }
+    }
+  ]
+}

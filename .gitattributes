@@ -1,1 +1,5 @@
-Exports_Fusion/AURA-009_Table_r05/*.step -text -diff
+*.step -text -diff
+*.stp -text -diff
+*.f3d -text -diff
+*.f3z -text -diff
+*.3mf -text -diff

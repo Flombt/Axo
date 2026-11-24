@@ -1,0 +1,135 @@
+{
+  "axes": [
+    "J1",
+    "J2",
+    "J3",
+    "P",
+    "I",
+    "MAU"
+  ],
+  "bounds": [
+    [
+      -88,
+      88
+    ],
+    [
+      -18,
+      18
+    ],
+    [
+      -22,
+      22
+    ],
+    [
+      0,
+      92
+    ],
+    [
+      0,
+      92
+    ],
+    [
+      0,
+      92
+    ]
+  ],
+  "ratio": [
+    -0.5789473684210527,
+    -3,
+    -2,
+    1,
+    1,
+    1
+  ],
+  "rates": [
+    22,
+    14,
+    18,
+    42,
+    42,
+    42
+  ],
+  "accelerations": [
+    50,
+    35,
+    50,
+    150,
+    150,
+    150
+  ],
+  "tests": {
+    "boot_ARM": "étalonnage requis",
+    "boot_MOVE J2=1": "sorties coupées",
+    "MOVE I=NaN": "hors course",
+    "MOVE J2=-22": "hors course",
+    "MOVE J1=1 J1=2": "axe inconnu ou répété",
+    "STOP x": "commande inconnue",
+    "MOVE J2R=10": "axe inconnu ou répété",
+    "MOVE J3R=10": "axe inconnu ou répété",
+    "MOVE J7=10": "axe inconnu ou répété",
+    "MOVE A=10": "axe inconnu ou répété",
+    "MOVE U=10": "axe inconnu ou répété",
+    "commande_combinée_acceptée": {
+      "J1": 0.0,
+      "J2": -18.0,
+      "J3": -22.0,
+      "P": 0.0,
+      "I": 92.0,
+      "MAU": 0.0
+    },
+    "rail_externe_absent_de_l_interface": true,
+    "avant_timeout": true,
+    "au_timeout": {
+      "output": null,
+      "reason": "timeout"
+    },
+    "au_réarmement": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "après_STOP": null,
+    "conversion_pulse_us": {
+      "J1": [
+        1959,
+        1041
+      ],
+      "J2": [
+        1986,
+        1014
+      ],
+      "J3": [
+        1896,
+        1104
+      ],
+      "P": [
+        1500,
+        2328
+      ],
+      "I": [
+        1500,
+        2328
+      ],
+      "MAU": [
+        1500,
+        2328
+      ]
+    }
+  },
+  "compilation_mpy_cross": {
+    "version": "MicroPython v1.29.0 on 2026-08-29; mpy-cross emitting mpy v6.3",
+    "main.py": {
+      "result": 1,
+      "bytes": 0,
+      "stderr": "Traceback (most recent call last):\n  File \"firmware/r05/main.py\", line 26, in commissioning_ok\nSyntaxError: *x must be assignment target"
+    },
+    "controle.py": {
+      "result": 0,
+      "bytes": 1791,
+      "stderr": ""
+    }
+  }
+}

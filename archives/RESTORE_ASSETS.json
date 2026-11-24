@@ -1,0 +1,634 @@
+{
+  "miroir_usb": {
+    "01_Platine.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/01_Platine.3mf",
+      "sha256": "19d48ec3e966cec96fcf1d9b70045d4c9b0798f2116c03beb2e3ef52b2160f5e",
+      "size": 2879581
+    },
+    "02_Socle.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/02_Socle.3mf",
+      "sha256": "73e48c5bba4c6bab8c1c6671754dcf4ae0ce625c0e5c450cf188b31c11d1302c",
+      "size": 1417949
+    },
+    "03_Tourelle.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/03_Tourelle.3mf",
+      "sha256": "66116000aed46bf7be8ff1c103c0021ecfbd4c24c8c9cced42956cf489f1468e",
+      "size": 1380918
+    },
+    "04_Segment_1.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/04_Segment_1.3mf",
+      "sha256": "e4b3ad5a9e37d915708757234522835dc8b55977ea88e7049f2d63b1e2dfa3e4",
+      "size": 839220
+    },
+    "05_Segment_2.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/05_Segment_2.3mf",
+      "sha256": "09d6427e7b426242a0680016dfd03f8395b8584fdceec1e346efd55ebe97e72b",
+      "size": 646062
+    },
+    "06_Segment_3.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/06_Segment_3.3mf",
+      "sha256": "f0980ae9134b28518d26aa95cce0365ee1d7ba384f41464b52fc9aafe4006da3",
+      "size": 337802
+    },
+    "07_Paume.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/07_Paume.3mf",
+      "sha256": "c75295f2f30361bdaa471ec66a23c45a4a3cd44c3f70ff029eec6363547bf1ec",
+      "size": 1848485
+    },
+    "08_Capot.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/08_Capot.3mf",
+      "sha256": "312038c5ec5a75325a31ed38b3fa3b4213980fecf1aa5800fcc14062cc689c5b",
+      "size": 45074
+    },
+    "09_Capot.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/09_Capot.3mf",
+      "sha256": "0a90756867b3873f88f206a935b69bab45ff8424201efde04e89eadebb0e6747",
+      "size": 42773
+    },
+    "12_Support_Pouce.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/12_Support_Pouce.3mf",
+      "sha256": "61fdbfa1a0517b9a7b4d9da393c3f93b604c21c4e51e3937f8d0bdfa85ff64ba",
+      "size": 194626
+    },
+    "13_Bride_Poignet.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/13_Bride_Poignet.3mf",
+      "sha256": "1ca17642944ac10a29d9de03a4029bc1aaabc636ff32016805263700b2aa59d6",
+      "size": 772751
+    },
+    "14_Moyeu.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/14_Moyeu.3mf",
+      "sha256": "c64ec9b18f02e60a80aa9cd9bc5b3b394f4b73d2bfed5431c5273fdbae3caac0",
+      "size": 114847
+    },
+    "A_VERIFIER_AURA_r04_J1_Chariot_Cartes.3mf": {
+      "path": "archives/r04/anycubic/a_verifier/AURA_r04_J1_Chariot_Cartes.3mf",
+      "sha256": "58df13c747ad085c928324f52c8edeb8a5ab6b1144b47351531dbd91e6626a8d",
+      "size": 64064
+    },
+    "Attache_J2_A.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/Attache_J2_A.3mf",
+      "sha256": "5bc7ab27d4e6d2e1885ff3e227ab92f9a8e97ac33cc86b283294818ec2032f7d",
+      "size": 120225
+    },
+    "Attache_J2_B.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/Attache_J2_B.3mf",
+      "sha256": "d4e54652e804d5e57ce84ce0555dcd947d514e3a0b8ac15b3e251d76c67a2c2a",
+      "size": 197290
+    },
+    "Attache_J3_A.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/Attache_J3_A.3mf",
+      "sha256": "49826ce074db1a93f2b2012123768a05e47e22cd18caa4bc85ab3126d6f4efbc",
+      "size": 122744
+    },
+    "Attache_J3_B.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/Attache_J3_B.3mf",
+      "sha256": "f69ed4d9a91805c89a4217072b6d4d2cd260275cd3af5ec4148f23d742145559",
+      "size": 219836
+    },
+    "AURA_r04_P00_Coupons.3mf": {
+      "path": "archives/r04/anycubic/plates/par_couleur/AURA_r04_P00_Coupons.3mf",
+      "sha256": "826fc66ac13dc70b830515d2aa36f1ecea0687f7c261154a3ca7466b01b113f7",
+      "size": 1475758
+    },
+    "AURA_r04_P01_Graphite.3mf": {
+      "path": "archives/r04/anycubic/plates/par_couleur/AURA_r04_P01_Graphite.3mf",
+      "sha256": "6ba6675e760654b312aaecd661b8bfe507d4b7aa3214f5f0cdd6f4b9e0f89ea6",
+      "size": 8715491
+    },
+    "AURA_r04_P02_Gris_Perle.3mf": {
+      "path": "archives/r04/anycubic/plates/par_couleur/AURA_r04_P02_Gris_Perle.3mf",
+      "sha256": "0c451d841750af439fabb24177590074ec72c9a5310a21698ec8de0c5a4964fc",
+      "size": 5449660
+    },
+    "AURA_r04_P03_Blanc_Ceramique.3mf": {
+      "path": "archives/r04/anycubic/plates/par_couleur/AURA_r04_P03_Blanc_Ceramique.3mf",
+      "sha256": "6a01a269192508e9720f94304179df90d051a142c5048f0d59f6c74a82d48520",
+      "size": 3842764
+    },
+    "AURA_r04_P04_Bleu_Petrole.3mf": {
+      "path": "archives/r04/anycubic/plates/par_couleur/AURA_r04_P04_Bleu_Petrole.3mf",
+      "sha256": "1bb40bd8888c14fe06d48c88859a1d9e8fb35c9929a853e8c7a40250c43fb786",
+      "size": 3525343
+    },
+    "AURA_r04_P05_Gris_Acier.3mf": {
+      "path": "archives/r04/anycubic/plates/par_couleur/AURA_r04_P05_Gris_Acier.3mf",
+      "sha256": "764c2d1d3146f81e0a1085b209b377b477defdb0d724847dfef3876120ee4fa9",
+      "size": 905367
+    },
+    "Bout_11.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/Bout_11.3mf",
+      "sha256": "97f304d9c670e58690d0b58ce32b5a2d375bcd13a98a0813090b8b5f709845b9",
+      "size": 105646
+    },
+    "Bout_12p5.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/Bout_12p5.3mf",
+      "sha256": "3a3aa6c9dd46e8702dd5791ec9a056aeeb90888fe9641c32b1a1d335fce57c84",
+      "size": 103857
+    },
+    "Collier_faisceau_03.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/Collier_faisceau_03.3mf",
+      "sha256": "cdf3c83494187749f6dd22ecb6cdebb4a523a82d39f9c874cb6a5c96467e054e",
+      "size": 55796
+    },
+    "Collier_faisceau_04.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/Collier_faisceau_04.3mf",
+      "sha256": "02f9259594422ff5a56ab0c0a99f5a325467b954d521707b1423e530a6da2005",
+      "size": 55453
+    },
+    "Coupon_Axes_J2_J3.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Coupons/Coupon_Axes_J2_J3.3mf",
+      "sha256": "7aaa969f73aef8f8fd1caeb7dc9c40761c9d65cae0ff17f4d962307b8c6214a2",
+      "size": 112834
+    },
+    "Coupon_Bagues_Ecrous.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Coupons/Coupon_Bagues_Ecrous.3mf",
+      "sha256": "c68201e5f9cdc9cb7e97b61fc3e0d9eb9fc5c7f1ec480bf1bdf865cfb36eac41",
+      "size": 488748
+    },
+    "Coupon_J1_Portee_5200.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Coupons/Coupon_J1_Portee_5200.3mf",
+      "sha256": "2183e39097c04f4b2bb4695ae9022dbc27db3fefcdf94ee27e073bac732c7bdc",
+      "size": 61315
+    },
+    "Coupon_J1_Portee_5220.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Coupons/Coupon_J1_Portee_5220.3mf",
+      "sha256": "bc61bda7fe1d5ca9f7ccf2b90c276bc1fe97fadb7091ba8c256e180afdf37524",
+      "size": 60079
+    },
+    "Coupon_J1_Portee_5240.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Coupons/Coupon_J1_Portee_5240.3mf",
+      "sha256": "a0d5b4cfcdd2cbe00dace2a27a58841b5abb6e3b8357fdcb29e252b048ed5338",
+      "size": 61623
+    },
+    "Coupon_Microservo_Gaine.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Coupons/Coupon_Microservo_Gaine.3mf",
+      "sha256": "75a18eea3e39599c5cb4906e24e7781311f13eac28fcde89a5ddf05d8818162b",
+      "size": 255406
+    },
+    "Coupon_Porte_MG996R.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Coupons/Coupon_Porte_MG996R.3mf",
+      "sha256": "90270b9a23b0385200d8c223416b2c6d7eb81e4774e2f1b81a3ff17af7985ad1",
+      "size": 226639
+    },
+    "Enrouleur_X06.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/Enrouleur_X06.3mf",
+      "sha256": "ff40c5c407485536b363a7cb936695b18ff4d1305024ba1f78be73b799d95292",
+      "size": 64674
+    },
+    "Guide_14mm_J2.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/Guide_14mm_J2.3mf",
+      "sha256": "1f6a6be6a99161e2a7bf77011b6c9a877039145cc69e2b5fcaefb01e42c582b9",
+      "size": 191057
+    },
+    "Guide_14mm_J3.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/Guide_14mm_J3.3mf",
+      "sha256": "6e176d314bba622e5bde0f255f3710706ebba96ad20c294d16610fda626af7b8",
+      "size": 191162
+    },
+    "J1_Arret_Cordon.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/J1_Arret_Cordon.3mf",
+      "sha256": "596357bf9503631c020d0326af458af9e738a7ec8bf4bcfe0162986671be00b0",
+      "size": 52507
+    },
+    "J1_Bague_Basse.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/J1_Bague_Basse.3mf",
+      "sha256": "e8f4df4e1ce3f3329b93bb4816541fe0aabfde2c95d487f902e6d774d3cc1037",
+      "size": 66543
+    },
+    "J1_Bride_RLT.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/J1_Bride_RLT.3mf",
+      "sha256": "7894f04d9a4faa7f6979521f1e2bc1104bec98ae7bc9efd6e3d8d7afcbb52ab7",
+      "size": 119489
+    },
+    "J1_Capteur_Capot.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/J1_Capteur_Capot.3mf",
+      "sha256": "c9fe1ca2a856fa57c0e4d5ca5cb414480ac12867c18cb26c250bd729f0274709",
+      "size": 118177
+    },
+    "J1_Chapeau_Aimant.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/J1_Chapeau_Aimant.3mf",
+      "sha256": "62e7182191d1e8b342f75cc1c07da951a2c8bd2bed97bc8d0169cbfbaeb94c2b",
+      "size": 45620
+    },
+    "J1_Couronne.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/J1_Couronne.3mf",
+      "sha256": "ac93341d36ca3fdf063950baeb480233510f273b738758196fc9b9ec403819e8",
+      "size": 1614463
+    },
+    "J1_Garde.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/J1_Garde.3mf",
+      "sha256": "8e31c2002502ad0801259367e547de76b161c8b70cfababfc55349eb646da305",
+      "size": 586053
+    },
+    "J1_Moyeu_Pignon.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/J1_Moyeu_Pignon.3mf",
+      "sha256": "d3c5c88ee461a1619db711fc392b40210717462dcab22a91c9791ebd9bc5b3db",
+      "size": 123444
+    },
+    "J1_Pignon.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Acier/J1_Pignon.3mf",
+      "sha256": "aa768ba1098485f20e0c06481635cdfec50b1763fb544760609909a80f02a1ef",
+      "size": 473038
+    },
+    "J1_Porte_Moteur.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Acier/J1_Porte_Moteur.3mf",
+      "sha256": "bef7a86a4c148a009100071498e11ef81632ecd73276588df318430bddf578a5",
+      "size": 529558
+    },
+    "MAIN_Cassette.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/MAIN_Cassette.3mf",
+      "sha256": "fe620c7631dadc425c5faf9ec58ae5b3b514b162d3ce19bb18b5d88d1c203371",
+      "size": 1181524
+    },
+    "MAIN_Peigne_M2.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/MAIN_Peigne_M2.3mf",
+      "sha256": "698cb4d4345ee94e2ecdfadbee0e85d1b58e9014e87c374898c24a940a6bdff2",
+      "size": 209381
+    },
+    "MAIN_Peigne_Paume.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Bleu_Petrole/MAIN_Peigne_Paume.3mf",
+      "sha256": "cf6cd18befd0c8326d550de4b187d8b86b88aaccb47ab5624ff8d1000e361454",
+      "size": 169136
+    },
+    "P07_Porte_J2.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/P07_Porte_J2.3mf",
+      "sha256": "e3520946301632f4f1847d9fb13da64436af5ef96c5a6dc7537cabaebfc54239",
+      "size": 408819
+    },
+    "P08_Porte_J3.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/P08_Porte_J3.3mf",
+      "sha256": "dcf358a7f2454030c18959f827481c4f94b6f45b12b37d050db64ddb067a00e6",
+      "size": 275708
+    },
+    "P09_Frein_J2.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/P09_Frein_J2.3mf",
+      "sha256": "8598be4e52c90ce7e69e018273118afa6c741193b172880015175b003dd99c68",
+      "size": 296536
+    },
+    "P10_Frein_J3.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Graphite/P10_Frein_J3.3mf",
+      "sha256": "17883c525ac3690633db6ca896fb5ef49fcbac8d82438b7491435df9ceaf6e21",
+      "size": 294890
+    },
+    "P11_Garde_J2.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/P11_Garde_J2.3mf",
+      "sha256": "793e20754ab6ea216e1a52be258c56ef573e27585b316cf8fd99c862e98d38d3",
+      "size": 174435
+    },
+    "P12_Garde_J3.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Gris_Perle/P12_Garde_J3.3mf",
+      "sha256": "aa40b73be1578763f3016d5f6a8a8c668cc8508345ff9301b94d163912b3f042",
+      "size": 164305
+    },
+    "Phalange_12p5.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/Phalange_12p5.3mf",
+      "sha256": "d77ccf8ddc571606cb0381fc7a7cb9c1948ea39a8391cc11a8d2c22ab2d2dc3f",
+      "size": 118784
+    },
+    "Phalange_14.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/Phalange_14.3mf",
+      "sha256": "9479187d3812727815277d6fa0245720c77a4803a264d6b81b605181ec70a2a5",
+      "size": 125891
+    },
+    "Phalange_16.3mf": {
+      "path": "archives/r04/anycubic/individual_parts/Blanc_Ceramique/Phalange_16.3mf",
+      "sha256": "f9fa4f851ca146b36e385e4e332c0f5dd8b193db6ddfb2682eb4657056683977",
+      "size": 131000
+    },
+    "r05/3MF_individuels/AURA_r05_01_Platine.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_01_Platine.3mf",
+      "sha256": "4af89fedafb3ca37f90021d6498ab63a533cc4ad24b12247b2e9b1ec86a11381",
+      "size": 2944596
+    },
+    "r05/3MF_individuels/AURA_r05_02_Palier_J1.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_02_Palier_J1.3mf",
+      "sha256": "05bd437902ac8dcd3ccb9d7704159526f471f1d7c5a5206d2b0adf9eb1ff2187",
+      "size": 1579318
+    },
+    "r05/3MF_individuels/AURA_r05_03_Porte_J1.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_03_Porte_J1.3mf",
+      "sha256": "0476a55c59fd81d3fa4ebb88c5f83955ca3d1dc6a402e2419a8b168d23f3f028",
+      "size": 661909
+    },
+    "r05/3MF_individuels/AURA_r05_04_Platine_Pico.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_04_Platine_Pico.3mf",
+      "sha256": "44bd248dbcfdccc37bb7b051f64eed7614720d47049168673164cacd048754be",
+      "size": 240218
+    },
+    "r05/3MF_individuels/AURA_r05_05_Tourelle.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_05_Tourelle.3mf",
+      "sha256": "95a2a7ba6e3d3dfbcfd2a263d27257c5941224b5463b3a18769aa3e2c6f381d5",
+      "size": 2331998
+    },
+    "r05/3MF_individuels/AURA_r05_06_Garde_J1.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_06_Garde_J1.3mf",
+      "sha256": "a2b68c499bfcc803d290fbbaffaa7dc8407d910f6a50123e8f98904579811ecb",
+      "size": 453402
+    },
+    "r05/3MF_individuels/AURA_r05_07_Bras.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_07_Bras.3mf",
+      "sha256": "e0913a15cf56ed5444305886cb5d4e5e903a17a54b6a10a582b4b98f2adc0f7a",
+      "size": 2836136
+    },
+    "r05/3MF_individuels/AURA_r05_08_Avant_bras.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_08_Avant_bras.3mf",
+      "sha256": "a10692c15f58be6a2cf12fd2218133e4dae8f9f4ffd1b53175a1495731082b43",
+      "size": 1696440
+    },
+    "r05/3MF_individuels/AURA_r05_09_Cassette_SG90.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_09_Cassette_SG90.3mf",
+      "sha256": "08f69b62150c29ab81aea7438f0a0e409509340321524cd27eb538d4ee2c24ce",
+      "size": 1026673
+    },
+    "r05/3MF_individuels/AURA_r05_10_Capot_Tendons.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_10_Capot_Tendons.3mf",
+      "sha256": "9fff177fdb7a10a2111936c3b421e0a21965f1e389965668ee800c590cd5285e",
+      "size": 249611
+    },
+    "r05/3MF_individuels/AURA_r05_11_Paume.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_11_Paume.3mf",
+      "sha256": "521218cb698115b24baf1b3688165e387dd9da8c0417e12abfd6321a2aa5c06c",
+      "size": 2596116
+    },
+    "r05/3MF_individuels/AURA_r05_12_Chape_Pouce.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_12_Chape_Pouce.3mf",
+      "sha256": "64f89313e35db7a78bde1e4bbe0f2e229db44f037338a964e7c53f47aabd557f",
+      "size": 196957
+    },
+    "r05/3MF_individuels/AURA_r05_Bobine_1_Voie.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Bobine_1_Voie.3mf",
+      "sha256": "03d88cedf0fe10e59aed10218133ffc6d94c81844b6b5b8d0712d9d99b9a9296",
+      "size": 73138
+    },
+    "r05/3MF_individuels/AURA_r05_Bobine_3_Voies.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Bobine_3_Voies.3mf",
+      "sha256": "3486dbfe44f1b6ad2ef1d729bd49fa11e268ef59e3d9b91a85e5440d4aac5c05",
+      "size": 106108
+    },
+    "r05/3MF_individuels/AURA_r05_Bout_11.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Bout_11.3mf",
+      "sha256": "b6be7862aa1bb6ea9b5b390d7ae16869614e02ea83855b03177c82b09f99492d",
+      "size": 109190
+    },
+    "r05/3MF_individuels/AURA_r05_Bout_12p5.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Bout_12p5.3mf",
+      "sha256": "42da929a88c522de4c164ef673e842825c8a56f546bf6d4ebaa4ab11c7d6d1c2",
+      "size": 107926
+    },
+    "r05/3MF_individuels/AURA_r05_Cale_Faisceau.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Cale_Faisceau.3mf",
+      "sha256": "ec71083b8501e0fc18f2c2647829e4e5c5525e9f5cab003c941d7403207f9ab1",
+      "size": 206425
+    },
+    "r05/3MF_individuels/AURA_r05_Coupon_608_220.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Coupon_608_220.3mf",
+      "sha256": "afc11536030c1e1fa78fd28314422b8b0a8c2c2effb5c88771dc4a54ae7b54b0",
+      "size": 54754
+    },
+    "r05/3MF_individuels/AURA_r05_Coupon_608_222.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Coupon_608_222.3mf",
+      "sha256": "d0fd0f74d6242941b52b40c9ee98711d6ad500f9963a9b0221ba99481bf90f6e",
+      "size": 54440
+    },
+    "r05/3MF_individuels/AURA_r05_Coupon_608_224.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Coupon_608_224.3mf",
+      "sha256": "b300633a36882d776e4239ab787a55838a4bd97dd07dba0199ec8aeeb2ce928f",
+      "size": 54638
+    },
+    "r05/3MF_individuels/AURA_r05_Coupon_Axes_M2_M5.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Coupon_Axes_M2_M5.3mf",
+      "sha256": "699a9e65bae59b63f19d9d282f873768c37d44d7e72ac481e3be0749eca2b2f9",
+      "size": 318700
+    },
+    "r05/3MF_individuels/AURA_r05_Coupon_MG996R.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Coupon_MG996R.3mf",
+      "sha256": "74631ad557a05a528396b03c60e0f79606810d64f9ccf015cb94b49f45c44155",
+      "size": 270886
+    },
+    "r05/3MF_individuels/AURA_r05_Coupon_SG90.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Coupon_SG90.3mf",
+      "sha256": "b3d3c8a2999ed5f504deab6a23cf44b5ddd67d1f354803cbd73b641e8557da7d",
+      "size": 94446
+    },
+    "r05/3MF_individuels/AURA_r05_Entretoise_J1.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Entretoise_J1.3mf",
+      "sha256": "9fac42be3ca9265485779213bcb12c5c0060b1817c30a55a86cd9c8a0e294b12",
+      "size": 53397
+    },
+    "r05/3MF_individuels/AURA_r05_Garde_J2.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Garde_J2.3mf",
+      "sha256": "8904a5c24fd473f09b91d2df881320dc727243da34da4325f759b2e4d30f3fe5",
+      "size": 627483
+    },
+    "r05/3MF_individuels/AURA_r05_Garde_J3.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Garde_J3.3mf",
+      "sha256": "439c40663363aa91efdb48d09503b8b373c42fc9fa5ef54e008285d298d8ea37",
+      "size": 524995
+    },
+    "r05/3MF_individuels/AURA_r05_J1_Pignon.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_J1_Pignon.3mf",
+      "sha256": "48fb69ba0e845ac75f91795bbeb10a805e5c0e6954448ecaba7b36e9ca81a676",
+      "size": 949222
+    },
+    "r05/3MF_individuels/AURA_r05_J1_Roue.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_J1_Roue.3mf",
+      "sha256": "b890e2a60304fb2cb1cae5e1f7862f2771702d75e8b5d32553f3f9650e3c372b",
+      "size": 623095
+    },
+    "r05/3MF_individuels/AURA_r05_J2_Pignon.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_J2_Pignon.3mf",
+      "sha256": "d925f61fe31f5e062dd2b01ada277169f16c380164976e59f00b11c8637f8b64",
+      "size": 378430
+    },
+    "r05/3MF_individuels/AURA_r05_J2_Roue.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_J2_Roue.3mf",
+      "sha256": "a1fd4cb5701dabd6079e7910b4a25b86dbb0fe9f6e3f6a9b4684b9a4b3f05a27",
+      "size": 1201490
+    },
+    "r05/3MF_individuels/AURA_r05_J3_Pignon.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_J3_Pignon.3mf",
+      "sha256": "0ac3bb043e781ffe8a56679bd165b4f3c019e677e6a1ce97da6375a2cef2498c",
+      "size": 377258
+    },
+    "r05/3MF_individuels/AURA_r05_J3_Roue.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_J3_Roue.3mf",
+      "sha256": "26a10eed0f726c58ed128fac3439ad364963cd80a45418b6202c4c90b30a73d0",
+      "size": 831538
+    },
+    "r05/3MF_individuels/AURA_r05_Peigne_Paume.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Peigne_Paume.3mf",
+      "sha256": "205132f96279e6d30e2f623bb600509a112183bb02779c5345d8c0ce8ebcbf73",
+      "size": 185878
+    },
+    "r05/3MF_individuels/AURA_r05_Phalange_12p5.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Phalange_12p5.3mf",
+      "sha256": "e2353c85bedf8129c531253a9933e0266b4e39a2ad4a058b8461bc02be1e8d0c",
+      "size": 124210
+    },
+    "r05/3MF_individuels/AURA_r05_Phalange_14.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Phalange_14.3mf",
+      "sha256": "094eb01bd61187a21d6a0f01e147c6f80bdafa6e88eae7e967b71b3dac57b7b8",
+      "size": 132576
+    },
+    "r05/3MF_individuels/AURA_r05_Phalange_16.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Phalange_16.3mf",
+      "sha256": "ea90fb21c2606b7d66c26b1199c8a782dee75aa295b21c35ab9101a16aafb666",
+      "size": 138204
+    },
+    "r05/3MF_individuels/AURA_r05_Pied_Butee_1.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Pied_Butee_1.3mf",
+      "sha256": "e26f71a0be3cd4f7b5db58cd7ac0476610bf3fc0dee469f0f974dc72939ef39d",
+      "size": 134738
+    },
+    "r05/3MF_individuels/AURA_r05_Pied_Butee_2.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Pied_Butee_2.3mf",
+      "sha256": "d4b77411f8e074de7a676c9b41055d4ff5ac4ea2054b60587d977949271c7980",
+      "size": 134739
+    },
+    "r05/3MF_individuels/AURA_r05_Rondelle_Friction.3mf": {
+      "path": "archives/r05/anycubic/3MF_individuels/AURA_r05_Rondelle_Friction.3mf",
+      "sha256": "a5aadd9cbc0d15d4d3115ae189afdaf94500d3defcd9b28678687d98e4de0631",
+      "size": 58259
+    },
+    "r05/Kobra_3/AURA_r05_01_Graphite_Bras.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3/AURA_r05_01_Graphite_Bras.3mf",
+      "sha256": "f94fc509dd6e8ab1e77e16dcc6a23751bf6c020ea8a7bcf83541ccd124214b65",
+      "size": 6366563
+    },
+    "r05/Kobra_3/AURA_r05_01_Graphite_Platine.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3/AURA_r05_01_Graphite_Platine.3mf",
+      "sha256": "3967f573b2c62af60e7d172af597d87dda4ea7ce251ceade019de1dcc6bb5fd6",
+      "size": 2940336
+    },
+    "r05/Kobra_3/AURA_r05_02_Gris.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3/AURA_r05_02_Gris.3mf",
+      "sha256": "75fb169e9d6c68a36ffa88370c2774eb0ebacee2c8a6f36401194c699e71b344",
+      "size": 7406982
+    },
+    "r05/Kobra_3/AURA_r05_03_Petrole.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3/AURA_r05_03_Petrole.3mf",
+      "sha256": "67ae8394b6978f109aad0c9a48f088d2232654a6c810ef2dc653e1dcbaaad604",
+      "size": 4958046
+    },
+    "r05/Kobra_3/AURA_r05_04_Blanc.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3/AURA_r05_04_Blanc.3mf",
+      "sha256": "ae6ba52694ba62c4f774b1784399f0d2f68c2b89e24ca1c65531130b8a07f19b",
+      "size": 4192167
+    },
+    "r05/Kobra_3/AURA_r05_05_Coupons.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3/AURA_r05_05_Coupons.3mf",
+      "sha256": "dc3f910cdc287ab78064e0a230dcf553e539b57363fb1f28f6336e2245d72db4",
+      "size": 1021881
+    },
+    "r05/Kobra_3_Max/AURA_r05_01_Graphite_Bras.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3_Max/AURA_r05_01_Graphite_Bras.3mf",
+      "sha256": "7cec9a4c8994fbfd2fecf042da3cf0399d67515ed37fec26b2421fa530ea1cf9",
+      "size": 6032692
+    },
+    "r05/Kobra_3_Max/AURA_r05_01_Graphite_Platine.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3_Max/AURA_r05_01_Graphite_Platine.3mf",
+      "sha256": "fbe4c57f7edeb3bdb33275f51b588e3a2e417f15bdda56ac758e278736c7c653",
+      "size": 2910216
+    },
+    "r05/Kobra_3_Max/AURA_r05_02_Gris.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3_Max/AURA_r05_02_Gris.3mf",
+      "sha256": "85429a072ba94a3fd60ff652d282a29d757b428f6a94432b164c1c16cf351e3b",
+      "size": 6676645
+    },
+    "r05/Kobra_3_Max/AURA_r05_03_Petrole.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3_Max/AURA_r05_03_Petrole.3mf",
+      "sha256": "1ddb332d0ca25a526ea2ac0522b514e68c77379c0dcb20cea1e36479f8cadded",
+      "size": 4934336
+    },
+    "r05/Kobra_3_Max/AURA_r05_04_Blanc.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3_Max/AURA_r05_04_Blanc.3mf",
+      "sha256": "7ac17a1432a533f65e2d135df85fd9c7277935c6682a085082142883eb0e2a77",
+      "size": 4128474
+    },
+    "r05/Kobra_3_Max/AURA_r05_05_Coupons.3mf": {
+      "path": "archives/r05/anycubic/Kobra_3_Max/AURA_r05_05_Coupons.3mf",
+      "sha256": "bce91f22c788303c61b9c5d14e58e1fce63ede06e3218f65b3da99f8dbcde9e3",
+      "size": 994002
+    },
+    "r05/Kobra_X/AURA_r05_01_Graphite_Bras.3mf": {
+      "path": "archives/r05/anycubic/Kobra_X/AURA_r05_01_Graphite_Bras.3mf",
+      "sha256": "cd245ca8bfa4643bea956563f4048f430cf517336855c0bcdf348999b1db7496",
+      "size": 6033670
+    },
+    "r05/Kobra_X/AURA_r05_01_Graphite_Platine.3mf": {
+      "path": "archives/r05/anycubic/Kobra_X/AURA_r05_01_Graphite_Platine.3mf",
+      "sha256": "279befecd083c6266ce48286bef8bd827f4f34e8aa088a2d02d42a217670d65a",
+      "size": 2813319
+    },
+    "r05/Kobra_X/AURA_r05_02_Gris.3mf": {
+      "path": "archives/r05/anycubic/Kobra_X/AURA_r05_02_Gris.3mf",
+      "sha256": "f71a74b0a7a3aa23213d190eb697c71d04dc1f9060ab60397db49991f81239df",
+      "size": 6739386
+    },
+    "r05/Kobra_X/AURA_r05_03_Petrole.3mf": {
+      "path": "archives/r05/anycubic/Kobra_X/AURA_r05_03_Petrole.3mf",
+      "sha256": "ba4929fc7f06730abce1f0e248af4c126e06ad7e30533b80ea1ccc14d3e5bd0d",
+      "size": 4906865
+    },
+    "r05/Kobra_X/AURA_r05_04_Blanc.3mf": {
+      "path": "archives/r05/anycubic/Kobra_X/AURA_r05_04_Blanc.3mf",
+      "sha256": "4fe309b232b28a95216934c2d926fbeadadc2d1b0d524fab2e96e28a55c78b5d",
+      "size": 4194384
+    },
+    "r05/Kobra_X/AURA_r05_05_Coupons.3mf": {
+      "path": "archives/r05/anycubic/Kobra_X/AURA_r05_05_Coupons.3mf",
+      "sha256": "82b7fc4583db1ae8001716939dc3c7b6fe30e881495903aa39ff1a41bcc8e8ee",
+      "size": 1005125
+    }
+  },
+  "videos_r03": {
+    "AURA-01_360_Rotation.mp4": {
+      "url": "https://github.com/Flombt/Axo/releases/download/aura-009-r03-v2-cinematique/AURA-01_360_Rotation.mp4",
+      "size": 49896391,
+      "sha256": "98fbc4528265c5d87928dbc64aa2ec9f40e50c88fe63053eaeb396c29120a094",
+      "path": "archives/r03/animations/AURA-01_360_Rotation.mp4",
+      "verification_http": {
+        "http": 206,
+        "content_range": "bytes 0-31/49896391",
+        "length": "32",
+        "mp4_prefix": "ftyp"
+      }
+    },
+    "AURA-01_Cinematic_Demonstration.mp4": {
+      "url": "https://github.com/Flombt/Axo/releases/download/aura-009-r03-v2-cinematique/AURA-01_Cinematic_Demonstration.mp4",
+      "size": 385548653,
+      "sha256": "010f574f177e958859634817a149b467df469f60342aa6ed6a0e3ee56b06519e",
+      "path": "archives/r03/animations/AURA-01_Cinematic_Demonstration.mp4",
+      "verification_http": {
+        "http": 206,
+        "content_range": "bytes 0-31/385548653",
+        "length": "32",
+        "mp4_prefix": "ftyp"
+      }
+    },
+    "AURA-01_Mechanical_Movements.mp4": {
+      "url": "https://github.com/Flombt/Axo/releases/download/aura-009-r03-v2-cinematique/AURA-01_Mechanical_Movements.mp4",
+      "size": 176436842,
+      "sha256": "b3fd39be3a8502f68df4c455305be9cb9b0cfb382b3b84edfc249228ec7ec04b",
+      "path": "archives/r03/animations/AURA-01_Mechanical_Movements.mp4",
+      "verification_http": {
+        "http": 206,
+        "content_range": "bytes 0-31/176436842",
+        "length": "32",
+        "mp4_prefix": "ftyp"
+      }
+    },
+    "AURA-01_Wireframe.mp4": {
+      "url": "https://github.com/Flombt/Axo/releases/download/aura-009-r03-v2-cinematique/AURA-01_Wireframe.mp4",
+      "size": 110842672,
+      "sha256": "d6bded1c7ad9486af4d0d7e28adec007bf5d4f85c445e79894f7bb6c4323413e",
+      "path": "archives/r03/animations/AURA-01_Wireframe.mp4",
+      "verification_http": {
+        "http": 206,
+        "content_range": "bytes 0-31/110842672",
+        "length": "32",
+        "mp4_prefix": "ftyp"
+      }
+    }
+  }
+}

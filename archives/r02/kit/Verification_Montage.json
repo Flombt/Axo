@@ -1,0 +1,2468 @@
+{
+  "fusion": "2706.1.17",
+  "tag": "AURA-009 · V3 articulée · Montage r02",
+  "pieces": 29,
+  "occurrences": 77,
+  "interferences_repos": [],
+  "pouce": {
+    "poses": [
+      {
+        "angles_deg": [
+          0,
+          0,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          0,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          19,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          19,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          39,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          39,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          0,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          0,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          19,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          19,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          39,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          39,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          0,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          0,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          19,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          19,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          39,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          39,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          0,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          0,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          19,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          19,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          39,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          39,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          0,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          0,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          19,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          19,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          39,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          39,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          0,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          0,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          19,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          19,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          39,
+          0
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          39,
+          36
+        ],
+        "index_fraction": 0,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          0,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          0,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          19,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          19,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          39,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          0,
+          39,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          0,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          0,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          19,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          19,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          39,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          8,
+          39,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          0,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          0,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          19,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          19,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          39,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          16,
+          39,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          0,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          0,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          19,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          19,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          39,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          24,
+          39,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          0,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          0,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          19,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          19,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          39,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          31,
+          39,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          0,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          0,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          19,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          19,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          39,
+          0
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      },
+      {
+        "angles_deg": [
+          33,
+          39,
+          36
+        ],
+        "index_fraction": 1,
+        "jeu_paume_mm": 3.2413,
+        "jeu_chape_mm": 0.54,
+        "interferences": []
+      }
+    ],
+    "jeu_min_paume_mm": 3.2413,
+    "jeu_min_chape_mm": 0.54
+  },
+  "montage": [
+    {
+      "operation": "Axe commun des quatre doigts depuis le côté du pouce",
+      "positions_mm": [
+        53,
+        52,
+        51,
+        50,
+        49,
+        48,
+        47,
+        46,
+        45,
+        44,
+        43,
+        42,
+        41,
+        40,
+        39,
+        38,
+        37,
+        36,
+        35,
+        34,
+        33,
+        32,
+        31,
+        30,
+        29,
+        28,
+        27,
+        26,
+        25,
+        24,
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "07_Paume",
+        "I1",
+        "M1",
+        "A1",
+        "U1",
+        "SERVO_T1",
+        "11_Palonnier"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Dépose du support du pouce vers le côté",
+      "positions_mm": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "obstacles": [
+        "07_Paume",
+        "SERVO_T1",
+        "11_Palonnier",
+        "14_Moyeu"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Insertion de la traverse par le bout des rails, doigts démontés",
+      "positions_mm": [
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "07_Paume",
+        "SERVO_T1",
+        "14_Moyeu"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "MG90S de main dans la selle, support du pouce retiré",
+      "positions_mm": [
+        34,
+        33,
+        32,
+        31,
+        30,
+        29,
+        28,
+        27,
+        26,
+        25,
+        24,
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "07_Paume",
+        "14_Moyeu",
+        "11_Palonnier",
+        "10_Tambour"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "MG996R dans la chape, bras non monté",
+      "positions_mm": [
+        47,
+        46,
+        45,
+        44,
+        43,
+        42,
+        41,
+        40,
+        39,
+        38,
+        37,
+        36,
+        35,
+        34,
+        33,
+        32,
+        31,
+        30,
+        29,
+        28,
+        27,
+        26,
+        25,
+        24,
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "03_Tourelle"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "MG90S de coude depuis l’extérieur, avant-bras non monté",
+      "positions_mm": [
+        35,
+        34,
+        33,
+        32,
+        31,
+        30,
+        29,
+        28,
+        27,
+        26,
+        25,
+        24,
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "04_Segment_1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Servo de roulis déjà vissé sur sa bride, insertion par l’avant",
+      "positions_mm": [
+        36,
+        35,
+        34,
+        33,
+        32,
+        31,
+        30,
+        29,
+        28,
+        27,
+        26,
+        25,
+        24,
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "06_Segment_3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Moyeu enfilé dans la bride de roulis, paume déposée",
+      "positions_mm": [
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "13_Bride_Poignet",
+        "SERVO_J7"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Paume déposée dans l’axe à partir du moyeu tournant",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "14_Moyeu",
+        "13_Bride_Poignet"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Axe passif M3 J2, accès par la joue extérieure",
+      "positions_mm": [
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "03_Tourelle",
+        "04_Segment_1",
+        "CAPTIF_J2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Axe passif M3 J3, accès par la joue extérieure",
+      "positions_mm": [
+        23,
+        22,
+        21,
+        20,
+        19,
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "04_Segment_1",
+        "05_Segment_2",
+        "CAPTIF_J3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Tenon du troisième segment dans l’avant-bras",
+      "positions_mm": [
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "05_Segment_2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Axe M4 du socle avant montage du bras",
+      "positions_mm": [
+        18,
+        17,
+        16,
+        15,
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "02_Socle",
+        "03_Tourelle"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Tournevis du support de pouce, vis 1, par-dessous",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "07_Paume",
+        "12_Support_Pouce",
+        "SERVO_T1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Tournevis du support de pouce, vis 2, par-dessous",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "07_Paume",
+        "12_Support_Pouce",
+        "SERVO_T1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Tournevis de bride Ø3,6, vis 1, paume déposée",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "13_Bride_Poignet",
+        "06_Segment_3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Tournevis de bride Ø3,6, vis 2, paume déposée",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "13_Bride_Poignet",
+        "06_Segment_3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Tournevis de bride Ø3,6, vis 3, paume déposée",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "13_Bride_Poignet",
+        "06_Segment_3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Tournevis de bride Ø3,6, vis 4, paume déposée",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "13_Bride_Poignet",
+        "06_Segment_3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 P1, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "12_Support_Pouce",
+        "P1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 P2, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "P1",
+        "P2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 P3, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "P2",
+        "P3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 I2, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "I1",
+        "I2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 I3, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "I2",
+        "I3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 M2, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "M1",
+        "M2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 M3, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "M2",
+        "M3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 A2, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "A1",
+        "A2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 A3, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "A2",
+        "A3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 U2, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "U1",
+        "U2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Vis latérale M2 U3, doigt seul sur l’établi",
+      "positions_mm": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "U2",
+        "U3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Aiguille Ø0,9 dans le guide du Phalange_14",
+      "positions_mm": [
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "P1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Ouverture du guide du Phalange_14 côté paume",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "P1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Aiguille Ø0,9 dans le guide du Phalange_12p5",
+      "positions_mm": [
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "P2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Ouverture du guide du Phalange_12p5 côté paume",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "P2"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Aiguille Ø0,9 dans le guide du Bout_11",
+      "positions_mm": [
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "P3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Ouverture du guide du Bout_11 côté paume",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "P3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Aiguille Ø0,9 dans le guide du Phalange_16",
+      "positions_mm": [
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "I1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Ouverture du guide du Phalange_16 côté paume",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "I1"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Aiguille Ø0,9 dans le guide du Bout_12p5",
+      "positions_mm": [
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "I3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Ouverture du guide du Bout_12p5 côté paume",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "I3"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Entrée accessible du tendon dans la paume, doigt 1",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Sortie du guide débouchant, doigt 1",
+      "positions_mm": [
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Entrée accessible du tendon dans la paume, doigt 2",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Sortie du guide débouchant, doigt 2",
+      "positions_mm": [
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Entrée accessible du tendon dans la paume, doigt 3",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Sortie du guide débouchant, doigt 3",
+      "positions_mm": [
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Entrée accessible du tendon dans la paume, doigt 4",
+      "positions_mm": [
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    },
+    {
+      "operation": "Sortie du guide débouchant, doigt 4",
+      "positions_mm": [
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "obstacles": [
+        "07_Paume"
+      ],
+      "interferences": [],
+      "maximum_mm3": 0.0
+    }
+  ],
+  "renvoi_pouce": {
+    "point_xy_mm": [
+      53.12,
+      -27.04
+    ],
+    "retrait_traverse_mm": 7.5,
+    "course_geometrique_approchee_mm": 4.668
+  },
+  "global": {
+    "poses": 72,
+    "interferences": [],
+    "couples_Nm": {
+      "J2": {
+        "Nm": 0.1427,
+        "pose": [
+          30,
+          -12,
+          18,
+          -36,
+          1
+        ],
+        "masse_mobile_g": 146.6
+      },
+      "J3": {
+        "Nm": 0.0995,
+        "pose": [
+          0,
+          0,
+          0,
+          -36,
+          0
+        ],
+        "masse_mobile_g": 115.3
+      }
+    }
+  },
+  "pivots": 20,
+  "calibration": {
+    "03_Tourelle": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "04_Segment_1": [
+      0.0,
+      1,
+      1.2564
+    ],
+    "05_Segment_2": [
+      0.0,
+      1,
+      1.2564
+    ],
+    "07_Paume": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "10_Tambour": [
+      0.0,
+      1,
+      1.2564
+    ],
+    "P1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "P2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "P3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "I1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "I2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "I3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "M1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "M2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "M3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "A1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "A2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "A3": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "U1": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "U2": [
+      0.0,
+      -1,
+      1.2564
+    ],
+    "U3": [
+      0.0,
+      -1,
+      1.2564
+    ]
+  },
+  "calibration_traverse": [
+    0.0,
+    1
+  ],
+  "angles_flexion_nominale_deg": {
+    "P1": 31,
+    "P2": 37,
+    "P3": 34,
+    "I1": 37,
+    "I2": 45,
+    "I3": 39,
+    "M1": 38,
+    "M2": 46,
+    "M3": 40,
+    "A1": 37,
+    "A2": 45,
+    "A3": 39,
+    "U1": 34,
+    "U2": 42,
+    "U3": 37
+  },
+  "couplages": 16,
+  "archive": {
+    "fichier": "AURA-01_V3_Articulee_Montage_r02.f3d",
+    "sha256": "385aa81ee2538232b6bdda782accc2d58f013dc6716863ae5805ed98a3ccda7d",
+    "occurrences": 77,
+    "liaisons": 76,
+    "couplages": 16
+  },
+  "nomenclature": [
+    {
+      "reference": "01_Platine",
+      "instances": [
+        "01_Platine"
+      ],
+      "quantite_robot": 1,
+      "stl": "01_Platine.stl",
+      "dimensions_mm": [
+        126.0,
+        100.0,
+        8.7
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 49.2697,
+      "sha256": "e95bfdd6f5d052e2a9165817d4d415fc250bf7f096e8fc6a1eb5771099eb8521"
+    },
+    {
+      "reference": "02_Socle",
+      "instances": [
+        "02_Socle"
+      ],
+      "quantite_robot": 1,
+      "stl": "02_Socle.stl",
+      "dimensions_mm": [
+        66.0,
+        58.0,
+        32.25
+      ],
+      "orientations_deg": {
+        "roll": 180
+      },
+      "volume_cm3": 26.2533,
+      "sha256": "732b0915191259c91641dcba898585c4b20d78a1be8f8a88bebad4b66dc565da"
+    },
+    {
+      "reference": "03_Tourelle",
+      "instances": [
+        "03_Tourelle"
+      ],
+      "quantite_robot": 1,
+      "stl": "03_Tourelle.stl",
+      "dimensions_mm": [
+        63.9,
+        48.95,
+        44.0
+      ],
+      "orientations_deg": {
+        "roll": 180
+      },
+      "volume_cm3": 15.168,
+      "sha256": "9224b69701cf88d08f6c6efd5d1f8d6f037be89adce2fb0b3effb72b2e3c36f2"
+    },
+    {
+      "reference": "04_Segment_1",
+      "instances": [
+        "04_Segment_1"
+      ],
+      "quantite_robot": 1,
+      "stl": "04_Segment_1.stl",
+      "dimensions_mm": [
+        67.8,
+        18.2,
+        36.4
+      ],
+      "orientations_deg": {
+        "roll": 90
+      },
+      "volume_cm3": 10.919,
+      "sha256": "81ba6d66f55a962a751257a36de2a43b024322ccc382081a444af25b357a58e6"
+    },
+    {
+      "reference": "05_Segment_2",
+      "instances": [
+        "05_Segment_2"
+      ],
+      "quantite_robot": 1,
+      "stl": "05_Segment_2.stl",
+      "dimensions_mm": [
+        58.0752,
+        18.2,
+        20.2
+      ],
+      "orientations_deg": {
+        "roll": 90
+      },
+      "volume_cm3": 9.2454,
+      "sha256": "b65c49cc8dbed297d00d8f5315e64762d5f3f3b3481e2abf14c3e57b4dde57e0"
+    },
+    {
+      "reference": "06_Segment_3",
+      "instances": [
+        "06_Segment_3"
+      ],
+      "quantite_robot": 1,
+      "stl": "06_Segment_3.stl",
+      "dimensions_mm": [
+        41.8417,
+        26.04,
+        24.4352
+      ],
+      "orientations_deg": {
+        "roll": 180
+      },
+      "volume_cm3": 8.7732,
+      "sha256": "b62e68ac0d315f6840a546530e8253385addd411064e0586dfa9852d0a9a5a0e"
+    },
+    {
+      "reference": "07_Paume",
+      "instances": [
+        "07_Paume"
+      ],
+      "quantite_robot": 1,
+      "stl": "07_Paume.stl",
+      "dimensions_mm": [
+        50.52,
+        55.47,
+        24.33
+      ],
+      "orientations_deg": {
+        "roll": 180
+      },
+      "volume_cm3": 16.025,
+      "sha256": "d8727346664d6ce602198f31ae31c0b224c031feaa715a74dc1a7ae05975db5f"
+    },
+    {
+      "reference": "08_Capot",
+      "instances": [
+        "08_Capot"
+      ],
+      "quantite_robot": 1,
+      "stl": "08_Capot.stl",
+      "dimensions_mm": [
+        23.9,
+        15.3,
+        1.65
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.582,
+      "sha256": "da32830478e8b40746f305405ab9e8011811658fba70bda34e25eec9bcfff46b"
+    },
+    {
+      "reference": "09_Capot",
+      "instances": [
+        "09_Capot"
+      ],
+      "quantite_robot": 1,
+      "stl": "09_Capot.stl",
+      "dimensions_mm": [
+        20.9,
+        15.3,
+        1.65
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.5062,
+      "sha256": "f57a2d5341c505b38799ac319454c922022987f35d0e0f9e5238dbe34e6e994b"
+    },
+    {
+      "reference": "12_Support_Pouce",
+      "instances": [
+        "12_Support_Pouce"
+      ],
+      "quantite_robot": 1,
+      "stl": "12_Support_Pouce.stl",
+      "dimensions_mm": [
+        22.9387,
+        20.7976,
+        9.5087
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.9972,
+      "sha256": "da4b1a84e946f9b41fc8eccc496bd582431e9573aef3946d1442a8d88ec221b2"
+    },
+    {
+      "reference": "13_Bride_Poignet",
+      "instances": [
+        "13_Bride_Poignet"
+      ],
+      "quantite_robot": 1,
+      "stl": "13_Bride_Poignet.stl",
+      "dimensions_mm": [
+        39.08,
+        30.96,
+        9.64
+      ],
+      "orientations_deg": {
+        "pitch": -90
+      },
+      "volume_cm3": 3.8894,
+      "sha256": "9caf6ea54ae330195aed4c8c5fdf27ce1ac9a5861b0b666944b775a9edf5b49a"
+    },
+    {
+      "reference": "14_Moyeu",
+      "instances": [
+        "14_Moyeu"
+      ],
+      "quantite_robot": 1,
+      "stl": "14_Moyeu.stl",
+      "dimensions_mm": [
+        19.36,
+        19.36,
+        16.7
+      ],
+      "orientations_deg": {
+        "pitch": 90
+      },
+      "volume_cm3": 1.5518,
+      "sha256": "2307ff47e91b65549fcf72c03a7d63fd9474401e08e42e1215a18cc54dc46cd5"
+    },
+    {
+      "reference": "10_Tambour",
+      "instances": [
+        "10_Tambour"
+      ],
+      "quantite_robot": 1,
+      "stl": "10_Tambour.stl",
+      "dimensions_mm": [
+        14.48,
+        14.48,
+        6.05
+      ],
+      "orientations_deg": {
+        "roll": -90
+      },
+      "volume_cm3": 0.7366,
+      "sha256": "e61c26b08dd0c33d66b93f3c5ebda0f6fc95d972e3825880f7de92d761259e3d"
+    },
+    {
+      "reference": "11_Palonnier",
+      "instances": [
+        "11_Palonnier"
+      ],
+      "quantite_robot": 1,
+      "stl": "11_Palonnier.stl",
+      "dimensions_mm": [
+        2.26,
+        40.46,
+        2.5
+      ],
+      "orientations_deg": {
+        "pitch": 90
+      },
+      "volume_cm3": 0.2065,
+      "sha256": "7a0d59d992f6485541c7c904e200635d0173babb7d9646445b733bc25c88ec21"
+    },
+    {
+      "reference": "Phalange_14",
+      "instances": [
+        "P1",
+        "I2",
+        "M2",
+        "A2",
+        "U1"
+      ],
+      "quantite_robot": 5,
+      "stl": "Phalange_14.stl",
+      "dimensions_mm": [
+        21.42,
+        9.3,
+        7.28
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.5718,
+      "sha256": "2b657ca0cf16934434e43dfec8626b83ef0bcd3970856ab03e970c825c4a24c3"
+    },
+    {
+      "reference": "Phalange_12p5",
+      "instances": [
+        "P2",
+        "U2"
+      ],
+      "quantite_robot": 2,
+      "stl": "Phalange_12p5.stl",
+      "dimensions_mm": [
+        19.92,
+        9.3,
+        7.28
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.4928,
+      "sha256": "7a6e1dbea34fc883132c93d128f1fe2a1f2198fa22e104a78fa9e76032757f0d"
+    },
+    {
+      "reference": "Bout_11",
+      "instances": [
+        "P3",
+        "U3"
+      ],
+      "quantite_robot": 2,
+      "stl": "Bout_11.stl",
+      "dimensions_mm": [
+        14.37,
+        8.4,
+        6.68
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.4401,
+      "sha256": "e3ce918663eafd441a4f42ad481bd53f662539939bd434f24c7899acf44cad68"
+    },
+    {
+      "reference": "Phalange_16",
+      "instances": [
+        "I1",
+        "M1",
+        "A1"
+      ],
+      "quantite_robot": 3,
+      "stl": "Phalange_16.stl",
+      "dimensions_mm": [
+        23.42,
+        9.3,
+        7.28
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.6771,
+      "sha256": "cbfd483a913f7d0343f50375605b2c99d3df560918cb1c58ac731b1f57510c83"
+    },
+    {
+      "reference": "Bout_12p5",
+      "instances": [
+        "I3",
+        "M3",
+        "A3"
+      ],
+      "quantite_robot": 3,
+      "stl": "Bout_12p5.stl",
+      "dimensions_mm": [
+        15.87,
+        8.4,
+        6.68
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 0.5219,
+      "sha256": "e9dcf2c9ac1ef66891c8b1999de03c584fda3453a3376c83a0d312522b4d6185"
+    },
+    {
+      "reference": "15_Coupon_Jeux",
+      "instances": [],
+      "quantite_robot": 0,
+      "stl": "15_Coupon_Jeux.stl",
+      "dimensions_mm": [
+        38.0,
+        11.2,
+        2.9
+      ],
+      "orientations_deg": {},
+      "volume_cm3": 1.1601,
+      "sha256": "4af455a7eba11cc9c2f8bf9a9a8895dbe98dcaea68aaa73a3a5f331df36ce8ce"
+    }
+  ],
+  "document_fusion": {
+    "nom": "AURA-01 — V3 articulée — Montage r02",
+    "id": "urn:adsk.wipprod:dm.lineage:q3z2k90ER9ClktXp8LXQ5w",
+    "version": 1,
+    "url": "https://epitech619.autodesk360.com/g/projects/202611211172950976/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uS0w2NDZueTlSV3VLYXF5Z2ZkN196UQ/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOnEzejJrOTBFUjlDbGt0WHA4TFhRNXc",
+    "original_v2": "urn:adsk.wipprod:dm.lineage:o0SmCpQpT_iCykHgVy8qGA"
+  },
+  "step": {
+    "fichier": "AURA-01_V3_Articulee_Montage_r02.step",
+    "sha256": "4db90b5833cd07ee155d978879bb736e26a9ab1e50a265c92e5d399f7f09f308",
+    "reimporte_fusion": true,
+    "occurrences": 77,
+    "solides": 94
+  },
+  "vues_eclatees_reimportees": {
+    "E01_Bride_éclaté.f3d": 17,
+    "E05_Axe_éclaté.f3d": 24,
+    "E06_Pouce_éclaté.f3d": 35
+  },
+  "demonstration": {
+    "fichier": "AURA-01_Demo_Bras_Poignet_Phalanges_r02.mp4",
+    "images_fusion": 197,
+    "cadence": 20,
+    "duree_s": 9.85
+  }
+}

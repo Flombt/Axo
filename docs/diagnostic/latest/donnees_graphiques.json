@@ -1,0 +1,596 @@
+{
+  "scores": [
+    [
+      "Conception mécanique",
+      41,
+      64,
+      [
+        21,
+        19,
+        9,
+        5
+      ],
+      "Six axes et appuis caractérisés en CAO. Garde table et routage bloquants."
+    ],
+    [
+      "Motorisation",
+      32,
+      52,
+      [
+        18,
+        15,
+        5,
+        0
+      ],
+      "Références et efforts bornés numériquement. Couple continu et pertes inconnus."
+    ],
+    [
+      "Imprimabilité",
+      58,
+      69,
+      [
+        10,
+        0,
+        8,
+        0
+      ],
+      "154 occurrences natives et dimensions examinées. Pack d’impression V5 absent."
+    ],
+    [
+      "Électronique",
+      38,
+      45,
+      [
+        10,
+        12,
+        5,
+        0
+      ],
+      "Architecture USB/5 V et gabarits présents. Schéma à onze voies et protections à valider."
+    ],
+    [
+      "Alimentation",
+      23,
+      28,
+      [
+        11,
+        8,
+        3,
+        0
+      ],
+      "Bilan de 11,3 A sur 10 A. Chutes, coupure et reprise restent ouvertes."
+    ],
+    [
+      "Assemblage",
+      48,
+      59,
+      [
+        8,
+        10,
+        9,
+        0
+      ],
+      "Couloirs partiels en CAO. Séquence et quincaillerie sur V5 à qualifier."
+    ],
+    [
+      "Logiciel",
+      39,
+      28,
+      [
+        5,
+        7,
+        4,
+        0
+      ],
+      "Parseur r05 testé. Entrée MicroPython en échec et cinq voies à intégrer."
+    ],
+    [
+      "Intelligence artificielle",
+      8,
+      8,
+      [
+        8,
+        0,
+        0,
+        0
+      ],
+      "Intention documentée. Exécution et planification V5 absentes."
+    ],
+    [
+      "Sécurité",
+      18,
+      29,
+      [
+        11,
+        3,
+        6,
+        0
+      ],
+      "Ancrages et gardes présents. Retenue, limites et réarmement incomplets."
+    ],
+    [
+      "Maintenabilité",
+      39,
+      54,
+      [
+        7,
+        10,
+        4,
+        0
+      ],
+      "Quelques déposes à sec démontrées numériquement. Branchements et outils non qualifiés."
+    ],
+    [
+      "Documentation",
+      71,
+      85,
+      [
+        14,
+        6,
+        18,
+        8
+      ],
+      "F3D, données et prix traçables. Divergence de branches et de notices."
+    ]
+  ],
+  "preparation": [
+    [
+      "Conception mécanique",
+      4,
+      20,
+      "Modèle réouvrable et géométrie documentée. Courbe sûre et passages à reprendre."
+    ],
+    [
+      "Kit d’impression V5",
+      0,
+      20,
+      "Aucun export de production V5 et aucun coupon V5 qualifié."
+    ],
+    [
+      "Achats et budget",
+      8,
+      15,
+      "Architecture et plusieurs prix établis. Stock, panier payable et sécurité non soldés."
+    ],
+    [
+      "Assemblage à blanc",
+      5,
+      15,
+      "Accès partiels testés dans Fusion. Séquence et essais réels manquants."
+    ],
+    [
+      "Alimentation et sécurité",
+      0,
+      20,
+      "Coupure, retenue et réarmement bloquants."
+    ],
+    [
+      "Commande opérationnelle",
+      0,
+      10,
+      "Firmware V5 absent."
+    ]
+  ],
+  "budgets": {
+    "labels": [
+      "r05",
+      "V5 revue",
+      "V5 roulis"
+    ],
+    "hardware": [
+      141.02,
+      148.98,
+      149.48
+    ],
+    "petg_spool": 11.95
+  },
+  "masses": {
+    "labels": [
+      "r03",
+      "r04",
+      "r05",
+      "V5 roulis"
+    ],
+    "nominal": [
+      718.1,
+      1111.6,
+      705.63,
+      774.85770292416
+    ],
+    "solids_labels": [
+      "r05",
+      "V5 roulis"
+    ],
+    "printed_solid": [
+      451.2,
+      460.38142454646
+    ]
+  },
+  "print_times": {
+    "prusa": [
+      [
+        "r03",
+        2426
+      ],
+      [
+        "r04",
+        2804
+      ]
+    ],
+    "anycubic_r05": [
+      [
+        "Kobra X",
+        1177
+      ],
+      [
+        "Kobra 3 Max",
+        1200
+      ],
+      [
+        "Kobra 3",
+        1218
+      ]
+    ]
+  },
+  "history": {
+    "states": [
+      "Résolu numériquement",
+      "Partiellement résolu",
+      "Toujours présent",
+      "Réapparu après une modification",
+      "En attente de validation physique",
+      "Devenu non applicable"
+    ],
+    "records": [
+      [
+        "R02-01",
+        1
+      ],
+      [
+        "R02-02",
+        2
+      ],
+      [
+        "R02-03",
+        1
+      ],
+      [
+        "R02-04",
+        4
+      ],
+      [
+        "R02-05",
+        1
+      ],
+      [
+        "R02-06",
+        3
+      ],
+      [
+        "R02-07",
+        1
+      ],
+      [
+        "R02-08",
+        1
+      ],
+      [
+        "R02-09",
+        3
+      ],
+      [
+        "R02-10",
+        1
+      ],
+      [
+        "R02-11",
+        1
+      ],
+      [
+        "R02-12",
+        3
+      ],
+      [
+        "R02-13",
+        4
+      ],
+      [
+        "R02-14",
+        1
+      ],
+      [
+        "R02-15",
+        1
+      ],
+      [
+        "R02-16",
+        4
+      ],
+      [
+        "R02-17",
+        3
+      ],
+      [
+        "R02-18",
+        3
+      ],
+      [
+        "R02-19",
+        2
+      ],
+      [
+        "R02-20",
+        5
+      ],
+      [
+        "R02-21",
+        1
+      ],
+      [
+        "R02-22",
+        1
+      ],
+      [
+        "R02-23",
+        4
+      ],
+      [
+        "R02-24",
+        5
+      ],
+      [
+        "R02-25",
+        4
+      ],
+      [
+        "R02-26",
+        1
+      ],
+      [
+        "R02-27",
+        2
+      ],
+      [
+        "R02-28",
+        3
+      ],
+      [
+        "R02-29",
+        3
+      ],
+      [
+        "R02-30",
+        5
+      ],
+      [
+        "R02-31",
+        1
+      ],
+      [
+        "R02-32",
+        2
+      ],
+      [
+        "R02-33",
+        1
+      ],
+      [
+        "AUT-01",
+        2
+      ],
+      [
+        "AUT-02",
+        2
+      ],
+      [
+        "AUT-03",
+        2
+      ],
+      [
+        "V2-01",
+        5
+      ],
+      [
+        "V3-01",
+        5
+      ],
+      [
+        "V3-02",
+        5
+      ],
+      [
+        "V3-03",
+        5
+      ],
+      [
+        "V3-04",
+        5
+      ],
+      [
+        "V3-05",
+        1
+      ],
+      [
+        "V3-06",
+        5
+      ]
+    ]
+  },
+  "reprioritized_current": [
+    [
+      "P0",
+      "01",
+      "Ancien connu depuis la V5 revue"
+    ],
+    [
+      "P0",
+      "02",
+      "Nouveau avec J2R et J3R"
+    ],
+    [
+      "P0",
+      "03",
+      "Ancien aggravé"
+    ],
+    [
+      "P0",
+      "04",
+      "Ancien toujours présent"
+    ],
+    [
+      "P0",
+      "05",
+      "Ancien aggravé par deux micros"
+    ],
+    [
+      "P0",
+      "06",
+      "Réapparu après la r05"
+    ],
+    [
+      "P0",
+      "07",
+      "Nouveau pour l’architecture à onze voies"
+    ],
+    [
+      "P0",
+      "08",
+      "Nouveau constat sur le firmware r05"
+    ],
+    [
+      "P0",
+      "09",
+      "Nouveau sur le panier roulis"
+    ],
+    [
+      "P1",
+      "01",
+      "Ancien aggravé"
+    ],
+    [
+      "P1",
+      "02",
+      "Ancien, correction partielle"
+    ],
+    [
+      "P1",
+      "03",
+      "Ancien, cinq voies ajoutées"
+    ],
+    [
+      "P1",
+      "04",
+      "Nouveau constat quantifié"
+    ],
+    [
+      "P1",
+      "05",
+      "Nouveau avec J2R"
+    ],
+    [
+      "P1",
+      "06",
+      "Nouveau avec J3R"
+    ],
+    [
+      "P1",
+      "07",
+      "Réapparu avec le poignet motorisé"
+    ],
+    [
+      "P1",
+      "08",
+      "Ancien, rotation continue abandonnée en r05"
+    ],
+    [
+      "P1",
+      "09",
+      "Ancien, adaptation de quincaillerie à vérifier"
+    ],
+    [
+      "P1",
+      "10",
+      "Ancien aggravé par les coques"
+    ],
+    [
+      "P1",
+      "11",
+      "Nouveau depuis le module 0,8"
+    ],
+    [
+      "P1",
+      "12",
+      "Ancien aggravé"
+    ],
+    [
+      "P1",
+      "13",
+      "Ancien, platine améliorée"
+    ],
+    [
+      "P1",
+      "14",
+      "Ancien persistant"
+    ],
+    [
+      "P1",
+      "15",
+      "Ancien toujours présent"
+    ],
+    [
+      "P1",
+      "16",
+      "Ancien côté autonomie"
+    ],
+    [
+      "P1",
+      "17",
+      "Nouveau pour les deux axes de roulis"
+    ],
+    [
+      "P2",
+      "01",
+      "Ancien récurrent"
+    ],
+    [
+      "P2",
+      "02",
+      "Réapparu après r05"
+    ],
+    [
+      "P2",
+      "03",
+      "Ancien aggravé"
+    ],
+    [
+      "P2",
+      "04",
+      "Ancien, notice active absente"
+    ],
+    [
+      "P2",
+      "05",
+      "Nouveau avec les roulis"
+    ],
+    [
+      "P3",
+      "01",
+      "Nouveau constat sur fichiers d’historique"
+    ],
+    [
+      "P3",
+      "02",
+      "Ancien, écart de travail"
+    ],
+    [
+      "P4",
+      "01",
+      "Ancien, à reprendre après qualification"
+    ],
+    [
+      "P4",
+      "02",
+      "Ancien, gains possibles après qualification"
+    ]
+  ]
+}
