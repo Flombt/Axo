@@ -1,0 +1,202 @@
+{
+  "plateaux": [
+    {
+      "fichier": "00_Coupons.3mf",
+      "instances": 7,
+      "filament_g": 29.86,
+      "duree": "3h 8m 39s",
+      "supports": false,
+      "sections_de_pont": 12,
+      "messages": [],
+      "sha256": "5ab3f345d542d3c3d674345e6d6d99008d0871664fe6c57346e7bba5fe4abe7e",
+      "repartition": {
+        "Coupon_Axes_J2_J3": 1,
+        "Coupon_Bagues_Ecrous": 1,
+        "Coupon_Porte_MG996R": 1,
+        "Coupon_J1_Portee_5200": 1,
+        "Coupon_J1_Portee_5220": 1,
+        "Coupon_J1_Portee_5240": 1,
+        "Coupon_Microservo_Gaine": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "01_Platine.3mf",
+      "instances": 1,
+      "filament_g": 116.01,
+      "duree": "13h 12m 27s",
+      "supports": false,
+      "sections_de_pont": 5,
+      "messages": [],
+      "sha256": "e8082141ff821c3f254fbb3d2528bfbd530452f9b2371eb8244c1017218c72a8",
+      "repartition": {
+        "01_Platine": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "02_Socle_J1.3mf",
+      "instances": 4,
+      "filament_g": 65.66,
+      "duree": "6h 16m 48s",
+      "supports": true,
+      "sections_de_pont": 34,
+      "messages": [],
+      "sha256": "7a9c555ac22a1fd949f58a9ed2106bedf9ecbae9855da682052373c5b0123e4f",
+      "repartition": {
+        "02_Socle": 1,
+        "03_Tourelle": 1,
+        "J1_Bague_Basse": 1,
+        "J1_Bride_RLT": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "03A_Protection_J1.3mf",
+      "instances": 2,
+      "filament_g": 35.79,
+      "duree": "4h 7m 52s",
+      "supports": true,
+      "sections_de_pont": 0,
+      "messages": [],
+      "sha256": "4b40a00db94c6445f893f10c985229c873fd0694c539ea248775d461a297c2f8",
+      "repartition": {
+        "J1_Garde": 1,
+        "J1_Porte_Moteur": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "03B_Engrenages_et_cartes_J1.3mf",
+      "instances": 7,
+      "filament_g": 36.21,
+      "duree": "4h 1m 31s",
+      "supports": true,
+      "sections_de_pont": 4,
+      "messages": [],
+      "sha256": "2a29dfd32428d404bc9fa4810a5b9d7412e25092aca5ffc7b84046ecc5b1b57f",
+      "repartition": {
+        "J1_Couronne": 1,
+        "J1_Pignon": 1,
+        "J1_Moyeu_Pignon": 1,
+        "J1_Chapeau_Aimant": 1,
+        "J1_Capteur_Capot": 1,
+        "J1_Chariot_Cartes": 1,
+        "J1_Arret_Cordon": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "04_Segments.3mf",
+      "instances": 4,
+      "filament_g": 31.87,
+      "duree": "3h 24m 58s",
+      "supports": true,
+      "sections_de_pont": 34,
+      "messages": [],
+      "sha256": "a98d0bf79a427073bcd127ff0eb543cbfd1b74696da486c1da83eef781295793",
+      "repartition": {
+        "04_Segment_1": 1,
+        "05_Segment_2": 1,
+        "08_Capot": 1,
+        "09_Capot": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "05_Poignet_paume.3mf",
+      "instances": 5,
+      "filament_g": 41.8,
+      "duree": "5h 14m 3s",
+      "supports": true,
+      "sections_de_pont": 28,
+      "messages": [],
+      "sha256": "3370aeb31bafd14c838f6927ae7c3d42d8a54141d06452363721eb3fcfe55507",
+      "repartition": {
+        "06_Segment_3": 1,
+        "07_Paume": 1,
+        "12_Support_Pouce": 1,
+        "13_Bride_Poignet": 1,
+        "14_Moyeu": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "06_Porte_moteurs_et_retenues.3mf",
+      "instances": 6,
+      "filament_g": 33.72,
+      "duree": "3h 29m 50s",
+      "supports": true,
+      "sections_de_pont": 9,
+      "messages": [],
+      "sha256": "9bab92bff61020b041d127a4e92e8a17007629e3fedbe5ae492c240b6b3edcd5",
+      "repartition": {
+        "P07_Porte_J2": 1,
+        "P09_Frein_J2": 1,
+        "P11_Garde_J2": 1,
+        "P08_Porte_J3": 1,
+        "P10_Frein_J3": 1,
+        "P12_Garde_J3": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "07_Phalanges.3mf",
+      "instances": 15,
+      "filament_g": 13.11,
+      "duree": "2h 17m 25s",
+      "supports": true,
+      "sections_de_pont": 29,
+      "messages": [],
+      "sha256": "a1fa91545e589d8e242a727084c92740a96ea496978a921049b1ad22bb7c8b07",
+      "repartition": {
+        "Phalange_14": 5,
+        "Phalange_12p5": 2,
+        "Bout_11": 2,
+        "Phalange_16": 3,
+        "Bout_12p5": 3
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "08_Guides_electriques.3mf",
+      "instances": 10,
+      "filament_g": 10.41,
+      "duree": "1h 39m 3s",
+      "supports": true,
+      "sections_de_pont": 0,
+      "messages": [],
+      "sha256": "6c59e59ae8b5000f076f5e135c8ad69f29d33aa3fd73b81f8ff63c6dd00cb23c",
+      "repartition": {
+        "Attache_J2_A": 1,
+        "Attache_J2_B": 1,
+        "Guide_14mm_J2": 2,
+        "Attache_J3_A": 1,
+        "Attache_J3_B": 1,
+        "Guide_14mm_J3": 2,
+        "Collier_faisceau_03": 1,
+        "Collier_faisceau_04": 1
+      },
+      "filament_type": "PETG"
+    },
+    {
+      "fichier": "09_Cassette_main.3mf",
+      "instances": 8,
+      "filament_g": 26.12,
+      "duree": "3h 0m 23s",
+      "supports": true,
+      "sections_de_pont": 11,
+      "messages": [],
+      "sha256": "f970552f0dd54886ecb060913cc4fe59f74f646663aed4d1a7f6c1f99b6fe395",
+      "repartition": {
+        "MAIN_Cassette": 1,
+        "MAIN_Peigne_M2": 1,
+        "MAIN_Peigne_Paume": 1,
+        "Enrouleur_X06": 5
+      },
+      "filament_type": "PETG"
+    }
+  ],
+  "pieces_robot": 62,
+  "filament_robot_g": 410.7
+}

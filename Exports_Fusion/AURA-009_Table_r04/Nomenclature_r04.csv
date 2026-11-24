@@ -1,0 +1,188 @@
+﻿repere;composant;quantite;type;reference_FDM;parent;solides
+01_Platine;01 · Platine PETG ancrée M5;1;PETG;01_Platine;;1
+02_Socle;02 · Porte-roulements J1 à paroi continue;1;PETG;02_Socle;01_Platine;1
+03_Tourelle;03 · Tourelle à fixation sur arbre creux;1;PETG;03_Tourelle;02_Socle;1
+04_Segment_1;04 · Bras supérieur à deux appuis J3;1;PETG;04_Segment_1;03_Tourelle;1
+05_Segment_2;05 · Avant-bras et quatre bossages de cassette;1;PETG;05_Segment_2;04_Segment_1;1
+06_Segment_3;06 · Logement du poignet et tenon;1;PETG;06_Segment_3;05_Segment_2;1
+VIS_SEG3;Raccord segment 3 · vis M3 et rondelle;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+07_Paume;07 · Paume, passages des gaines et dégagement majeur;1;PETG;07_Paume;06_Segment_3;1
+08_Capot;08 · Capot démontable;1;PETG;08_Capot;04_Segment_1;1
+09_Capot;09 · Capot démontable;1;PETG;09_Capot;05_Segment_2;1
+PALIER_J2_G;J2 · bague PFM-0507-05 G;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+PALIER_J2_D;J2 · bague PFM-0507-05 D;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+AXE_J2;J2 · arbre porteur Ø5 et méplat;1;Commerce, matière souple ou gabarit;;04_Segment_1;1
+PION_J2;J2 · goupille transversale Ø2;1;Commerce, matière souple ou gabarit;;04_Segment_1;1
+DOG_J2;J2 · accouplement d’arbre à méplat;1;Commerce, matière souple ou gabarit;;04_Segment_1;1
+SERVO_J2;MG996R · actionneur J2;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+CORNE_J2;J2 · interface cannelée et entraxe d’adaptation;1;Commerce, matière souple ou gabarit;;04_Segment_1;1
+COUPLE_J2;J2 · liaison palonnier–arbre;1;Commerce, matière souple ou gabarit;;04_Segment_1;2
+P07_Porte_J2;J2 · support moteur démontable;1;PETG;P07_Porte_J2;03_Tourelle;1
+P09_Frein_J2;J2 · carter friction et ancrage de ressort;1;PETG;P09_Frein_J2;03_Tourelle;1
+P11_Garde_J2;J2 · garde et porte-butées;1;PETG;P11_Garde_J2;03_Tourelle;1
+STAT_J2;J2 · garnitures, ressort et quincaillerie;1;Commerce, matière souple ou gabarit;;03_Tourelle;19
+ROT_J2;J2 · rotor de retenue passive;1;Commerce, matière souple ou gabarit;;04_Segment_1;3
+PALIER_J3_G;J3 · bague PFM-0507-05 G;1;Commerce, matière souple ou gabarit;;04_Segment_1;1
+PALIER_J3_D;J3 · bague PFM-0507-05 D;1;Commerce, matière souple ou gabarit;;04_Segment_1;1
+AXE_J3;J3 · arbre porteur Ø5 et méplat;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+PION_J3;J3 · goupille transversale Ø2;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+DOG_J3;J3 · accouplement d’arbre à méplat;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+SERVO_J3;ROBOTIS XC330-M288-T · STEP constructeur;1;Commerce, matière souple ou gabarit;;04_Segment_1;14
+CORNE_J3;J3 · palonnier constructeur percé Ø12;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+COUPLE_J3;J3 · liaison palonnier–arbre;1;Commerce, matière souple ou gabarit;;05_Segment_2;4
+P08_Porte_J3;J3 · support moteur démontable;1;PETG;P08_Porte_J3;04_Segment_1;1
+P10_Frein_J3;J3 · carter friction et ancrage de ressort;1;PETG;P10_Frein_J3;04_Segment_1;1
+P12_Garde_J3;J3 · garde et porte-butées;1;PETG;P12_Garde_J3;04_Segment_1;1
+STAT_J3;J3 · garnitures, ressort et quincaillerie;1;Commerce, matière souple ou gabarit;;04_Segment_1;11
+ROT_J3;J3 · rotor de retenue passive;1;Commerce, matière souple ou gabarit;;05_Segment_2;3
+ANC_1;Fixations établies · M5 1;1;Commerce, matière souple ou gabarit;;01_Platine;4
+ANC_2;Fixations établies · M5 2;1;Commerce, matière souple ou gabarit;;01_Platine;4
+ANC_3;Fixations établies · M5 3;1;Commerce, matière souple ou gabarit;;01_Platine;4
+ANC_4;Fixations établies · M5 4;1;Commerce, matière souple ou gabarit;;01_Platine;4
+BTN;Commande de cycle NO · Ø12;1;Commerce, matière souple ou gabarit;;01_Platine;1
+CTRL_VISION;Interface caméra et capteur hors bras;1;Commerce, matière souple ou gabarit;;01_Platine;1
+12_Support_Pouce;12 · Support démontable du pouce;1;PETG;12_Support_Pouce;07_Paume;1
+13_Bride_Poignet;13 · Cassette J7 à deux roulements;1;PETG;13_Bride_Poignet;06_Segment_3;1
+14_Moyeu;14 · Arbre J7 Ø10 et clé de paume;1;PETG;14_Moyeu;07_Paume;1
+Vis_Support_1;M2×10 · Support du pouce 1;1;Commerce, matière souple ou gabarit;;07_Paume;2
+Vis_Support_2;M2×10 · Support du pouce 2;1;Commerce, matière souple ou gabarit;;07_Paume;2
+Vis_Bride_1;M2×12 · Bride de poignet 1;1;Commerce, matière souple ou gabarit;;06_Segment_3;1
+Vis_Bride_2;M2×12 · Bride de poignet 2;1;Commerce, matière souple ou gabarit;;06_Segment_3;1
+Vis_Bride_3;M2×12 · Bride de poignet 3;1;Commerce, matière souple ou gabarit;;06_Segment_3;1
+Vis_Bride_4;M2×12 · Bride de poignet 4;1;Commerce, matière souple ou gabarit;;06_Segment_3;1
+Vis_Moyeu_1;M2×6 · Moyeu 1;1;Commerce, matière souple ou gabarit;;07_Paume;1
+Vis_Moyeu_2;M2×6 · Moyeu 2;1;Commerce, matière souple ou gabarit;;07_Paume;1
+ROD;Axe acier commun aux quatre doigts;1;Commerce, matière souple ou gabarit;;07_Paume;1
+Retenue_-1;Retenue d’axe · côté -1;1;Commerce, matière souple ou gabarit;;07_Paume;2
+Retenue_1;Retenue d’axe · côté +1;1;Commerce, matière souple ou gabarit;;07_Paume;2
+P1;Pouce · Phalange 1;1;PETG;Phalange_14;12_Support_Pouce;1
+Vis_P1;P1 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;12_Support_Pouce;2
+P2;Pouce · Phalange 2;1;PETG;Phalange_12p5;P1;1
+Vis_P2;P2 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;P1;2
+P3;Pouce · Phalange 3;1;PETG;Bout_11;P2;1
+Vis_P3;P3 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;P2;2
+I1;Index · Phalange 1;1;PETG;Phalange_16;07_Paume;1
+I2;Index · Phalange 2;1;PETG;Phalange_14;I1;1
+Vis_I2;I2 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;I1;2
+I3;Index · Phalange 3;1;PETG;Bout_12p5;I2;1
+Vis_I3;I3 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;I2;2
+M1;Majeur · Phalange 1;1;PETG;Phalange_16;07_Paume;1
+M2;Majeur · Phalange 2;1;PETG;Phalange_14;M1;1
+Vis_M2;M2 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;M1;2
+M3;Majeur · Phalange 3;1;PETG;Bout_12p5;M2;1
+Vis_M3;M3 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;M2;2
+A1;Annulaire · Phalange 1;1;PETG;Phalange_16;07_Paume;1
+A2;Annulaire · Phalange 2;1;PETG;Phalange_14;A1;1
+Vis_A2;A2 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;A1;2
+A3;Annulaire · Phalange 3;1;PETG;Bout_12p5;A2;1
+Vis_A3;A3 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;A2;2
+U1;Auriculaire · Phalange 1;1;PETG;Phalange_14;07_Paume;1
+U2;Auriculaire · Phalange 2;1;PETG;Phalange_12p5;U1;1
+Vis_U2;U2 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;U1;2
+U3;Auriculaire · Phalange 3;1;PETG;Bout_11;U2;1
+Vis_U3;U3 · Vis M2×10 et écrou captif;1;Commerce, matière souple ou gabarit;;U2;2
+SERVO_J7;MG90S · J7 déporté dans la cassette;1;Commerce, matière souple ou gabarit;;06_Segment_3;1
+RLT_J7_1;J7 · roulement 61800-2RS1 1;1;Commerce, matière souple ou gabarit;;13_Bride_Poignet;1
+RLT_J7_2;J7 · roulement 61800-2RS1 2;1;Commerce, matière souple ou gabarit;;13_Bride_Poignet;1
+ENT_J7;J7 · entretoise des bagues intérieures;1;Commerce, matière souple ou gabarit;;14_Moyeu;1
+DOG_J7;J7 · entraîneur court et retenue arrière;1;Commerce, matière souple ou gabarit;;14_Moyeu;1
+S_J2_A;J2 · attache de faisceau amont;1;PETG;Attache_J2_A;03_Tourelle;1
+S_J2_B;J2 · attache de faisceau aval;1;PETG;Attache_J2_B;04_Segment_1;1
+G_J2_A;J2 · guide articulé amont;1;PETG;Guide_14mm_J2;03_Tourelle;2
+G_J2_B;J2 · guide articulé aval;1;PETG;Guide_14mm_J2;04_Segment_1;2
+BAG_J2_1;J2 · axe creux de guide 1;1;Commerce, matière souple ou gabarit;;G_J2_A;1
+BAG_J2_2;J2 · axe creux de guide 2;1;Commerce, matière souple ou gabarit;;G_J2_A;1
+BAG_J2_3;J2 · axe creux de guide 3;1;Commerce, matière souple ou gabarit;;G_J2_B;1
+S_J3_A;J3 · attache de faisceau amont;1;PETG;Attache_J3_A;04_Segment_1;1
+S_J3_B;J3 · attache de faisceau aval;1;PETG;Attache_J3_B;05_Segment_2;1
+G_J3_A;J3 · guide articulé amont;1;PETG;Guide_14mm_J3;04_Segment_1;2
+G_J3_B;J3 · guide articulé aval;1;PETG;Guide_14mm_J3;05_Segment_2;2
+BAG_J3_1;J3 · axe creux de guide 1;1;Commerce, matière souple ou gabarit;;G_J3_A;1
+BAG_J3_2;J3 · axe creux de guide 2;1;Commerce, matière souple ou gabarit;;G_J3_A;1
+BAG_J3_3;J3 · axe creux de guide 3;1;Commerce, matière souple ou gabarit;;G_J3_B;1
+FIL_BRAS;Faisceau bras supérieur · dérivation DYNAMIXEL;1;Commerce, matière souple ou gabarit;;04_Segment_1;1
+ATT_F_03;Collier de maintien · 3;1;PETG;Collier_faisceau_03;04_Segment_1;1
+ATT_F_04;Collier de maintien · 4;1;PETG;Collier_faisceau_04;04_Segment_1;1
+J1_Bague_Basse;J1 · épaulement inférieur rapporté;1;PETG;J1_Bague_Basse;02_Socle;1
+J1_Entr_Ext;J1 · entretoise bagues extérieures 5 mm;1;Commerce, matière souple ou gabarit;;02_Socle;1
+J1_RLT_1;J1 · SKF 61808-2RS1 1;1;Commerce, matière souple ou gabarit;;02_Socle;1
+J1_RLT_2;J1 · SKF 61808-2RS1 2;1;Commerce, matière souple ou gabarit;;02_Socle;1
+J1_Bride_RLT;J1 · bride de retenue des bagues extérieures;1;PETG;J1_Bride_RLT;02_Socle;1
+J1_Fix_Stator;J1 · fixations M4 depuis la face d’appui;1;Commerce, matière souple ou gabarit;;02_Socle;5
+J1_Arbre_Creux;J1 · arbre creux Al Ø40/26, collerette Ø50,5;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+J1_Entr_Int;J1 · entretoise bagues intérieures 5 mm;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+J1_Arret_Int;J1 · bague démontable sous palier, Ø42,9;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+J1_Fix_Rotor;J1 · vis de bride et d’engrenage;1;Commerce, matière souple ou gabarit;;03_Tourelle;8
+SERVO_J1;J1 · StepperOnline 17HS08-1004S, moteur fixe;1;Commerce, matière souple ou gabarit;;01_Platine;2
+J1_Porte_Moteur;J1 · portique moteur démontable par le dessus;1;PETG;J1_Porte_Moteur;01_Platine;1
+J1_Vis_Moteur;J1 · quatre vis M3 moteur;1;Commerce, matière souple ou gabarit;;J1_Porte_Moteur;4
+J1_Couronne;J1 · couronne m1, 88 dents;1;PETG;J1_Couronne;03_Tourelle;1
+J1_Pignon;J1 · pignon m1, 20 dents;1;PETG;J1_Pignon;SERVO_J1;1
+J1_Moyeu_Pignon;J1 · moyeu rapporté avec vis de pression;1;PETG;J1_Moyeu_Pignon;J1_Pignon;1
+J1_Axe_Moteur;J1 · arbre moteur tournant Ø5 à méplat;1;Commerce, matière souple ou gabarit;;J1_Pignon;1
+J1_Vis_Pression;J1 · vis sur méplat d’arbre Ø5;1;Commerce, matière souple ou gabarit;;J1_Pignon;1
+J1_LPC_Stator;J1 · JINPAT LPC-12, stator Ø22;1;Commerce, matière souple ou gabarit;;01_Platine;2
+J1_LPC_Rotor;J1 · noyau tournant et sortie axiale LPC-12;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+J1_LPC_Vis;J1 · fixations accessibles par dessous;1;Commerce, matière souple ou gabarit;;01_Platine;3
+J1_Index;J1 · aimant de référencement du rotor;1;Commerce, matière souple ou gabarit;;J1_Couronne;1
+J1_Garde;J1 · carter plein démontable au-dessus des dents;1;PETG;J1_Garde;01_Platine;1
+J1_Piliers_Garde;J1 · entretoises du carter, deux appuis;1;Commerce, matière souple ou gabarit;;01_Platine;2
+J1_AS_Aimant;J1 · aimant diamétral Ø6 sur arbre moteur;1;Commerce, matière souple ou gabarit;;J1_Pignon;1
+J1_Chapeau_Aimant;J1 · porte-aimant sur méplat moteur;1;PETG;J1_Chapeau_Aimant;J1_Pignon;1
+J1_Capteur_Capot;J1 · capot d’encodeur et passage de fiche;1;PETG;J1_Capteur_Capot;J1_Garde;1
+J1_AS5600;J1 · carte de mesure AS5600, enveloppe dans le capot;1;Commerce, matière souple ou gabarit;;J1_Garde;1
+J1_Hall;J1 · détecteur de repère de la couronne, enveloppe;1;Commerce, matière souple ou gabarit;;J1_Garde;1
+MAIN_Cassette;Main · cassette ajourée et démontable;1;PETG;MAIN_Cassette;05_Segment_2;1
+MAIN_Peigne_M2;Main · cinq vis de réglage et départs de gaine;1;PETG;MAIN_Peigne_M2;MAIN_Cassette;1
+MAIN_Peigne_Paume;Main · contre-appui des cinq gaines;1;PETG;MAIN_Peigne_Paume;07_Paume;1
+MAIN_Vis_Peigne;Main · deux fixations M2 du contre-appui;1;Commerce, matière souple ou gabarit;;07_Paume;2
+Moteur_P;KST X06 V6.0 · doigt P · 6 V;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;2
+Enrouleur_P;Main · tambour individuel P;1;PETG;Enrouleur_X06;Moteur_P;1
+Reglage_P;Main · réglage M2 et contre-écrou P;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_M2;1
+Moteur_I;KST X06 V6.0 · doigt I · 6 V;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;2
+Enrouleur_I;Main · tambour individuel I;1;PETG;Enrouleur_X06;Moteur_I;1
+Reglage_I;Main · réglage M2 et contre-écrou I;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_M2;1
+Reglage_M;Main · réglage M2 et contre-écrou M;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_M2;1
+Moteur_A;KST X06 V6.0 · doigt A · 6 V;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;2
+Enrouleur_A;Main · tambour individuel A;1;PETG;Enrouleur_X06;Moteur_A;1
+Reglage_A;Main · réglage M2 et contre-écrou A;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_M2;1
+Moteur_U;KST X06 V6.0 · doigt U · 6 V;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;2
+Enrouleur_U;Main · tambour individuel U;1;PETG;Enrouleur_X06;Moteur_U;1
+Reglage_U;Main · réglage M2 et contre-écrou U;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_M2;1
+Moteur_M;KST X06 V6.0 · doigt M · 6 V;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;2
+Enrouleur_M;Main · tambour individuel M;1;PETG;Enrouleur_X06;Moteur_M;1
+MAIN_Vis_Cassette;Main · têtes de fixation noyées, montage avant moteurs;1;Commerce, matière souple ou gabarit;;05_Segment_2;4
+MAIN_Vis_Servos;Main · vis accessibles des cinq microservos;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;10
+J1_Chariot_Cartes;J1 · tablette amovible des convertisseurs tournants;1;PETG;J1_Chariot_Cartes;03_Tourelle;1
+J1_CC_CC;J1 · deux régulateurs, 5 V et 6 V, gabarits Pololu;1;Commerce, matière souple ou gabarit;;J1_Chariot_Cartes;2
+J1_Logique;J1 · pilotage tournant et liaison différentielle, gabarits;1;Commerce, matière souple ou gabarit;;J1_Chariot_Cartes;2
+FIL_R04_F;Faisceau · entrée fixe sous la platine;1;Commerce, matière souple ou gabarit;;01_Platine;1
+J1_Arret_Cordon;J1 · guide fixe de retenue du cordon;1;PETG;J1_Arret_Cordon;01_Platine;1
+FIL_TOUR_R04;Faisceau · dérivation et raccord J2 conservé;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+FIL_R04_R;Faisceau · capsule vers cartes tournantes;1;Commerce, matière souple ou gabarit;;03_Tourelle;1
+Traction_P;Tendon · brin apparent P;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;1
+Gaine_P;Gaine PTFE Ø1,8 · ferrules en place P;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+Insert_P;Main · appui en bout de gaine P;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_Paume;1
+Traction_I;Tendon · brin apparent I;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;1
+Gaine_I;Gaine PTFE Ø1,8 · ferrules en place I;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+Insert_I;Main · appui en bout de gaine I;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_Paume;1
+Traction_M;Tendon · brin apparent M;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;1
+Gaine_M;Gaine PTFE Ø1,8 · ferrules en place M;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+Insert_M;Main · appui en bout de gaine M;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_Paume;1
+Traction_A;Tendon · brin apparent A;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;1
+Gaine_A;Gaine PTFE Ø1,8 · ferrules en place A;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+Insert_A;Main · appui en bout de gaine A;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_Paume;1
+Traction_U;Tendon · brin apparent U;1;Commerce, matière souple ou gabarit;;MAIN_Cassette;1
+Gaine_U;Gaine PTFE Ø1,8 · ferrules en place U;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+Insert_U;Main · appui en bout de gaine U;1;Commerce, matière souple ou gabarit;;MAIN_Peigne_Paume;1
+Tendon_P;Tendon · traction au neutre P;1;Commerce, matière souple ou gabarit;;07_Paume;1
+Tendon_I;Tendon · traction au neutre I;1;Commerce, matière souple ou gabarit;;07_Paume;1
+Tendon_M;Tendon · traction au neutre M;1;Commerce, matière souple ou gabarit;;07_Paume;1
+Tendon_A;Tendon · traction au neutre A;1;Commerce, matière souple ou gabarit;;07_Paume;1
+Tendon_U;Tendon · traction au neutre U;1;Commerce, matière souple ou gabarit;;07_Paume;1
+FIL_AVANT_R04;Faisceau · alimentation J7 et microservos;1;Commerce, matière souple ou gabarit;;05_Segment_2;1
+Insert_15T_P;KST · insert 15T à deux clavettes et vis axiale;1;Commerce, matière souple ou gabarit;;Enrouleur_P;2
+Insert_15T_I;KST · insert 15T à deux clavettes et vis axiale (1);1;Commerce, matière souple ou gabarit;;Enrouleur_I;2
+Insert_15T_M;KST · insert 15T à deux clavettes et vis axiale (2);1;Commerce, matière souple ou gabarit;;Enrouleur_M;2
+Insert_15T_A;KST · insert 15T à deux clavettes et vis axiale (3);1;Commerce, matière souple ou gabarit;;Enrouleur_A;2
+Insert_15T_U;KST · insert 15T à deux clavettes et vis axiale (4);1;Commerce, matière souple ou gabarit;;Enrouleur_U;2

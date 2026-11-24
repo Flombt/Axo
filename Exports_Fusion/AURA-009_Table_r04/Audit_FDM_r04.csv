@@ -1,0 +1,54 @@
+﻿reference;quantite_robot;dimensions_mm;orientation_deg;filament_g;duree;supports;t_min_mm;t_p10_mm;appui_mm2;sous_faces_mm2;volume_mm3;statut;a_verifier
+01_Platine;1;[180.0, 144.0, 6.0];{};116.01;13h 12m 15s;False;1.543;6.0;25084.2;0.0;144897.38;Impression d’essai nécessaire;Surveiller le retrait, la planéité et l’appui des quatre fixations M5.
+02_Socle;1;[74.664, 80.985, 21.5];{};29.25;2h 33m 16s;False;0.463;4.476;2662.54;0.0;24657.98;Impression d’essai nécessaire;Contrôler la circularité, les épaulements, le jeu d’engrènement et le fluage.
+03_Tourelle;1;[51.0, 54.3, 51.0];{'roll': 90};32.7;3h 22m 12s;True;0.864;5.0;0.0;2622.41;27137.1;Impression d’essai nécessaire;Contrôler diamètres, coaxialité et couches dans les zones de pivot.
+04_Segment_1;1;[67.781, 26.1, 37.4];{'roll': 90};19.03;1h 57m 36s;True;0.603;3.9;213.01;1534.53;14089.6;Impression d’essai nécessaire;Contrôler diamètres, coaxialité et couches dans les zones de pivot.
+05_Segment_2;1;[57.637, 18.05, 17.72];{'roll': 90};11.37;1h 15m 54s;True;0.686;1.586;10.37;1116.33;9369.22;Impression d’essai nécessaire;Contrôler diamètres, coaxialité et couches dans les zones de pivot.
+06_Segment_3;1;[41.841, 26.04, 24.434];{'roll': 180};7.69;1h 0m 7s;True;0.1;1.25;76.23;448.46;4700.68;Impression d’essai nécessaire;Contrôler diamètres, coaxialité et couches dans les zones de pivot.
+07_Paume;1;[50.52, 55.47, 24.33];{'roll': 180};18.06;2h 15m 8s;True;0.055;2.084;2010.45;422.77;15677.03;Impression d’essai nécessaire;Tester le passage du fil, les vis M2 et le décollement des couches près des oreilles.
+08_Capot;1;[23.9, 15.3, 1.65];{};0.8;5m 43s;False;0.758;1.185;352.64;0.0;581.86;Validée numériquement;Vérifier l’appui, les clips et le retrait du support à blanc.
+09_Capot;1;[20.9, 15.3, 1.65];{};0.7;4m 59s;False;0.758;1.251;306.74;0.0;506.12;Validée numériquement;Vérifier l’appui, les clips et le retrait du support à blanc.
+P07_Porte_J2;1;[61.0, 29.4, 24.25];{'roll': 90};9.64;57m 21s;True;0.07;1.096;884.28;217.44;6000.12;Impression d’essai nécessaire;Vérifier les fraisages accessibles, les vis, les écrous et les garnitures.
+P09_Frein_J2;1;[32.2, 32.15, 14.55];{'roll': -90};4.09;28m 57s;True;0.16;1.705;94.64;249.83;2043.06;Impression d’essai nécessaire;Vérifier les fraisages accessibles, les vis, les écrous et les garnitures.
+P11_Garde_J2;1;[46.0, 45.954, 7.2];{'roll': 90};2.15;13m 2s;False;0.665;1.338;355.39;0.0;1608.18;Impression d’essai nécessaire;Vérifier les fraisages accessibles, les vis, les écrous et les garnitures.
+P08_Porte_J3;1;[42.0, 29.4, 33.65];{'roll': 90};11.68;1h 6m 50s;True;0.07;0.973;496.55;236.51;6696.25;Impression d’essai nécessaire;Vérifier les fraisages accessibles, les vis, les écrous et les garnitures.
+P10_Frein_J3;1;[32.2, 32.15, 14.55];{'roll': -90};4.09;28m 54s;True;0.16;1.705;94.64;249.83;2043.06;Impression d’essai nécessaire;Vérifier les fraisages accessibles, les vis, les écrous et les garnitures.
+P12_Garde_J3;1;[46.0, 45.954, 7.2];{'roll': 90};2.12;12m 46s;False;0.664;1.34;339.0;0.0;1583.92;Impression d’essai nécessaire;Vérifier les fraisages accessibles, les vis, les écrous et les garnitures.
+12_Support_Pouce;1;[22.939, 20.796, 9.508];{};1.55;13m 41s;True;0.041;0.77;212.57;41.46;996.73;Impression d’essai nécessaire;Tester le passage du fil, les vis M2 et le décollement des couches près des oreilles.
+13_Bride_Poignet;1;[40.08, 32.958, 24.4];{'pitch': -90};12.3;1h 22m 16s;True;0.8;0.8;504.21;545.42;7345.59;Impression d’essai nécessaire;Contrôler diamètres, coaxialité et couches dans les zones de pivot.
+14_Moyeu;1;[12.378, 12.389, 20.87];{'pitch': 90};2.23;19m 28s;True;0.215;1.79;64.69;69.47;1140.54;Impression d’essai nécessaire;Contrôler diamètres, coaxialité et couches dans les zones de pivot.
+Phalange_14;5;[21.418, 9.3, 8.02];{};0.91;9m 17s;True;0.26;1.05;35.93;97.61;614.5;Impression d’essai nécessaire;Contrôler l’œil et la fente au fil, les couches près de l’axe et le retour élastique.
+Phalange_12p5;2;[19.918, 9.3, 8.02];{};0.83;8m 33s;True;0.041;1.05;23.33;93.62;526.15;Impression d’essai nécessaire;Contrôler l’œil et la fente au fil, les couches près de l’axe et le retour élastique.
+Bout_11;2;[14.369, 8.4, 7.42];{};0.71;7m 42s;True;0.041;1.308;43.06;77.13;481.62;Impression d’essai nécessaire;Contrôler l’œil et la fente au fil, les couches près de l’axe et le retour élastique.
+Phalange_16;3;[23.418, 9.3, 8.02];{};1.05;10m 24s;True;0.26;1.092;52.73;102.78;732.31;Impression d’essai nécessaire;Contrôler l’œil et la fente au fil, les couches près de l’axe et le retour élastique.
+Bout_12p5;3;[15.869, 8.4, 7.42];{};0.82;8m 45s;True;0.778;1.29;55.66;79.03;572.69;Impression d’essai nécessaire;Contrôler l’œil et la fente au fil, les couches près de l’axe et le retour élastique.
+Attache_J2_A;1;[8.36, 8.36, 15.425];{};0.59;7m 8s;True;0.141;0.621;38.36;15.6;398.54;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+Attache_J2_B;1;[16.252, 8.683, 20.15];{};1.81;16m 15s;True;0.098;0.623;26.29;65.47;886.54;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+Guide_14mm_J2;2;[22.36, 8.36, 7.225];{};1.24;10m 59s;True;0.108;1.581;76.73;80.57;671.03;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+Attache_J3_A;1;[8.36, 8.36, 15.425];{};0.6;7m 12s;True;0.052;0.624;38.36;16.48;408.6;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+Attache_J3_B;1;[9.851, 17.969, 20.15];{};2.07;17m 23s;True;0.453;0.777;26.29;76.3;946.29;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+Guide_14mm_J3;2;[22.36, 8.36, 7.225];{};1.26;11m 12s;True;0.036;1.645;76.73;87.56;696.57;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+Collier_faisceau_03;1;[10.114, 4.381, 4.541];{};0.22;2m 15s;True;0.059;0.287;1.01;27.83;89.05;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+Collier_faisceau_04;1;[10.114, 4.381, 4.541];{};0.16;2m 4s;True;0.059;0.287;0.51;29.43;89.05;Impression d’essai nécessaire;Contrôler le libre passage et le retrait du support par les deux ouvertures.
+J1_Bague_Basse;1;[52.0, 52.0, 2.48];{};1.97;9m 1s;False;2.48;2.48;602.81;0.0;1494.96;Impression d’essai nécessaire;Contrôler la circularité, les épaulements, le jeu d’engrènement et le fluage.
+J1_Bride_RLT;1;[61.3, 61.255, 1.12];{};1.79;11m 25s;False;0.293;1.12;1038.62;0.0;1163.25;Impression d’essai nécessaire;Contrôler la circularité, les épaulements, le jeu d’engrènement et le fluage.
+J1_Porte_Moteur;1;[45.6, 53.6, 22.62];{'roll': 180};15.89;2h 0m 18s;True;0.671;0.882;1924.97;60.23;11983.04;Impression d’essai nécessaire;Vérifier l’appui, les clips et le retrait du support à blanc.
+J1_Couronne;1;[89.997, 89.997, 6.0];{};25.0;2h 38m 5s;True;0.821;1.6;4697.36;40.2;28367.07;Impression d’essai nécessaire;Contrôler la circularité, les épaulements, le jeu d’engrènement et le fluage.
+J1_Pignon;1;[21.816, 21.816, 6.0];{};2.21;18m 14s;False;1.227;1.465;274.34;0.0;1646.01;Impression d’essai nécessaire;Contrôler la circularité, les épaulements, le jeu d’engrènement et le fluage.
+J1_Moyeu_Pignon;1;[14.778, 14.795, 6.5];{};1.2;11m 10s;False;0.958;1.64;142.89;9.9;905.38;Impression d’essai nécessaire;Contrôler la circularité, les épaulements, le jeu d’engrènement et le fluage.
+J1_Garde;1;[125.544, 100.999, 8.14];{'roll': 180};19.92;2h 6m 55s;False;1.67;1.67;6133.6;0.0;15754.75;Impression d’essai nécessaire;Vérifier l’appui, les clips et le retrait du support à blanc.
+J1_Chapeau_Aimant;1;[9.6, 9.6, 6.05];{};0.41;4m 13s;False;1.793;1.793;52.17;0.0;299.79;Impression d’essai nécessaire;Vérifier l’appui, les clips et le retrait du support à blanc.
+J1_Capteur_Capot;1;[22.0, 20.8, 14.23];{'roll': 180};3.92;22m 57s;False;2.05;2.4;453.17;17.5;3075.71;Impression d’essai nécessaire;Vérifier l’appui, les clips et le retrait du support à blanc.
+MAIN_Cassette;1;[32.37, 53.6, 24.52];{'roll': 180};17.1;1h 56m 32s;True;0.088;1.355;69.37;1154.88;9176.19;Impression d’essai nécessaire;Vérifier les sièges des vis et l’accessibilité des canaux. Monter un KST et sa clavette à blanc.
+MAIN_Peigne_M2;1;[10.75, 56.5, 9.76];{'pitch': 90};5.46;32m 53s;True;0.071;0.907;7.72;574.21;3283.48;Impression d’essai nécessaire;Vérifier les sièges des vis et l’accessibilité des canaux. Monter un KST et sa clavette à blanc.
+MAIN_Peigne_Paume;1;[7.0, 46.2, 6.26];{'pitch': 90};2.33;18m 54s;False;0.54;1.487;281.78;43.93;1740.72;Impression d’essai nécessaire;Vérifier les sièges des vis et l’accessibilité des canaux. Monter un KST et sa clavette à blanc.
+Enrouleur_X06;5;[9.36, 9.36, 3.24];{};0.26;2m 17s;True;0.348;1.12;53.1;19.57;160.86;Impression d’essai nécessaire;Vérifier les sièges des vis et l’accessibilité des canaux. Monter un KST et sa clavette à blanc.
+J1_Chariot_Cartes;1;[23.4, 38.6, 2.62];{};2.96;19m 47s;False;0.036;2.62;867.13;0.0;2271.87;Impression d’essai nécessaire;Vérifier l’appui, les clips et le retrait du support à blanc.
+J1_Arret_Cordon;1;[8.0, 8.0, 8.15];{};0.57;6m 14s;False;0.723;2.088;62.41;27.05;414.5;Validée numériquement;Vérifier l’appui, les clips et le retrait du support à blanc.
+Coupon_Axes_J2_J3;0;[38.0, 12.0, 8.0];{};4.23;32m 25s;False;0.036;2.493;453.17;142.55;3328.78;Validée numériquement;Contrôler le jeu sur la quincaillerie réelle.
+Coupon_Bagues_Ecrous;0;[50.0, 18.0, 7.0];{};6.12;43m 19s;False;0.98;3.481;781.9;0.0;5252.08;Validée numériquement;Contrôler le jeu sur la quincaillerie réelle.
+Coupon_Porte_MG996R;0;[58.0, 26.8, 4.4];{};3.97;26m 45s;False;2.226;3.17;678.23;0.0;2984.23;Validée numériquement;Contrôler le jeu sur la quincaillerie réelle.
+Coupon_J1_Portee_5200;0;[58.4, 58.4, 4.1];{};2.95;13m 13s;False;3.181;3.194;554.6;0.0;2273.84;Validée numériquement;Contrôler le jeu sur la quincaillerie réelle.
+Coupon_J1_Portee_5220;0;[58.6, 58.6, 4.1];{};2.96;13m 15s;False;3.18;3.194;556.61;0.0;2282.09;Validée numériquement;Contrôler le jeu sur la quincaillerie réelle.
+Coupon_J1_Portee_5240;0;[58.8, 58.8, 4.1];{};2.97;13m 18s;False;3.18;3.194;558.62;0.0;2290.33;Validée numériquement;Contrôler le jeu sur la quincaillerie réelle.
+Coupon_Microservo_Gaine;0;[36.0, 32.0, 6.5];{};6.74;45m 42s;False;2.19;2.733;1140.64;0.0;5553.02;Validée numériquement;Contrôler le jeu sur la quincaillerie réelle.

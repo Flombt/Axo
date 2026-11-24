@@ -1,8 +1,18 @@
 # Axo · AURA-01
 
-Bras robotique de table conçu pour l’impression 3D, avec cinq doigts articulés et un poignet motorisé. **AURA-009 r03** est la révision de conception actuelle.
+Bras robotique de table conçu pour l’impression 3D, avec cinq doigts articulés et un poignet motorisé. **AURA-009 r04** est la révision de développement actuelle.
 
 ![Axo r03 de trois quarts, avec le faisceau et ses guides](docs/renders/r03/05_assemble.png)
+
+## AURA-009 r04
+
+La r04 associe un socle motorisé à rotation continue en CAO et cinq doigts actionnés séparément. Le lot PETG couvre 62 pièces de robot et sept coupons. La validation physique commence par les ajustements et le premier doigt instrumenté.
+
+[![Voir la rotation réelle du socle](docs/r04/01_assemblage.png)](https://github.com/Flombt/Axo/releases/download/aura-009-r04-fabrication/AURA-01_r04_Rotation_Socle.mp4)
+
+[Validation de fabrication](VALIDATION_FABRICATION.md) · [STL, plateaux 3MF et nomenclature](Exports_Fusion/AURA-009_Table_r04/README.md) · [Montage à blanc](docs/r04/ASSEMBLAGE_R04.md) · [F3D, STEP et deux vidéos](https://github.com/Flombt/Axo/releases/tag/aura-009-r04-fabrication)
+
+## Révision r03 archivée
 
 ## Le prototype
 
