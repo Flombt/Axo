@@ -17,6 +17,14 @@ Bras robotique de table conçu pour l’impression 3D, avec cinq doigts articul�
 
 Fusion 360 héberge l’assemblage éditable. PrusaSlicer prépare la fabrication en PETG et Blender rend les vues fixes à partir des solides CAO.
 
+## Démonstration vidéo
+
+Le bras AURA-009 r03 v2 présente ses mouvements, ses couplages et son faisceau dans un film de 66 secondes en 4K à 60 i/s.
+
+[![Voir la démonstration AURA-01](docs/animations/AURA-01_Cover.png)](https://github.com/Flombt/Axo/releases/download/aura-009-r03-v2-cinematique/AURA-01_Cinematic_Demonstration.mp4)
+
+[Clips et projet Blender](https://github.com/Flombt/Axo/releases/tag/aura-009-r03-v2-cinematique) · [Rapport cinématique](docs/animations/RAPPORT_CINEMATIQUE.md)
+
 ## Fichiers
 
 - [Archives Fusion et STEP](Exports_Fusion/AURA-009_Table_r03/README.md)
