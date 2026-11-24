@@ -1,0 +1,2237 @@
+{
+  "files": [
+    {
+      "machine": "Anycubic Kobra 3",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 100.78,
+      "seconds": 18780,
+      "supports": true,
+      "bounds": {
+        "07_Bras": [
+          82.5976123368911,
+          50.368540883714466,
+          3.55271368e-15,
+          146.01476129907843,
+          147.6403885946445,
+          51.099998400000004
+        ],
+        "Garde_J2": [
+          158.01477614170267,
+          50.36437422860046,
+          3.55271368e-15,
+          220.98534059105765,
+          126.766110922927,
+          8.569999700000004
+        ],
+        "06_Garde_J1": [
+          122.92204288368063,
+          131.66032548422632,
+          0.0,
+          176.55061575449048,
+          194.8357985502206,
+          36.119999
+        ],
+        "Garde_J3": [
+          34.01653121361227,
+          159.64123541630755,
+          3.55271368e-15,
+          95.66659546912567,
+          204.6356506182868,
+          8.569999700000004
+        ],
+        "08_Avant_bras": [
+          48.725645400000005,
+          72.391236,
+          0.0,
+          71.6163066,
+          147.641236,
+          36.6399994
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 1.95603731772624e-06,
+      "bbox_all": [
+        34.016532999999995,
+        44.785767,
+        220.985342,
+        204.63565
+      ],
+      "file": "Kobra_3\\AURA_r05_01_Graphite_Bras.3mf",
+      "family": "base",
+      "items": 5,
+      "single": false,
+      "sha256": "f94fc509dd6e8ab1e77e16dcc6a23751bf6c020ea8a7bcf83541ccd124214b65",
+      "sha256_gcode": "e8969caefdc096e658c9a6db346eee9c018fd202525aa179c9b1e05687971870",
+      "profil": "AURA r05 PETG Kobra_3 base",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 58.98,
+      "seconds": 10387,
+      "supports": true,
+      "bounds": {
+        "01_Platine": [
+          36.502809625086314,
+          36.50281062508631,
+          0.0,
+          218.49719037491369,
+          218.49719137491368,
+          6.0
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        }
+      ],
+      "deviation_mesh_mm": 6.699464065043118e-08,
+      "bbox_all": [
+        36.502815999999996,
+        36.502817,
+        218.497184,
+        218.497185
+      ],
+      "file": "Kobra_3\\AURA_r05_01_Graphite_Platine.3mf",
+      "family": "base",
+      "items": 1,
+      "single": false,
+      "sha256": "3967f573b2c62af60e7d172af597d87dda4ea7ce251ceade019de1dcc6bb5fd6",
+      "sha256_gcode": "ba0c64f8f502b86f217e85bbb933673dd9c9ddc437a939d7e3e348c15fb0c0ec",
+      "profil": "AURA r05 PETG Kobra_3 base",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 136.86,
+      "seconds": 23814,
+      "supports": true,
+      "bounds": {
+        "05_Tourelle": [
+          46.60360977861862,
+          31.23438158461063,
+          3.55271368e-15,
+          163.16304303089248,
+          99.74479035294416,
+          54.700000800000005
+        ],
+        "09_Cassette_SG90": [
+          46.598079199999994,
+          111.7709506,
+          1.77635684e-15,
+          122.9980808,
+          158.0509494,
+          19.000000000000004
+        ],
+        "02_Palier_J1": [
+          46.598079999999996,
+          170.05095,
+          0.0,
+          92.59808,
+          214.05095,
+          35.0600014
+        ],
+        "04_Platine_Pico": [
+          134.99808712018444,
+          166.7701117072309,
+          0.0,
+          160.00073549033908,
+          223.77114182405253,
+          7.5999999
+        ],
+        "03_Porte_J1": [
+          134.99807923362872,
+          113.33003723362873,
+          0.0,
+          176.65875676637128,
+          154.9907147663713,
+          22.0
+        ],
+        "Friction_J2_1": [
+          157.1330836412139,
+          88.67158720442713,
+          1.11022302e-15,
+          177.3139277793923,
+          108.8620059890324,
+          1.460000038000001
+        ],
+        "Friction_J2_2": [
+          179.8910746412139,
+          111.42957820442713,
+          1.11022302e-15,
+          200.0719187793923,
+          131.61999698903242,
+          1.460000038000001
+        ],
+        "Friction_J3_1": [
+          171.9975916412139,
+          156.89789820442715,
+          1.11022302e-15,
+          192.1784357793923,
+          177.08831698903242,
+          1.460000038000001
+        ],
+        "Friction_J3_2": [
+          188.2210776412139,
+          80.34158520442713,
+          1.11022302e-15,
+          208.4019217793923,
+          100.5320039890324,
+          1.460000038000001
+        ],
+        "Cale_Faisceau": [
+          108.998254,
+          169.16638781,
+          1.77635684e-15,
+          122.998254,
+          181.76638819,
+          25.979999600000003
+        ],
+        "Entretoise_J1": [
+          111.32423120801515,
+          193.7663870025188,
+          0.0,
+          122.99475864456873,
+          205.42745016012586,
+          13.92000008
+        ],
+        "Pied_Butee_1": [
+          194.54375162338536,
+          142.02920162338538,
+          0.0,
+          203.50950437661461,
+          150.99495437661463,
+          32.9000016
+        ],
+        "Pied_Butee_2": [
+          174.88813562338538,
+          67.30003062338538,
+          0.0,
+          183.85388837661463,
+          76.2657833766146,
+          32.9000016
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 9.930021587777902e-07,
+      "bbox_all": [
+        41.431363999999995,
+        31.23463,
+        211.83691199999998,
+        228.137462
+      ],
+      "file": "Kobra_3\\AURA_r05_02_Gris.3mf",
+      "family": "carrier",
+      "items": 13,
+      "single": false,
+      "sha256": "75fb169e9d6c68a36ffa88370c2774eb0ebacee2c8a6f36401194c699e71b344",
+      "sha256_gcode": "5d6d322db3ea0479cddb84faa3168b9fdcadbb1f6ef8d35e5fe9a200a6f5f9be",
+      "profil": "AURA r05 PETG Kobra_3 carrier",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_on_build_plate_only",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.16,
+      "grams": 35.33,
+      "seconds": 8677,
+      "supports": false,
+      "bounds": {
+        "10_Capot_Tendons": [
+          66.56991959999999,
+          114.774552,
+          3.55271368e-15,
+          144.1899224,
+          146.274552,
+          12.949999800000004
+        ],
+        "J2_Roue": [
+          66.5699192228764,
+          56.83453186329415,
+          0.0,
+          122.56596077712359,
+          112.77455213670584,
+          5.1500001
+        ],
+        "J1_Pignon": [
+          66.56991890563181,
+          148.27455203436907,
+          0.0,
+          116.5630250943682,
+          198.16546996563093,
+          5.1500001
+        ],
+        "J3_Roue": [
+          118.21019264706266,
+          148.27455064706265,
+          0.0,
+          156.11576135293737,
+          186.18011935293737,
+          5.1500001
+        ],
+        "J1_Roue": [
+          122.59799402610356,
+          82.9809944504709,
+          0.0,
+          152.58830397389647,
+          112.7745535495291,
+          5.1500001
+        ],
+        "Peigne_Paume": [
+          152.323749,
+          106.4933916,
+          0.0,
+          159.323749,
+          152.6933924,
+          6.26000022
+        ],
+        "J2_Pignon": [
+          161.32374809940563,
+          122.9600159278952,
+          0.0,
+          181.10933190059438,
+          142.95219207210482,
+          5.1500001
+        ],
+        "J3_Pignon": [
+          161.0821449278952,
+          144.9521900994056,
+          0.0,
+          181.07432107210482,
+          164.73777390059436,
+          5.1500001
+        ],
+        "Bobine_P": [
+          161.32374823381977,
+          108.67838570036042,
+          0.0,
+          174.0450576314153,
+          121.40903643585214,
+          2.42000008
+        ],
+        "Bobine_I": [
+          154.58229670036042,
+          91.8752493685847,
+          0.0,
+          167.31294743585212,
+          104.59655876618024,
+          2.42000008
+        ],
+        "Bobine_M": [
+          175.70877323381978,
+          111.81493770036042,
+          0.0,
+          188.4300826314153,
+          124.54558843585214,
+          5.26000022
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 2.478404049612649e-07,
+      "bbox_all": [
+        66.56992,
+        56.834531999999996,
+        188.430083,
+        198.165471
+      ],
+      "file": "Kobra_3\\AURA_r05_03_Petrole.3mf",
+      "family": "drive",
+      "items": 11,
+      "single": false,
+      "sha256": "67ae8394b6978f109aad0c9a48f088d2232654a6c810ef2dc653e1dcbaaad604",
+      "sha256_gcode": "5a46db8e685e0d9f46af9fdb23ebf9c7c73565cac20b2e708b0a38e745d494ca",
+      "profil": "AURA r05 PETG Kobra_3 drive",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.16,
+      "grams": 41.55,
+      "seconds": 11481,
+      "supports": true,
+      "bounds": {
+        "11_Paume": [
+          62.2355587472656,
+          84.931937390063,
+          -1.0000014358246823e-10,
+          118.5853741472656,
+          140.401621990063,
+          31.3309191999
+        ],
+        "12_Chape_Pouce": [
+          130.26804096114498,
+          104.0218249,
+          8.8817842e-16,
+          151.06444476114498,
+          126.96055510000001,
+          9.507624620000001
+        ],
+        "I1": [
+          128.6408639,
+          136.33864254973798,
+          0.0,
+          137.9408641,
+          159.757023349738,
+          8.019907
+        ],
+        "M1": [
+          93.222478650262,
+          151.1544359,
+          0.0,
+          116.64085945026201,
+          160.4544361,
+          8.019907
+        ],
+        "A1": [
+          149.9408649,
+          137.562985549738,
+          0.0,
+          159.2408651,
+          160.981366349738,
+          8.019907
+        ],
+        "P1": [
+          129.900553650262,
+          83.0271839,
+          0.0,
+          151.31893445026202,
+          92.3271841,
+          8.019907
+        ],
+        "I2": [
+          163.0644429,
+          105.62979554973799,
+          0.0,
+          172.3644431,
+          127.048176349738,
+          8.019907
+        ],
+        "M2": [
+          113.433745650262,
+          171.4637519,
+          0.0,
+          134.852126450262,
+          180.7637521,
+          8.019907
+        ],
+        "A2": [
+          71.9224799,
+          148.093627549738,
+          0.0,
+          81.2224801,
+          169.512008349738,
+          8.019907
+        ],
+        "U1": [
+          171.2408649,
+          139.048176549738,
+          0.0,
+          180.5408651,
+          160.46655734973803,
+          8.019907
+        ],
+        "P2": [
+          92.1337459,
+          172.454436579738,
+          0.0,
+          101.4337461,
+          192.372817319738,
+          8.019907
+        ],
+        "U2": [
+          146.85212568026202,
+          172.9813649,
+          0.0,
+          166.77050642026202,
+          182.2813651,
+          8.019907
+        ],
+        "I3": [
+          105.176079820384,
+          64.53193919,
+          0.0,
+          121.044991560384,
+          72.93193880999999,
+          7.42000008
+        ],
+        "M3": [
+          77.307169820384,
+          64.53193919,
+          0.0,
+          93.176081560384,
+          72.93193880999999,
+          7.42000008
+        ],
+        "A3": [
+          133.044989820384,
+          62.62718519,
+          0.0,
+          148.91390156038398,
+          71.02718481,
+          7.42000008
+        ],
+        "P3": [
+          163.31893419,
+          79.26088443961599,
+          0.0,
+          171.71893381,
+          93.629796179616,
+          7.42000008
+        ],
+        "U3": [
+          184.36444219,
+          114.16445543961599,
+          0.0,
+          192.76444181000002,
+          128.533367179616,
+          7.42000008
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 6.641814167994101e-07,
+      "bbox_all": [
+        50.451811,
+        59.313258,
+        195.912872,
+        202.05457099999998
+      ],
+      "file": "Kobra_3\\AURA_r05_04_Blanc.3mf",
+      "family": "hand",
+      "items": 17,
+      "single": false,
+      "sha256": "ae6ba52694ba62c4f774b1784399f0d2f68c2b89e24ca1c65531130b8a07f19b",
+      "sha256_gcode": "47231a2d1fa49d168a33ad54c791ecdf63cbe08c0c7156beafaaecc59b1a65e8",
+      "profil": "AURA r05 PETG Kobra_3 hand",
+      "parametres_portables": [
+        "bridge_speed",
+        "brim_type",
+        "brim_width",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 14.52,
+      "seconds": 2747,
+      "supports": false,
+      "bounds": {
+        "Coupon_MG996R": [
+          73.868708,
+          113.8689828,
+          0.0,
+          129.868708,
+          141.4689832,
+          5.0
+        ],
+        "Coupon_Axes_M2_M5": [
+          73.868708,
+          83.868982,
+          0.0,
+          125.868708,
+          111.868982,
+          4.0
+        ],
+        "Coupon_SG90": [
+          131.868708,
+          96.10234,
+          0.0,
+          151.868708,
+          134.10234,
+          4.0
+        ],
+        "Coupon_608_224": [
+          99.22532375066913,
+          143.46898175066914,
+          0.0,
+          126.88736224933086,
+          171.13102024933087,
+          6.5
+        ],
+        "Coupon_608_222": [
+          128.51893883644226,
+          136.10233883644227,
+          0.0,
+          155.98125116355772,
+          163.56465116355773,
+          6.5
+        ],
+        "Coupon_608_220": [
+          153.8687067847342,
+          113.1925127847342,
+          0.0,
+          181.1312932152658,
+          140.45509921526582,
+          6.5
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 6.029310768376077e-08,
+      "bbox_all": [
+        73.868708,
+        83.868982,
+        181.131292,
+        171.13101999999998
+      ],
+      "file": "Kobra_3\\AURA_r05_05_Coupons.3mf",
+      "family": "coupon",
+      "items": 6,
+      "single": false,
+      "sha256": "dc3f910cdc287ab78064e0a230dcf553e539b57363fb1f28f6336e2245d72db4",
+      "sha256_gcode": "1561d8507577ffdefdd96157ce04ab6a8b2cad0e3299dcf9cd19c7b2ee0a30da",
+      "profil": "AURA r05 PETG Kobra_3 coupon",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3 Max",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 93.59,
+      "seconds": 18563,
+      "supports": true,
+      "bounds": {
+        "07_Bras": [
+          176.66104033689112,
+          138.96527688371447,
+          3.55271368e-15,
+          240.07818929907845,
+          236.23712459464448,
+          51.099998400000004
+        ],
+        "Garde_J2": [
+          252.07820414170266,
+          138.96111022860046,
+          3.55271368e-15,
+          315.04876859105764,
+          215.362846922927,
+          8.569999700000004
+        ],
+        "06_Garde_J1": [
+          110.95116888368062,
+          138.96559248422633,
+          0.0,
+          164.57974175449044,
+          202.14106555022062,
+          36.119999
+        ],
+        "Garde_J3": [
+          210.4777983817132,
+          219.38837321361228,
+          3.55271368e-15,
+          255.47221358369245,
+          281.03843746912565,
+          8.569999700000004
+        ],
+        "08_Avant_bras": [
+          135.07279860271072,
+          213.31717360271074,
+          0.0,
+          198.52933374987498,
+          276.773708749875,
+          36.6399994
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 1.95603731772624e-06,
+      "bbox_all": [
+        110.970822,
+        133.523875,
+        315.04877,
+        281.860307
+      ],
+      "file": "Kobra_3_Max\\AURA_r05_01_Graphite_Bras.3mf",
+      "family": "base",
+      "items": 5,
+      "single": false,
+      "sha256": "7cec9a4c8994fbfd2fecf042da3cf0399d67515ed37fec26b2421fa530ea1cf9",
+      "sha256_gcode": "669e9dc3087c9388e371112166748dee7e786f65d97b8333a992c944f8cda7c9",
+      "profil": "AURA r05 PETG Kobra_3_Max base",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3 Max",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 62.23,
+      "seconds": 11894,
+      "supports": true,
+      "bounds": {
+        "01_Platine": [
+          122.00280962508631,
+          119.00280962508631,
+          0.0,
+          303.99719037491366,
+          300.99719037491366,
+          6.0
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        }
+      ],
+      "deviation_mesh_mm": 6.699464065043118e-08,
+      "bbox_all": [
+        122.002816,
+        119.002816,
+        303.997184,
+        300.997184
+      ],
+      "file": "Kobra_3_Max\\AURA_r05_01_Graphite_Platine.3mf",
+      "family": "base",
+      "items": 1,
+      "single": false,
+      "sha256": "fbe4c57f7edeb3bdb33275f51b588e3a2e417f15bdda56ac758e278736c7c653",
+      "sha256_gcode": "580921b988811d9964edabf410f7ba6437898b7b789a996a051dff7c0fde5701",
+      "profil": "AURA r05 PETG Kobra_3_Max base",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3 Max",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 108.4,
+      "seconds": 20630,
+      "supports": true,
+      "bounds": {
+        "05_Tourelle": [
+          152.99015064705583,
+          117.99282777861862,
+          3.55271368e-15,
+          221.50055941538938,
+          234.55226103089248,
+          54.700000800000005
+        ],
+        "09_Cassette_SG90": [
+          233.50608860000003,
+          117.9872972,
+          1.77635684e-15,
+          279.78608740000004,
+          194.3872988,
+          19.000000000000004
+        ],
+        "02_Palier_J1": [
+          196.65974693957503,
+          203.06470793957504,
+          0.0,
+          257.37322506042494,
+          263.77818606042496,
+          35.0600014
+        ],
+        "04_Platine_Pico": [
+          269.37201512018447,
+          206.3864487072309,
+          0.0,
+          294.37466349033906,
+          263.38747882405255,
+          7.5999999
+        ],
+        "03_Porte_J1": [
+          172.03390923362872,
+          243.49269423362873,
+          0.0,
+          213.6945867663713,
+          285.15337176637127,
+          22.0
+        ],
+        "Friction_J2_1": [
+          240.0451136412139,
+          262.55220620442714,
+          1.11022302e-15,
+          260.2259577793923,
+          282.74262498903244,
+          1.460000038000001
+        ],
+        "Friction_J2_2": [
+          214.28808692842264,
+          281.8225433672921,
+          1.11022302e-15,
+          234.4761125248344,
+          302.0105687812798,
+          1.460000038000001
+        ],
+        "Friction_J3_1": [
+          145.89450992842265,
+          232.08102336729203,
+          1.11022302e-15,
+          166.0825355248344,
+          252.26904878127976,
+          1.460000038000001
+        ],
+        "Friction_J3_2": [
+          131.62746692842265,
+          203.23271836729205,
+          1.11022302e-15,
+          151.8154925248344,
+          223.42074378127978,
+          1.460000038000001
+        ],
+        "Cale_Faisceau": [
+          209.46885681,
+          123.676806,
+          1.77635684e-15,
+          222.06885719,
+          137.676806,
+          25.979999600000003
+        ],
+        "Entretoise_J1": [
+          132.94433220801514,
+          179.75211500251882,
+          0.0,
+          144.61485964456872,
+          191.41317816012588,
+          13.92000008
+        ],
+        "Pied_Butee_1": [
+          154.2585150345833,
+          264.1225340345833,
+          0.0,
+          163.25851496541668,
+          273.12253396541666,
+          32.9000016
+        ],
+        "Pied_Butee_2": [
+          168.85282903458332,
+          279.1782680345833,
+          0.0,
+          177.8528289654167,
+          288.1782679654167,
+          32.9000016
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 9.930021587777902e-07,
+      "bbox_all": [
+        131.627467,
+        110.68690199999999,
+        301.425726,
+        302.010569
+      ],
+      "file": "Kobra_3_Max\\AURA_r05_02_Gris.3mf",
+      "family": "carrier",
+      "items": 13,
+      "single": false,
+      "sha256": "85429a072ba94a3fd60ff652d282a29d757b428f6a94432b164c1c16cf351e3b",
+      "sha256_gcode": "14c9420469e902cb3808e74435acfd3087fe2347d2bf238ff370c7dceade00ec",
+      "profil": "AURA r05 PETG Kobra_3_Max carrier",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_on_build_plate_only",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3 Max",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.16,
+      "grams": 37.16,
+      "seconds": 9656,
+      "supports": false,
+      "bounds": {
+        "10_Capot_Tendons": [
+          146.171544,
+          171.1899986,
+          3.55271368e-15,
+          177.671544,
+          248.8100014,
+          12.949999800000004
+        ],
+        "J2_Roue": [
+          88.23152386329414,
+          171.1899982228764,
+          0.0,
+          144.17154413670585,
+          227.1860397771236,
+          5.1500001
+        ],
+        "J1_Pignon": [
+          179.67154403436908,
+          171.1899979056318,
+          0.0,
+          229.56246196563094,
+          221.18310409436822,
+          5.1500001
+        ],
+        "J3_Roue": [
+          231.56246064706264,
+          171.18999764706265,
+          0.0,
+          269.4680293529374,
+          209.09556635293737,
+          5.1500001
+        ],
+        "J1_Roue": [
+          271.4680274504709,
+          171.18999802610355,
+          0.0,
+          301.26158654952906,
+          201.18030797389648,
+          5.1500001
+        ],
+        "Peigne_Paume": [
+          195.67131734255727,
+          210.63685834255728,
+          0.0,
+          233.28939865744272,
+          248.25493965744272,
+          6.26000022
+        ],
+        "J2_Pignon": [
+          303.26158509940564,
+          171.18999792789518,
+          0.0,
+          323.0471689005944,
+          191.1821740721048,
+          5.1500001
+        ],
+        "J3_Pignon": [
+          303.26158509940564,
+          193.18217192789518,
+          0.0,
+          323.0471689005944,
+          213.1743480721048,
+          5.1500001
+        ],
+        "Bobine_P": [
+          325.0471682338198,
+          171.19073270036043,
+          0.0,
+          337.7684776314153,
+          183.92138343585214,
+          2.42000008
+        ],
+        "Bobine_I": [
+          325.0471682338198,
+          185.9228507003604,
+          0.0,
+          337.7684776314153,
+          198.65350143585212,
+          2.42000008
+        ],
+        "Bobine_M": [
+          235.28939823381978,
+          209.61291370036042,
+          0.0,
+          248.0107076314153,
+          222.34356443585213,
+          5.26000022
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 2.478404049612649e-07,
+      "bbox_all": [
+        88.231524,
+        171.189997,
+        337.76847799999996,
+        247.45
+      ],
+      "file": "Kobra_3_Max\\AURA_r05_03_Petrole.3mf",
+      "family": "drive",
+      "items": 11,
+      "single": false,
+      "sha256": "1ddb332d0ca25a526ea2ac0522b514e68c77379c0dcb20cea1e36479f8cadded",
+      "sha256_gcode": "fb064422f6b2ef549b879064141890b537a8aa2f390c60a0924be90a5617329c",
+      "profil": "AURA r05 PETG Kobra_3_Max drive",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3 Max",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.16,
+      "grams": 36.66,
+      "seconds": 11309,
+      "supports": true,
+      "bounds": {
+        "11_Paume": [
+          176.36279300993698,
+          143.09440074726558,
+          -1.0000014358246823e-10,
+          231.832477609937,
+          199.4442161472656,
+          31.3309191999
+        ],
+        "12_Chape_Pouce": [
+          194.7166859,
+          211.167862238855,
+          8.8817842e-16,
+          217.6554161,
+          231.96426603885502,
+          9.507624620000001
+        ],
+        "I1": [
+          229.56518521852792,
+          201.08805063191335,
+          0.0,
+          250.84088336808665,
+          222.36374878147208,
+          8.019907
+        ],
+        "M1": [
+          243.8324769,
+          165.46047854973799,
+          0.0,
+          253.1324771,
+          188.878859349738,
+          8.019907
+        ],
+        "A1": [
+          221.548044650262,
+          234.2461909,
+          0.0,
+          244.966425450262,
+          243.5461911,
+          8.019907
+        ],
+        "P1": [
+          173.8334589,
+          211.445681549738,
+          0.0,
+          183.1334591,
+          232.86406234973802,
+          8.019907
+        ],
+        "I2": [
+          188.09645999952792,
+          238.29552899952793,
+          0.0,
+          207.95794458708667,
+          258.1570135870867,
+          8.019907
+        ],
+        "M2": [
+          155.1376629,
+          186.892164549738,
+          0.0,
+          164.4376631,
+          208.31054534973802,
+          8.019907
+        ],
+        "A2": [
+          250.41611499952793,
+          211.77408441291334,
+          0.0,
+          270.2775995870867,
+          231.6355690004721,
+          8.019907
+        ],
+        "U1": [
+          157.3683299,
+          153.47378454973799,
+          0.0,
+          166.6683301,
+          174.892165349738,
+          8.019907
+        ],
+        "P2": [
+          152.5334589,
+          220.31054557973798,
+          0.0,
+          161.8334591,
+          240.22892631973798,
+          8.019907
+        ],
+        "U2": [
+          220.16713668026202,
+          255.5461909,
+          0.0,
+          240.08551742026202,
+          264.8461911,
+          8.019907
+        ],
+        "I3": [
+          166.70391321990758,
+          246.3893342199076,
+          0.0,
+          182.32313234767966,
+          262.0085533476797,
+          7.42000008
+        ],
+        "M3": [
+          265.06654319,
+          183.69598143961602,
+          0.0,
+          273.46654281,
+          199.564893179616,
+          7.42000008
+        ],
+        "A3": [
+          250.9597632199076,
+          242.50973565232033,
+          0.0,
+          266.5789823476797,
+          258.1289547800924,
+          7.42000008
+        ],
+        "P3": [
+          189.939935820384,
+          268.50560019,
+          0.0,
+          204.30884756038398,
+          276.90559981,
+          7.42000008
+        ],
+        "U3": [
+          243.822866820384,
+          145.06047919,
+          0.0,
+          258.191778560384,
+          153.46047881,
+          7.42000008
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 6.641814167994101e-07,
+      "bbox_all": [
+        140.711052,
+        137.241404,
+        276.61497299999996,
+        280.76254
+      ],
+      "file": "Kobra_3_Max\\AURA_r05_04_Blanc.3mf",
+      "family": "hand",
+      "items": 17,
+      "single": false,
+      "sha256": "7ac17a1432a533f65e2d135df85fd9c7277935c6682a085082142883eb0e2a77",
+      "sha256_gcode": "caf23124aef0910f6db5df332907a445adb6985c9026a4b7cd8026f7460c1e39",
+      "profil": "AURA r05 PETG Kobra_3_Max hand",
+      "parametres_portables": [
+        "bridge_speed",
+        "brim_type",
+        "brim_width",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra 3 Max",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 15.15,
+      "seconds": 2881,
+      "supports": false,
+      "bounds": {
+        "Coupon_MG996R": [
+          173.6378268,
+          181.54614,
+          0.0,
+          201.2378272,
+          237.54614,
+          5.0
+        ],
+        "Coupon_Axes_M2_M5": [
+          143.637826,
+          181.54614,
+          0.0,
+          171.637826,
+          233.54614,
+          4.0
+        ],
+        "Coupon_SG90": [
+          203.237828,
+          181.54614,
+          0.0,
+          223.237828,
+          219.54614,
+          4.0
+        ],
+        "Coupon_608_224": [
+          225.23782775066914,
+          181.54613875066914,
+          0.0,
+          252.89986624933087,
+          209.20817724933087,
+          6.5
+        ],
+        "Coupon_608_222": [
+          254.89986483644225,
+          181.54613883644228,
+          0.0,
+          282.3621771635577,
+          209.00845116355774,
+          6.5
+        ],
+        "Coupon_608_220": [
+          223.7326977847342,
+          211.1912757847342,
+          0.0,
+          250.9952842152658,
+          238.4538622152658,
+          6.5
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 6.029310768376077e-08,
+      "bbox_all": [
+        143.637826,
+        181.54613899999998,
+        282.362177,
+        238.453861
+      ],
+      "file": "Kobra_3_Max\\AURA_r05_05_Coupons.3mf",
+      "family": "coupon",
+      "items": 6,
+      "single": false,
+      "sha256": "bce91f22c788303c61b9c5d14e58e1fce63ede06e3218f65b3da99f8dbcde9e3",
+      "sha256_gcode": "c941e012ba261b0b6ce209e2d7e8173844fd7deb14ac5a4da821db28a4e325ea",
+      "profil": "AURA r05 PETG Kobra_3_Max coupon",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra X",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 88.99,
+      "seconds": 18188,
+      "supports": true,
+      "bounds": {
+        "07_Bras": [
+          164.76275914586697,
+          117.26567876795997,
+          3.55271368e-15,
+          235.9406468714548,
+          197.82058701127102,
+          51.099998400000004
+        ],
+        "Garde_J2": [
+          89.76472088675783,
+          117.9194958617226,
+          3.55271368e-15,
+          152.7573792887172,
+          197.82054655018067,
+          8.569999700000004
+        ],
+        "06_Garde_J1": [
+          24.058526883680635,
+          134.64106348422632,
+          0.0,
+          77.68709975449048,
+          197.8165365502206,
+          36.119999
+        ],
+        "Garde_J3": [
+          121.98875173673808,
+          71.0161242002529,
+          3.55271368e-15,
+          182.47143663014194,
+          118.79038507127142,
+          8.569999700000004
+        ],
+        "08_Avant_bras": [
+          52.85407960271074,
+          62.210579250124994,
+          0.0,
+          116.310614749875,
+          125.66711439728925,
+          36.6399994
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 1.95603731772624e-06,
+      "bbox_all": [
+        24.07818,
+        57.123995,
+        242.920731,
+        203.043668
+      ],
+      "file": "Kobra_X\\AURA_r05_01_Graphite_Bras.3mf",
+      "family": "base",
+      "items": 5,
+      "single": false,
+      "sha256": "cd245ca8bfa4643bea956563f4048f430cf517336855c0bcdf348999b1db7496",
+      "sha256_gcode": "5835a99d337795d6fc280d80f6df272a00080314fb2c9ebf93c8fe8c76a7824b",
+      "profil": "AURA r05 PETG Kobra_X base",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra X",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 59.63,
+      "seconds": 11105,
+      "supports": true,
+      "bounds": {
+        "01_Platine": [
+          55.0,
+          73.0,
+          0.0,
+          205.0,
+          187.0,
+          6.0
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        }
+      ],
+      "deviation_mesh_mm": 6.699464065043118e-08,
+      "bbox_all": [
+        55.0,
+        73.0,
+        205.0,
+        187.0
+      ],
+      "file": "Kobra_X\\AURA_r05_01_Graphite_Platine.3mf",
+      "family": "base",
+      "items": 1,
+      "single": false,
+      "sha256": "279befecd083c6266ce48286bef8bd827f4f34e8aa088a2d02d42a217670d65a",
+      "sha256_gcode": "a98f75fde4ebc90e12f0c2fcff270bd6a5634865a9df4c419dbf89247bffed9d",
+      "profil": "AURA r05 PETG Kobra_X base",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra X",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 102.79,
+      "seconds": 20191,
+      "supports": true,
+      "bounds": {
+        "05_Tourelle": [
+          130.25006588381183,
+          130.9996561934936,
+          3.55271368e-15,
+          218.514577304479,
+          217.7550380451723,
+          54.700000800000005
+        ],
+        "09_Cassette_SG90": [
+          71.9645376,
+          141.3605762,
+          1.77635684e-15,
+          118.2445364,
+          217.7605778,
+          19.000000000000004
+        ],
+        "02_Palier_J1": [
+          100.05862293957503,
+          77.21960393957504,
+          0.0,
+          160.77210106042494,
+          137.93308206042494,
+          35.0600014
+        ],
+        "04_Platine_Pico": [
+          151.3176993057765,
+          62.829785752329045,
+          0.0,
+          208.0217316927395,
+          119.5316928102235,
+          7.5999999
+        ],
+        "03_Porte_J1": [
+          70.49181023362871,
+          60.78539323362872,
+          0.0,
+          112.15248776637128,
+          102.44607076637126,
+          22.0
+        ],
+        "Friction_J2_1": [
+          60.91989792842264,
+          109.87958036729205,
+          1.11022302e-15,
+          81.1079235248344,
+          130.06760578127978,
+          1.460000038000001
+        ],
+        "Friction_J2_2": [
+          130.8181022187202,
+          47.61489192842265,
+          1.11022302e-15,
+          151.00612763270794,
+          67.80291752483441,
+          1.460000038000001
+        ],
+        "Friction_J3_1": [
+          41.104815928422646,
+          135.23644236729203,
+          1.11022302e-15,
+          61.2928415248344,
+          155.42446778127976,
+          1.460000038000001
+        ],
+        "Friction_J3_2": [
+          198.7164756412139,
+          193.90524120442714,
+          1.11022302e-15,
+          218.8973197793923,
+          214.0956599890324,
+          1.460000038000001
+        ],
+        "Cale_Faisceau": [
+          197.57707137530412,
+          65.41665237530411,
+          1.77635684e-15,
+          214.7140366246959,
+          82.55361762469589,
+          25.979999600000003
+        ],
+        "Entretoise_J1": [
+          182.41582199100816,
+          50.91745366571458,
+          0.0,
+          194.08398287618792,
+          62.58561517394344,
+          13.92000008
+        ],
+        "Pied_Butee_1": [
+          110.1072430345833,
+          49.23051303458332,
+          0.0,
+          119.10724296541669,
+          58.230512965416686,
+          32.9000016
+        ],
+        "Pied_Butee_2": [
+          160.63934062338538,
+          42.23942162338539,
+          0.0,
+          169.60509337661463,
+          51.205174376614615,
+          32.9000016
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 9.930021587777902e-07,
+      "bbox_all": [
+        41.104816,
+        33.912831,
+        225.58258899999998,
+        225.57761399999998
+      ],
+      "file": "Kobra_X\\AURA_r05_02_Gris.3mf",
+      "family": "carrier",
+      "items": 13,
+      "single": false,
+      "sha256": "f71a74b0a7a3aa23213d190eb697c71d04dc1f9060ab60397db49991f81239df",
+      "sha256_gcode": "04933f0407eb9f145fb702ed203f5eab8885cc832bb7cf5cb18f1c6e9459c9f7",
+      "profil": "AURA r05 PETG Kobra_X carrier",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_on_build_plate_only",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra X",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.16,
+      "grams": 35.53,
+      "seconds": 9617,
+      "supports": false,
+      "bounds": {
+        "10_Capot_Tendons": [
+          146.1334776,
+          144.833101,
+          3.55271368e-15,
+          223.7534804,
+          176.333101,
+          12.949999800000004
+        ],
+        "J2_Roue": [
+          88.1374362228764,
+          120.39309186329416,
+          0.0,
+          144.1334777771236,
+          176.33311213670584,
+          5.1500001
+        ],
+        "J1_Pignon": [
+          36.24651903436907,
+          126.3400059056318,
+          0.0,
+          86.13743696563093,
+          176.3331120943682,
+          5.1500001
+        ],
+        "J3_Roue": [
+          139.53870664706264,
+          104.92753364706265,
+          0.0,
+          177.44427535293735,
+          142.83310235293735,
+          5.1500001
+        ],
+        "J1_Roue": [
+          112.87579302610355,
+          90.1205514504709,
+          0.0,
+          142.86610297389646,
+          119.9141105495291,
+          5.1500001
+        ],
+        "Peigne_Paume": [
+          179.444274,
+          96.6331006,
+          0.0,
+          186.444274,
+          142.8331014,
+          6.26000022
+        ],
+        "J2_Pignon": [
+          91.71139492789518,
+          101.30055609940563,
+          0.0,
+          111.70357107210481,
+          121.08613990059438,
+          5.1500001
+        ],
+        "J3_Pignon": [
+          142.3371640994056,
+          83.66688792789519,
+          0.0,
+          162.12274790059436,
+          103.65906407210481,
+          5.1500001
+        ],
+        "Bobine_P": [
+          163.36617523381977,
+          92.58178470036042,
+          0.0,
+          176.0874846314153,
+          105.31243543585214,
+          2.42000008
+        ],
+        "Bobine_I": [
+          188.44427323381976,
+          130.1017167003604,
+          0.0,
+          201.16558263141528,
+          142.83236743585212,
+          2.42000008
+        ],
+        "Bobine_M": [
+          188.44427323381976,
+          115.36959870036043,
+          0.0,
+          201.16558263141528,
+          128.10024943585213,
+          5.26000022
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 2.478404049612649e-07,
+      "bbox_all": [
+        36.246518,
+        83.666888,
+        222.39347899999999,
+        176.333112
+      ],
+      "file": "Kobra_X\\AURA_r05_03_Petrole.3mf",
+      "family": "drive",
+      "items": 11,
+      "single": false,
+      "sha256": "ba4929fc7f06730abce1f0e248af4c126e06ad7e30533b80ea1ccc14d3e5bd0d",
+      "sha256_gcode": "3def14ad3a72025878d0a3e681fd889b7ba4356fd1aaede93a33a8e9e470afd5",
+      "profil": "AURA r05 PETG Kobra_X drive",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra X",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.16,
+      "grams": 34.79,
+      "seconds": 11556,
+      "supports": true,
+      "bounds": {
+        "11_Paume": [
+          139.3954437472656,
+          133.604087390063,
+          -1.0000014358246823e-10,
+          195.7452591472656,
+          189.073771990063,
+          31.3309191999
+        ],
+        "12_Chape_Pouce": [
+          109.59370606122816,
+          166.3587216192604,
+          8.8817842e-16,
+          131.51004536560703,
+          189.07679851820615,
+          9.507624620000001
+        ],
+        "I1": [
+          118.0954449,
+          130.940342549738,
+          0.0,
+          127.3954451,
+          154.35872334973803,
+          8.019907
+        ],
+        "M1": [
+          133.611012650262,
+          113.2195049,
+          0.0,
+          157.029393450262,
+          122.5195051,
+          8.019907
+        ],
+        "A1": [
+          169.02939265026203,
+          112.3040879,
+          0.0,
+          192.44777345026202,
+          121.6040881,
+          8.019907
+        ],
+        "P1": [
+          149.920411650262,
+          92.2231529,
+          0.0,
+          171.33879245026202,
+          101.5231531,
+          8.019907
+        ],
+        "I2": [
+          96.7954439,
+          138.040163549738,
+          0.0,
+          106.0954441,
+          159.45854434973802,
+          8.019907
+        ],
+        "M2": [
+          101.77402499952792,
+          106.18777941291333,
+          0.0,
+          121.63550958708667,
+          126.04926400047208,
+          8.019907
+        ],
+        "A2": [
+          117.84973499952793,
+          81.14882799952792,
+          0.0,
+          137.71121958708667,
+          101.01031258708667,
+          8.019907
+        ],
+        "U1": [
+          183.3387929,
+          78.97248854973799,
+          0.0,
+          192.6387931,
+          100.390869349738,
+          8.019907
+        ],
+        "P2": [
+          147.373880680262,
+          70.9231529,
+          0.0,
+          167.292261420262,
+          80.2231531,
+          8.019907
+        ],
+        "U2": [
+          88.05492610649112,
+          90.84478951987653,
+          0.0,
+          106.85575048012346,
+          109.64561389350887,
+          8.019907
+        ],
+        "I3": [
+          76.27531621990761,
+          123.70753165232033,
+          0.0,
+          91.89453534767969,
+          139.32675078009242,
+          7.42000008
+        ],
+        "M3": [
+          89.20048319,
+          171.45854343961602,
+          0.0,
+          97.60048280999999,
+          187.327455179616,
+          7.42000008
+        ],
+        "A3": [
+          68.926532820384,
+          150.62663318999998,
+          0.0,
+          84.795444560384,
+          159.02663281,
+          7.42000008
+        ],
+        "P3": [
+          68.80048518999999,
+          171.026631439616,
+          0.0,
+          77.20048480999999,
+          185.395543179616,
+          7.42000008
+        ],
+        "U3": [
+          64.2532763056576,
+          107.94027873807032,
+          0.0,
+          78.81183526192967,
+          122.4988376943424,
+          7.42000008
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 6.641814167994101e-07,
+      "bbox_all": [
+        61.776675999999995,
+        59.100747,
+        201.59827199999998,
+        195.36685
+      ],
+      "file": "Kobra_X\\AURA_r05_04_Blanc.3mf",
+      "family": "hand",
+      "items": 17,
+      "single": false,
+      "sha256": "4fe309b232b28a95216934c2d926fbeadadc2d1b0d524fab2e96e28a55c78b5d",
+      "sha256_gcode": "a880a96d10695dc9e9fbcd9650dfeb50e806ec57590fae5be79cc278e8a4ee76",
+      "profil": "AURA r05 PETG Kobra_X hand",
+      "parametres_portables": [
+        "bridge_speed",
+        "brim_type",
+        "brim_width",
+        "enable_prime_tower",
+        "enable_support",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    },
+    {
+      "machine": "Anycubic Kobra X",
+      "nozzle_mm": 0.4,
+      "layer_mm": 0.2,
+      "grams": 14.48,
+      "seconds": 2818,
+      "supports": false,
+      "bounds": {
+        "Coupon_MG996R": [
+          129.000001,
+          142.1311448,
+          0.0,
+          185.000001,
+          169.7311452,
+          5.0
+        ],
+        "Coupon_Axes_M2_M5": [
+          75.0,
+          141.731155,
+          0.0,
+          127.0,
+          169.731155,
+          4.0
+        ],
+        "Coupon_SG90": [
+          114.34036,
+          119.731155,
+          0.0,
+          152.34036,
+          139.731155,
+          4.0
+        ],
+        "Coupon_608_224": [
+          154.34035875066914,
+          112.46910775066914,
+          0.0,
+          182.00239724933087,
+          140.13114624933087,
+          6.5
+        ],
+        "Coupon_608_222": [
+          126.96878983644228,
+          90.26884383644227,
+          0.0,
+          154.43110216355774,
+          117.73115616355773,
+          6.5
+        ],
+        "Coupon_608_220": [
+          85.0777747847342,
+          112.4685697847342,
+          0.0,
+          112.3403612152658,
+          139.7311562152658,
+          6.5
+        ]
+      },
+      "warning": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ],
+      "deviation_mesh_mm": 6.029310768376077e-08,
+      "bbox_all": [
+        75.0,
+        90.268844,
+        185.000001,
+        169.731155
+      ],
+      "file": "Kobra_X\\AURA_r05_05_Coupons.3mf",
+      "family": "coupon",
+      "items": 6,
+      "single": false,
+      "sha256": "82b7fc4583db1ae8001716939dc3c7b6fe30e881495903aa39ff1a41bcc8e8ee",
+      "sha256_gcode": "ff63eeee123e5eed8a1bd1e4c3f709549678e77209bc5b6b5ee4f1d4d234516f",
+      "profil": "AURA r05 PETG Kobra_X coupon",
+      "parametres_portables": [
+        "bridge_speed",
+        "enable_prime_tower",
+        "initial_layer_print_height",
+        "initial_layer_speed",
+        "inner_wall_speed",
+        "layer_height",
+        "outer_wall_speed",
+        "sparse_infill_density",
+        "sparse_infill_pattern",
+        "support_interface_spacing",
+        "support_threshold_angle",
+        "support_top_z_distance",
+        "support_type",
+        "wall_generator",
+        "wall_loops"
+      ]
+    }
+  ],
+  "errors": []
+}

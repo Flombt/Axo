@@ -1,0 +1,166 @@
+{
+  "reference": "AURA-01 r05 — Budget Edition",
+  "source": {
+    "name": "AURA-01 — V3 de table — AURA-009 r04",
+    "version": 4,
+    "occurrences": 187,
+    "joints": 188,
+    "links": 16,
+    "f3d_sha256": "b66df479a794ca681debce77581cf588a0e5bb0308f7d23cbda19ef15bff6ec2",
+    "step_sha256": "b5c79fa5bc4f64007368c11e99574367bd98984786eefb487577451b5cae92c7",
+    "print_groups": {
+      "01_Platine": "01_Platine",
+      "02_Socle": "02_Socle",
+      "03_Tourelle": "03_Tourelle",
+      "04_Segment_1": "04_Segment_1",
+      "05_Segment_2": "05_Segment_2",
+      "06_Segment_3": "06_Segment_3",
+      "07_Paume": "07_Paume",
+      "08_Capot": "08_Capot",
+      "09_Capot": "09_Capot",
+      "P07_Porte_J2": "P07_Porte_J2",
+      "P09_Frein_J2": "P09_Frein_J2",
+      "P11_Garde_J2": "P11_Garde_J2",
+      "P08_Porte_J3": "P08_Porte_J3",
+      "P10_Frein_J3": "P10_Frein_J3",
+      "P12_Garde_J3": "P12_Garde_J3",
+      "12_Support_Pouce": "12_Support_Pouce",
+      "13_Bride_Poignet": "13_Bride_Poignet",
+      "14_Moyeu": "14_Moyeu",
+      "P1": "Phalange_14",
+      "P2": "Phalange_12p5",
+      "P3": "Bout_11",
+      "I1": "Phalange_16",
+      "I2": "Phalange_14",
+      "I3": "Bout_12p5",
+      "M1": "Phalange_16",
+      "M2": "Phalange_14",
+      "M3": "Bout_12p5",
+      "A1": "Phalange_16",
+      "A2": "Phalange_14",
+      "A3": "Bout_12p5",
+      "U1": "Phalange_14",
+      "U2": "Phalange_12p5",
+      "U3": "Bout_11",
+      "S_J2_A": "Attache_J2_A",
+      "S_J2_B": "Attache_J2_B",
+      "G_J2_A": "Guide_14mm_J2",
+      "G_J2_B": "Guide_14mm_J2",
+      "S_J3_A": "Attache_J3_A",
+      "S_J3_B": "Attache_J3_B",
+      "G_J3_A": "Guide_14mm_J3",
+      "G_J3_B": "Guide_14mm_J3",
+      "ATT_F_03": "Collier_faisceau_03",
+      "ATT_F_04": "Collier_faisceau_04",
+      "J1_Bague_Basse": "J1_Bague_Basse",
+      "J1_Bride_RLT": "J1_Bride_RLT",
+      "J1_Porte_Moteur": "J1_Porte_Moteur",
+      "J1_Couronne": "J1_Couronne",
+      "J1_Pignon": "J1_Pignon",
+      "J1_Moyeu_Pignon": "J1_Moyeu_Pignon",
+      "J1_Garde": "J1_Garde",
+      "J1_Chapeau_Aimant": "J1_Chapeau_Aimant",
+      "J1_Capteur_Capot": "J1_Capteur_Capot",
+      "MAIN_Cassette": "MAIN_Cassette",
+      "MAIN_Peigne_M2": "MAIN_Peigne_M2",
+      "MAIN_Peigne_Paume": "MAIN_Peigne_Paume",
+      "Enrouleur_P": "Enrouleur_X06",
+      "Enrouleur_I": "Enrouleur_X06",
+      "Enrouleur_A": "Enrouleur_X06",
+      "Enrouleur_U": "Enrouleur_X06",
+      "Enrouleur_M": "Enrouleur_X06",
+      "J1_Chariot_Cartes": "J1_Chariot_Cartes",
+      "J1_Arret_Cordon": "J1_Arret_Cordon"
+    },
+    "finger": {
+      "P1": {
+        "range": -1,
+        "parent": "12_Support_Pouce"
+      },
+      "P2": {
+        "range": -1,
+        "parent": "P1"
+      },
+      "P3": {
+        "range": -1,
+        "parent": "P2"
+      },
+      "I1": {
+        "range": -1,
+        "parent": "07_Paume"
+      },
+      "I2": {
+        "range": -1,
+        "parent": "I1"
+      },
+      "I3": {
+        "range": -1,
+        "parent": "I2"
+      },
+      "M1": {
+        "range": -1,
+        "parent": "07_Paume"
+      },
+      "M2": {
+        "range": -1,
+        "parent": "M1"
+      },
+      "M3": {
+        "range": -1,
+        "parent": "M2"
+      },
+      "A1": {
+        "range": -1,
+        "parent": "07_Paume"
+      },
+      "A2": {
+        "range": -1,
+        "parent": "A1"
+      },
+      "A3": {
+        "range": -1,
+        "parent": "A2"
+      },
+      "U1": {
+        "range": -1,
+        "parent": "07_Paume"
+      },
+      "U2": {
+        "range": -1,
+        "parent": "U1"
+      },
+      "U3": {
+        "range": -1,
+        "parent": "U2"
+      }
+    },
+    "flexion_deg": {
+      "P1": 31,
+      "P2": 37,
+      "P3": 34,
+      "I1": 37,
+      "I2": 45,
+      "I3": 39,
+      "M1": 38,
+      "M2": 46,
+      "M3": 40,
+      "A1": 37,
+      "A2": 45,
+      "A3": 39,
+      "U1": 34,
+      "U2": 42,
+      "U3": 37
+    }
+  },
+  "fusion_version": "2706.1.17",
+  "cloud_version": 2,
+  "occurrences": 105,
+  "solides": 120,
+  "liaisons": 104,
+  "rotations": 25,
+  "couplages": 18,
+  "stl_avec_coupons": 39,
+  "step_mode": "copie Fusion en solides au neutre",
+  "f3d_sha256": "52577a58dd3bef691e3a3afa414f1e7c608a2f1b84afc44ca2b98914a6c21fd8",
+  "step_sha256": "d8dd043571ea79aa2e9f1ecc577d5c267bfafbb35635f7fa74e8a9f18fa34a5a"
+}

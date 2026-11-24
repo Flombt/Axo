@@ -1,8 +1,22 @@
 # Axo · AURA-01
 
-Bras robotique de table conçu pour l’impression 3D, avec cinq doigts articulés et un poignet motorisé. **AURA-009 r04** est la révision de développement actuelle.
+Bras robotique de table à cinq doigts articulés, conçu pour l’impression 3D. **AURA-01 r05 — Budget Edition** est la révision économique de développement.
 
-![Axo r03 de trois quarts, avec le faisceau et ses guides](docs/renders/r03/05_assemble.png)
+![AURA-01 r05, assemblage au neutre issu de Fusion](docs/r05/01_Assemblage.png)
+
+## AURA-01 r05 — Budget Edition
+
+La r05 utilise un socle motorisé sur 176°, deux axes portés avec réductions imprimées et un poignet réglable à la main. Le pouce et l’index répondent séparément. Les trois autres doigts partagent un servo et la cassette possède deux empreintes libres pour les rendre indépendants. Le Pico pilote le bras par USB.
+
+| Fusion | Fabrication PETG | Achats |
+|---|---|---|
+| Modèle r05 v2 · 105 occurrences et 18 couplages | 47 pièces et six coupons. 3MF par couleur pour Kobra X, Kobra 3 Max et Kobra 3. | Cible **149,97 € TTC livré**, sous réserve des ports et du stock à confirmer. |
+
+[Archives F3D, STEP et STL](Exports_Fusion/AURA-009_Table_r05/README.md) · [Plateaux Anycubic](manufacturing/r05/README.md) · [Rapport et comparaison](OPTIMISATION_BUDGET_R05.md) · [Panier](LISTE_ACHATS_R05.md)
+
+[Vidéo cinématique](docs/r05/AURA-01_r05_Cinematique.mp4) · [Vues de montage](docs/r05) · [Commande sur Pico](firmware/r05/README.md)
+
+Les contrôles numériques couvrent 85 poses, les butées et la réserve de longueur des faisceaux. La retenue hors tension, les couples soutenus, le courant et la préhension attendent leur banc.
 
 ## AURA-009 r04
 
@@ -11,6 +25,10 @@ La r04 associe un socle motorisé à rotation continue en CAO et cinq doigts act
 [![Voir la rotation réelle du socle](docs/r04/01_assemblage.png)](https://github.com/Flombt/Axo/releases/download/aura-009-r04-fabrication/AURA-01_r04_Rotation_Socle.mp4)
 
 [Validation de fabrication](VALIDATION_FABRICATION.md) · [STL, plateaux 3MF et nomenclature](Exports_Fusion/AURA-009_Table_r04/README.md) · [Montage à blanc](docs/r04/ASSEMBLAGE_R04.md) · [F3D, STEP et deux vidéos](https://github.com/Flombt/Axo/releases/tag/aura-009-r04-fabrication)
+
+Les 53 modèles 3MF individuels et les six planches Anycubic sont disponibles pour préparer le transfert sur clé USB. [Planches par couleur et guide USB](manufacturing/anycubic/README.md).
+
+La visserie réutilisable et le matériel restant à acheter pour la r04 figurent dans le [devis de montage](ACHATS_AURA_R04/README.md).
 
 ## Révision r03 archivée
 
