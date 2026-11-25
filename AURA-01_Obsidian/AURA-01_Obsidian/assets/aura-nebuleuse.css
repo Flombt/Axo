@@ -1,0 +1,19 @@
+/* Nébuleuse du graphe 3D. Le canevas garde ses contrôles et son interaction. */
+.theme-dark .gs3d-view:has(> .gs3d-canvas) {
+  isolation: isolate;
+}
+
+.theme-dark .gs3d-view:has(> .gs3d-canvas)::before {
+  content: "";
+  position: absolute;
+  z-index: 0;
+  inset: -16%;
+  pointer-events: none;
+  mix-blend-mode: screen;
+  transform: rotate(-19deg);
+  background:
+    radial-gradient(ellipse 26% 8% at 51% 48%, rgb(116 74 232 / 29%), transparent 100%),
+    radial-gradient(ellipse 23% 10% at 35% 54%, rgb(178 65 166 / 19%), transparent 96%),
+    radial-gradient(ellipse 31% 12% at 65% 52%, rgb(32 123 195 / 22%), transparent 98%),
+    radial-gradient(ellipse 45% 19% at 52% 52%, rgb(69 43 138 / 16%), transparent 100%);
+}

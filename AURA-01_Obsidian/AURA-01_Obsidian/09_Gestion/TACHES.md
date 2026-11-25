@@ -85,6 +85,8 @@ Voir les [[02_Conception_Fusion/MONTAGE_V3|preuves et documents du kit]].
 - **TERMINÉ** le 21 novembre 2026. Liens du coffre, chargement des règles Codex et vue Graphe vérifiés.
 - **Preuve** — Compte rendu dans le [[09_Gestion/JOURNAL#2026-11-21 — Mise en place de la mémoire Obsidian|journal]] et résultat de T-052 dans la [[08_Tests/MATRICE_TESTS|matrice de validation]].
 
+- **Personnalisation du 25 novembre 2026 · TERMINÉ.** Cyber Glow actif et graphe orbital animé vérifié. [[09_Gestion/JOURNAL#2026-11-25 — Graphe orbital du coffre|Journal]]
+
 ## AURA-002 — Auditer et sauvegarder Assemblage final
 
 - **TERMINÉ** le 21 novembre 2026. Assemblage final v5 sauvegardé en F3Z avec ses huit références. Audit des composants, des liaisons et de 46 poses dans Fusion.

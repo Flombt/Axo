@@ -1,5 +1,11 @@
 # Journal des sessions
 
+## 2026-11-25 — Graphe orbital du coffre
+
+- Installé et activé Cyber Glow 2.8.0 depuis le catalogue Obsidian avec Computer Use. Appliqué le préréglage Galaxy et activé l’extrait CSS local `AURA - Nebuleuse`.
+- Réglé Graph Styler 0.4.2 sur Deep Space et Orbital. Le tableau de bord est le centre et la rotation automatique est réglée à 0,17 rad/s. Adapté les règles de couleur composées en requêtes simples compatibles 3D. Filtré les nœuds sans fichier.
+- Vérifié la réouverture du graphe dans Obsidian 1.15.1, le mouvement, la pause, la reprise et l’ouverture du tableau de bord depuis son étoile. La sauvegarde du graphe initial se trouve dans `.obsidian/graph.json.styler-bak`. [[09_Gestion/ADR#ADR-022 — Graphe orbital du coffre Obsidian|Réglages et restauration]]
+
 ## 2026-11-25 — V5 Roulis à socle plat pour le montage manuel
 
 - Repris le F3D de la revue V5 Roulis v1 à partir de son tag. Les retouches portent sur les deux lumières de butée et la retenue du poignet pour le montage sans moteurs.

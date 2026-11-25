@@ -165,6 +165,12 @@ Retenu pour l’intégration. Garder les 15 PWM dans la main, répartir le 6 V e
 
 **25 novembre 2026 · V5-stabilisation.** Le Pico 2 vérifie la calibration, les deux retours analogiques de tangage et leur enveloppe couplée. La conception de puissance couple arrêt NC, verrouillage matériel, rail à coupure séparée et tampon PWM haute impédance à l’arrêt. Le calcul garde 11,30 A en pointe et dimensionne un bloc externe candidat. La chaîne réelle doit être éprouvée sur charge factice avant un moteur. [Électronique](../../../electronics/README.md) · [Firmware](../../../firmware/README.md)
 
+## ADR-022 — Graphe orbital du coffre Obsidian
+
+**25 novembre 2026 · Choix local.** Cyber Glow donne au coffre un thème sombre aux accents cyan. La vue Graph Styler adopte Galaxy, Deep Space et la disposition Orbital autour de `00_DASHBOARD.md`. Les étoiles représentent les notes existantes. Les cinq familles gardent leur périmètre avec une palette adaptée au fond sombre.
+
+**Accès et restauration.** Ouvrir **Ctrl+P → Graph Styler: Open 3D graph**. La configuration active est dans `.obsidian/`. Le bouton **Restore original** de Graph Styler rétablit les réglages du graphe sauvegardés lors de la première application du préréglage. Le thème Wasp reste sélectionnable dans **Paramètres → Apparence** et l’extrait **AURA - Nebuleuse** est désactivable sous **Extraits de CSS**. [Source de l’extrait](../assets/aura-nebuleuse.css) · [[09_Gestion/JOURNAL#2026-11-25 — Graphe orbital du coffre|Journal]]
+
 ## Template
 
 ### ADR-XXX — <titre>

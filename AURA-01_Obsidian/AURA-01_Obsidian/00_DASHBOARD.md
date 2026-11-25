@@ -37,7 +37,7 @@ tags: [dashboard, robotique]
 - [[10_Prompts/CONTRAT_DE_SESSION|Contrat de session]]
 - [[90_References/SOURCES|Sources techniques]]
 
-Dans la vue Graphe, le bleu repère l’accueil, l’ambre le suivi et les prompts, le corail la conception et le prototypage, le turquoise le logiciel et le violet les tests et les sources.
+Dans la configuration Galaxy du coffre, le cyan repère l’accueil, le rose le suivi et les prompts, la lavande la conception et le prototypage, la menthe le logiciel et l’ambre les tests et les sources. Pour ouvrir la vue animée, utiliser **Ctrl+P → Graph Styler: Open 3D graph**. [[09_Gestion/ADR#ADR-022 — Graphe orbital du coffre Obsidian|Réglages du graphe]]
 
 ## État actuel
 
