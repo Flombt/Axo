@@ -1,0 +1,2231 @@
+{
+  "revision": "Axo_bras_final v1",
+  "fusion_sha256": "b4e6b6ea1f3961df31049d50c2b16ee7164a069bb5c45df64d8f8aba220407a1",
+  "stl_unit": "mm",
+  "references": [
+    {
+      "ref": "01_Platine",
+      "parts": [
+        "01_Platine"
+      ],
+      "dims_mm": [
+        150.0,
+        114.0,
+        6.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 99454.4154,
+      "brep_volume_mm3": 99370.2098,
+      "relative_error_volume": 0.0008473928326611491,
+      "tris": 1440,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/01_Platine.stl",
+      "3mf": "Impression 3D/3MF/01_Platine.3mf",
+      "stl_sha256": "133064bc68c0c46ae4dae923a02bfd8e06a7b67ec0a907d03a539e1f67d73e2f",
+      "3mf_sha256": "5f7dd8a6fdfb7f15ec3bd6b31c709bc8e3b9fb5d8c572c236f651224d28f69da",
+      "family": "Socle"
+    },
+    {
+      "ref": "02_Palier_J1",
+      "parts": [
+        "02_Palier_J1"
+      ],
+      "dims_mm": [
+        44.0,
+        46.0,
+        35.06
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 21362.7299,
+      "brep_volume_mm3": 21420.4171,
+      "relative_error_volume": 0.0026930899971264305,
+      "tris": 1128,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/02_Palier_J1.stl",
+      "3mf": "Impression 3D/3MF/02_Palier_J1.3mf",
+      "stl_sha256": "55260dd5e2429de857cfca089ba212425a49d12895afb36a5077496d0e8e54b9",
+      "3mf_sha256": "3660f82e93676c5397131b9f9201d4066e25790a3311c925b750ebb3588d34b2",
+      "family": "Socle"
+    },
+    {
+      "ref": "03_Porte_J1",
+      "parts": [
+        "03_Porte_J1"
+      ],
+      "dims_mm": [
+        39.4,
+        22.0,
+        22.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 7289.2228,
+      "brep_volume_mm3": 7294.6858,
+      "relative_error_volume": 0.00074890361692924,
+      "tris": 622,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/03_Porte_J1.stl",
+      "3mf": "Impression 3D/3MF/03_Porte_J1.3mf",
+      "stl_sha256": "f1a70d4efe1f94c8d110f6595ee436b0beb22035d9d8f5895d14b3ae6834f7cc",
+      "3mf_sha256": "c26be924bf9b907c08a911fef1febdde1cdc35faca00f0a26081239de588dcb7",
+      "family": "Socle"
+    },
+    {
+      "ref": "04_Platine_Pico",
+      "parts": [
+        "04_Platine_Pico"
+      ],
+      "dims_mm": [
+        57.0,
+        25.0,
+        7.6
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 5944.4273,
+      "brep_volume_mm3": 5938.9192,
+      "relative_error_volume": 0.0009274497238299678,
+      "tris": 412,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/04_Platine_Pico.stl",
+      "3mf": "Impression 3D/3MF/04_Platine_Pico.3mf",
+      "stl_sha256": "ec166e05e869ed8c06b90d7ba277b2ec36cb3a94afbeb800d57255e9636c245e",
+      "3mf_sha256": "9b705641b70583ac4fa4937a8cef1cf5767da3c6e84f144cba2922af57fe8fcb",
+      "family": "Socle"
+    },
+    {
+      "ref": "Pied_Butee_1",
+      "parts": [
+        "Pied_Butee_1"
+      ],
+      "dims_mm": [
+        8.9234,
+        8.9616,
+        32.9
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1785.759,
+      "brep_volume_mm3": 1818.3946,
+      "relative_error_volume": 0.017947524214402426,
+      "tris": 112,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Pied_Butee_1.stl",
+      "3mf": "Impression 3D/3MF/Pied_Butee_1.3mf",
+      "stl_sha256": "49d9e71ea3779612eee2db3b9420a5851e9847afb2d52f86cc106d1eaea27a90",
+      "3mf_sha256": "2efd8031a175d05a0feedec812a13bb72f73238dcb53a100c52e23811c820569",
+      "family": "Socle"
+    },
+    {
+      "ref": "Pied_Butee_2",
+      "parts": [
+        "Pied_Butee_2"
+      ],
+      "dims_mm": [
+        8.9234,
+        8.9616,
+        32.9
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1785.759,
+      "brep_volume_mm3": 1818.3946,
+      "relative_error_volume": 0.017947524214402426,
+      "tris": 112,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Pied_Butee_2.stl",
+      "3mf": "Impression 3D/3MF/Pied_Butee_2.3mf",
+      "stl_sha256": "0d2ac66d7a8adcff013d3c502632fb8c13d43586892d9e2133aa881c70b12e34",
+      "3mf_sha256": "5c63190d7d5b62aaa8f8f4d72a65d58a4b467956c4475311b08cd50edf332b9a",
+      "family": "Socle"
+    },
+    {
+      "ref": "J1_Pignon",
+      "parts": [
+        "J1_Pignon"
+      ],
+      "dims_mm": [
+        49.9931,
+        49.8909,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 8851.6029,
+      "brep_volume_mm3": 8844.4607,
+      "relative_error_volume": 0.0008075325766704557,
+      "tris": 2104,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J1_Pignon.stl",
+      "3mf": "Impression 3D/3MF/J1_Pignon.3mf",
+      "stl_sha256": "0bb459f4a1f1e837595869c2f606adc57e5c04b8325a8b841f7b5ce34785ed42",
+      "3mf_sha256": "927baececeab012b0af37ea741f038a1079ea1ca8cf7a51686c539829b2bf65a",
+      "family": "Socle"
+    },
+    {
+      "ref": "06_Garde_J1",
+      "parts": [
+        "06_Garde_J1"
+      ],
+      "dims_mm": [
+        51.5322,
+        62.5,
+        36.12
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 8493.99,
+      "brep_volume_mm3": 8499.7081,
+      "relative_error_volume": 0.0006727458480629575,
+      "tris": 774,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/06_Garde_J1.stl",
+      "3mf": "Impression 3D/3MF/06_Garde_J1.3mf",
+      "stl_sha256": "a80554ebfcfecf77c1cb844e4e7ac3c112d0215ee7c499c5ee4c61955cfa0ffd",
+      "3mf_sha256": "b103f47b774c33068f8be79ac243c90330be877b7333f288ad0427868c1feb99",
+      "family": "Socle"
+    },
+    {
+      "ref": "05_Tourelle",
+      "parts": [
+        "05_Tourelle"
+      ],
+      "dims_mm": [
+        75.0,
+        54.7,
+        61.7586
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 29194.846,
+      "brep_volume_mm3": 29171.9001,
+      "relative_error_volume": 0.0007865758932634078,
+      "tris": 1938,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/05_Tourelle.stl",
+      "3mf": "Impression 3D/3MF/05_Tourelle.3mf",
+      "stl_sha256": "db90c2d90019c81bba3a88da299ddb00f46d7a5434cd2bcab5bc303c1fac5674",
+      "3mf_sha256": "e0fce897131647d4def6495f8a050b120ce8ea03c36bab3af41ef65b744e7f0e",
+      "family": "Socle"
+    },
+    {
+      "ref": "Entretoise_J1",
+      "parts": [
+        "Entretoise_J1"
+      ],
+      "dims_mm": [
+        11.6003,
+        11.6401,
+        13.92
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 741.0605,
+      "brep_volume_mm3": 749.164,
+      "relative_error_volume": 0.010816765856361767,
+      "tris": 140,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Entretoise_J1.stl",
+      "3mf": "Impression 3D/3MF/Entretoise_J1.3mf",
+      "stl_sha256": "9c2be57dba26c8e01d9e01ccd2ee79b4e7684c53a1dfb4bc483487971b61db87",
+      "3mf_sha256": "50e421391ca5ba0c51e1ee2f1c9761ef9100196a146e592baf6201f7aa6d3d0a",
+      "family": "Socle"
+    },
+    {
+      "ref": "J1_Roue",
+      "parts": [
+        "J1_Roue"
+      ],
+      "dims_mm": [
+        29.7936,
+        29.9903,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 2588.6403,
+      "brep_volume_mm3": 2577.3808,
+      "relative_error_volume": 0.0043685633835778195,
+      "tris": 1308,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J1_Roue.stl",
+      "3mf": "Impression 3D/3MF/J1_Roue.3mf",
+      "stl_sha256": "9af06e700fca9697bace7edc4271de94cc586b479974ff99c6711aa56371617a",
+      "3mf_sha256": "e652ac972ef186e6dade00f00c981952ec7b30e79fc4b212c174914207db6669",
+      "family": "Socle"
+    },
+    {
+      "ref": "J2_Chape_Tangage",
+      "parts": [
+        "J2_Chape_Tangage"
+      ],
+      "dims_mm": [
+        26.78,
+        26.27,
+        32.33
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 12304.3265,
+      "brep_volume_mm3": 12341.2147,
+      "relative_error_volume": 0.0029890251204954888,
+      "tris": 902,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J2_Chape_Tangage.stl",
+      "3mf": "Impression 3D/3MF/J2_Chape_Tangage.3mf",
+      "stl_sha256": "d5a905c03373b1329ed5435f68a8c536ca18197cb2aa42083a1371d3c2bcee61",
+      "3mf_sha256": "312c68f23c080bab6e360efc6c21098aba87d86bdab0afcd11d03948240f5596",
+      "family": "Bras"
+    },
+    {
+      "ref": "Palier_J2R",
+      "parts": [
+        "Palier_J2R"
+      ],
+      "dims_mm": [
+        6.07,
+        29.68,
+        11.832
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 725.0021,
+      "brep_volume_mm3": 722.3275,
+      "relative_error_volume": 0.003702729462534529,
+      "tris": 428,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Palier_J2R.stl",
+      "3mf": "Impression 3D/3MF/Palier_J2R.3mf",
+      "stl_sha256": "fb66b73b65f781513a61f0c39007555b34c6930b5c7b3165f6b5f7312fbd3371",
+      "3mf_sha256": "03179cbc54430e465780869031a61d7de6638be9f74096c043e82543b9b733bd",
+      "family": "Bras"
+    },
+    {
+      "ref": "07_Bras",
+      "parts": [
+        "07_Bras"
+      ],
+      "dims_mm": [
+        80.7893,
+        51.1,
+        27.9836
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 16207.374,
+      "brep_volume_mm3": 16226.2544,
+      "relative_error_volume": 0.0011635703331457287,
+      "tris": 3176,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/07_Bras.stl",
+      "3mf": "Impression 3D/3MF/07_Bras.3mf",
+      "stl_sha256": "1319fc216abfb67430e740453ddef42ee775b29afa2938e2a99aa82b903f821f",
+      "3mf_sha256": "fba1e228aa7915414d2c6982f3fa277b4dba902244bc2c75974ed2a0b057abb3",
+      "family": "Bras"
+    },
+    {
+      "ref": "Rondelle_Friction",
+      "parts": [
+        "Friction_J2_1"
+      ],
+      "dims_mm": [
+        20.1204,
+        1.46,
+        20.1601
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 434.0787,
+      "brep_volume_mm3": 437.8323,
+      "relative_error_volume": 0.008573114778965277,
+      "tris": 152,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Rondelle_Friction.stl",
+      "3mf": "Impression 3D/3MF/Rondelle_Friction.3mf",
+      "stl_sha256": "09e2d6d3f3a0e4b5262f2f8b8c6ab1fa979d706949ef8a98ab1d94285e586c39",
+      "3mf_sha256": "5d5e6f50fecbe52f2a4cfe3ab4cfa4efbd4b40b589c27e07320dfcfe375fc111",
+      "family": "Bras"
+    },
+    {
+      "ref": "Rondelle_Friction_2",
+      "parts": [
+        "Friction_J2_2",
+        "Friction_J3_2"
+      ],
+      "dims_mm": [
+        20.1204,
+        1.34,
+        20.1601
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 398.401,
+      "brep_volume_mm3": 401.8461,
+      "relative_error_volume": 0.008573114778963484,
+      "tris": 152,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Rondelle_Friction_2.stl",
+      "3mf": "Impression 3D/3MF/Rondelle_Friction_2.3mf",
+      "stl_sha256": "cba13192d92b688c63c1570a8f26c1ce8d11dcde851f4a4656323396494d6c2c",
+      "3mf_sha256": "c4413f13fd8087234a884efd7108aca35d2495fb565de09b36978b2ec559cb83",
+      "family": "Bras"
+    },
+    {
+      "ref": "J2_Roue",
+      "parts": [
+        "J2_Roue"
+      ],
+      "dims_mm": [
+        44.7723,
+        44.8,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 6960.334,
+      "brep_volume_mm3": 6952.1011,
+      "relative_error_volume": 0.001184240291907763,
+      "tris": 2752,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J2_Roue.stl",
+      "3mf": "Impression 3D/3MF/J2_Roue.3mf",
+      "stl_sha256": "17ef1d11d4250ed95192aad52b202e8c25b6500ef649c4f0bbc566247e38c2a0",
+      "3mf_sha256": "6f10348cfb6f9073f33670487590d648bb215ae615e895257feffc4d3ed48500",
+      "family": "Bras"
+    },
+    {
+      "ref": "J2_Pignon",
+      "parts": [
+        "J2_Pignon"
+      ],
+      "dims_mm": [
+        15.9944,
+        15.8249,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 686.3179,
+      "brep_volume_mm3": 679.8418,
+      "relative_error_volume": 0.009525822170088969,
+      "tris": 1064,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J2_Pignon.stl",
+      "3mf": "Impression 3D/3MF/J2_Pignon.3mf",
+      "stl_sha256": "69a398e0ac45215b52c57bff9ca734f3e120bd429af5e43bda27f134b0ebb184",
+      "3mf_sha256": "44b5eb101ae28fb33e24ac485c34900ae111e0c874aec0703023c9568ad5f9bc",
+      "family": "Bras"
+    },
+    {
+      "ref": "J3_Chape_Tangage",
+      "parts": [
+        "J3_Chape_Tangage"
+      ],
+      "dims_mm": [
+        21.13,
+        18.9967,
+        32.33
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 5396.0811,
+      "brep_volume_mm3": 5412.2418,
+      "relative_error_volume": 0.002985947896211909,
+      "tris": 1014,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J3_Chape_Tangage.stl",
+      "3mf": "Impression 3D/3MF/J3_Chape_Tangage.3mf",
+      "stl_sha256": "d314ce8eb331e62330f99767afa0718fe08f94429270f6375dc979c067e79430",
+      "3mf_sha256": "42abb7f9703cc1a3f36d15d4fc951181409c1e022d0c90a1a3803e7efaf114b9",
+      "family": "Bras"
+    },
+    {
+      "ref": "Palier_J3R",
+      "parts": [
+        "Palier_J3R"
+      ],
+      "dims_mm": [
+        6.07,
+        29.68,
+        11.832
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 725.0021,
+      "brep_volume_mm3": 722.3275,
+      "relative_error_volume": 0.0037026894167188308,
+      "tris": 428,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Palier_J3R.stl",
+      "3mf": "Impression 3D/3MF/Palier_J3R.3mf",
+      "stl_sha256": "b77eefb994f5b52d1536704b52f6759d27127300e9cb78c65a9d496c2496264f",
+      "3mf_sha256": "dd2f56db4be4c48f79b7955048795a33c7076677273b15256190294498ede865",
+      "family": "Bras"
+    },
+    {
+      "ref": "08_Avant_bras",
+      "parts": [
+        "08_Avant_bras"
+      ],
+      "dims_mm": [
+        94.94,
+        39.7,
+        27.32
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 14024.5507,
+      "brep_volume_mm3": 14061.6789,
+      "relative_error_volume": 0.0026403802310550287,
+      "tris": 3456,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/08_Avant_bras.stl",
+      "3mf": "Impression 3D/3MF/08_Avant_bras.3mf",
+      "stl_sha256": "b3fe22cf65c91f3ce9a79625a10e5af40c2d3214a3e3f727f01414f165aa4d0c",
+      "3mf_sha256": "969bcd926cad6e8baf1282e63acb3774db6022d7afaba019abc6a0496ffa8f03",
+      "family": "Bras"
+    },
+    {
+      "ref": "Rondelle_Friction_3",
+      "parts": [
+        "Friction_J3_1"
+      ],
+      "dims_mm": [
+        18.28,
+        1.46,
+        18.28
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 349.9083,
+      "brep_volume_mm3": 353.1136,
+      "relative_error_volume": 0.009077353465563527,
+      "tris": 148,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Rondelle_Friction_3.stl",
+      "3mf": "Impression 3D/3MF/Rondelle_Friction_3.3mf",
+      "stl_sha256": "9433b7f90f834c5ebaf25d7eca2adc2603f800a4767b85f00bca4f4ddd675085",
+      "3mf_sha256": "a4ab6cd08a38e969f28dad744ec2876cb2a9dc2a29a3a362de67c2c4b99220cc",
+      "family": "Bras"
+    },
+    {
+      "ref": "J3_Pignon",
+      "parts": [
+        "J3_Pignon"
+      ],
+      "dims_mm": [
+        15.9944,
+        15.8249,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 686.3179,
+      "brep_volume_mm3": 679.8418,
+      "relative_error_volume": 0.009525822170088969,
+      "tris": 1064,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J3_Pignon.stl",
+      "3mf": "Impression 3D/3MF/J3_Pignon.3mf",
+      "stl_sha256": "ca9976d86780b04a7f65901af6a225fe3a6af795e5144460a12e7edd42c29bc0",
+      "3mf_sha256": "d99178dd07adb7e24b91d2f644e0788878280a6a59e98bc418aa7851ee87369f",
+      "family": "Bras"
+    },
+    {
+      "ref": "11_Paume",
+      "parts": [
+        "11_Paume"
+      ],
+      "dims_mm": [
+        61.9064,
+        55.4181,
+        30.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 20329.449,
+      "brep_volume_mm3": 20347.1623,
+      "relative_error_volume": 0.0008705526751060833,
+      "tris": 4100,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/11_Paume.stl",
+      "3mf": "Impression 3D/3MF/11_Paume.3mf",
+      "stl_sha256": "4f53069b56d69867629d1359d9392f70c707297c4fceb9a5d75ac5cad744c974",
+      "3mf_sha256": "b96511487fc3a7f8fc1c8cc90400a5f46073e96d984a07ff1b6d1aef06ec005a",
+      "family": "Main"
+    },
+    {
+      "ref": "Palonnier_J7",
+      "parts": [
+        "Palonnier_J7"
+      ],
+      "dims_mm": [
+        2.1,
+        12.9636,
+        12.9274
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 255.1531,
+      "brep_volume_mm3": 257.3149,
+      "relative_error_volume": 0.008401559411923123,
+      "tris": 192,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Palonnier_J7.stl",
+      "3mf": "Impression 3D/3MF/Palonnier_J7.3mf",
+      "stl_sha256": "4ec9f3f92fc24cf3941ec95f5bec9cfb07a91923432162ba4c00827658a8c433",
+      "3mf_sha256": "da307aee429b2e68d903e588f2703304b7dddec1d989d150f5e4f2a7ee8b27a3",
+      "family": "Bras"
+    },
+    {
+      "ref": "Support_J7",
+      "parts": [
+        "Support_J7"
+      ],
+      "dims_mm": [
+        2.65,
+        34.87,
+        17.16
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 623.8543,
+      "brep_volume_mm3": 628.5086,
+      "relative_error_volume": 0.0074053839364626875,
+      "tris": 226,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Support_J7.stl",
+      "3mf": "Impression 3D/3MF/Support_J7.3mf",
+      "stl_sha256": "144df53737c3899a187d756193b49d8257dde95a7f4970fc460dcc4fc25dd28e",
+      "3mf_sha256": "19fb5c887782b8c6e918372bbc76f3e7432c0e42fb31bbb21ba6dab5210435a4",
+      "family": "Bras"
+    },
+    {
+      "ref": "12_Chape_Pouce",
+      "parts": [
+        "12_Chape_Pouce"
+      ],
+      "dims_mm": [
+        22.9387,
+        20.7954,
+        9.4678
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 996.9191,
+      "brep_volume_mm3": 997.2404,
+      "relative_error_volume": 0.00032217341930529923,
+      "tris": 584,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/12_Chape_Pouce.stl",
+      "3mf": "Impression 3D/3MF/12_Chape_Pouce.3mf",
+      "stl_sha256": "06659db0ac6268b677729e3f7e14058491062ca07aa01eb8f2fa74ad51256bd8",
+      "3mf_sha256": "b4e11e07a0554519ede1cd3c17199a57a6500ae674362067bd2e9e32a2c66a62",
+      "family": "Main"
+    },
+    {
+      "ref": "Peigne_Paume",
+      "parts": [
+        "Peigne_Paume"
+      ],
+      "dims_mm": [
+        6.2592,
+        46.2,
+        7.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1751.5996,
+      "brep_volume_mm3": 1740.134,
+      "relative_error_volume": 0.0065889104511736825,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Peigne_Paume.stl",
+      "3mf": "Impression 3D/3MF/Peigne_Paume.3mf",
+      "stl_sha256": "3cf4ec976f5530d75ab6936992ceaffe0beb41d7f1f2609e6bb44bc20013295e",
+      "3mf_sha256": "25cf56ae9252eae1be8a79a9a94e3e00369a2bcee4f06617d2133444ff3d491d",
+      "family": "Main"
+    },
+    {
+      "ref": "Phalange_14",
+      "parts": [
+        "P1",
+        "I2",
+        "M2",
+        "A2",
+        "U1"
+      ],
+      "dims_mm": [
+        21.3076,
+        9.3,
+        7.9794
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 612.8657,
+      "brep_volume_mm3": 615.5304,
+      "relative_error_volume": 0.004329008310111959,
+      "tris": 796,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Phalange_14.stl",
+      "3mf": "Impression 3D/3MF/Phalange_14.3mf",
+      "stl_sha256": "b0aeca49e0410c19888b98f40e2cf88b6736568dc5bb03e1ef6d741c2c72e9a0",
+      "3mf_sha256": "de3e76851474d10d49428fd25a8399d4320c290e463c08c1faba68e0acc95c07",
+      "family": "Main"
+    },
+    {
+      "ref": "Phalange_12p5",
+      "parts": [
+        "P2",
+        "U2"
+      ],
+      "dims_mm": [
+        19.8076,
+        9.3,
+        7.9794
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 524.0739,
+      "brep_volume_mm3": 527.2007,
+      "relative_error_volume": 0.005931080757522955,
+      "tris": 796,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Phalange_12p5.stl",
+      "3mf": "Impression 3D/3MF/Phalange_12p5.3mf",
+      "stl_sha256": "aa1b2dfd7918e13bb899b95b03b20b921331ba269766330e7b9c7afd6ca21021",
+      "3mf_sha256": "fde46c1399535540fd7484245798a47db54c90f3c3ba06f0f5c9ccd4829da226",
+      "family": "Main"
+    },
+    {
+      "ref": "Bout_11",
+      "parts": [
+        "P3",
+        "U3"
+      ],
+      "dims_mm": [
+        14.3163,
+        8.4,
+        7.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 483.9619,
+      "brep_volume_mm3": 481.9068,
+      "relative_error_volume": 0.004264522208123269,
+      "tris": 474,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Bout_11.stl",
+      "3mf": "Impression 3D/3MF/Bout_11.3mf",
+      "stl_sha256": "1174506ee944ba3a13d2a4474130e90fe84aa2f0051506ec9a5d40bcbdc81b8b",
+      "3mf_sha256": "edff3f1f0ec36c3b8b471a388e22e196189ae086df92ee894d9b6113e0ee0c7a",
+      "family": "Main"
+    },
+    {
+      "ref": "Phalange_16",
+      "parts": [
+        "I1",
+        "M1",
+        "A1"
+      ],
+      "dims_mm": [
+        23.3076,
+        9.3,
+        7.9794
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 731.2549,
+      "brep_volume_mm3": 733.2871,
+      "relative_error_volume": 0.002771342594561129,
+      "tris": 796,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Phalange_16.stl",
+      "3mf": "Impression 3D/3MF/Phalange_16.3mf",
+      "stl_sha256": "a6e3dbfde5d0464ae6c8e7cc6b6880a4ea8215a0a2b36388470983106bb30e2e",
+      "3mf_sha256": "b0deeb5801f299a832d0c6d9a22db1614f42d4621b7082163798069e208d67b8",
+      "family": "Main"
+    },
+    {
+      "ref": "Bout_12p5",
+      "parts": [
+        "I3",
+        "M3",
+        "A3"
+      ],
+      "dims_mm": [
+        15.8163,
+        8.4,
+        7.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 575.1787,
+      "brep_volume_mm3": 572.9591,
+      "relative_error_volume": 0.0038739994825571873,
+      "tris": 474,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Bout_12p5.stl",
+      "3mf": "Impression 3D/3MF/Bout_12p5.3mf",
+      "stl_sha256": "7533e6101df4b708e468f313dc01203f99f75531da2135beabcaa61a761f7abf",
+      "3mf_sha256": "627c8355c2580c04aa7ed55aa56112821019608ad1cdb428484eead57e2a7a52",
+      "family": "Main"
+    },
+    {
+      "ref": "09_Cassette_SG90",
+      "parts": [
+        "09_Cassette_SG90"
+      ],
+      "dims_mm": [
+        75.1791,
+        45.8,
+        4.44
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 3945.4116,
+      "brep_volume_mm3": 3933.9355,
+      "relative_error_volume": 0.002917222658457407,
+      "tris": 1520,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/09_Cassette_SG90.stl",
+      "3mf": "Impression 3D/3MF/09_Cassette_SG90.3mf",
+      "stl_sha256": "bf4bbf2aaa5d6d4a80a5041df5741b5123d1cd17dcd6e838c00e22f76417a852",
+      "3mf_sha256": "507ce14b7049c8d7ca2f3f47b194329202a82bde11896851089326def6d95361",
+      "family": "Bras"
+    },
+    {
+      "ref": "Bobine_P",
+      "parts": [
+        "Bobine_P"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Bobine_P.stl",
+      "3mf": "Impression 3D/3MF/Bobine_P.3mf",
+      "stl_sha256": "ed8c4161130772c500a67cab745bc4738077288ebf29d72392f8fbf86724554e",
+      "3mf_sha256": "8fba18d80d86faf68c9855cf09da9a8ede858967397bea51ef4e3bf9a88af470",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_I",
+      "parts": [
+        "Bobine_I"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Bobine_I.stl",
+      "3mf": "Impression 3D/3MF/Bobine_I.3mf",
+      "stl_sha256": "0291ceb5eca755bd434ca15e3b1970e72ccddd3ba4815d9a715759ca5208d2bb",
+      "3mf_sha256": "ca74f01120af2cf6dd4c3a7ba2c33be261f36687d0050754ea0b8493439e9a89",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_M",
+      "parts": [
+        "Bobine_M"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Bobine_M.stl",
+      "3mf": "Impression 3D/3MF/Bobine_M.3mf",
+      "stl_sha256": "ed8c4161130772c500a67cab745bc4738077288ebf29d72392f8fbf86724554e",
+      "3mf_sha256": "cb8d00aae5d11cf009b429930fd22b94ac4b95931103a1507825f90f906c153f",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_A",
+      "parts": [
+        "Bobine_A"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Bobine_A.stl",
+      "3mf": "Impression 3D/3MF/Bobine_A.3mf",
+      "stl_sha256": "ed8c4161130772c500a67cab745bc4738077288ebf29d72392f8fbf86724554e",
+      "3mf_sha256": "c1a7436db013d6fd91be9673f16e79d46067270ac7feb04e0afbe833b7ee4515",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_U",
+      "parts": [
+        "Bobine_U"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Bobine_U.stl",
+      "3mf": "Impression 3D/3MF/Bobine_U.3mf",
+      "stl_sha256": "ed8c4161130772c500a67cab745bc4738077288ebf29d72392f8fbf86724554e",
+      "3mf_sha256": "4f7a352bcd773e3a5c29b841550a119710ee1021b1fa386e1ec726f01ec5db29",
+      "family": "Main"
+    },
+    {
+      "ref": "Coque_Socle",
+      "parts": [
+        "Coque_Socle"
+      ],
+      "dims_mm": [
+        103.4131,
+        76.378,
+        36.76
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 19074.3629,
+      "brep_volume_mm3": 19091.2205,
+      "relative_error_volume": 0.000883002818035549,
+      "tris": 3796,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Coque_Socle.stl",
+      "3mf": "Impression 3D/3MF/Coque_Socle.3mf",
+      "stl_sha256": "81fb5a40ac55970c147917398a6945844ecb077e9106b249359b5eb556b63f3d",
+      "3mf_sha256": "592017a28c5383d7866178bfe3b6f3e8c0a0d067e2a9c639de223bab11657627",
+      "family": "Socle"
+    },
+    {
+      "ref": "Coque_Pico",
+      "parts": [
+        "Coque_Pico"
+      ],
+      "dims_mm": [
+        58.4872,
+        27.3972,
+        14.57
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 4190.6511,
+      "brep_volume_mm3": 4207.855,
+      "relative_error_volume": 0.004088520635910094,
+      "tris": 1880,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Coque_Pico.stl",
+      "3mf": "Impression 3D/3MF/Coque_Pico.3mf",
+      "stl_sha256": "90e884e6c9fec0fb94045d9bf21b57449a8f33fecc7712e050d71c6276e22473",
+      "3mf_sha256": "e053d8b696ba40766b3bd3c55d2a4db40e0a73bfe704db549f1d2619a76ce117",
+      "family": "Socle"
+    },
+    {
+      "ref": "Coque_Epaule",
+      "parts": [
+        "Coque_Epaule"
+      ],
+      "dims_mm": [
+        34.4596,
+        48.5,
+        44.4236
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 9000.7657,
+      "brep_volume_mm3": 9015.5692,
+      "relative_error_volume": 0.0016419975967551547,
+      "tris": 2700,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Coque_Epaule.stl",
+      "3mf": "Impression 3D/3MF/Coque_Epaule.3mf",
+      "stl_sha256": "7dad183977795b28c2b20b309ac23b72058f7ea3080120bb77745eed5562c015",
+      "3mf_sha256": "8898ea9f9408519e4266723bb918db64420d43a35c7ebfa1b939ad9603239707",
+      "family": "Bras"
+    },
+    {
+      "ref": "Coque_Bras",
+      "parts": [
+        "Coque_Bras"
+      ],
+      "dims_mm": [
+        53.6,
+        33.6351,
+        46.9232
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 9229.6208,
+      "brep_volume_mm3": 9247.7713,
+      "relative_error_volume": 0.001962685346490947,
+      "tris": 6176,
+      "corrections_tessellation": [
+        {
+          "type": "couture T fermée sans ajout de point",
+          "triangles": 1
+        },
+        {
+          "type": "couture T fermée sans ajout de point",
+          "triangles": 1
+        }
+      ],
+      "stl": "Impression 3D/STL/Coque_Bras.stl",
+      "3mf": "Impression 3D/3MF/Coque_Bras.3mf",
+      "stl_sha256": "2858ebea5856705cb222d3390bd75f5d33e10726f1fca2f687e8638af44092d5",
+      "3mf_sha256": "6598f0f3162b7479ea275c70c84ce4dea718dcfc1b139c5d0d03ef70265cc206",
+      "family": "Bras"
+    },
+    {
+      "ref": "Garde_J2",
+      "parts": [
+        "Garde_J2"
+      ],
+      "dims_mm": [
+        63.5823,
+        8.55,
+        49.1682
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 5705.7974,
+      "brep_volume_mm3": 5711.5847,
+      "relative_error_volume": 0.0010132575048083354,
+      "tris": 542,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Garde_J2.stl",
+      "3mf": "Impression 3D/3MF/Garde_J2.3mf",
+      "stl_sha256": "ed052cda9fbb0cf02746a00ded399d81061d3de01b3252a32559012f5d3cf93c",
+      "3mf_sha256": "c84763a639932700a94f2f54468944e59e232e09134804b9bf9646b0c718c190",
+      "family": "Bras"
+    },
+    {
+      "ref": "Garde_J3",
+      "parts": [
+        "Garde_J3"
+      ],
+      "dims_mm": [
+        48.44,
+        8.55,
+        33.9743
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 3347.9489,
+      "brep_volume_mm3": 3360.3056,
+      "relative_error_volume": 0.0036772455909301746,
+      "tris": 518,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Garde_J3.stl",
+      "3mf": "Impression 3D/3MF/Garde_J3.3mf",
+      "stl_sha256": "e717eeb60620dff227f47b89af5a7083e37a1a9e54023a51487517fa93aea1c9",
+      "3mf_sha256": "f1f606b664a322470f89c478afa5b244637a310706f1dd997f1a41787315ffe4",
+      "family": "Bras"
+    },
+    {
+      "ref": "Coque_Avant",
+      "parts": [
+        "Coque_Avant"
+      ],
+      "dims_mm": [
+        74.83,
+        50.5741,
+        23.66
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 9061.0625,
+      "brep_volume_mm3": 9071.9379,
+      "relative_error_volume": 0.0011987900462867762,
+      "tris": 3962,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Coque_Avant.stl",
+      "3mf": "Impression 3D/3MF/Coque_Avant.3mf",
+      "stl_sha256": "91981b4fe61e87a58d521c6a9e73c16a4841cf4e00e2a83735e226249e7665c3",
+      "3mf_sha256": "03fa67427db7340101e9bf54b0e5da85b5df15ab6fbe177fba76c97a5bd5edd3",
+      "family": "Bras"
+    },
+    {
+      "ref": "Capot_Cassette",
+      "parts": [
+        "Capot_Cassette"
+      ],
+      "dims_mm": [
+        74.83,
+        50.5742,
+        20.2735
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 8640.1654,
+      "brep_volume_mm3": 8829.97,
+      "relative_error_volume": 0.021495491890023095,
+      "tris": 3470,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Capot_Cassette.stl",
+      "3mf": "Impression 3D/3MF/Capot_Cassette.3mf",
+      "stl_sha256": "009f857476d9ffc266d4835cf9e622194abc156bbd6c62493e855db7a9f32354",
+      "3mf_sha256": "fc338d07c66236b5d83f177f17b6e1983d3c512b3e67d91b820f3ce70b113137",
+      "family": "Bras"
+    },
+    {
+      "ref": "Capot_Paume",
+      "parts": [
+        "Capot_Paume"
+      ],
+      "dims_mm": [
+        23.7,
+        49.2,
+        9.0769
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1519.3771,
+      "brep_volume_mm3": 1518.0558,
+      "relative_error_volume": 0.0008704211020693935,
+      "tris": 1900,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Capot_Paume.stl",
+      "3mf": "Impression 3D/3MF/Capot_Paume.3mf",
+      "stl_sha256": "94cd54ab1036541aebe659cffc8d2d78856868eefc7daa7c5dab8ef8db4f08a8",
+      "3mf_sha256": "b170b3bf55dfea0b108adb2f9f39dd74049f9b235a97f0bc84748bc1ee61dda4",
+      "family": "Main"
+    },
+    {
+      "ref": "J3_Roue",
+      "parts": [
+        "J3_Roue"
+      ],
+      "dims_mm": [
+        30.356,
+        30.356,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 2828.8264,
+      "brep_volume_mm3": 2820.5935,
+      "relative_error_volume": 0.002918871649738827,
+      "tris": 2248,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/J3_Roue.stl",
+      "3mf": "Impression 3D/3MF/J3_Roue.3mf",
+      "stl_sha256": "e361b5dff5e562de5539d172d154c882b92f0a43ae81dbac3ac1f6a967cfe5c8",
+      "3mf_sha256": "820d32b78df0043ac30f1b3e09bc54d30eee1310bd0303245ae8c07309691290",
+      "family": "Bras"
+    },
+    {
+      "ref": "Embout_Coude",
+      "parts": [
+        "Embout_Coude"
+      ],
+      "dims_mm": [
+        1.85,
+        46.2,
+        35.5
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1150.05,
+      "brep_volume_mm3": 1146.4479,
+      "relative_error_volume": 0.00314192107482002,
+      "tris": 810,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Embout_Coude.stl",
+      "3mf": "Impression 3D/3MF/Embout_Coude.3mf",
+      "stl_sha256": "480c221cc9fa7e41f7cf478aa9c564f1052995cbce3a9a3a9b1fc4699d46b203",
+      "3mf_sha256": "cb5f933875f051c1d2db6499b6c9915a19cda62cdb2b5e492bb27274583ab1df",
+      "family": "Bras"
+    },
+    {
+      "ref": "Tambour_J2R",
+      "parts": [
+        "Tambour_J2R"
+      ],
+      "dims_mm": [
+        11.2229,
+        11.2614,
+        3.73
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 236.0141,
+      "brep_volume_mm3": 239.0095,
+      "relative_error_volume": 0.012532664397438087,
+      "tris": 496,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Tambour_J2R.stl",
+      "3mf": "Impression 3D/3MF/Tambour_J2R.3mf",
+      "stl_sha256": "3eb4794f812433d5890bbb3c99732cca9ca9ceeff5d5000fa88f0d6ebf9fb4b0",
+      "3mf_sha256": "3768312661490c782ed04bf78fcd701552592844c1564aa00f0796347491b054",
+      "family": "Bras"
+    },
+    {
+      "ref": "Support_J2R",
+      "parts": [
+        "Support_J2R"
+      ],
+      "dims_mm": [
+        34.05,
+        14.32,
+        19.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1453.649,
+      "brep_volume_mm3": 1454.7739,
+      "relative_error_volume": 0.0007733115128507416,
+      "tris": 576,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Support_J2R.stl",
+      "3mf": "Impression 3D/3MF/Support_J2R.3mf",
+      "stl_sha256": "cfcf5a18da5ea2181c4424a907fe18f67245c85e15773bce3cbce7ddf785fa44",
+      "3mf_sha256": "62d9637dc9d9d4c0e911fe04c03f8b2962601ba5a1b4366b16b3be4d9eee486d",
+      "family": "Bras"
+    },
+    {
+      "ref": "Tambour_J3R",
+      "parts": [
+        "Tambour_J3R"
+      ],
+      "dims_mm": [
+        11.2229,
+        11.2614,
+        3.73
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 236.0141,
+      "brep_volume_mm3": 239.0095,
+      "relative_error_volume": 0.012532664397438087,
+      "tris": 496,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Tambour_J3R.stl",
+      "3mf": "Impression 3D/3MF/Tambour_J3R.3mf",
+      "stl_sha256": "9589fa309b01c5547c9b3e46057e3ae909d1e92159089889ebf7fbbbd920cb5b",
+      "3mf_sha256": "7c3e01d1bb08d7018b912c62e263003a40c89ca94b9d6e301ded8f53de0874df",
+      "family": "Bras"
+    },
+    {
+      "ref": "Support_J3R",
+      "parts": [
+        "Support_J3R"
+      ],
+      "dims_mm": [
+        34.05,
+        14.32,
+        19.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1453.649,
+      "brep_volume_mm3": 1454.7739,
+      "relative_error_volume": 0.0007732734753773525,
+      "tris": 576,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Support_J3R.stl",
+      "3mf": "Impression 3D/3MF/Support_J3R.3mf",
+      "stl_sha256": "c47fe10648ea3494e4b5e858770a7ce73d6dadd10d9c08f009ae43fe0d376fea",
+      "3mf_sha256": "c10955d84f4353433247906928250e8e2ff83d8ee2c3a8ed6ad42d0b4ca8be74",
+      "family": "Bras"
+    },
+    {
+      "ref": "Raccord_J2R_1",
+      "parts": [
+        "Raccord_J2R_1"
+      ],
+      "dims_mm": [
+        4.76,
+        7.34,
+        5.75
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 75.1893,
+      "brep_volume_mm3": 74.3376,
+      "relative_error_volume": 0.01145756016338605,
+      "tris": 208,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Raccord_J2R_1.stl",
+      "3mf": "Impression 3D/3MF/Raccord_J2R_1.3mf",
+      "stl_sha256": "81b6f11d83934e93cf22a67bace184be84a9f005fcb395e25bb3ec06e1d95601",
+      "3mf_sha256": "0b5c70912bc6808a284aa0793f308da034de3bf866756ed44ac3adf6167311bd",
+      "family": "Bras"
+    },
+    {
+      "ref": "Raccord_J2R_2",
+      "parts": [
+        "Raccord_J2R_2"
+      ],
+      "dims_mm": [
+        4.76,
+        7.34,
+        5.75
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 75.1893,
+      "brep_volume_mm3": 74.3376,
+      "relative_error_volume": 0.01145756016338739,
+      "tris": 208,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Raccord_J2R_2.stl",
+      "3mf": "Impression 3D/3MF/Raccord_J2R_2.3mf",
+      "stl_sha256": "98054b051fccf63ce5693b7fc83c5952ce43c87bb2ee6234b005ddde4cfa4180",
+      "3mf_sha256": "1ad5d5d4757f12b4b4bd7b7db68a2788bd0da9a269d66b7e8237a8eaeaa63875",
+      "family": "Bras"
+    },
+    {
+      "ref": "Raccord_J3R_1",
+      "parts": [
+        "Raccord_J3R_1"
+      ],
+      "dims_mm": [
+        4.76,
+        7.34,
+        5.75
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 75.1893,
+      "brep_volume_mm3": 74.3376,
+      "relative_error_volume": 0.01145759515533527,
+      "tris": 208,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Raccord_J3R_1.stl",
+      "3mf": "Impression 3D/3MF/Raccord_J3R_1.3mf",
+      "stl_sha256": "5931fd0bab9b38de7608f8a038bf0256e6ab8a3de2fea0d9b99798cea4c008a4",
+      "3mf_sha256": "5d9e71730311095f1c913ad66a7ada1c9c724837c6b73ae13c54b78167ddb9d2",
+      "family": "Bras"
+    },
+    {
+      "ref": "Raccord_J3R_2",
+      "parts": [
+        "Raccord_J3R_2"
+      ],
+      "dims_mm": [
+        4.76,
+        7.34,
+        5.75
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 75.1893,
+      "brep_volume_mm3": 74.3376,
+      "relative_error_volume": 0.01145759515533469,
+      "tris": 208,
+      "corrections_tessellation": [],
+      "stl": "Impression 3D/STL/Raccord_J3R_2.stl",
+      "3mf": "Impression 3D/3MF/Raccord_J3R_2.3mf",
+      "stl_sha256": "3064db2276502af004da4637483d39d2129819eeea440a47457d5d7a76ff351e",
+      "3mf_sha256": "1e72066bef0129dd785e4b4c77135cbec3d6edfc71b748622423616d4e9cccfb",
+      "family": "Bras"
+    }
+  ]
+}

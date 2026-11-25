@@ -5,6 +5,11 @@
 - Ouvert une copie locale de **Axo_bras_final v1** et modélisé un bac ventilé, un couvercle, une coque optique et son dos. Déplacé deux fixations après contrôle des gabarits USB et caméra. [[02_Conception_Fusion/AXO_CAPTEURS|Fichiers et vérifications]]
 - Réimporté la copie et comparé les 154 occurrences d’origine. Aucune interférence ajoutée dans les 205 poses atteintes sur 217. Contrôlé les quatre STL et le retranchage du plateau PLA. Le montage réel et le développement vision et voix restent à faire. [Notice et preuves](<../../../Axo bras final - Capteurs/LISEZ_MOI.md>)
 
+## 2026-11-25 — Dossier Axo bras final
+
+- Réuni le F3D exact de `Axo_bras_final v1`, 58 références STL et 3MF pour 69 pièces, et trois plateaux G-code tranchés puis rouverts sur le profil Kobra 3 Max en PLA avec buse de 0,4 mm. Estimation de 477 g et 28 h 40. [Notice](<../../../Axo bras final/LISEZ_MOI.md>) · [Manifeste](<../../../Axo bras final/manifeste.json>)
+- Produit trois vues et une vidéo Blender de dix secondes à partir de 81 poses Fusion. [Images](<../../../Axo bras final/Images/>) · [Vidéo](<../../../Axo bras final/Présentation articulée - Axe bras final.mp4>)
+
 ## 2026-11-25 — Graphe orbital du coffre
 
 - Installé et activé Cyber Glow 2.8.0 depuis le catalogue Obsidian avec Computer Use. Appliqué le préréglage Galaxy et activé l’extrait CSS local `AURA - Nebuleuse`.

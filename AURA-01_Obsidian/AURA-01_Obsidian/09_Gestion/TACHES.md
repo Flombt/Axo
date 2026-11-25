@@ -8,6 +8,9 @@ Partir de la [[09_Gestion/ROADMAP|roadmap]] pour l’ordre des phases. Lors d’
 - [ ] Vérifier les pièces imprimées avec le lot électronique. Valider le cadre caméra, l’écoute avec le ventilateur, la température et la dépose du capot.
 - [ ] Relier la vision et les consignes de voix à une commande Pico propre aux onze servos d’Axo. Essayer les consignes en simulation puis sur banc.
 
+- [x] Réunir le F3D, préparer les STL et 3MF, trancher les trois plateaux Kobra 3 Max en PLA et produire les vues et la vidéo articulée. [Dossier et réglages](<../../../Axo bras final/LISEZ_MOI.md>)
+- [ ] Vérifier sur les pièces imprimées les ajustements de la visserie, les jeux et la tenue des articulations.
+
 ## AURA-01 V5 Roulis à socle plat · Montage manuel
 
 - [x] Contrôler la copie Fusion, reprendre deux butées et retenir le poignet pour l’essai sans moteurs. Réouvrir le F3D, vérifier les maillages et trancher les quatre projets. [Dossier](../../../docs/diagnostic/montage_manuel/README.md)
