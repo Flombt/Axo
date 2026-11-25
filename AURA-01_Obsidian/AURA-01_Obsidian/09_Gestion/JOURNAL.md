@@ -1,5 +1,11 @@
 # Journal des sessions
 
+## 2026-11-25 — V5 Roulis à socle plat pour le montage manuel
+
+- Repris le F3D de la revue V5 Roulis v1 à partir de son tag. Les retouches portent sur les deux lumières de butée et la retenue du poignet pour le montage sans moteurs.
+- Contrôlé la réouverture, les 20 poses et la garde calculée de 7,08 mm. Vérifié la pose de la retenue par-dessous, les deux vis M2 et les quatre projets Anycubic. Le premier montage à blanc reste à éprouver.
+- Réglé Fusion en affichage Qualité sans grille et livré les vues studio et Fusion. [Dossier et preuves](../../../docs/diagnostic/montage_manuel/README.md)
+
 ## 2026-11-25 — Stabilisation et contre-audit AURA-01
 
 - Enregistré **AURA-01 V5 · Stabilisation** v2 dans Fusion. L’archive réouverte compte 143 occurrences, 18 liens de mouvement et 27 pivots actifs. Le STEP réimporté livre 156 solides fermés. La V5 roulis originale reste restaurable depuis son tag. [Preuve Fusion](../../../docs/diagnostic/corrections/fusion_sauvegarde.json) · [Archives](../../../archives/README.md)

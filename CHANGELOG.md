@@ -1,5 +1,11 @@
 # Évolutions significatives d’AURA-01
 
+## 2026-11-25 · V5-roulis-montage-manuel
+
+- Reprend la V5 Roulis v1 à socle plat. Retouche les lumières de butée J2 et J3 et ajoute la retenue vissée du poignet en montage manuel.
+- Vérifie la réimportation F3D, vingt poses passives et quatre projets Anycubic. Ferme deux coutures de maillage de la coque du bras.
+- Cadre la présentation Fusion en mode Qualité et rend la configuration manuelle à partir des solides natifs. [Contrôles et montage](docs/diagnostic/montage_manuel/README.md)
+
 ## 2026-11-25 · V5-stabilisation
 
 - Réintègre les deux raccords longitudinaux aux pièces de tangage. Reprend l’axe J1 traversant, ses 6000-ZZ, les guides de faisceau et les peignes de poignet.

@@ -30,7 +30,11 @@
     "docs/diagnostic/corrections/fusion_sauvegarde.json",
     "docs/diagnostic/corrections/step_reouverture.json",
     "docs/diagnostic/corrections/campagne_finale.json",
-    "docs/diagnostic/corrections/firmware.json"
+    "docs/diagnostic/corrections/firmware.json",
+    "fusion/AURA-01_V5_Roulis_Montage_Manuel.f3d",
+    "manufacturing/AURA-01_V5_Roulis_Montage_Manuel.zip",
+    "docs/diagnostic/montage_manuel/verification.json",
+    "docs/diagnostic/montage_manuel/README.md"
   ],
   "revision_documents": [
     "VERSION.md",
@@ -820,5 +824,16 @@
       }
     ]
   },
-  "budget_max_eur": 150
+  "budget_max_eur": 150,
+  "variantes": {
+    "V5-roulis-montage-manuel": {
+      "statut": "montage_a_blanc_a_qualifier",
+      "tag_source": "aura-01-v5-roulis-v1",
+      "f3d": "fusion/AURA-01_V5_Roulis_Montage_Manuel.f3d",
+      "source_sha256": "024c77b4d9e1b9734a48b440ceaa394e48317eb99b250cfc0d83d578f444d102",
+      "kit": "manufacturing/AURA-01_V5_Roulis_Montage_Manuel.zip",
+      "kit_sha256": "78a4d23a331fccc2ee94f242b42b95f461ffeb8067cac736e8987f1d047110b6",
+      "preuves": "docs/diagnostic/montage_manuel/verification.json"
+    }
+  }
 }

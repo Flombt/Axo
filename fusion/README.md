@@ -1,5 +1,7 @@
 # CAO modifiable · V5-stabilisation
 
+Le montage à blanc à socle plat utilise le [F3D V5 Roulis de montage manuel](AURA-01_V5_Roulis_Montage_Manuel.f3d) et son [dossier de qualification](../docs/diagnostic/montage_manuel/README.md).
+
 Le modèle éditable est [AURA-01.f3d](AURA-01.f3d). Le STEP issu des mêmes solides est dans la fabrication. Le dossier de preuves conserve les matrices Fusion, les maillages et l’état des liaisons. [Version](../VERSION.md) · [Inventaire des exports](../manufacturing/inventaire.json) · [Preuves](../docs/diagnostic/corrections/)
 
 ## Ordre des corrections sur une copie

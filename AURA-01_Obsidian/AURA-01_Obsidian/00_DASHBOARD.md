@@ -41,6 +41,8 @@ Dans la vue Graphe, le bleu repère l’accueil, l’ambre le suivi et les promp
 
 ## État actuel
 
+- **Montage manuel à socle plat.** La V5 Roulis est disponible avec une retenue de poignet, deux butées ajustées et le kit d’essai Anycubic. [Dossier de qualification](../../docs/diagnostic/montage_manuel/README.md)
+
 - **V5-stabilisation.** Fusion v2, kit Anycubic et firmware neuf voies vérifiés numériquement. [Version active](../../VERSION.md) · [Rapport des corrections](../../RAPPORT_CORRECTIONS.md) · [Contexte technique](../../docs/architecture/PROJECT_CONTEXT.md)
 - **Budget et qualification.** Filament en stock à 0 €. Le panier provisionnel dépasse 150 €. Les coupons, le montage à blanc et la coupure sur charge factice restent à éprouver. [Nomenclature](../../purchases/NOMENCLATURE.md) · [Matrice de validation](08_Tests/MATRICE_TESTS.md)
 

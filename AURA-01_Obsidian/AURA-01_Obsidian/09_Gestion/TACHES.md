@@ -2,6 +2,11 @@
 
 Partir de la [[09_Gestion/ROADMAP|roadmap]] pour l’ordre des phases. Lors d’une session, actualiser le statut de la tâche, conserver son identifiant et lier la preuve dans le [[09_Gestion/JOURNAL|journal]]. Les choix durables figurent dans les [[09_Gestion/ADR|ADR]].
 
+## AURA-01 V5 Roulis à socle plat · Montage manuel
+
+- [x] Contrôler la copie Fusion, reprendre deux butées et retenir le poignet pour l’essai sans moteurs. Réouvrir le F3D, vérifier les maillages et trancher les quatre projets. [Dossier](../../../docs/diagnostic/montage_manuel/README.md)
+- [ ] Présenter les portées 608, les vis et la retenue J7 sur les premières pièces. Monter le bras ancré et soutenu, puis mesurer les jeux et la tenue à vide.
+
 ## AURA-01 V5-stabilisation
 
 - [x] Reprendre les butées et J1, fixer J2R/J3R, ajouter les compensations et rapprocher la pince. Réimporter le F3D et le STEP. [Rapport et preuves](../../../RAPPORT_CORRECTIONS.md)

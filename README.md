@@ -1,8 +1,8 @@
 # AURA-01
 
-Bras robotique de table imprimable en FDM, avec quatre axes motorisés de bras et cinq doigts indépendants. La **V5-stabilisation** documente un prototype numérique à qualifier sur banc ancré. [Version active](VERSION.md) · [Rapport des corrections](RAPPORT_CORRECTIONS.md)
+Bras robotique de table imprimable en FDM. La **V5 Roulis à socle plat** dispose d’une variante à six axes pour le montage et la manipulation à la main. La **V5-stabilisation** documente le prototype à quatre axes motorisés de bras et cinq doigts indépendants. [Montage manuel à socle plat](docs/diagnostic/montage_manuel/README.md) · [Versions du projet](VERSION.md)
 
-![Vue de la V5 stabilisée à partir des solides Fusion](docs/diagnostic/corrections/visuels/06_blender_ensemble.png)
+![V5 Roulis à socle plat, configuration de montage manuel](docs/diagnostic/montage_manuel/visuels/01_vue_studio.png)
 
 | Domaine | Point d’entrée |
 |---|---|

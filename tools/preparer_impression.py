@@ -125,12 +125,18 @@ def close_tessellation(mesh):
 
     # Une couture en T conserve exactement les mêmes sommets de surface.
     boundary=mesh.edges_unique[np.bincount(mesh.edges_unique_inverse)==1]
-    vertices=np.unique(boundary)
-    if len(boundary)==len(vertices)==3:
-        lengths=np.linalg.norm(mesh.vertices[boundary[:,0]]-mesh.vertices[boundary[:,1]],axis=1)
+    if len(boundary)<3:
+        return changes
+    for vertices in trimesh.graph.connected_components(boundary, min_len=3):
+        if len(vertices)!=3:
+            continue
+        seam=boundary[np.isin(boundary,vertices).all(axis=1)]
+        if len(seam)!=3:
+            continue
+        lengths=np.linalg.norm(mesh.vertices[seam[:,0]]-mesh.vertices[seam[:,1]],axis=1)
         index=int(np.argmax(lengths))
         if 2*lengths[index]-lengths.sum() > -1e-5:
-            a,b=boundary[index]
+            a,b=seam[index]
             w=next(v for v in vertices if v!=a and v!=b)
             matches=np.flatnonzero((mesh.faces==a).any(axis=1)&(mesh.faces==b).any(axis=1))
             if len(matches)==1:

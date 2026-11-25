@@ -1,5 +1,7 @@
 # Montage et qualification · V5-stabilisation
 
+Pour assembler la **V5 Roulis à socle plat** sans moteurs, suivre le [montage à blanc de cette variante](../docs/diagnostic/montage_manuel/README.md).
+
 Cette notice sert au montage à blanc et à la qualification progressive. Les pièces s’identifient par leur repère Fusion et le nombre de corps à imprimer dans l’inventaire. [CAO](../fusion/AURA-01.f3d) · [Inventaire](../manufacturing/inventaire.json) · [Corrections et preuves](../RAPPORT_CORRECTIONS.md)
 
 ## Montage à blanc

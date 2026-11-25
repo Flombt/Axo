@@ -1,5 +1,7 @@
 # Fabrication · V5-stabilisation
 
+La **V5 Roulis à socle plat** dispose de son [kit pour montage manuel](AURA-01_V5_Roulis_Montage_Manuel.zip) avec un plateau de premiers essais. [Nomenclature, montage et contrôles](../docs/diagnostic/montage_manuel/README.md)
+
 Ce dossier prépare la qualification progressive. Le STEP de l’assemblage et les maillages des pièces proviennent du même document Fusion. Le STEP réimporté dans Fusion contient 156 solides fermés. Les 3MF individuels contiennent leur géométrie orientée en millimètres. Les projets Anycubic enregistrent les réglages et les couches calculées. [STEP](AURA-01.step) · [Vérification STEP](../docs/diagnostic/corrections/step_reouverture.json) · [STL](STL/) · [3MF individuels](3MF/) · [Inventaire par pièce et empreintes](inventaire.json)
 
 ## Ordre de travail

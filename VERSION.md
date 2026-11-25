@@ -16,3 +16,7 @@
 `6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709`
 
 Les essais physiques, la retenue en charge et la distribution 5 V conditionnent la qualification. Le point de reprise V5 roulis v1 est conservé au tag `aura-01-v5-roulis-v1`. [Contexte](docs/architecture/PROJECT_CONTEXT.md) · [Corrections](RAPPORT_CORRECTIONS.md) · [Manifeste](docs/architecture/revision.json) · [Restauration](archives/README.md)
+
+## Variante à socle plat pour le montage manuel
+
+La **V5-roulis-montage-manuel** reprend la revue design v1. Elle emploie les six axes, les deux butées descendantes retouchées et une retenue vissée de poignet J7. Son F3D a été réimporté et les quatre projets d’essai ont été tranchés puis réouverts. [F3D, kit et contrôles](docs/diagnostic/montage_manuel/README.md)

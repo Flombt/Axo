@@ -12,3 +12,7 @@ AURA-01 est un bras robotique de table FDM destiné à déplacer et saisir de pe
 - **Qualification.** Aucune mise en mouvement physique. Valider le lot mécanique, les capteurs, ressorts, visserie, faisceau et la chaîne de coupure. Le panier de travail dépasse 150 € avec les provisions actuelles. [Achats](../../purchases/NOMENCLATURE.md) · [Plan de montage](../../assembly/README.md)
 
 Partir de [VERSION.md](../../VERSION.md) et des [règles](../../AGENTS.md). La V5 roulis v1 reste restaurable par son point de reprise Git et sa référence Fusion. [Archives](../../archives/README.md)
+
+## V5 Roulis à socle plat
+
+Le montage à blanc demandé utilise la variante passive de la V5 Roulis et ses six axes. Les corrections portent sur les butées de descente et la retenue du poignet. La vérification et l’inventaire du kit sont liés au F3D de cette variante. [Dossier du montage manuel](../diagnostic/montage_manuel/README.md)
