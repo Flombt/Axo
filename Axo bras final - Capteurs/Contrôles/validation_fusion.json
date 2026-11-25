@@ -1,0 +1,3666 @@
+{
+  "poses": [
+    {
+      "pose": "neutre",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées basses",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": -32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "poing",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 92,
+        "Servo_A": 92,
+        "Servo_U": 92
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "pince 75",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 75,
+        "Servo_I": 75,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "lacets positifs",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J1 -88",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J1 -44",
+      "angles_deg": {
+        "J1": -44.0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J1 44",
+      "angles_deg": {
+        "J1": 44.0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2 -21",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2 -10.5",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -10.5,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2 10.5",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 10.5,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2 21",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2R -20",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": -20,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2R -10",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": -10.0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2R 10",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 10.0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J2R 20",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 20,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3 -32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": -32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3 -16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": -16.0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3 16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 16.0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3 32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3R -24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": -24,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3R -12",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": -12.0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3R 12",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 12.0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J3R 24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 24,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J7 -32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J7 -16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": -16.0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J7 16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 16.0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "J7 32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_P 25",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 25,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_P 75",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 75,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_P 92",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 92,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_I 25",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 25,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_I 75",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 75,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_I 92",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 92,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_M 25",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 25,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_M 75",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 75,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_M 92",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 92,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_A 25",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 25,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_A 75",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 75,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_A 92",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 92,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_U 25",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 25
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_U 75",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 75
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "Servo_U 92",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 92
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -21/-24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": -24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -21/-16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": -16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -21/-8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": -8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -21/8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": 8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -21/16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": 16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -21/24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": 24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -21/32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 0,
+        "J3": 32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/-32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": -32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/-24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": -24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/-16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": -16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/-8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": -8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/0",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": 8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": 16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": 24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -14/32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -14,
+        "J2R": 0,
+        "J3": 32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/-32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": -32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/-24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": -24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/-16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": -16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/-8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": -8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/0",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": 8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": 16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": 24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille -7/32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -7,
+        "J2R": 0,
+        "J3": 32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 0/-24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": -24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 0/-8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": -8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 0/8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 0/24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/-32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": -32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/-24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": -24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/-16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": -16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/-8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": -8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/0",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": 8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": 16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": 24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 7/32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 7,
+        "J2R": 0,
+        "J3": 32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/-32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": -32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/-24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": -24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/-16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": -16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/-8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": -8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/0",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": 8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": 16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": 24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 14/32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 14,
+        "J2R": 0,
+        "J3": 32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/-32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": -32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/-24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": -24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/-16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": -16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/-8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": -8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/8",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": 8,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/16",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": 16,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/24",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": 24,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "grille 21/32",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 21,
+        "J2R": 0,
+        "J3": 32,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": 1,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": -20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "roulis et tangages",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 12,
+        "J2R": 20,
+        "J3": -18,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 0,
+        "Servo_I": 0,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 66.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 66.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 66.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 91.99592,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 44.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 66.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 66.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 65.31013,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 11.68926,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": -20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 22.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": -24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 22.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": -32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 22.0,
+      "atteinte": false
+    },
+    {
+      "pose": "lacet, roulis et prise",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -7,
+        "J2R": 20,
+        "J3": -7,
+        "J3R": 24,
+        "J7": 32,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 65,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "pince 25",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 25,
+        "Servo_I": 25,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "poing 25",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 25,
+        "Servo_I": 25,
+        "Servo_M": 25,
+        "Servo_A": 25,
+        "Servo_U": 25
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "pince 46",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 46,
+        "Servo_I": 46,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "poing 46",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 46,
+        "Servo_I": 46,
+        "Servo_M": 46,
+        "Servo_A": 46,
+        "Servo_U": 46
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "poing 75",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 75,
+        "Servo_I": 75,
+        "Servo_M": 75,
+        "Servo_A": 75,
+        "Servo_U": 75
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "pince 92",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 92,
+        "Servo_I": 92,
+        "Servo_M": 0,
+        "Servo_A": 0,
+        "Servo_U": 0
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "prise dépareillée",
+      "angles_deg": {
+        "J1": 0,
+        "J2": 0,
+        "J2R": 0,
+        "J3": 0,
+        "J3R": 0,
+        "J7": 0,
+        "Servo_P": 12,
+        "Servo_I": 92,
+        "Servo_M": 56,
+        "Servo_A": 0,
+        "Servo_U": 71
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": -88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": -21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": -20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": -32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": -24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": -32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    },
+    {
+      "pose": "butées combinées",
+      "angles_deg": {
+        "J1": 88,
+        "J2": 21,
+        "J2R": 20,
+        "J3": 32,
+        "J3R": 24,
+        "J7": 32
+      },
+      "erreur_deg": 0.0,
+      "atteinte": true
+    }
+  ],
+  "boites_candidates": 2058,
+  "approche_boites_hors_platine": [
+    4.301224947454585,
+    "neutre",
+    "Coque_Socle",
+    "02_Couvercle"
+  ],
+  "interferences_mm3": [],
+  "source_sha256": "b4e6b6ea1f3961df31049d50c2b16ee7164a069bb5c45df64d8f8aba220407a1",
+  "archive_sha256": "612b9d5bcafd9192bc23941926cbd9a4e76a53213f49f8db8527767c39f720e5",
+  "occurrences_origine": 154,
+  "liaisons_origine": 153,
+  "liens_de_mouvement_origine": 20,
+  "reimportation_verifiee": true,
+  "pieces_imprimables": {
+    "01_Bac_Pi5": {
+      "volume_mm3": 48602.629113034694,
+      "boite_mm": [
+        [
+          -147.0,
+          -54.0,
+          0.0
+        ],
+        [
+          -54.0,
+          54.0,
+          28.0
+        ]
+      ]
+    },
+    "02_Couvercle": {
+      "volume_mm3": 19723.43752289757,
+      "boite_mm": [
+        [
+          -147.0,
+          -54.0,
+          28.000000000000004
+        ],
+        [
+          -73.0,
+          54.0,
+          31.0
+        ]
+      ]
+    },
+    "03_Coque_Camera": {
+      "volume_mm3": 6615.339850575116,
+      "boite_mm": [
+        [
+          -147.0,
+          -16.7,
+          30.999999999999996
+        ],
+        [
+          -127.0,
+          16.7,
+          60.0
+        ]
+      ]
+    },
+    "04_Dos_Camera": {
+      "volume_mm3": 2179.467589908149,
+      "boite_mm": [
+        [
+          -127.0,
+          -16.7,
+          30.999999999999996
+        ],
+        [
+          -124.69999999999999,
+          16.7,
+          60.0
+        ]
+      ]
+    }
+  }
+}

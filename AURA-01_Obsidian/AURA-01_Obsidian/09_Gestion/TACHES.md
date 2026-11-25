@@ -2,6 +2,12 @@
 
 Partir de la [[09_Gestion/ROADMAP|roadmap]] pour l’ordre des phases. Lors d’une session, actualiser le statut de la tâche, conserver son identifiant et lier la preuve dans le [[09_Gestion/JOURNAL|journal]]. Les choix durables figurent dans les [[09_Gestion/ADR|ADR]].
 
+## Axo bras final
+
+- [x] Préparer la copie à capteurs avec extension d’ancrage, Pi 5, caméra Wide et accès au micro USB. [[02_Conception_Fusion/AXO_CAPTEURS|Variante et fichiers]]
+- [ ] Vérifier les pièces imprimées avec le lot électronique. Valider le cadre caméra, l’écoute avec le ventilateur, la température et la dépose du capot.
+- [ ] Relier la vision et les consignes de voix à une commande Pico propre aux onze servos d’Axo. Essayer les consignes en simulation puis sur banc.
+
 ## AURA-01 V5 Roulis à socle plat · Montage manuel
 
 - [x] Contrôler la copie Fusion, reprendre deux butées et retenir le poignet pour l’essai sans moteurs. Réouvrir le F3D, vérifier les maillages et trancher les quatre projets. [Dossier](../../../docs/diagnostic/montage_manuel/README.md)

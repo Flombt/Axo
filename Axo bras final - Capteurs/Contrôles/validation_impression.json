@@ -1,0 +1,103 @@
+{
+  "f3d_sha256": "612b9d5bcafd9192bc23941926cbd9a4e76a53213f49f8db8527767c39f720e5",
+  "plateau_sha256": "4c585ae2bfe96469ece055b54fcd59021bcba9ae5a74dde68aafaf62069f0b62",
+  "imprimante": "Anycubic Kobra 3 Max",
+  "buse_mm": 0.4,
+  "filament": "PLA",
+  "maillages": {
+    "01_Bac_Pi5": {
+      "sha256": "87bfa5c94bfdac917a29cfe0b5f7ee23341ceeca45fb88efa5b86685d4b2b0be",
+      "volume_mm3": 48584.41,
+      "orientation_deg_autour_y": 0,
+      "dimensions_orientees_mm": [
+        93.0,
+        108.0,
+        28.0
+      ]
+    },
+    "02_Couvercle": {
+      "sha256": "f431f3029fea09c76b8cf9b778f3438f699fc7fadb4c4657d8eb39a8af3d8fe5",
+      "volume_mm3": 19724.14,
+      "orientation_deg_autour_y": 0,
+      "dimensions_orientees_mm": [
+        74.0,
+        108.0,
+        3.0
+      ]
+    },
+    "03_Coque_Camera": {
+      "sha256": "249bd1ff310a7a9cdadac000a44a74365f99400603cf542d1ad1597748e1cb96",
+      "volume_mm3": 6614.19,
+      "orientation_deg_autour_y": -90,
+      "dimensions_orientees_mm": [
+        29.0,
+        33.400001525878906,
+        20.0
+      ]
+    },
+    "04_Dos_Camera": {
+      "sha256": "022916b4eca5e4e5dafb46656ede750d601c49feb0fc6f164cf87da6eb72e857",
+      "volume_mm3": 2179.38,
+      "orientation_deg_autour_y": 90,
+      "dimensions_orientees_mm": [
+        29.0,
+        33.400001525878906,
+        2.3000030517578125
+      ]
+    }
+  },
+  "plateaux": [
+    {
+      "ordinal": 1,
+      "seconds": 14702,
+      "grams": 76.84,
+      "bounds": [
+        116.0,
+        135.5,
+        315.83151,
+        284.5
+      ],
+      "object_bounds": {
+        "01_Bac_Pi5.stl": [
+          196.16851699999998,
+          183.922664,
+          315.83151,
+          284.49998999999997
+        ],
+        "02_Couvercle.stl": [
+          116.0,
+          176.5,
+          190.0,
+          284.5
+        ],
+        "03_Coque_Camera.stl": [
+          201.299543,
+          150.49999,
+          234.699545,
+          179.49999
+        ],
+        "04_Dos_Camera.stl": [
+          155.899542,
+          135.5,
+          189.299544,
+          164.5
+        ]
+      },
+      "layers": 159,
+      "supports": "true",
+      "warnings": [
+        {
+          "msg": "bed_temperature_too_high_than_filament",
+          "level": "1",
+          "error_code": "1000C001"
+        },
+        {
+          "msg": "not_support_traditional_timelapse",
+          "level": "1",
+          "error_code": "1000C003"
+        }
+      ]
+    }
+  ],
+  "reouverture_et_retranchage": true
+}

@@ -241,12 +241,12 @@ def metadata(node):
     return {n.get("key"):n.get("value") for n in node.findall("metadata")}
 
 
-def audit_3mf(path,key,labels):
+def audit_3mf(path,key,labels,filament="PETG"):
     with ZipFile(path) as z:
         if z.testzip() is not None:
             raise ValueError("CRC 3MF")
         cfg=json.loads(z.read("Metadata/project_settings.config"))
-        if cfg["printer_model"]!=MODELS[key][0] or cfg["nozzle_diameter"]!=["0.4"] or cfg["filament_type"]!=["PETG"]:
+        if cfg["printer_model"]!=MODELS[key][0] or cfg["nozzle_diameter"]!=["0.4"] or cfg["filament_type"]!=[filament]:
             raise ValueError("Profil appliqué inattendu")
         settings=ET.fromstring(z.read("Metadata/slice_info.config"))
         plates=[]

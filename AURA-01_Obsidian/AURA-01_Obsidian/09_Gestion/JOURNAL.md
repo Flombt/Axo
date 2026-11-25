@@ -1,5 +1,10 @@
 # Journal des sessions
 
+## 2026-11-25 — Axo bras final · Capteurs
+
+- Ouvert une copie locale de **Axo_bras_final v1** et modélisé un bac ventilé, un couvercle, une coque optique et son dos. Déplacé deux fixations après contrôle des gabarits USB et caméra. [[02_Conception_Fusion/AXO_CAPTEURS|Fichiers et vérifications]]
+- Réimporté la copie et comparé les 154 occurrences d’origine. Aucune interférence ajoutée dans les 205 poses atteintes sur 217. Contrôlé les quatre STL et le retranchage du plateau PLA. Le montage réel et le développement vision et voix restent à faire. [Notice et preuves](<../../../Axo bras final - Capteurs/LISEZ_MOI.md>)
+
 ## 2026-11-25 — Graphe orbital du coffre
 
 - Installé et activé Cyber Glow 2.8.0 depuis le catalogue Obsidian avec Computer Use. Appliqué le préréglage Galaxy et activé l’extrait CSS local `AURA - Nebuleuse`.

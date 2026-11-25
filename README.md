@@ -7,6 +7,7 @@ Bras robotique de table imprimable en FDM. La **V5 Roulis à socle plat** dispos
 | Domaine | Point d’entrée |
 |---|---|
 | Fusion et cinématique | [Modèle F3D, reproduction et animation](fusion/README.md) |
+| Axo à socle plat · Capteurs | [Copie Fusion, module de vision et audio](<Axo bras final - Capteurs/LISEZ_MOI.md>) |
 | Impression | [STEP, STL, 3MF, plateaux et éprouvettes](manufacturing/README.md) |
 | Assemblage | [Montage à blanc, dépose et qualification](assembly/README.md) |
 | Électronique | [Rail, brochage, câblage et coupure](electronics/README.md) |

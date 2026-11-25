@@ -2,6 +2,17 @@
   "revision": "V5-stabilisation",
   "date": "2026-11-25",
   "state": "prototype_numerique_a_qualifier",
+  "variantes": {
+    "axo_capteurs": {
+      "source": "Axo_bras_final v1",
+      "source_sha256": "b4e6b6ea1f3961df31049d50c2b16ee7164a069bb5c45df64d8f8aba220407a1",
+      "path": "Axo bras final - Capteurs/Axo bras final - Capteurs.f3d",
+      "sha256": "612b9d5bcafd9192bc23941926cbd9a4e76a53213f49f8db8527767c39f720e5",
+      "notice": "Axo bras final - Capteurs/LISEZ_MOI.md",
+      "manifeste": "Axo bras final - Capteurs/manifeste.json",
+      "statut": "integration_cao_a_qualifier"
+    }
+  },
   "fusion": {
     "path": "fusion/AURA-01.f3d",
     "cloud_version": 2,

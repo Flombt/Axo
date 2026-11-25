@@ -1,5 +1,9 @@
 # Décisions d'architecture (ADR)
 
+## Axo bras final · Module fixe de perception
+
+Décision du 25 novembre 2026. Reprendre les deux points M5 arrière sur une copie d’Axo_bras_final v1. Placer le Pi 5 et le micro au socle et pointer la caméra vers l’opérateur. Cette disposition garde la nappe au module et permet de déposer les capteurs depuis le banc. Le Pi interprète l’image et la voix. Le Pico conserve le pilotage des servos sur une alimentation indépendante. [[02_Conception_Fusion/AXO_CAPTEURS|Variante et préparation]]
+
 ## AURA-009 r04 — planches couleur anycubic
 
 Décision du 24 novembre 2026. Regrouper chaque couleur en une planche et conserver un 3MF par référence pour les remplacements. Les teintes des corps imprimables viennent de Fusion v4. Le pignon et le support moteur J1 partagent le gris acier. La préparation vise un transfert USB avec le profil matériel réel au moment de l’export. [Guide des 3MF par couleur](../../../archives/r04/anycubic/README.md).

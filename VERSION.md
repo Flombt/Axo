@@ -20,3 +20,7 @@ Les essais physiques, la retenue en charge et la distribution 5 V conditionnent 
 ## Variante à socle plat pour le montage manuel
 
 La **V5-roulis-montage-manuel** reprend la revue design v1. Elle emploie les six axes, les deux butées descendantes retouchées et une retenue vissée de poignet J7. Son F3D a été réimporté et les quatre projets d’essai ont été tranchés puis réouverts. [F3D, kit et contrôles](docs/diagnostic/montage_manuel/README.md)
+
+## Axo bras final · Capteurs
+
+Copie dérivée de **Axo_bras_final v1**. Le socle plat reçoit une extension démontable pour Pi 5, caméra Wide et micro USB. Les fichiers, le montage et l’état de qualification figurent dans le dossier de la variante. [Notice et livrables](<Axo bras final - Capteurs/LISEZ_MOI.md>)

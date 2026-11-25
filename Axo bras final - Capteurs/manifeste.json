@@ -1,0 +1,27 @@
+{
+  "revision": "Axo bras final - Capteurs 01",
+  "source": "Axo_bras_final v1",
+  "source_sha256": "b4e6b6ea1f3961df31049d50c2b16ee7164a069bb5c45df64d8f8aba220407a1",
+  "archive_sha256": "612b9d5bcafd9192bc23941926cbd9a4e76a53213f49f8db8527767c39f720e5",
+  "origine_fichiers_verifies": 131,
+  "fusion_poses_demandees": 217,
+  "fusion_poses_atteintes": 205,
+  "fusion_interferences_ajoutees": 0,
+  "statut": "integration_cao_a_qualifier",
+  "fichiers": {
+    "Axo bras final - Capteurs.blend": "6449bd729d3e95def67948c03fffa14d348f0a7bac9b07088aacb772a111076a",
+    "Axo bras final - Capteurs.f3d": "612b9d5bcafd9192bc23941926cbd9a4e76a53213f49f8db8527767c39f720e5",
+    "Contrôles/maillages_capteurs.json": "b666ffccd8dc07f2d6b94aa58705519b2fc47b4d3d22123f1ee2567829235610",
+    "Contrôles/validation_fusion.json": "4491107a53facc41aae630f709015209937d976ea7f8de13420abf2236660304",
+    "Contrôles/validation_impression.json": "3ec27d5f695a349166a0f780ac3c4b37d1028998dccb9c55b67bf933f1e84032",
+    "Images/01_Ensemble.png": "90f0cb7581921ead908a5e74a9fd367d08bd87ecef4f9eacf379cff58cab7172",
+    "Images/02_Camera_et_micro.png": "e4e116804475419fcde9b18695517923befc72bee74ef54138eb487f80556544",
+    "Images/03_Acces_Raspberry_Pi.png": "d9d8e47c01f4a5a2b342c356aef72d283ae05c566646b640d98dd1f4c3dbf2a4",
+    "Impression 3D/Axo_Capteurs_Kobra_3_Max_PLA.3mf": "4c585ae2bfe96469ece055b54fcd59021bcba9ae5a74dde68aafaf62069f0b62",
+    "Impression 3D/STL/01_Bac_Pi5.stl": "87bfa5c94bfdac917a29cfe0b5f7ee23341ceeca45fb88efa5b86685d4b2b0be",
+    "Impression 3D/STL/02_Couvercle.stl": "f431f3029fea09c76b8cf9b778f3438f699fc7fadb4c4657d8eb39a8af3d8fe5",
+    "Impression 3D/STL/03_Coque_Camera.stl": "249bd1ff310a7a9cdadac000a44a74365f99400603cf542d1ad1597748e1cb96",
+    "Impression 3D/STL/04_Dos_Camera.stl": "022916b4eca5e4e5dafb46656ede750d601c49feb0fc6f164cf87da6eb72e857",
+    "LISEZ_MOI.md": "76036570b4b29a025e5302741bb682054894d1b4974e648d78707275083a7862"
+  }
+}

@@ -16,3 +16,7 @@ Partir de [VERSION.md](../../VERSION.md) et des [règles](../../AGENTS.md). La V
 ## V5 Roulis à socle plat
 
 Le montage à blanc demandé utilise la variante passive de la V5 Roulis et ses six axes. Les corrections portent sur les butées de descente et la retenue du poignet. La vérification et l’inventaire du kit sont liés au F3D de cette variante. [Dossier du montage manuel](../diagnostic/montage_manuel/README.md)
+
+## Axo bras final · Vision et audio
+
+La copie **Axo bras final - Capteurs** reprend le F3D de **Axo_bras_final v1**. Le Pi 5, la caméra et le micro sont implantés sur un module fixe repris sur deux ancrages M5 du socle. Le calcul de perception et le pilotage moteur restent deux fonctions matérielles distinctes. [CAO, alimentation et essais](<../../Axo bras final - Capteurs/LISEZ_MOI.md>)

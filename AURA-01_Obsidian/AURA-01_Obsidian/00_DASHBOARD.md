@@ -41,6 +41,8 @@ Dans la configuration Galaxy du coffre, le cyan repère l’accueil, le rose le 
 
 ## État actuel
 
+- **Axo bras final · Capteurs.** Copie à socle plat avec module fixe pour Pi 5, caméra grand-angle et micro. [[02_Conception_Fusion/AXO_CAPTEURS|CAO, images et montage]]
+
 - **Montage manuel à socle plat.** La V5 Roulis est disponible avec une retenue de poignet, deux butées ajustées et le kit d’essai Anycubic. [Dossier de qualification](../../docs/diagnostic/montage_manuel/README.md)
 
 - **V5-stabilisation.** Fusion v2, kit Anycubic et firmware neuf voies vérifiés numériquement. [Version active](../../VERSION.md) · [Rapport des corrections](../../RAPPORT_CORRECTIONS.md) · [Contexte technique](../../docs/architecture/PROJECT_CONTEXT.md)

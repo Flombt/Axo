@@ -1,5 +1,10 @@
 # Évolutions significatives d’AURA-01
 
+## 2026-11-25 · Axo bras final, variante Capteurs
+
+- Ajoute à une copie de **Axo_bras_final v1** un boîtier ventilé arrimé sur les ancrages existants, une coque de caméra démontable et une prise accessible pour un micro USB.
+- Documente les contrôles CAO, les quatre pièces de l’extension, les vues Blender et les essais physiques et logiciels à venir. [Dossier Capteurs](<Axo bras final - Capteurs/LISEZ_MOI.md>)
+
 ## 2026-11-25 · V5-roulis-montage-manuel
 
 - Reprend la V5 Roulis v1 à socle plat. Retouche les lumières de butée J2 et J3 et ajoute la retenue vissée du poignet en montage manuel.
