@@ -1,0 +1,2082 @@
+{
+  "revision": "V5-stabilisation",
+  "fusion_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+  "stl_unit": "mm",
+  "references": [
+    {
+      "ref": "01_Platine",
+      "parts": [
+        "01_Platine"
+      ],
+      "dims_mm": [
+        150.0,
+        114.0,
+        6.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 98833.0423,
+      "brep_volume_mm3": 98745.1114,
+      "relative_error_volume": 0.0008904836291724599,
+      "tris": 1448,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/01_Platine.stl",
+      "3mf": "manufacturing/3MF/01_Platine.3mf",
+      "stl_sha256": "eec517e8cbc61ba1126105712687579ca13722b4dafbaed0b03cfdcd9abd1d8f",
+      "3mf_sha256": "cfa4e10a4239ec675a4f6361de548cc27966d96d45bcf91303d04857f6f4e8e3",
+      "family": "Socle"
+    },
+    {
+      "ref": "02_Palier_J1",
+      "parts": [
+        "02_Palier_J1"
+      ],
+      "dims_mm": [
+        44.0,
+        46.0,
+        35.06
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 17448.1743,
+      "brep_volume_mm3": 17489.5311,
+      "relative_error_volume": 0.002364660702853719,
+      "tris": 1152,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/02_Palier_J1.stl",
+      "3mf": "manufacturing/3MF/02_Palier_J1.3mf",
+      "stl_sha256": "723af74e4dfc8c814d2bb399960cdec768d1aca7428257493d9424d5f6e6ef42",
+      "3mf_sha256": "0e22769da9088ab6c4de1bb9abd1791ee309f4d584dc732f6fc8945d61262e3a",
+      "family": "Socle"
+    },
+    {
+      "ref": "03_Porte_J1",
+      "parts": [
+        "03_Porte_J1"
+      ],
+      "dims_mm": [
+        39.4,
+        22.0,
+        22.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 7289.2228,
+      "brep_volume_mm3": 7294.6858,
+      "relative_error_volume": 0.0007489036169288659,
+      "tris": 622,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/03_Porte_J1.stl",
+      "3mf": "manufacturing/3MF/03_Porte_J1.3mf",
+      "stl_sha256": "df2ed2b9dc11cc17ac105b1993bd4b888beb139f842a5bf15332f2fef3ef4cc3",
+      "3mf_sha256": "dd266939e473078d6b92fd92236d862dbfe1ab00121ce8882c10485ca4bed48f",
+      "family": "Socle"
+    },
+    {
+      "ref": "04_Platine_Pico",
+      "parts": [
+        "04_Platine_Pico"
+      ],
+      "dims_mm": [
+        57.0,
+        25.0,
+        7.6
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 5944.4273,
+      "brep_volume_mm3": 5938.9192,
+      "relative_error_volume": 0.0009274497238298147,
+      "tris": 412,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/04_Platine_Pico.stl",
+      "3mf": "manufacturing/3MF/04_Platine_Pico.3mf",
+      "stl_sha256": "31e66457a086437c6c1a7415c79ed4e3cf037d1132183bed71dec6e9560d406f",
+      "3mf_sha256": "72a1ef60ec86e4421204961fa20fbb38027ad3feddd1f0535cec63e1c8e342ed",
+      "family": "Socle"
+    },
+    {
+      "ref": "Pied_Butee_1",
+      "parts": [
+        "Pied_Butee_1"
+      ],
+      "dims_mm": [
+        8.9234,
+        8.9616,
+        32.9
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1785.759,
+      "brep_volume_mm3": 1818.3946,
+      "relative_error_volume": 0.017947524214402426,
+      "tris": 112,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Pied_Butee_1.stl",
+      "3mf": "manufacturing/3MF/Pied_Butee_1.3mf",
+      "stl_sha256": "49d9e71ea3779612eee2db3b9420a5851e9847afb2d52f86cc106d1eaea27a90",
+      "3mf_sha256": "b124511fbebd84881600d70e8f5290cb7ab79512c2b54096b3b537047e779020",
+      "family": "Socle"
+    },
+    {
+      "ref": "Pied_Butee_2",
+      "parts": [
+        "Pied_Butee_2"
+      ],
+      "dims_mm": [
+        8.9234,
+        8.9616,
+        32.9
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1785.759,
+      "brep_volume_mm3": 1818.3946,
+      "relative_error_volume": 0.017947524214402426,
+      "tris": 112,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Pied_Butee_2.stl",
+      "3mf": "manufacturing/3MF/Pied_Butee_2.3mf",
+      "stl_sha256": "0d2ac66d7a8adcff013d3c502632fb8c13d43586892d9e2133aa881c70b12e34",
+      "3mf_sha256": "f91e4099d1b949151837410f518e76a7414f1f53fb9015d8b922410dc6917d2f",
+      "family": "Socle"
+    },
+    {
+      "ref": "J1_Pignon",
+      "parts": [
+        "J1_Pignon"
+      ],
+      "dims_mm": [
+        49.9931,
+        49.8909,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 8851.6029,
+      "brep_volume_mm3": 8844.4607,
+      "relative_error_volume": 0.0008075325766704557,
+      "tris": 2104,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J1_Pignon.stl",
+      "3mf": "manufacturing/3MF/J1_Pignon.3mf",
+      "stl_sha256": "146096f43c7b5555915fe911763d3bd846ff4d72d1511274c673178e60a6fc8a",
+      "3mf_sha256": "31a201bb90f298c7c97f35726687cfea56e4fa1a370784900009e87ab7c062d6",
+      "family": "Socle"
+    },
+    {
+      "ref": "06_Garde_J1",
+      "parts": [
+        "06_Garde_J1"
+      ],
+      "dims_mm": [
+        51.5322,
+        62.5,
+        36.12
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 8493.99,
+      "brep_volume_mm3": 8499.7081,
+      "relative_error_volume": 0.0006727458480629575,
+      "tris": 774,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/06_Garde_J1.stl",
+      "3mf": "manufacturing/3MF/06_Garde_J1.3mf",
+      "stl_sha256": "5d6df0547c6392d12af8d3ecf7e2aee917ea18653e257efdfee1a249893f2382",
+      "3mf_sha256": "916166eef444291dfa0850c86ebecc7a72039d212fa809c808029eaae7d1dc84",
+      "family": "Socle"
+    },
+    {
+      "ref": "05_Tourelle",
+      "parts": [
+        "05_Tourelle"
+      ],
+      "dims_mm": [
+        75.0,
+        78.7,
+        61.7586
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 31123.3994,
+      "brep_volume_mm3": 31098.598,
+      "relative_error_volume": 0.0007975077400957147,
+      "tris": 2746,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/05_Tourelle.stl",
+      "3mf": "manufacturing/3MF/05_Tourelle.3mf",
+      "stl_sha256": "da27d14362e74beb54fb4f217df1903251713d17c139e175d1f3ab82ac2f52ea",
+      "3mf_sha256": "49704dd0c6abf77f95b0d34efae9d39670960cdcb8c0975f6ae908b570d0056d",
+      "family": "Socle"
+    },
+    {
+      "ref": "Entretoise_J1",
+      "parts": [
+        "Entretoise_J1"
+      ],
+      "dims_mm": [
+        13.9218,
+        13.9609,
+        11.61
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 823.8327,
+      "brep_volume_mm3": 831.0795,
+      "relative_error_volume": 0.008719733630168848,
+      "tris": 156,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Entretoise_J1.stl",
+      "3mf": "manufacturing/3MF/Entretoise_J1.3mf",
+      "stl_sha256": "e4c7847c2a4cd261b5f371ab613a1e42d96e705110c8871739dc5759c48f1061",
+      "3mf_sha256": "c8be5a679a3ce11b02d670f6e72749c0513079cbb1b698da017e4a63cf4892eb",
+      "family": "Socle"
+    },
+    {
+      "ref": "J1_Roue",
+      "parts": [
+        "J1_Roue"
+      ],
+      "dims_mm": [
+        29.7936,
+        29.9903,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 2447.8636,
+      "brep_volume_mm3": 2434.4214,
+      "relative_error_volume": 0.005521737522527734,
+      "tris": 1312,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J1_Roue.stl",
+      "3mf": "manufacturing/3MF/J1_Roue.3mf",
+      "stl_sha256": "964763cde2ac319993ba59b4abd2b96d1ede42b84460bc8320e5b7ab8a6a28c9",
+      "3mf_sha256": "54a99de983b3e42dfbd4fad80007ff2ef4dfceaec45fcfc74814116f46a5a421",
+      "family": "Socle"
+    },
+    {
+      "ref": "J2_Chape_Tangage",
+      "parts": [
+        "J2_Chape_Tangage"
+      ],
+      "dims_mm": [
+        99.3493,
+        49.993,
+        59.7
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 33836.0194,
+      "brep_volume_mm3": 33878.0976,
+      "relative_error_volume": 0.0012420473562697978,
+      "tris": 6154,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J2_Chape_Tangage.stl",
+      "3mf": "manufacturing/3MF/J2_Chape_Tangage.3mf",
+      "stl_sha256": "f3f451c2792cb6fec6c322c07886bb31cdb8ef34150b3e9afc073474a9d9efe1",
+      "3mf_sha256": "83ed68c2f01f936dcf455859cdd4886f9fcef8e9a072400b56b4d75b937d3748",
+      "family": "Bras"
+    },
+    {
+      "ref": "Rondelle_Friction",
+      "parts": [
+        "Friction_J2_1"
+      ],
+      "dims_mm": [
+        20.1204,
+        1.46,
+        20.1601
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 434.0787,
+      "brep_volume_mm3": 437.8323,
+      "relative_error_volume": 0.008573114778965277,
+      "tris": 152,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Rondelle_Friction.stl",
+      "3mf": "manufacturing/3MF/Rondelle_Friction.3mf",
+      "stl_sha256": "d27b1996aab9d4ff4c30f29bbeb8c60a466627054d0ad38540fa27730c9ad4d0",
+      "3mf_sha256": "dc5073acae2d79e15a5379ab3571def33fedd75390e181cad3fab65c8fcc4340",
+      "family": "Bras"
+    },
+    {
+      "ref": "Rondelle_Friction_2",
+      "parts": [
+        "Friction_J2_2",
+        "Friction_J3_2"
+      ],
+      "dims_mm": [
+        20.1204,
+        1.34,
+        20.1601
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 398.401,
+      "brep_volume_mm3": 401.8461,
+      "relative_error_volume": 0.008573114778963484,
+      "tris": 152,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Rondelle_Friction_2.stl",
+      "3mf": "manufacturing/3MF/Rondelle_Friction_2.3mf",
+      "stl_sha256": "cba13192d92b688c63c1570a8f26c1ce8d11dcde851f4a4656323396494d6c2c",
+      "3mf_sha256": "8dc02fe494d5e05549193af976a8d89ee6fc2e8530a18ce3323a083febf219a3",
+      "family": "Bras"
+    },
+    {
+      "ref": "J2_Roue",
+      "parts": [
+        "J2_Roue"
+      ],
+      "dims_mm": [
+        44.7723,
+        44.8,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 6982.7728,
+      "brep_volume_mm3": 6975.8984,
+      "relative_error_volume": 0.0009854443812051903,
+      "tris": 2776,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J2_Roue.stl",
+      "3mf": "manufacturing/3MF/J2_Roue.3mf",
+      "stl_sha256": "22b60bb2eaa8b3daa49270d20b93e6a76e8b612948d2cf7a49470703b2e71a08",
+      "3mf_sha256": "a4e4b5d10f78975327fc98c95635d17394e6a08b358399e3b6337aabc41c327e",
+      "family": "Bras"
+    },
+    {
+      "ref": "J2_Pignon",
+      "parts": [
+        "J2_Pignon"
+      ],
+      "dims_mm": [
+        15.9944,
+        15.8249,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 686.3179,
+      "brep_volume_mm3": 679.8418,
+      "relative_error_volume": 0.009525822170089302,
+      "tris": 1064,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J2_Pignon.stl",
+      "3mf": "manufacturing/3MF/J2_Pignon.3mf",
+      "stl_sha256": "ed02a107d690225946729250b7df1a4ddb7e5e2848f93dea90f366699721e92d",
+      "3mf_sha256": "7c56f14a63a10a67fbca72bd3d765ada6919db4785e2b659421219647bae8f95",
+      "family": "Bras"
+    },
+    {
+      "ref": "J3_Chape_Tangage",
+      "parts": [
+        "J3_Chape_Tangage"
+      ],
+      "dims_mm": [
+        107.85,
+        27.769,
+        69.2505
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 23527.5446,
+      "brep_volume_mm3": 23622.008,
+      "relative_error_volume": 0.003998959648724498,
+      "tris": 5242,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J3_Chape_Tangage.stl",
+      "3mf": "manufacturing/3MF/J3_Chape_Tangage.3mf",
+      "stl_sha256": "f24d522ffa7e43135729cf1852864ca5a13d694f091565c2356f996beb226ce5",
+      "3mf_sha256": "34e3fda626f2bd0528e86e92f86175323be8f5e2249ecfc0a8bc10fc3d8692b3",
+      "family": "Bras"
+    },
+    {
+      "ref": "Rondelle_Friction_3",
+      "parts": [
+        "Friction_J3_1"
+      ],
+      "dims_mm": [
+        18.28,
+        1.46,
+        18.28
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 349.9083,
+      "brep_volume_mm3": 353.1136,
+      "relative_error_volume": 0.009077353465563527,
+      "tris": 148,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Rondelle_Friction_3.stl",
+      "3mf": "manufacturing/3MF/Rondelle_Friction_3.3mf",
+      "stl_sha256": "9433b7f90f834c5ebaf25d7eca2adc2603f800a4767b85f00bca4f4ddd675085",
+      "3mf_sha256": "fc3f094fceccdb85771ca86964631c3475fbb947031c4982eac41435be0fb03e",
+      "family": "Bras"
+    },
+    {
+      "ref": "J3_Pignon",
+      "parts": [
+        "J3_Pignon"
+      ],
+      "dims_mm": [
+        15.9944,
+        15.8249,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 686.3179,
+      "brep_volume_mm3": 679.8418,
+      "relative_error_volume": 0.009525822170089302,
+      "tris": 1064,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J3_Pignon.stl",
+      "3mf": "manufacturing/3MF/J3_Pignon.3mf",
+      "stl_sha256": "f976de7a912a5e8515f9b1fa67869982068460e41702fa88c15839a879779912",
+      "3mf_sha256": "726dcaadf7ccd68a9c5efaf225c4584c1aaed8e43cf205a4eedba4e98e484667",
+      "family": "Bras"
+    },
+    {
+      "ref": "11_Paume",
+      "parts": [
+        "11_Paume"
+      ],
+      "dims_mm": [
+        61.9064,
+        55.4181,
+        30.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 20329.449,
+      "brep_volume_mm3": 20347.1623,
+      "relative_error_volume": 0.0008705526751060833,
+      "tris": 4100,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/11_Paume.stl",
+      "3mf": "manufacturing/3MF/11_Paume.3mf",
+      "stl_sha256": "02f35687cf32ed4bcadfb8c0822946290e67d8d4a0261fef4d7fcda0742b1bae",
+      "3mf_sha256": "76abd1ae7baa7e77c7d6bca58d2b05244f970ae30eed756580123896db293f8a",
+      "family": "Main"
+    },
+    {
+      "ref": "Palonnier_J7",
+      "parts": [
+        "Palonnier_J7"
+      ],
+      "dims_mm": [
+        2.1,
+        12.9636,
+        12.9274
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 255.1531,
+      "brep_volume_mm3": 257.3149,
+      "relative_error_volume": 0.008401559411923123,
+      "tris": 192,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Palonnier_J7.stl",
+      "3mf": "manufacturing/3MF/Palonnier_J7.3mf",
+      "stl_sha256": "4ec9f3f92fc24cf3941ec95f5bec9cfb07a91923432162ba4c00827658a8c433",
+      "3mf_sha256": "ed6070fdf9f3502b65e58e7c16467c7db375dbf1d9d5c5374cf4fff07715a1f8",
+      "family": "Bras"
+    },
+    {
+      "ref": "Support_J7",
+      "parts": [
+        "Support_J7"
+      ],
+      "dims_mm": [
+        2.65,
+        34.87,
+        17.16
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 623.8543,
+      "brep_volume_mm3": 628.5086,
+      "relative_error_volume": 0.007405383936460878,
+      "tris": 226,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Support_J7.stl",
+      "3mf": "manufacturing/3MF/Support_J7.3mf",
+      "stl_sha256": "3c0935be3616430c564a955136b3a9777ff74f472c31480e7d4236afe9abd49e",
+      "3mf_sha256": "325c61b737a90f74e6e78d70577e3959f5aeb6a9eafa4c62918f813a01c47ed0",
+      "family": "Bras"
+    },
+    {
+      "ref": "12_Chape_Pouce",
+      "parts": [
+        "12_Chape_Pouce"
+      ],
+      "dims_mm": [
+        22.9387,
+        20.7954,
+        9.4678
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 996.9191,
+      "brep_volume_mm3": 997.2404,
+      "relative_error_volume": 0.00032217341930552724,
+      "tris": 584,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/12_Chape_Pouce.stl",
+      "3mf": "manufacturing/3MF/12_Chape_Pouce.3mf",
+      "stl_sha256": "0c956bd3a7a153b40334153a744d9b328f1cdd7badab6aceebce4a9f8748c9bd",
+      "3mf_sha256": "9ffc00aae7a69ab2ddeda41b7eeb4bc6261bfc3f6247671292c913414b420038",
+      "family": "Main"
+    },
+    {
+      "ref": "Peigne_Paume",
+      "parts": [
+        "Peigne_Paume"
+      ],
+      "dims_mm": [
+        6.2592,
+        46.2,
+        7.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1751.5996,
+      "brep_volume_mm3": 1740.134,
+      "relative_error_volume": 0.0065889104511736825,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Peigne_Paume.stl",
+      "3mf": "manufacturing/3MF/Peigne_Paume.3mf",
+      "stl_sha256": "72237b1253012f9ce45e36bd1db6b12c815752e8173e3ad53049b9fab65c87bf",
+      "3mf_sha256": "617438cf3942d4523c23dcd3063f5f5c0728cd599740b8b8535ce4ae0049a56f",
+      "family": "Main"
+    },
+    {
+      "ref": "Phalange_14",
+      "parts": [
+        "P1",
+        "I2",
+        "M2",
+        "A2",
+        "U1"
+      ],
+      "dims_mm": [
+        21.3076,
+        9.3,
+        7.9794
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 612.8657,
+      "brep_volume_mm3": 615.5304,
+      "relative_error_volume": 0.004329008310111959,
+      "tris": 796,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Phalange_14.stl",
+      "3mf": "manufacturing/3MF/Phalange_14.3mf",
+      "stl_sha256": "b2a2baca41c4235857d79a02997e2ab68bb4727713e5ee8648427cd354bdb3f4",
+      "3mf_sha256": "21fc1f20c8483a59268fb53cee8bb3a9293a0bcc22d320c7d29b14cdfbe56008",
+      "family": "Main"
+    },
+    {
+      "ref": "Phalange_12p5",
+      "parts": [
+        "P2",
+        "U2"
+      ],
+      "dims_mm": [
+        19.8076,
+        9.3,
+        7.9794
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 524.0739,
+      "brep_volume_mm3": 527.2007,
+      "relative_error_volume": 0.005931080757522955,
+      "tris": 796,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Phalange_12p5.stl",
+      "3mf": "manufacturing/3MF/Phalange_12p5.3mf",
+      "stl_sha256": "141aa5a4aae9bb9de59f3cf083d71bd0e6d3798c8f114e7d968e5098dadde085",
+      "3mf_sha256": "e8e03d168a566715b63b4ba27810839fb364a57bca943716019272772f18bd37",
+      "family": "Main"
+    },
+    {
+      "ref": "Bout_11",
+      "parts": [
+        "P3"
+      ],
+      "dims_mm": [
+        23.3059,
+        20.5812,
+        7.5798
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1000.4905,
+      "brep_volume_mm3": 1014.3347,
+      "relative_error_volume": 0.013648505437283652,
+      "tris": 678,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bout_11.stl",
+      "3mf": "manufacturing/3MF/Bout_11.3mf",
+      "stl_sha256": "e8fd3831add672051c8891557e62b496a7b6b2b0e9d61d9b1003e71a0f6e530c",
+      "3mf_sha256": "dfa060ee07e9b59408b85f6f151ef60b102871f802c01904d2039ae3631e57be",
+      "family": "Main"
+    },
+    {
+      "ref": "Phalange_16",
+      "parts": [
+        "I1",
+        "M1",
+        "A1"
+      ],
+      "dims_mm": [
+        23.3076,
+        9.3,
+        7.9794
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 731.2549,
+      "brep_volume_mm3": 733.2871,
+      "relative_error_volume": 0.002771342594561129,
+      "tris": 796,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Phalange_16.stl",
+      "3mf": "manufacturing/3MF/Phalange_16.3mf",
+      "stl_sha256": "a6e3dbfde5d0464ae6c8e7cc6b6880a4ea8215a0a2b36388470983106bb30e2e",
+      "3mf_sha256": "ccf97a122c3781e6bd29137ca7402aba87e0dede97df160f2aa61abaf959b1aa",
+      "family": "Main"
+    },
+    {
+      "ref": "Bout_12p5",
+      "parts": [
+        "I3",
+        "M3",
+        "A3"
+      ],
+      "dims_mm": [
+        15.8163,
+        8.4,
+        7.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 575.1787,
+      "brep_volume_mm3": 572.9591,
+      "relative_error_volume": 0.0038739994825571873,
+      "tris": 474,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bout_12p5.stl",
+      "3mf": "manufacturing/3MF/Bout_12p5.3mf",
+      "stl_sha256": "0e4c954c5960b1bd7155e1fe135d9eb5e82a9545118ae9fce990dbce7355de15",
+      "3mf_sha256": "c371a9bde67ec0ce3e9b9136b55d5d0eda158201c30002d26d121dd24bdcba0d",
+      "family": "Main"
+    },
+    {
+      "ref": "Bout_11_2",
+      "parts": [
+        "U3"
+      ],
+      "dims_mm": [
+        14.3163,
+        8.4,
+        7.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 483.9619,
+      "brep_volume_mm3": 481.9068,
+      "relative_error_volume": 0.004264522208123269,
+      "tris": 474,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bout_11_2.stl",
+      "3mf": "manufacturing/3MF/Bout_11_2.3mf",
+      "stl_sha256": "1174506ee944ba3a13d2a4474130e90fe84aa2f0051506ec9a5d40bcbdc81b8b",
+      "3mf_sha256": "370324e9243a034b4a855f7788815e5e87b275c147efe17713629c626d193198",
+      "family": "Main"
+    },
+    {
+      "ref": "09_Cassette_SG90",
+      "parts": [
+        "09_Cassette_SG90"
+      ],
+      "dims_mm": [
+        75.1791,
+        45.8,
+        4.44
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 3945.4116,
+      "brep_volume_mm3": 3933.9355,
+      "relative_error_volume": 0.002917222658457407,
+      "tris": 1520,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/09_Cassette_SG90.stl",
+      "3mf": "manufacturing/3MF/09_Cassette_SG90.3mf",
+      "stl_sha256": "ce19f13955b3a32195c8c9ddd94485736099f22bd1d495b52fffa2842d02697b",
+      "3mf_sha256": "2fe1f1137ecd59e6bda9caed876817d721abfa8450c34b5ebf05bfe0fd9b191e",
+      "family": "Bras"
+    },
+    {
+      "ref": "Bobine_P",
+      "parts": [
+        "Bobine_P"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bobine_P.stl",
+      "3mf": "manufacturing/3MF/Bobine_P.3mf",
+      "stl_sha256": "ed8c4161130772c500a67cab745bc4738077288ebf29d72392f8fbf86724554e",
+      "3mf_sha256": "82bd9dbadc90c9dc5f2d4e0a7ff4f1567e8e47103270a4f3accbd8aabdb65111",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_I",
+      "parts": [
+        "Bobine_I"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bobine_I.stl",
+      "3mf": "manufacturing/3MF/Bobine_I.3mf",
+      "stl_sha256": "40dfffd57c79594f3e18a0be4d19c9ef41ba4aa8e60a468c512b2de5f08e7aa9",
+      "3mf_sha256": "a5a80a33cef647bedab022bd28d8746a3dc95c1b905fc341f758f6394bb32c37",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_M",
+      "parts": [
+        "Bobine_M"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319541,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bobine_M.stl",
+      "3mf": "manufacturing/3MF/Bobine_M.3mf",
+      "stl_sha256": "7d1dd3997229c64c53e915caba03cac903f6263e7e19a23af40a9d1fdb557d03",
+      "3mf_sha256": "2130d1fe4d55ed1e481e81fddeebdacb94ba9dad635dd17913400c0fe537e1a3",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_A",
+      "parts": [
+        "Bobine_A"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bobine_A.stl",
+      "3mf": "manufacturing/3MF/Bobine_A.3mf",
+      "stl_sha256": "c8ad6144af38a2b7e671c1304900893f840f226734af5aa54faf314b69c447b4",
+      "3mf_sha256": "fef2c96ae2293884772176d10bd4ce1ea6de75b54ed4808bd082203495cd3a81",
+      "family": "Main"
+    },
+    {
+      "ref": "Bobine_U",
+      "parts": [
+        "Bobine_U"
+      ],
+      "dims_mm": [
+        12.74,
+        12.74,
+        2.42
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 194.6994,
+      "brep_volume_mm3": 196.7653,
+      "relative_error_volume": 0.010499361507319685,
+      "tris": 376,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Bobine_U.stl",
+      "3mf": "manufacturing/3MF/Bobine_U.3mf",
+      "stl_sha256": "3e7be6130262b908ad9d38cbee437f805066cff3163da56f3cb11f227c9e11e7",
+      "3mf_sha256": "a5ec1c1834b5c0d2ae85b7ac28c2c2d089d94764d2056e6f5db30f1fd7ef1d3e",
+      "family": "Main"
+    },
+    {
+      "ref": "Coque_Socle",
+      "parts": [
+        "Coque_Socle"
+      ],
+      "dims_mm": [
+        103.4131,
+        76.378,
+        36.76
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 19074.3629,
+      "brep_volume_mm3": 19091.2205,
+      "relative_error_volume": 0.0008830028180349773,
+      "tris": 3796,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coque_Socle.stl",
+      "3mf": "manufacturing/3MF/Coque_Socle.3mf",
+      "stl_sha256": "406db5a83ef6e62306f8736eed9899f1b6c85fe5337e0dee08908b07d257224f",
+      "3mf_sha256": "93478379ec844212b55e9ca5604a789a5e14f54f8585466021978499ab830b21",
+      "family": "Socle"
+    },
+    {
+      "ref": "Coque_Pico",
+      "parts": [
+        "Coque_Pico"
+      ],
+      "dims_mm": [
+        58.4872,
+        27.3972,
+        14.57
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 4190.6511,
+      "brep_volume_mm3": 4207.855,
+      "relative_error_volume": 0.004088520635910094,
+      "tris": 1880,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coque_Pico.stl",
+      "3mf": "manufacturing/3MF/Coque_Pico.3mf",
+      "stl_sha256": "e2ef5f92823578630682668d9736772e7268ca3b66eb37e354c3d3a3366d2e0e",
+      "3mf_sha256": "ce556e6f1b4f9e10e4d6fd7368489d2366c4ce3b5bff5332b4f3369b81f50d5d",
+      "family": "Socle"
+    },
+    {
+      "ref": "Coque_Epaule",
+      "parts": [
+        "Coque_Epaule"
+      ],
+      "dims_mm": [
+        34.4596,
+        48.5,
+        44.42
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 8651.2978,
+      "brep_volume_mm3": 8672.4306,
+      "relative_error_volume": 0.002436781726347374,
+      "tris": 3136,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coque_Epaule.stl",
+      "3mf": "manufacturing/3MF/Coque_Epaule.3mf",
+      "stl_sha256": "d16beec88aed3a8574cfe5b5eed897c5fcb53284560811df1f1da4786da7c06a",
+      "3mf_sha256": "a4e1a532f5543239b0cc256343f3997c00b4f16f57ea091e382d0e8b2717c13d",
+      "family": "Bras"
+    },
+    {
+      "ref": "Coque_Bras",
+      "parts": [
+        "Coque_Bras"
+      ],
+      "dims_mm": [
+        53.6,
+        33.6351,
+        46.9233
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 9023.3418,
+      "brep_volume_mm3": 9033.8471,
+      "relative_error_volume": 0.0011628798224855464,
+      "tris": 6756,
+      "corrections_tessellation": [
+        {
+          "type": "couture T fermée sans ajout de point",
+          "triangles": 1
+        }
+      ],
+      "stl": "manufacturing/STL/Coque_Bras.stl",
+      "3mf": "manufacturing/3MF/Coque_Bras.3mf",
+      "stl_sha256": "ea593b512aed7d6115113989b5a9d360e9fc946ff5abdb0afecb760053397d40",
+      "3mf_sha256": "32159ffb63e4a0d4b95db4e8da54568b91d6f3737118adca583031043be8e72e",
+      "family": "Bras"
+    },
+    {
+      "ref": "Garde_J2",
+      "parts": [
+        "Garde_J2"
+      ],
+      "dims_mm": [
+        63.5823,
+        8.55,
+        49.1682
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 5705.7974,
+      "brep_volume_mm3": 5711.5847,
+      "relative_error_volume": 0.0010132575048075391,
+      "tris": 542,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Garde_J2.stl",
+      "3mf": "manufacturing/3MF/Garde_J2.3mf",
+      "stl_sha256": "db643060c26a0ae7858bf15507f01f31c2eb906d757f594d7143f7b2beff23a5",
+      "3mf_sha256": "06f06d1f0c136fac65c12cf3f7c26bab1ce9c53dfe20fe99dd5440c5522191d6",
+      "family": "Bras"
+    },
+    {
+      "ref": "Garde_J3",
+      "parts": [
+        "Garde_J3"
+      ],
+      "dims_mm": [
+        48.44,
+        8.55,
+        33.9743
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 3347.9489,
+      "brep_volume_mm3": 3360.3056,
+      "relative_error_volume": 0.0036772455909301746,
+      "tris": 518,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Garde_J3.stl",
+      "3mf": "manufacturing/3MF/Garde_J3.3mf",
+      "stl_sha256": "e717eeb60620dff227f47b89af5a7083e37a1a9e54023a51487517fa93aea1c9",
+      "3mf_sha256": "4dba07d3d1058bde1f217bbb4b52bf69f4a9d85e589a58def5622903743bae87",
+      "family": "Bras"
+    },
+    {
+      "ref": "Coque_Avant",
+      "parts": [
+        "Coque_Avant"
+      ],
+      "dims_mm": [
+        74.83,
+        50.5741,
+        23.66
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 8869.4155,
+      "brep_volume_mm3": 8879.8044,
+      "relative_error_volume": 0.0011699437175464937,
+      "tris": 4122,
+      "corrections_tessellation": [
+        {
+          "type": "paires de triangles opposés",
+          "triangles": 4
+        }
+      ],
+      "stl": "manufacturing/STL/Coque_Avant.stl",
+      "3mf": "manufacturing/3MF/Coque_Avant.3mf",
+      "stl_sha256": "1c377c69129f5e862fbfc3f3adc677a0a2ae4ee0193c36dbbd48abab0ae07595",
+      "3mf_sha256": "d777c849112ef30321e7fddb12bf5cbcd7eb977172d82d75c08d93ff5b025079",
+      "family": "Bras"
+    },
+    {
+      "ref": "Capot_Cassette",
+      "parts": [
+        "Capot_Cassette"
+      ],
+      "dims_mm": [
+        74.83,
+        61.785,
+        21.3034
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 9517.8229,
+      "brep_volume_mm3": 9720.7259,
+      "relative_error_volume": 0.02087323664670494,
+      "tris": 4108,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Capot_Cassette.stl",
+      "3mf": "manufacturing/3MF/Capot_Cassette.3mf",
+      "stl_sha256": "7ae7832def8cdc280c6cd3941ba53d8af9e1e3168af49602b171ffd5a79c2d96",
+      "3mf_sha256": "5d564d29ac0988ce8e59c39fccd9c421b4e6532e0a97efcb2f178368b2b0a3d5",
+      "family": "Bras"
+    },
+    {
+      "ref": "Capot_Paume",
+      "parts": [
+        "Capot_Paume"
+      ],
+      "dims_mm": [
+        23.7,
+        60.65,
+        13.9135
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 2482.002,
+      "brep_volume_mm3": 2488.9985,
+      "relative_error_volume": 0.0028109879009294413,
+      "tris": 2626,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Capot_Paume.stl",
+      "3mf": "manufacturing/3MF/Capot_Paume.3mf",
+      "stl_sha256": "751dedfb83ea39bbb0947857224999e1450a60f95c50f6a995fccdb63bcc8293",
+      "3mf_sha256": "33bc283dea58ce2e6c4617952ab2b0431a5c67fe4c1a84ad961d7cb7ca4af1b0",
+      "family": "Main"
+    },
+    {
+      "ref": "J3_Roue",
+      "parts": [
+        "J3_Roue"
+      ],
+      "dims_mm": [
+        30.356,
+        30.356,
+        5.15
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 2837.9242,
+      "brep_volume_mm3": 2830.9428,
+      "relative_error_volume": 0.0024661179660318204,
+      "tris": 2280,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/J3_Roue.stl",
+      "3mf": "manufacturing/3MF/J3_Roue.3mf",
+      "stl_sha256": "8261395ea81bd800c91104b6864f9dcc0ebb93114710cb171dd4c39a7db34089",
+      "3mf_sha256": "1a240af4f09b8cc06aa0efe70043267780b2583336bc8c40d2a34dc357154a3d",
+      "family": "Bras"
+    },
+    {
+      "ref": "Embout_Coude",
+      "parts": [
+        "Embout_Coude"
+      ],
+      "dims_mm": [
+        1.85,
+        46.2,
+        35.5
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 1037.8063,
+      "brep_volume_mm3": 1033.92,
+      "relative_error_volume": 0.003758819931971608,
+      "tris": 894,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Embout_Coude.stl",
+      "3mf": "manufacturing/3MF/Embout_Coude.3mf",
+      "stl_sha256": "3932be0008b78e4c35486f9ae99408f24f44a1018f671a2e036e4289bf8fc4f2",
+      "3mf_sha256": "0ac4d8df6535219281b91f1aa17575d6d2a21403598be41e114f77bbc4ca02b5",
+      "family": "Bras"
+    },
+    {
+      "ref": "Rehausse_90_M5",
+      "parts": [
+        "Pied_Rehausse_1",
+        "Pied_Rehausse_2",
+        "Pied_Rehausse_3",
+        "Pied_Rehausse_4"
+      ],
+      "dims_mm": [
+        29.923,
+        29.9615,
+        90.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 23948.4109,
+      "brep_volume_mm3": 24138.0858,
+      "relative_error_volume": 0.00785791084285535,
+      "tris": 516,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Rehausse_90_M5.stl",
+      "3mf": "manufacturing/3MF/Rehausse_90_M5.3mf",
+      "stl_sha256": "a2cd07e81bb891efed293533c5b6f144f87908960073c7ef80c52f85a8fce367",
+      "3mf_sha256": "fab95bda90cbf2a272a4739054746a4959823576385fb6d42d94b942ab4a11bf",
+      "family": "Socle"
+    },
+    {
+      "ref": "Support_Service_J3",
+      "parts": [
+        "Support_Service_J3"
+      ],
+      "dims_mm": [
+        47.6743,
+        63.8,
+        18.9711
+      ],
+      "orientation": [
+        [
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          -1,
+          0
+        ]
+      ],
+      "mesh_volume_mm3": 9469.1215,
+      "brep_volume_mm3": 9491.5211,
+      "relative_error_volume": 0.0023599629985963477,
+      "tris": 2034,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Support_Service_J3.stl",
+      "3mf": "manufacturing/3MF/Support_Service_J3.3mf",
+      "stl_sha256": "f842ca1376ab72b9b06f6e2cfa1cea1fbdf6ddcf3b4a6b3eef2abab8871b1fa6",
+      "3mf_sha256": "5fc4ba6fe9d011c54edc577b6b75112f645b0f315e894ccf6648932778f24ba8",
+      "family": "Bras"
+    },
+    {
+      "ref": "Coupon_6000",
+      "parts": [
+        "Coupon_6000"
+      ],
+      "dims_mm": [
+        96.0,
+        32.0,
+        9.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 13540.1849,
+      "brep_volume_mm3": 13504.149,
+      "relative_error_volume": 0.002668506021691478,
+      "tris": 1056,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coupon_6000.stl",
+      "3mf": "manufacturing/3MF/Coupon_6000.3mf",
+      "stl_sha256": "912736d643e5a6747d073214a836da3c8cbecc551a8803bd51a458c4ff4c3b1d",
+      "3mf_sha256": "92c8e664e02863ac1d41f9a42def48df4ee41d099f6bb697a006e3864237a542",
+      "family": "Coupons"
+    },
+    {
+      "ref": "Coupon_Axes",
+      "parts": [
+        "Coupon_Axes"
+      ],
+      "dims_mm": [
+        84.0,
+        25.0,
+        8.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 13338.7324,
+      "brep_volume_mm3": 13294.8679,
+      "relative_error_volume": 0.003299357686092435,
+      "tris": 1180,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coupon_Axes.stl",
+      "3mf": "manufacturing/3MF/Coupon_Axes.3mf",
+      "stl_sha256": "32cd0d0a3bceca1a227900fe3ae5bf7c1b19c7150f58bdfa45263f1bdee9153b",
+      "3mf_sha256": "89066d8b43cf7734a15df8228688bbf749ef9c797adec096b3d139946a48e903",
+      "family": "Coupons"
+    },
+    {
+      "ref": "Coupon_SG90",
+      "parts": [
+        "Coupon_SG90"
+      ],
+      "dims_mm": [
+        43.0,
+        22.0,
+        5.4
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 3464.1537,
+      "brep_volume_mm3": 3462.5737,
+      "relative_error_volume": 0.0004563227626282671,
+      "tris": 144,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coupon_SG90.stl",
+      "3mf": "manufacturing/3MF/Coupon_SG90.3mf",
+      "stl_sha256": "ba6bcc136902d0d9e177f76a09d8741450aa843136d13d055fadf8233a8a9126",
+      "3mf_sha256": "56043d584af2b39406f3220a0a2331f58eaab3993c0686f933970ee4db4fc537",
+      "family": "Coupons"
+    },
+    {
+      "ref": "Coupon_MG996R",
+      "parts": [
+        "Coupon_MG996R"
+      ],
+      "dims_mm": [
+        58.0,
+        29.0,
+        5.4
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 4483.0533,
+      "brep_volume_mm3": 4478.9177,
+      "relative_error_volume": 0.0009233491493228697,
+      "tris": 288,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coupon_MG996R.stl",
+      "3mf": "manufacturing/3MF/Coupon_MG996R.3mf",
+      "stl_sha256": "8a8b2a774510311eb654fa101b91106c788e8b14ef4592cb552ae8545ba49e7f",
+      "3mf_sha256": "62efaf6dafe63e96037cb369276207ae64c5394232bc2da97b366054321a8c42",
+      "family": "Coupons"
+    },
+    {
+      "ref": "Coupon_Inserts",
+      "parts": [
+        "Coupon_Inserts"
+      ],
+      "dims_mm": [
+        46.0,
+        18.0,
+        8.0
+      ],
+      "orientation": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "mesh_volume_mm3": 6336.722,
+      "brep_volume_mm3": 6331.1132,
+      "relative_error_volume": 0.0008859087749049274,
+      "tris": 424,
+      "corrections_tessellation": [],
+      "stl": "manufacturing/STL/Coupon_Inserts.stl",
+      "3mf": "manufacturing/3MF/Coupon_Inserts.3mf",
+      "stl_sha256": "25b3cc7d17183b9c7764af8b5ef7903ebfbfff61c5db31069b6528755fc13f48",
+      "3mf_sha256": "75f7ca29c43ef4721b9a756345f6a7d87bb60051b0c9b8d279b6289872a33614",
+      "family": "Coupons"
+    }
+  ]
+}

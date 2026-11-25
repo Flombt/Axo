@@ -1,0 +1,10 @@
+{
+  "format": "STEP",
+  "file": "manufacturing/AURA-01.step",
+  "occurrences": 141,
+  "bodies": 156,
+  "solids": 156,
+  "sha256": "f1af873a87cb285b1903daeb49a529a813714d4001ee131177c7227b40c54966",
+  "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+  "cloud_version": 2
+}

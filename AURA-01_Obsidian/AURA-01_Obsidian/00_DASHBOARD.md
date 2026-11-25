@@ -41,7 +41,8 @@ Dans la vue Graphe, le bleu repère l’accueil, l’ambre le suivi et les promp
 
 ## État actuel
 
-- **V5 roulis** — [Version active](../../VERSION.md) · [Contexte synthétique](../../docs/architecture/PROJECT_CONTEXT.md) · [Diagnostic avant fabrication](../../DIAGNOSTIC_ROBOT_COMPLET.md).
+- **V5-stabilisation.** Fusion v2, kit Anycubic et firmware neuf voies vérifiés numériquement. [Version active](../../VERSION.md) · [Rapport des corrections](../../RAPPORT_CORRECTIONS.md) · [Contexte technique](../../docs/architecture/PROJECT_CONTEXT.md)
+- **Budget et qualification.** Filament en stock à 0 €. Le panier provisionnel dépasse 150 €. Les coupons, le montage à blanc et la coupure sur charge factice restent à éprouver. [Nomenclature](../../purchases/NOMENCLATURE.md) · [Matrice de validation](08_Tests/MATRICE_TESTS.md)
 
 ### Prototypes et branches historiques
 

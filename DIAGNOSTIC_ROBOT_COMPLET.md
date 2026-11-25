@@ -2,6 +2,8 @@
 
 **24 novembre 2026 · V5 « Revue design · Roulis épaule et coude », Fusion v1**
 
+> Audit de la V5 roulis v1. Le [rapport du 25 novembre](RAPPORT_CORRECTIONS.md) donne l’état de sa révision de stabilisation.
+
 ## 1. Résumé exécutif
 
 **Reporter la fabrication du robot complet et les achats du lot.** Le F3D se réouvre dans Fusion et permet six axes et cinq commandes de doigts distinctes en CAO. Mais le bras traverse le plan de table, les quatre gaines franchissent J1 sans liaison mobile définie et la tenue à la coupure reste inconnue. La puissance envisagée est inférieure à la pointe de conception. Les fichiers de tranchage et la commande disponibles appartiennent à des révisions antérieures.
@@ -24,7 +26,7 @@
 | **Dernière révision publiée** | GitHub **Flombt/Axo**, unique branche **main**, tête **ecc2308ec4521cbc6c49ad148433d983fa783578**, **r05 Budget Edition**. Tags r03 cinématique et r04 fabrication. Les deux V5 ultérieures sont présentes dans Fusion et sur disque. |
 | **Historique consulté** | Assemblage final V1, V2 et AURA-004, grande V3 et bancs, kit r02, bras de table r03/r04/r05 et les deux V5. Les preuves de fabrication et de commande portent sur leurs révisions respectives. |
 
-[Inventaire Fusion actif](docs/diagnostic/latest/preuves/fusion_actif.json) · [Archive V5 roulis](fusion/AURA-01.f3d) · [Archive V5 revue](archives/v5-revue/fusion/AURA-01_V5_Revue_Design.f3d) · [GitHub vérifié](https://github.com/Flombt/Axo/tree/ecc2308ec4521cbc6c49ad148433d983fa783578)
+[Inventaire Fusion actif](docs/diagnostic/latest/preuves/fusion_actif.json) · [Archive V5 roulis](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/fusion/AURA-01.f3d) · [Archive V5 revue](archives/v5-revue/fusion/AURA-01_V5_Revue_Design.f3d) · [GitHub vérifié](https://github.com/Flombt/Axo/tree/ecc2308ec4521cbc6c49ad148433d983fa783578)
 
 L’inventaire couvre le dossier Aura et six dossiers de travail AURA sur D:. Il contient **1 134 fichiers, 593 signatures distinctes**. On compte **443 STL, 592 3MF, 49 archives Fusion, 22 STEP, 3 Blender et 25 MP4**. Les outils Autodesk MCP ont lu le document actif, exercé le solveur et mesuré le modèle réimporté. Computer Use a affiché Fusion et les plateaux dans Anycubic Slicer Next. Trois scènes ont été ouvertes dans Blender 5.2.1. Les scripts de conception et jeux de preuves des dossiers D: ont servi à retrouver le modèle de routage et les hypothèses historiques. [Inventaire de fichiers](docs/diagnostic/latest/preuves/inventaire_fichiers.csv) · [Scripts d’audit](docs/diagnostic/latest/scripts/)
 

@@ -2,7 +2,15 @@
 
 Partir de la [[09_Gestion/ROADMAP|roadmap]] pour l’ordre des phases. Lors d’une session, actualiser le statut de la tâche, conserver son identifiant et lier la preuve dans le [[09_Gestion/JOURNAL|journal]]. Les choix durables figurent dans les [[09_Gestion/ADR|ADR]].
 
-## AURA-01 V5 — Roulis épaule et coude
+## AURA-01 V5-stabilisation
+
+- [x] Reprendre les butées et J1, fixer J2R/J3R, ajouter les compensations et rapprocher la pince. Réimporter le F3D et le STEP. [Rapport et preuves](../../../RAPPORT_CORRECTIONS.md)
+- [x] Contrôler les déposes de J2, J3 et J7 sur les solides. Déposer le support démontable de J3 après les ressorts. [Notice](../../../assembly/README.md)
+- [x] Relire les 108 STL/3MF, trancher 17 plateaux dans 15 projets et compiler les trois modules MicroPython destinés au Pico. [Fabrication](../../../manufacturing/README.md) · [Firmware](../../../firmware/README.md)
+- [ ] Chiffrer ou vérifier le réemploi des compléments, dont le bloc externe terminé. Budget plafonné à 150 €, filament fourni à 0 €. [Nomenclature](../../../purchases/NOMENCLATURE.md)
+- [ ] Après autorisation d’essai, mesurer les coupons, les retenues et la dépose sur montage ancré. Éprouver le rail et le verrouillage sur charge factice avant le premier moteur isolé. [[08_Tests/MATRICE_TESTS|Matrice de validation]]
+
+## Archive · AURA-01 V5 — Roulis épaule et coude
 
 - [x] Regrouper la CAO active, archiver les kits précédents et mettre en place le contrôle de cohérence. [Réorganisation](../../../docs/REORGANISATION_PROJET.md)
 - [x] Auditer indépendamment la V5 roulis et comparer ses fichiers natifs à la fabrication publiée. [Diagnostic avant fabrication](../../../DIAGNOSTIC_ROBOT_COMPLET.md)

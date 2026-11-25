@@ -1,11 +1,12 @@
 {
-  "revision": "V5-roulis-v1",
-  "date": "2026-11-24",
-  "state": "developpement",
+  "revision": "V5-stabilisation",
+  "date": "2026-11-25",
+  "state": "prototype_numerique_a_qualifier",
   "fusion": {
     "path": "fusion/AURA-01.f3d",
-    "cloud_version": 1,
-    "sha256": "55d3f7964cd04625a4f9062db03c406900fc6acf57cedec86a5bfd5b46495361",
+    "cloud_version": 2,
+    "cloud_id": "urn:adsk.wipprod:dm.lineage:eFBLfdyfT4-U_TPXc36Ulg",
+    "sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
     "external_references": 0
   },
   "required": [
@@ -19,7 +20,17 @@
     "firmware/README.md",
     "manufacturing/README.md",
     "purchases/NOMENCLATURE.md",
-    "docs/architecture/PROJECT_CONTEXT.md"
+    "docs/architecture/PROJECT_CONTEXT.md",
+    "RAPPORT_CORRECTIONS.md",
+    "fusion/README.md",
+    "fusion/AURA-01-cinematique.blend",
+    "manufacturing/inventaire.json",
+    "manufacturing/Anycubic/verification.json",
+    "manufacturing/Anycubic/individuels.json",
+    "docs/diagnostic/corrections/fusion_sauvegarde.json",
+    "docs/diagnostic/corrections/step_reouverture.json",
+    "docs/diagnostic/corrections/campagne_finale.json",
+    "docs/diagnostic/corrections/firmware.json"
   ],
   "revision_documents": [
     "VERSION.md",
@@ -31,13 +42,783 @@
     "purchases/NOMENCLATURE.md"
   ],
   "fabrication": {
-    "status": "bloquee",
-    "note": "Kit de production V5 à produire après corrections du diagnostic.",
-    "exports": []
+    "status": "numerique_a_qualifier",
+    "note": "Exports relus et plateaux tranchés. Qualification des coupons, du montage à blanc et des retenues requise.",
+    "exports": [
+      {
+        "path": "manufacturing/3MF/01_Platine.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "cfa4e10a4239ec675a4f6361de548cc27966d96d45bcf91303d04857f6f4e8e3"
+      },
+      {
+        "path": "manufacturing/3MF/02_Palier_J1.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "0e22769da9088ab6c4de1bb9abd1791ee309f4d584dc732f6fc8945d61262e3a"
+      },
+      {
+        "path": "manufacturing/3MF/03_Porte_J1.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "dd266939e473078d6b92fd92236d862dbfe1ab00121ce8882c10485ca4bed48f"
+      },
+      {
+        "path": "manufacturing/3MF/04_Platine_Pico.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "72a1ef60ec86e4421204961fa20fbb38027ad3feddd1f0535cec63e1c8e342ed"
+      },
+      {
+        "path": "manufacturing/3MF/05_Tourelle.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "49704dd0c6abf77f95b0d34efae9d39670960cdcb8c0975f6ae908b570d0056d"
+      },
+      {
+        "path": "manufacturing/3MF/06_Garde_J1.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "916166eef444291dfa0850c86ebecc7a72039d212fa809c808029eaae7d1dc84"
+      },
+      {
+        "path": "manufacturing/3MF/09_Cassette_SG90.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "2fe1f1137ecd59e6bda9caed876817d721abfa8450c34b5ebf05bfe0fd9b191e"
+      },
+      {
+        "path": "manufacturing/3MF/11_Paume.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "76abd1ae7baa7e77c7d6bca58d2b05244f970ae30eed756580123896db293f8a"
+      },
+      {
+        "path": "manufacturing/3MF/12_Chape_Pouce.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "9ffc00aae7a69ab2ddeda41b7eeb4bc6261bfc3f6247671292c913414b420038"
+      },
+      {
+        "path": "manufacturing/3MF/Bobine_A.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "fef2c96ae2293884772176d10bd4ce1ea6de75b54ed4808bd082203495cd3a81"
+      },
+      {
+        "path": "manufacturing/3MF/Bobine_I.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "a5a80a33cef647bedab022bd28d8746a3dc95c1b905fc341f758f6394bb32c37"
+      },
+      {
+        "path": "manufacturing/3MF/Bobine_M.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "2130d1fe4d55ed1e481e81fddeebdacb94ba9dad635dd17913400c0fe537e1a3"
+      },
+      {
+        "path": "manufacturing/3MF/Bobine_P.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "82bd9dbadc90c9dc5f2d4e0a7ff4f1567e8e47103270a4f3accbd8aabdb65111"
+      },
+      {
+        "path": "manufacturing/3MF/Bobine_U.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "a5ec1c1834b5c0d2ae85b7ac28c2c2d089d94764d2056e6f5db30f1fd7ef1d3e"
+      },
+      {
+        "path": "manufacturing/3MF/Bout_11.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "dfa060ee07e9b59408b85f6f151ef60b102871f802c01904d2039ae3631e57be"
+      },
+      {
+        "path": "manufacturing/3MF/Bout_11_2.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "370324e9243a034b4a855f7788815e5e87b275c147efe17713629c626d193198"
+      },
+      {
+        "path": "manufacturing/3MF/Bout_12p5.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "c371a9bde67ec0ce3e9b9136b55d5d0eda158201c30002d26d121dd24bdcba0d"
+      },
+      {
+        "path": "manufacturing/3MF/Capot_Cassette.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "5d564d29ac0988ce8e59c39fccd9c421b4e6532e0a97efcb2f178368b2b0a3d5"
+      },
+      {
+        "path": "manufacturing/3MF/Capot_Paume.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "33bc283dea58ce2e6c4617952ab2b0431a5c67fe4c1a84ad961d7cb7ca4af1b0"
+      },
+      {
+        "path": "manufacturing/3MF/Coque_Avant.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "d777c849112ef30321e7fddb12bf5cbcd7eb977172d82d75c08d93ff5b025079"
+      },
+      {
+        "path": "manufacturing/3MF/Coque_Bras.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "32159ffb63e4a0d4b95db4e8da54568b91d6f3737118adca583031043be8e72e"
+      },
+      {
+        "path": "manufacturing/3MF/Coque_Epaule.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "a4e1a532f5543239b0cc256343f3997c00b4f16f57ea091e382d0e8b2717c13d"
+      },
+      {
+        "path": "manufacturing/3MF/Coque_Pico.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ce556e6f1b4f9e10e4d6fd7368489d2366c4ce3b5bff5332b4f3369b81f50d5d"
+      },
+      {
+        "path": "manufacturing/3MF/Coque_Socle.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "93478379ec844212b55e9ca5604a789a5e14f54f8585466021978499ab830b21"
+      },
+      {
+        "path": "manufacturing/3MF/Coupon_6000.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "92c8e664e02863ac1d41f9a42def48df4ee41d099f6bb697a006e3864237a542"
+      },
+      {
+        "path": "manufacturing/3MF/Coupon_Axes.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "89066d8b43cf7734a15df8228688bbf749ef9c797adec096b3d139946a48e903"
+      },
+      {
+        "path": "manufacturing/3MF/Coupon_Inserts.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "75f7ca29c43ef4721b9a756345f6a7d87bb60051b0c9b8d279b6289872a33614"
+      },
+      {
+        "path": "manufacturing/3MF/Coupon_MG996R.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "62efaf6dafe63e96037cb369276207ae64c5394232bc2da97b366054321a8c42"
+      },
+      {
+        "path": "manufacturing/3MF/Coupon_SG90.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "56043d584af2b39406f3220a0a2331f58eaab3993c0686f933970ee4db4fc537"
+      },
+      {
+        "path": "manufacturing/3MF/Embout_Coude.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "0ac4d8df6535219281b91f1aa17575d6d2a21403598be41e114f77bbc4ca02b5"
+      },
+      {
+        "path": "manufacturing/3MF/Entretoise_J1.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "c8be5a679a3ce11b02d670f6e72749c0513079cbb1b698da017e4a63cf4892eb"
+      },
+      {
+        "path": "manufacturing/3MF/Garde_J2.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "06f06d1f0c136fac65c12cf3f7c26bab1ce9c53dfe20fe99dd5440c5522191d6"
+      },
+      {
+        "path": "manufacturing/3MF/Garde_J3.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "4dba07d3d1058bde1f217bbb4b52bf69f4a9d85e589a58def5622903743bae87"
+      },
+      {
+        "path": "manufacturing/3MF/J1_Pignon.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "31a201bb90f298c7c97f35726687cfea56e4fa1a370784900009e87ab7c062d6"
+      },
+      {
+        "path": "manufacturing/3MF/J1_Roue.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "54a99de983b3e42dfbd4fad80007ff2ef4dfceaec45fcfc74814116f46a5a421"
+      },
+      {
+        "path": "manufacturing/3MF/J2_Chape_Tangage.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "83ed68c2f01f936dcf455859cdd4886f9fcef8e9a072400b56b4d75b937d3748"
+      },
+      {
+        "path": "manufacturing/3MF/J2_Pignon.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "7c56f14a63a10a67fbca72bd3d765ada6919db4785e2b659421219647bae8f95"
+      },
+      {
+        "path": "manufacturing/3MF/J2_Roue.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "a4e4b5d10f78975327fc98c95635d17394e6a08b358399e3b6337aabc41c327e"
+      },
+      {
+        "path": "manufacturing/3MF/J3_Chape_Tangage.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "34e3fda626f2bd0528e86e92f86175323be8f5e2249ecfc0a8bc10fc3d8692b3"
+      },
+      {
+        "path": "manufacturing/3MF/J3_Pignon.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "726dcaadf7ccd68a9c5efaf225c4584c1aaed8e43cf205a4eedba4e98e484667"
+      },
+      {
+        "path": "manufacturing/3MF/J3_Roue.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "1a240af4f09b8cc06aa0efe70043267780b2583336bc8c40d2a34dc357154a3d"
+      },
+      {
+        "path": "manufacturing/3MF/Palonnier_J7.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ed6070fdf9f3502b65e58e7c16467c7db375dbf1d9d5c5374cf4fff07715a1f8"
+      },
+      {
+        "path": "manufacturing/3MF/Peigne_Paume.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "617438cf3942d4523c23dcd3063f5f5c0728cd599740b8b8535ce4ae0049a56f"
+      },
+      {
+        "path": "manufacturing/3MF/Phalange_12p5.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "e8e03d168a566715b63b4ba27810839fb364a57bca943716019272772f18bd37"
+      },
+      {
+        "path": "manufacturing/3MF/Phalange_14.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "21fc1f20c8483a59268fb53cee8bb3a9293a0bcc22d320c7d29b14cdfbe56008"
+      },
+      {
+        "path": "manufacturing/3MF/Phalange_16.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ccf97a122c3781e6bd29137ca7402aba87e0dede97df160f2aa61abaf959b1aa"
+      },
+      {
+        "path": "manufacturing/3MF/Pied_Butee_1.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "b124511fbebd84881600d70e8f5290cb7ab79512c2b54096b3b537047e779020"
+      },
+      {
+        "path": "manufacturing/3MF/Pied_Butee_2.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f91e4099d1b949151837410f518e76a7414f1f53fb9015d8b922410dc6917d2f"
+      },
+      {
+        "path": "manufacturing/3MF/Rehausse_90_M5.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "fab95bda90cbf2a272a4739054746a4959823576385fb6d42d94b942ab4a11bf"
+      },
+      {
+        "path": "manufacturing/3MF/Rondelle_Friction.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "dc5073acae2d79e15a5379ab3571def33fedd75390e181cad3fab65c8fcc4340"
+      },
+      {
+        "path": "manufacturing/3MF/Rondelle_Friction_2.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "8dc02fe494d5e05549193af976a8d89ee6fc2e8530a18ce3323a083febf219a3"
+      },
+      {
+        "path": "manufacturing/3MF/Rondelle_Friction_3.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "fc3f094fceccdb85771ca86964631c3475fbb947031c4982eac41435be0fb03e"
+      },
+      {
+        "path": "manufacturing/3MF/Support_J7.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "325c61b737a90f74e6e78d70577e3959f5aeb6a9eafa4c62918f813a01c47ed0"
+      },
+      {
+        "path": "manufacturing/3MF/Support_Service_J3.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "5fc4ba6fe9d011c54edc577b6b75112f645b0f315e894ccf6648932778f24ba8"
+      },
+      {
+        "path": "manufacturing/AURA-01.step",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f1af873a87cb285b1903daeb49a529a813714d4001ee131177c7227b40c54966"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3/AURA_V5_Bras.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "b2ed896f4615d5b8d3a1edc587ac63bf809e04e901f067f2aca424e8b8b0e758"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3/AURA_V5_Coupons.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "84b3f472bd8c2daed0f52ba0bffcb16ce50afbe9eeedb292878cfe1e9fdc92f8"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3/AURA_V5_Doigt.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "bce46bbc0ffc6ab54a8b4aea3f1724088fa68f5804ed66d69d1a951bcb833a37"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3/AURA_V5_Main.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "511b9ec899891a34639758fc8470c0ddd38ce7b80ca2c2e315c1664561517ab3"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3/AURA_V5_Socle.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "11120b8f28a705a1b47d733e5df05ecd40ae97d3f0a4de94a03916e5477d7da0"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3_Max/AURA_V5_Bras.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "d8ca0b1a459d0fd22c3fbd7a0f0594479f594491b2c13fe9f1f059226d3d8070"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3_Max/AURA_V5_Coupons.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "b86128e6ff935eed00d9b1356da91e74d88aece14d3da1c887ec37d222d95a1b"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3_Max/AURA_V5_Doigt.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "739f75178ffdcffde0d44e68365e880d0d3ad59ad04fc0769d4e516108000c05"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3_Max/AURA_V5_Main.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "87f2a0c253e3315e5b4997a319a5ed052288ad32a1923de3c6d6647880c3a083"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_3_Max/AURA_V5_Socle.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "dda735bd7a214efa4d035fb0676ca39990eed461fdaafe2b5f4e642179ef5c59"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_X/AURA_V5_Bras.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "4b44f2bfdba06bfc1e36faf9b9ad2bb5255c4dd99b5a6633a3d6227ff2ab4df2"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_X/AURA_V5_Coupons.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f96626f7cfd8aeff5ccb0424b38606265b4f0e1e6e74d5ff7da7358e24490e58"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_X/AURA_V5_Doigt.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "456b3bc60b43a0f8540bf76883137bcaa3ad6fc97f71bd3a222afd633a23e9a8"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_X/AURA_V5_Main.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "9184582b31f2a90451e82e4e1f6eb2b3e97fbebd1863aba8b352b9863b1324fe"
+      },
+      {
+        "path": "manufacturing/Anycubic/Kobra_X/AURA_V5_Socle.3mf",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "76f9fb16121aa0dd1e970408a01b5bcf1219b2f8b396a5f38bfbaf4ce77316c5"
+      },
+      {
+        "path": "manufacturing/STL/01_Platine.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "eec517e8cbc61ba1126105712687579ca13722b4dafbaed0b03cfdcd9abd1d8f"
+      },
+      {
+        "path": "manufacturing/STL/02_Palier_J1.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "723af74e4dfc8c814d2bb399960cdec768d1aca7428257493d9424d5f6e6ef42"
+      },
+      {
+        "path": "manufacturing/STL/03_Porte_J1.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "df2ed2b9dc11cc17ac105b1993bd4b888beb139f842a5bf15332f2fef3ef4cc3"
+      },
+      {
+        "path": "manufacturing/STL/04_Platine_Pico.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "31e66457a086437c6c1a7415c79ed4e3cf037d1132183bed71dec6e9560d406f"
+      },
+      {
+        "path": "manufacturing/STL/05_Tourelle.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "da27d14362e74beb54fb4f217df1903251713d17c139e175d1f3ab82ac2f52ea"
+      },
+      {
+        "path": "manufacturing/STL/06_Garde_J1.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "5d6df0547c6392d12af8d3ecf7e2aee917ea18653e257efdfee1a249893f2382"
+      },
+      {
+        "path": "manufacturing/STL/09_Cassette_SG90.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ce19f13955b3a32195c8c9ddd94485736099f22bd1d495b52fffa2842d02697b"
+      },
+      {
+        "path": "manufacturing/STL/11_Paume.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "02f35687cf32ed4bcadfb8c0822946290e67d8d4a0261fef4d7fcda0742b1bae"
+      },
+      {
+        "path": "manufacturing/STL/12_Chape_Pouce.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "0c956bd3a7a153b40334153a744d9b328f1cdd7badab6aceebce4a9f8748c9bd"
+      },
+      {
+        "path": "manufacturing/STL/Bobine_A.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "c8ad6144af38a2b7e671c1304900893f840f226734af5aa54faf314b69c447b4"
+      },
+      {
+        "path": "manufacturing/STL/Bobine_I.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "40dfffd57c79594f3e18a0be4d19c9ef41ba4aa8e60a468c512b2de5f08e7aa9"
+      },
+      {
+        "path": "manufacturing/STL/Bobine_M.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "7d1dd3997229c64c53e915caba03cac903f6263e7e19a23af40a9d1fdb557d03"
+      },
+      {
+        "path": "manufacturing/STL/Bobine_P.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ed8c4161130772c500a67cab745bc4738077288ebf29d72392f8fbf86724554e"
+      },
+      {
+        "path": "manufacturing/STL/Bobine_U.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "3e7be6130262b908ad9d38cbee437f805066cff3163da56f3cb11f227c9e11e7"
+      },
+      {
+        "path": "manufacturing/STL/Bout_11.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "e8fd3831add672051c8891557e62b496a7b6b2b0e9d61d9b1003e71a0f6e530c"
+      },
+      {
+        "path": "manufacturing/STL/Bout_11_2.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "1174506ee944ba3a13d2a4474130e90fe84aa2f0051506ec9a5d40bcbdc81b8b"
+      },
+      {
+        "path": "manufacturing/STL/Bout_12p5.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "0e4c954c5960b1bd7155e1fe135d9eb5e82a9545118ae9fce990dbce7355de15"
+      },
+      {
+        "path": "manufacturing/STL/Capot_Cassette.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "7ae7832def8cdc280c6cd3941ba53d8af9e1e3168af49602b171ffd5a79c2d96"
+      },
+      {
+        "path": "manufacturing/STL/Capot_Paume.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "751dedfb83ea39bbb0947857224999e1450a60f95c50f6a995fccdb63bcc8293"
+      },
+      {
+        "path": "manufacturing/STL/Coque_Avant.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "1c377c69129f5e862fbfc3f3adc677a0a2ae4ee0193c36dbbd48abab0ae07595"
+      },
+      {
+        "path": "manufacturing/STL/Coque_Bras.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ea593b512aed7d6115113989b5a9d360e9fc946ff5abdb0afecb760053397d40"
+      },
+      {
+        "path": "manufacturing/STL/Coque_Epaule.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "d16beec88aed3a8574cfe5b5eed897c5fcb53284560811df1f1da4786da7c06a"
+      },
+      {
+        "path": "manufacturing/STL/Coque_Pico.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "e2ef5f92823578630682668d9736772e7268ca3b66eb37e354c3d3a3366d2e0e"
+      },
+      {
+        "path": "manufacturing/STL/Coque_Socle.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "406db5a83ef6e62306f8736eed9899f1b6c85fe5337e0dee08908b07d257224f"
+      },
+      {
+        "path": "manufacturing/STL/Coupon_6000.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "912736d643e5a6747d073214a836da3c8cbecc551a8803bd51a458c4ff4c3b1d"
+      },
+      {
+        "path": "manufacturing/STL/Coupon_Axes.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "32cd0d0a3bceca1a227900fe3ae5bf7c1b19c7150f58bdfa45263f1bdee9153b"
+      },
+      {
+        "path": "manufacturing/STL/Coupon_Inserts.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "25b3cc7d17183b9c7764af8b5ef7903ebfbfff61c5db31069b6528755fc13f48"
+      },
+      {
+        "path": "manufacturing/STL/Coupon_MG996R.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "8a8b2a774510311eb654fa101b91106c788e8b14ef4592cb552ae8545ba49e7f"
+      },
+      {
+        "path": "manufacturing/STL/Coupon_SG90.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ba6bcc136902d0d9e177f76a09d8741450aa843136d13d055fadf8233a8a9126"
+      },
+      {
+        "path": "manufacturing/STL/Embout_Coude.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "3932be0008b78e4c35486f9ae99408f24f44a1018f671a2e036e4289bf8fc4f2"
+      },
+      {
+        "path": "manufacturing/STL/Entretoise_J1.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "e4c7847c2a4cd261b5f371ab613a1e42d96e705110c8871739dc5759c48f1061"
+      },
+      {
+        "path": "manufacturing/STL/Garde_J2.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "db643060c26a0ae7858bf15507f01f31c2eb906d757f594d7143f7b2beff23a5"
+      },
+      {
+        "path": "manufacturing/STL/Garde_J3.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "e717eeb60620dff227f47b89af5a7083e37a1a9e54023a51487517fa93aea1c9"
+      },
+      {
+        "path": "manufacturing/STL/J1_Pignon.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "146096f43c7b5555915fe911763d3bd846ff4d72d1511274c673178e60a6fc8a"
+      },
+      {
+        "path": "manufacturing/STL/J1_Roue.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "964763cde2ac319993ba59b4abd2b96d1ede42b84460bc8320e5b7ab8a6a28c9"
+      },
+      {
+        "path": "manufacturing/STL/J2_Chape_Tangage.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f3f451c2792cb6fec6c322c07886bb31cdb8ef34150b3e9afc073474a9d9efe1"
+      },
+      {
+        "path": "manufacturing/STL/J2_Pignon.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "ed02a107d690225946729250b7df1a4ddb7e5e2848f93dea90f366699721e92d"
+      },
+      {
+        "path": "manufacturing/STL/J2_Roue.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "22b60bb2eaa8b3daa49270d20b93e6a76e8b612948d2cf7a49470703b2e71a08"
+      },
+      {
+        "path": "manufacturing/STL/J3_Chape_Tangage.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f24d522ffa7e43135729cf1852864ca5a13d694f091565c2356f996beb226ce5"
+      },
+      {
+        "path": "manufacturing/STL/J3_Pignon.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f976de7a912a5e8515f9b1fa67869982068460e41702fa88c15839a879779912"
+      },
+      {
+        "path": "manufacturing/STL/J3_Roue.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "8261395ea81bd800c91104b6864f9dcc0ebb93114710cb171dd4c39a7db34089"
+      },
+      {
+        "path": "manufacturing/STL/Palonnier_J7.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "4ec9f3f92fc24cf3941ec95f5bec9cfb07a91923432162ba4c00827658a8c433"
+      },
+      {
+        "path": "manufacturing/STL/Peigne_Paume.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "72237b1253012f9ce45e36bd1db6b12c815752e8173e3ad53049b9fab65c87bf"
+      },
+      {
+        "path": "manufacturing/STL/Phalange_12p5.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "141aa5a4aae9bb9de59f3cf083d71bd0e6d3798c8f114e7d968e5098dadde085"
+      },
+      {
+        "path": "manufacturing/STL/Phalange_14.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "b2a2baca41c4235857d79a02997e2ab68bb4727713e5ee8648427cd354bdb3f4"
+      },
+      {
+        "path": "manufacturing/STL/Phalange_16.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "a6e3dbfde5d0464ae6c8e7cc6b6880a4ea8215a0a2b36388470983106bb30e2e"
+      },
+      {
+        "path": "manufacturing/STL/Pied_Butee_1.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "49d9e71ea3779612eee2db3b9420a5851e9847afb2d52f86cc106d1eaea27a90"
+      },
+      {
+        "path": "manufacturing/STL/Pied_Butee_2.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "0d2ac66d7a8adcff013d3c502632fb8c13d43586892d9e2133aa881c70b12e34"
+      },
+      {
+        "path": "manufacturing/STL/Rehausse_90_M5.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "a2cd07e81bb891efed293533c5b6f144f87908960073c7ef80c52f85a8fce367"
+      },
+      {
+        "path": "manufacturing/STL/Rondelle_Friction.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "d27b1996aab9d4ff4c30f29bbeb8c60a466627054d0ad38540fa27730c9ad4d0"
+      },
+      {
+        "path": "manufacturing/STL/Rondelle_Friction_2.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "cba13192d92b688c63c1570a8f26c1ce8d11dcde851f4a4656323396494d6c2c"
+      },
+      {
+        "path": "manufacturing/STL/Rondelle_Friction_3.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "9433b7f90f834c5ebaf25d7eca2adc2603f800a4767b85f00bca4f4ddd675085"
+      },
+      {
+        "path": "manufacturing/STL/Support_J7.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "3c0935be3616430c564a955136b3a9777ff74f472c31480e7d4236afe9abd49e"
+      },
+      {
+        "path": "manufacturing/STL/Support_Service_J3.stl",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f842ca1376ab72b9b06f6e2cfa1cea1fbdf6ddcf3b4a6b3eef2abab8871b1fa6"
+      }
+    ]
   },
   "firmware": {
-    "status": "a_developper",
-    "files": []
+    "status": "compile_a_qualifier",
+    "files": [
+      {
+        "path": "firmware/controle.py",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "295aa8b011d946059fe42df2c5f1e8b5d079e536d0c71946dfbff88fd3633988"
+      },
+      {
+        "path": "firmware/enveloppe.py",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "49ce9c2bebc1a13b9ae7a623219ae9abbcbf0329a2feb9fec4d095c04e8708e6"
+      },
+      {
+        "path": "firmware/main.py",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "f9c6a14d547f689d42694c811c9906dd53471870945eb1038e1f9fd9a72be3ef"
+      },
+      {
+        "path": "firmware/test_controle.py",
+        "revision": "V5-stabilisation",
+        "source_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+        "sha256": "3b4055fbad57ace0023f0137ac9941a7b914dacdc6393c06e67771d158cd940c"
+      }
+    ]
   },
   "budget_max_eur": 150
 }

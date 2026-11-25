@@ -1,0 +1,48 @@
+{
+  "path": {
+    "motor": "Support_Service_J3",
+    "support": "J2_Chape_Tangage",
+    "direction": [
+      0,
+      1,
+      0
+    ],
+    "removed": [
+      "Axe_Haut_Ressort_J3",
+      "Axe_Ressort_J2",
+      "Boucle_J2",
+      "Boucle_J3",
+      "Coque_Bras",
+      "Ressort_J2",
+      "Ressort_J3",
+      "Tige_Ressort_J3",
+      "Vis_Service_J3_1_1",
+      "Vis_Service_J3_1_2",
+      "Vis_Service_J3_2_1",
+      "Vis_Service_J3_2_2"
+    ],
+    "blocks": {}
+  },
+  "tools": [
+    {
+      "screw": "Vis_Service_J3_1_1",
+      "tool_dia_mm": 5.3,
+      "overlap_mm3": []
+    },
+    {
+      "screw": "Vis_Service_J3_1_2",
+      "tool_dia_mm": 5.3,
+      "overlap_mm3": []
+    },
+    {
+      "screw": "Vis_Service_J3_2_1",
+      "tool_dia_mm": 5.3,
+      "overlap_mm3": []
+    },
+    {
+      "screw": "Vis_Service_J3_2_2",
+      "tool_dia_mm": 5.3,
+      "overlap_mm3": []
+    }
+  ]
+}

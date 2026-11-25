@@ -1,0 +1,2012 @@
+[
+  {
+    "label": "{'J2': 0, 'J3': 0, 'J7': -32}",
+    "target": {
+      "J2": 0,
+      "J3": 0,
+      "J7": -32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 0.0,
+      "J3": 0.0,
+      "J7": -32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -0.0,
+      "P3M": -0.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 108.59452179987188,
+    "pince_mm": 37.392920083041886,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 25.622255950637914,
+        "straight_mm": 5.7526544685392835,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 23.54782367863324,
+        "straight_mm": 8.011165061589018,
+        "min_z_mm": 106.00000000000003
+      },
+      "Boucle_J7": {
+        "bend_mm": 22.83375453039569,
+        "straight_mm": 6.132822256718121,
+        "min_z_mm": 105.89429065159484
+      },
+      "Ressort_J2": {
+        "length_mm": 97.65244492586962,
+        "newton": 10.653537883691317,
+        "torque_nm": 0.3552181348416967
+      },
+      "Ressort_J3": {
+        "length_mm": 50.89449872039216,
+        "newton": 6.591514654505883,
+        "torque_nm": 0.15586926321112263
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.91547
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62849
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95746
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96395
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.81954
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 0, 'J3': 0, 'J7': 0}",
+    "target": {
+      "J2": 0,
+      "J3": 0,
+      "J7": 0
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 0.0,
+      "J3": 0.0,
+      "J7": -0.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -0.0,
+      "P3M": -0.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 109.47541537557704,
+    "pince_mm": 37.392920083041915,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 25.622255950637914,
+        "straight_mm": 5.7526544685392835,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 23.54782367863324,
+        "straight_mm": 8.011165061589018,
+        "min_z_mm": 106.00000000000003
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.55480479109458,
+        "straight_mm": 9.712588136162495,
+        "min_z_mm": 106.2
+      },
+      "Ressort_J2": {
+        "length_mm": 97.65244492586962,
+        "newton": 10.653537883691317,
+        "torque_nm": 0.3552181348416967
+      },
+      "Ressort_J3": {
+        "length_mm": 50.89449872039216,
+        "newton": 6.591514654505883,
+        "torque_nm": 0.15586926321112263
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.91547
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62849
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95746
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96395
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.81954
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 0, 'J3': 0, 'J7': 32}",
+    "target": {
+      "J2": 0,
+      "J3": 0,
+      "J7": 32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 0.0,
+      "J3": 0.0,
+      "J7": 32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -0.0,
+      "P3M": -0.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 94.65680099291028,
+    "pince_mm": 37.39292008304184,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 25.622255950637914,
+        "straight_mm": 5.7526544685392835,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 23.54782367863324,
+        "straight_mm": 8.011165061589018,
+        "min_z_mm": 106.00000000000003
+      },
+      "Boucle_J7": {
+        "bend_mm": 23.056603471406405,
+        "straight_mm": 5.782771958748356,
+        "min_z_mm": 93.5933006341541
+      },
+      "Ressort_J2": {
+        "length_mm": 97.65244492586962,
+        "newton": 10.653537883691317,
+        "torque_nm": 0.3552181348416967
+      },
+      "Ressort_J3": {
+        "length_mm": 50.89449872039216,
+        "newton": 6.591514654505883,
+        "torque_nm": 0.15586926321112263
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.91547
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62849
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95746
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96395
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.81954
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': -21, 'J3': -32, 'J7': -32}",
+    "target": {
+      "J2": -21,
+      "J3": -32,
+      "J7": -32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": -21.0,
+      "J3": -32.0,
+      "J7": -32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": 63.0,
+      "P3M": 64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": -60.677890937791624,
+    "pince_mm": 37.39292008304187,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 24.35558475549585,
+        "straight_mm": 7.7423369291253366,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 20.779533737146046,
+        "straight_mm": 12.359584733180363,
+        "min_z_mm": 60.48259908880861
+      },
+      "Boucle_J7": {
+        "bend_mm": 22.833754530395666,
+        "straight_mm": 6.132822256718157,
+        "min_z_mm": 0.24191111349145178
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337076,
+        "newton": 13.063493972341565,
+        "torque_nm": 0.3415312943843316
+      },
+      "Ressort_J3": {
+        "length_mm": 62.326621374930404,
+        "newton": 9.67818777123121,
+        "torque_nm": 0.16358637432680434
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.69006
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.8895
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95666
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96388
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.77897
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': -21, 'J3': -32, 'J7': 0}",
+    "target": {
+      "J2": -21,
+      "J3": -32,
+      "J7": 0
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": -21.0,
+      "J3": -32.0,
+      "J7": -0.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": 63.0,
+      "P3M": 64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": -56.68029113767591,
+    "pince_mm": 37.392920083041915,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 24.355584755495858,
+        "straight_mm": 7.7423369291253294,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 20.779533737146075,
+        "straight_mm": 12.359584733180313,
+        "min_z_mm": 60.482599088808584
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.55480479109458,
+        "straight_mm": 9.712588136162495,
+        "min_z_mm": -13.190052812390462
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337078,
+        "newton": 13.063493972341572,
+        "torque_nm": 0.3415312943843318
+      },
+      "Ressort_J3": {
+        "length_mm": 62.32662137493046,
+        "newton": 9.678187771231226,
+        "torque_nm": 0.16358637432680467
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.69006
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.8895
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95666
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96388
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.77897
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': -21, 'J3': -32, 'J7': 32}",
+    "target": {
+      "J2": -21,
+      "J3": -32,
+      "J7": 32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": -21.0,
+      "J3": -32.0,
+      "J7": 32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": 63.0,
+      "P3M": 64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": -64.3936150651786,
+    "pince_mm": 37.39292008304195,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 24.35558475549585,
+        "straight_mm": 7.7423369291253366,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 20.779533737146057,
+        "straight_mm": 12.359584733180341,
+        "min_z_mm": 60.482599088808584
+      },
+      "Boucle_J7": {
+        "bend_mm": 23.056603471406344,
+        "straight_mm": 5.782771958748455,
+        "min_z_mm": -25.794295474598396
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337074,
+        "newton": 13.063493972341565,
+        "torque_nm": 0.34153129438433183
+      },
+      "Ressort_J3": {
+        "length_mm": 62.32662137493049,
+        "newton": 9.678187771231233,
+        "torque_nm": 0.16358637432680437
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.69006
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.8895
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95666
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96388
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.77897
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 21, 'J3': 32, 'J7': -32}",
+    "target": {
+      "J2": 21,
+      "J3": 32,
+      "J7": -32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 21.0,
+      "J3": 32.0,
+      "J7": -32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -63.0,
+      "P3M": -64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 218.67456412944034,
+    "pince_mm": 37.392920083042,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 26.205505978962993,
+        "straight_mm": 4.836487466443231,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.550405260145382,
+        "straight_mm": 6.436313596037529,
+        "min_z_mm": 123.20017284132541
+      },
+      "Boucle_J7": {
+        "bend_mm": 22.833754530395783,
+        "straight_mm": 6.132822256717972,
+        "min_z_mm": 195.02222324691314
+      },
+      "Ressort_J2": {
+        "length_mm": 84.42778470020917,
+        "newton": 7.744112634046019,
+        "torque_nm": 0.2971940181673813
+      },
+      "Ressort_J3": {
+        "length_mm": 36.51816468660577,
+        "newton": 2.7099044653835582,
+        "torque_nm": 0.07329954240619838
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.56359
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62281
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.9589
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96387
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.82519
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 21, 'J3': 32, 'J7': 0}",
+    "target": {
+      "J2": 21,
+      "J3": 32,
+      "J7": 0
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 21.0,
+      "J3": 32.0,
+      "J7": -0.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -63.0,
+      "P3M": -64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 218.67456412944037,
+    "pince_mm": 37.39292008304208,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 26.20550597896299,
+        "straight_mm": 4.836487466443238,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.550405260145393,
+        "straight_mm": 6.4363135960375075,
+        "min_z_mm": 123.20017284132537
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.554804791094604,
+        "straight_mm": 9.712588136162452,
+        "min_z_mm": 195.6229041191191
+      },
+      "Ressort_J2": {
+        "length_mm": 84.42778470020922,
+        "newton": 7.744112634046028,
+        "torque_nm": 0.2971940181673816
+      },
+      "Ressort_J3": {
+        "length_mm": 36.51816468660563,
+        "newton": 2.70990446538352,
+        "torque_nm": 0.07329954240619752
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.56359
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62281
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.9589
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96387
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.82519
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 21, 'J3': 32, 'J7': 32}",
+    "target": {
+      "J2": 21,
+      "J3": 32,
+      "J7": 32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 21.0,
+      "J3": 32.0,
+      "J7": 32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -63.0,
+      "P3M": -64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 218.6745641294402,
+    "pince_mm": 37.392920083041986,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 26.205505978962993,
+        "straight_mm": 4.836487466443231,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.550405260145407,
+        "straight_mm": 6.436313596037486,
+        "min_z_mm": 123.20017284132538
+      },
+      "Boucle_J7": {
+        "bend_mm": 23.05660347140635,
+        "straight_mm": 5.782771958748441,
+        "min_z_mm": 195.62290411911897
+      },
+      "Ressort_J2": {
+        "length_mm": 84.42778470020922,
+        "newton": 7.744112634046028,
+        "torque_nm": 0.2971940181673816
+      },
+      "Ressort_J3": {
+        "length_mm": 36.51816468660576,
+        "newton": 2.7099044653835547,
+        "torque_nm": 0.0732995424061984
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.56359
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62281
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.9589
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96387
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.82519
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': -21, 'J3': 32, 'J7': -32}",
+    "target": {
+      "J2": -21,
+      "J3": 32,
+      "J7": -32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": -21.0,
+      "J3": 32.0,
+      "J7": -32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": 63.0,
+      "P3M": -64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 101.59847927619421,
+    "pince_mm": 37.392920083041986,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 24.35558475549585,
+        "straight_mm": 7.7423369291253366,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.55040526014536,
+        "straight_mm": 6.436313596037557,
+        "min_z_mm": 85.21317018952354
+      },
+      "Boucle_J7": {
+        "bend_mm": 22.833754530395787,
+        "straight_mm": 6.132822256717972,
+        "min_z_mm": 92.92532686349209
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337077,
+        "newton": 13.063493972341568,
+        "torque_nm": 0.3415312943843317
+      },
+      "Ressort_J3": {
+        "length_mm": 36.51816468660568,
+        "newton": 2.7099044653835334,
+        "torque_nm": 0.0732995424061976
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.69006
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.8895
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95749
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96394
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.82879
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': -21, 'J3': 32, 'J7': 0}",
+    "target": {
+      "J2": -21,
+      "J3": 32,
+      "J7": 0
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": -21.0,
+      "J3": 32.0,
+      "J7": -0.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": 63.0,
+      "P3M": -64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 102.43444735836943,
+    "pince_mm": 37.39292008304184,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 24.355584755495848,
+        "straight_mm": 7.742336929125344,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.55040526014536,
+        "straight_mm": 6.436313596037557,
+        "min_z_mm": 85.21317018952354
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.554804791094597,
+        "straight_mm": 9.712588136162466,
+        "min_z_mm": 93.32497700604148
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337076,
+        "newton": 13.063493972341565,
+        "torque_nm": 0.3415312943843316
+      },
+      "Ressort_J3": {
+        "length_mm": 36.51816468660571,
+        "newton": 2.7099044653835413,
+        "torque_nm": 0.07329954240619779
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.69006
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.8895
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95749
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96394
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.82879
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': -21, 'J3': 32, 'J7': 32}",
+    "target": {
+      "J2": -21,
+      "J3": 32,
+      "J7": 32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": -21.0,
+      "J3": 32.0,
+      "J7": 32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": 63.0,
+      "P3M": -64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 95.68328658017612,
+    "pince_mm": 37.392920083041766,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 24.35558475549584,
+        "straight_mm": 7.742336929125358,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.550405260145368,
+        "straight_mm": 6.43631359603755,
+        "min_z_mm": 85.21317018952357
+      },
+      "Boucle_J7": {
+        "bend_mm": 23.056603471406472,
+        "straight_mm": 5.782771958748256,
+        "min_z_mm": 89.54044931797448
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337074,
+        "newton": 13.063493972341565,
+        "torque_nm": 0.34153129438433155
+      },
+      "Ressort_J3": {
+        "length_mm": 36.5181646866057,
+        "newton": 2.7099044653835396,
+        "torque_nm": 0.07329954240619777
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.69006
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.8895
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.95749
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96394
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.82879
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 21, 'J3': -32, 'J7': -32}",
+    "target": {
+      "J2": 21,
+      "J3": -32,
+      "J7": -32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 21.0,
+      "J3": -32.0,
+      "J7": -32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -63.0,
+      "P3M": 64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 107.82219259449937,
+    "pince_mm": 37.39292008304201,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 26.20550597896299,
+        "straight_mm": 4.836487466443238,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 20.779533737146036,
+        "straight_mm": 12.359584733180377,
+        "min_z_mm": 123.20017284132535
+      },
+      "Boucle_J7": {
+        "bend_mm": 22.83375453039576,
+        "straight_mm": 6.132822256718015,
+        "min_z_mm": 114.47564028530059
+      },
+      "Ressort_J2": {
+        "length_mm": 84.4277847002092,
+        "newton": 7.744112634046025,
+        "torque_nm": 0.29719401816738145
+      },
+      "Ressort_J3": {
+        "length_mm": 62.32662137493042,
+        "newton": 9.678187771231213,
+        "torque_nm": 0.1635863743268044
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.56359
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62281
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.9574
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96396
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.81868
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 21, 'J3': -32, 'J7': 0}",
+    "target": {
+      "J2": 21,
+      "J3": -32,
+      "J7": 0
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 21.0,
+      "J3": -32.0,
+      "J7": -0.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -63.0,
+      "P3M": 64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 111.79732196962462,
+    "pince_mm": 37.392920083041844,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 26.205505978963,
+        "straight_mm": 4.8364874664432165,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 20.779533737146032,
+        "straight_mm": 12.359584733180384,
+        "min_z_mm": 123.20017284132538
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.554804791094575,
+        "straight_mm": 9.712588136162502,
+        "min_z_mm": 109.79788809591308
+      },
+      "Ressort_J2": {
+        "length_mm": 84.42778470020919,
+        "newton": 7.744112634046021,
+        "torque_nm": 0.29719401816738145
+      },
+      "Ressort_J3": {
+        "length_mm": 62.32662137493042,
+        "newton": 9.678187771231213,
+        "torque_nm": 0.16358637432680415
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.56359
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62281
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.9574
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96396
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.81868
+      ]
+    ]
+  },
+  {
+    "label": "{'J2': 21, 'J3': -32, 'J7': 32}",
+    "target": {
+      "J2": 21,
+      "J3": -32,
+      "J7": 32
+    },
+    "actual": {
+      "J1": -0.0,
+      "J2": 21.0,
+      "J3": -32.0,
+      "J7": 32.0,
+      "Servo_P": 0.0,
+      "Servo_I": 0.0,
+      "Servo_M": 0.0,
+      "Servo_A": 0.0,
+      "Servo_U": 0.0,
+      "P1M": -0.0,
+      "P2M": -63.0,
+      "P3M": 64.0,
+      "P1": -0.0,
+      "P2": -0.0,
+      "P3": -0.0,
+      "I1": -0.0,
+      "I2": -0.0,
+      "I3": -0.0,
+      "M1": -0.0,
+      "M2": -0.0,
+      "M3": -0.0,
+      "A1": -0.0,
+      "A2": -0.0,
+      "A3": -0.0,
+      "U1": -0.0,
+      "U2": -0.0,
+      "U3": -0.0
+    },
+    "error_deg": 0.0,
+    "hand_z_mm": 89.78488461639365,
+    "pince_mm": 37.392920083041794,
+    "passages": {
+      "Boucle_J2": {
+        "bend_mm": 26.20550597896299,
+        "straight_mm": 4.836487466443238,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 20.77953373714603,
+        "straight_mm": 12.359584733180391,
+        "min_z_mm": 123.20017284132538
+      },
+      "Boucle_J7": {
+        "bend_mm": 23.05660347140645,
+        "straight_mm": 5.782771958748285,
+        "min_z_mm": 93.71054546194203
+      },
+      "Ressort_J2": {
+        "length_mm": 84.4277847002092,
+        "newton": 7.744112634046025,
+        "torque_nm": 0.2971940181673815
+      },
+      "Ressort_J3": {
+        "length_mm": 62.3266213749304,
+        "newton": 9.678187771231208,
+        "torque_nm": 0.16358637432680406
+      }
+    },
+    "rigid_overlaps": [
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        0.51923
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        61.21542
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Corps1",
+        153.97039
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "FDM · J2_Chape_Tangage",
+        50.66999
+      ],
+      [
+        "FDM · 05_Tourelle",
+        "Tige_Ressort_J2",
+        0.13579
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Axe_Ressort_J2",
+        5.45377
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        7.80355
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        590.56359
+      ],
+      [
+        "FDM · J2_Chape_Tangage",
+        "Corps1",
+        1632.62281
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Auriculaire · SG90 de position",
+        11.9574
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        0.05773
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        40.96396
+      ],
+      [
+        "FDM · J3_Chape_Tangage",
+        "Corps1",
+        152.81868
+      ]
+    ]
+  }
+]

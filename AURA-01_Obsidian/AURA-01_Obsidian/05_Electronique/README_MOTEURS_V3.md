@@ -1,6 +1,19 @@
 # README moteurs — AURA-01 V3
 
+## Révision active · AURA-01 V5-stabilisation
+
+| Repères | Référence retenue | Quantité | Changement et enveloppe |
+|---|---|---:|---|
+| J2R et J3R | Liaisons fixes | 0 | Les deux MakerMind MG90S RBS11204 et leurs tambours sortent de la nomenclature. |
+| J1 et J7 | Tower Pro SG90 RBS15198 | 2 | Références conservées. Courses de commande ±88° et ±30°. |
+| J2 et J3 | MG996R 180° Atelier de la Robotique | 2 | Références conservées. Courses ±21° et ±32°. Ressort, retenue et dépose révisés. |
+| P, I, M, A, U | MakerMind SG90 RBS10195 | 5 | Références économiques conservées, une par doigt. Présenter oreilles et palonniers au montage. |
+
+Le scénario dimensionnant conserve 2 × 2,50 A + 7 × 0,90 A, soit **11,30 A**. Les servos restent des candidats de qualification. Le moment gravitaire obtenu à 20 g et PETG plein est **0,408 / 0,171 N·m** à J2/J3. Mesurer le couple continu chaud, les dimensions et les pointes du lot avant un mouvement sous charge. [Nomenclature et sources fournisseurs](../../../purchases/NOMENCLATURE.md) · [Alimentation](../../../electronics/README.md) · [Couples calculés](../../../docs/diagnostic/corrections/calculs.json)
+
 ## AURA-01 V5 · Roulis épaule et coude
+
+Version historique archivée au tag `aura-01-v5-roulis-v1`.
 
 | Repère | Revue design v2 | Variante à deux axes de roulis | Qté | Enveloppe et course |
 |---|---|---|---:|---|
@@ -8,7 +21,7 @@
 | J3R | Coude à axe de tangage seul | MakerMind MG90S de position, RBS11204 | 1 | Même gabarit, tambour ±72° et roulis ±24°. |
 | P, I, M, A, U | Tower Pro SG90 RBS15198 | SG90 MakerMind 23 × 12,2 × 29 mm pour le panier économique | 5 | Servo de position individuel. Gabarit des oreilles et palonnier à présenter au montage. |
 
-Couple au blocage MG90S annoncé de 1,8 kgf·cm à 4,8 V. Réduction par tambours 3:1. Le calcul sans objet saisi donne 0,034 N·m à l’épaule et 0,007 N·m au coude dans les poses échantillonnées. Le couple de service dépend de la friction et de la précontrainte des gaines. Le rail de mise au point est 5 V / 10 A pour des essais avec mesure. L’hypothèse de pointe cumulée est de 11,3 A, donc l’enveloppe de simultanéité et l’alimentation définitive restent à établir. [MG90S](https://www.makermind.fr/p/servomoteur-micro-mg90s) · [SG90 de la main](https://www.makermind.fr/p/servomoteur-micro-sg90-9g-pour-modelisme-rc-avion-projets-arduino) · [Budget](../../../purchases/NOMENCLATURE.md) · [[02_Conception_Fusion/TABLE_V5_ROULIS|Implantation]]
+Couple au blocage MG90S annoncé de 1,8 kgf·cm à 4,8 V. Réduction par tambours 3:1. Le calcul sans objet saisi donne 0,034 N·m à l’épaule et 0,007 N·m au coude dans les poses échantillonnées. Le couple de service dépend de la friction et de la précontrainte des gaines. Le rail de mise au point est 5 V / 10 A pour des essais avec mesure. L’hypothèse de pointe cumulée est de 11,3 A, donc l’enveloppe de simultanéité et l’alimentation définitive restent à établir. [MG90S](https://www.makermind.fr/p/servomoteur-micro-mg90s) · [SG90 de la main](https://www.makermind.fr/p/servomoteur-micro-sg90-9g-pour-modelisme-rc-avion-projets-arduino) · [Budget historique](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/purchases/NOMENCLATURE.md) · [[02_Conception_Fusion/TABLE_V5_ROULIS|Implantation]]
 
 ## AURA-01 V5 · Revue design
 

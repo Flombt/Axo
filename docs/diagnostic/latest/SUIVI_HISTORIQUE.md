@@ -77,3 +77,75 @@ Le premier diagnostic a 43 identifiants. Le [rapport r03](../../../archives/r03/
 | H5R-01 | Tenue des paliers, déplacement des gaines et alimentation | Toujours présent | Plusieurs collisions d’enveloppes sont localisées et le rail reste insuffisamment spécifié. Aucune épreuve physique. | [A01-P0-02](REGISTRE_PROBLEMES.md#a01-p0-02), [A01-P1-05](REGISTRE_PROBLEMES.md#a01-p1-05), [A01-P0-05](REGISTRE_PROBLEMES.md#a01-p0-05) |
 
 Sources historiques · [Diagnostic r02](../../../archives/r02/DIAGNOSTIC_ROBOT.md#13-registre-des-problèmes-et-criticité) · [Rapport r03](../../../archives/r03/RAPPORT_AMELIORATIONS_R03.md) · [Validation r04](../../../archives/r04/VALIDATION_FABRICATION.md) · [Optimisation r05](../../../archives/r05/OPTIMISATION_BUDGET_R05.md) · [Revue V5](../../../AURA-01_Obsidian/AURA-01_Obsidian/02_Conception_Fusion/TABLE_V5_REVUE_DESIGN.md) · [Deux roulis](../../../AURA-01_Obsidian/AURA-01_Obsidian/02_Conception_Fusion/TABLE_V5_ROULIS.md).
+
+
+## Correspondance avec la V5-stabilisation
+
+Les 64 identifiants ont été repris par les causes A01 associées. Les statuts ci-dessous portent sur les actions A01 de la version active. Une ancienne pièce peut rester absente de cette architecture. [Détail des corrections et preuves](../../../RAPPORT_CORRECTIONS.md)
+
+| Identifiant historique | Actions associées et statut de la stabilisation |
+|---|---|
+| R02-01 | `A01-P0-03` · Partiellement corrigé |
+| R02-02 | `A01-P0-04` · Partiellement corrigé |
+| R02-03 | `A01-P1-15` · Partiellement corrigé |
+| R02-04 | `A01-P1-13` · Corrigé, qualification physique nécessaire |
+| R02-05 | `A01-P1-02` · Corrigé, qualification physique nécessaire |
+| R02-06 | `A01-P0-05` · Partiellement corrigé |
+| R02-07 | `A01-P1-09` · Partiellement corrigé |
+| R02-08 | `A01-P1-12` · Partiellement corrigé |
+| R02-09 | `A01-P0-02` · Corrigé, qualification physique nécessaire |
+| R02-10 | `A01-P1-08` · Corrigé, qualification physique nécessaire |
+| R02-11 | `A01-P1-05` · Non applicable après reconception · `A01-P1-09` · Partiellement corrigé |
+| R02-12 | `A01-P1-07` · Partiellement corrigé |
+| R02-13 | `A01-P1-14` · Corrigé, qualification physique nécessaire |
+| R02-14 | `A01-P1-03` · Partiellement corrigé |
+| R02-15 | `A01-P1-04` · Corrigé, qualification physique nécessaire |
+| R02-16 | `A01-P1-09` · Partiellement corrigé |
+| R02-17 | `A01-P0-06` · Corrigé, qualification physique nécessaire |
+| R02-18 | `A01-P0-06` · Corrigé, qualification physique nécessaire · `A01-P1-05` · Non applicable après reconception |
+| R02-19 | `A01-P0-04` · Partiellement corrigé · `A01-P0-07` · Corrigé, qualification physique nécessaire |
+| R02-20 | `A01-P0-07` · Corrigé, qualification physique nécessaire |
+| R02-21 | `A01-P0-04` · Partiellement corrigé · `A01-P0-08` · Résolu et vérifié numériquement |
+| R02-22 | `A01-P0-07` · Corrigé, qualification physique nécessaire · `A01-P1-16` · Partiellement corrigé |
+| R02-23 | `A01-P1-11` · Corrigé, qualification physique nécessaire · `A01-P1-14` · Corrigé, qualification physique nécessaire |
+| R02-24 | `A01-P1-05` · Non applicable après reconception · `A01-P1-06` · Non applicable après reconception |
+| R02-25 | `A01-P1-09` · Partiellement corrigé · `A01-P1-17` · Non applicable après reconception |
+| R02-26 | `A01-P1-10` · Corrigé, qualification physique nécessaire · `A01-P2-04` · Partiellement corrigé |
+| R02-27 | `A01-P1-09` · Partiellement corrigé |
+| R02-28 | `A01-P0-07` · Corrigé, qualification physique nécessaire |
+| R02-29 | `A01-P2-02` · Résolu et vérifié numériquement |
+| R02-30 | `A01-P0-06` · Corrigé, qualification physique nécessaire · `A01-P2-02` · Résolu et vérifié numériquement |
+| R02-31 | `A01-P2-03` · Résolu et vérifié numériquement |
+| R02-32 | `A01-P0-09` · Non résolu · `A01-P2-01` · Bloqué par une limitation extérieure |
+| R02-33 | `A01-P1-01` · Corrigé, qualification physique nécessaire · `A01-P4-01` · Partiellement corrigé |
+| AUT-01 | `A01-P0-01` · Corrigé, qualification physique nécessaire · `A01-P0-07` · Corrigé, qualification physique nécessaire |
+| AUT-02 | `A01-P0-04` · Partiellement corrigé · `A01-P1-16` · Partiellement corrigé |
+| AUT-03 | `A01-P1-16` · Partiellement corrigé |
+| V2-01 | `A01-P0-06` · Corrigé, qualification physique nécessaire · `A01-P1-09` · Partiellement corrigé |
+| V3-01 | `A01-P0-03` · Partiellement corrigé |
+| V3-02 | `A01-P1-01` · Corrigé, qualification physique nécessaire · `A01-P1-02` · Corrigé, qualification physique nécessaire |
+| V3-03 | `A01-P0-02` · Corrigé, qualification physique nécessaire |
+| V3-04 | `A01-P0-04` · Partiellement corrigé · `A01-P0-05` · Partiellement corrigé |
+| V3-05 | `A01-P1-03` · Partiellement corrigé · `A01-P1-16` · Partiellement corrigé |
+| V3-06 | `A01-P0-01` · Corrigé, qualification physique nécessaire · `A01-P0-02` · Corrigé, qualification physique nécessaire |
+| H03-01 | `A01-P1-02` · Corrigé, qualification physique nécessaire · `A01-P1-06` · Non applicable après reconception |
+| H03-02 | `A01-P0-03` · Partiellement corrigé |
+| H03-03 | `A01-P0-02` · Corrigé, qualification physique nécessaire · `A01-P1-10` · Corrigé, qualification physique nécessaire |
+| H03-04 | `A01-P0-07` · Corrigé, qualification physique nécessaire |
+| H04-01 | `A01-P0-02` · Corrigé, qualification physique nécessaire · `A01-P1-08` · Corrigé, qualification physique nécessaire |
+| H04-02 | `A01-P1-16` · Partiellement corrigé |
+| H04-03 | `A01-P1-03` · Partiellement corrigé · `A01-P1-17` · Non applicable après reconception |
+| H04-04 | `A01-P1-07` · Partiellement corrigé |
+| H04-05 | `A01-P2-04` · Partiellement corrigé |
+| H04-06 | `A01-P1-08` · Corrigé, qualification physique nécessaire · `A01-P1-13` · Corrigé, qualification physique nécessaire |
+| H04-07 | `A01-P0-06` · Corrigé, qualification physique nécessaire |
+| H04-08 | `A01-P0-09` · Non résolu |
+| H05-01 | `A01-P1-03` · Partiellement corrigé · `A01-P0-07` · Corrigé, qualification physique nécessaire |
+| H05-02 | `A01-P0-03` · Partiellement corrigé · `A01-P1-01` · Corrigé, qualification physique nécessaire |
+| H05-03 | `A01-P0-06` · Corrigé, qualification physique nécessaire |
+| H05-04 | `A01-P0-07` · Corrigé, qualification physique nécessaire · `A01-P0-08` · Résolu et vérifié numériquement |
+| H05-05 | `A01-P0-09` · Non résolu |
+| H05-06 | `A01-P0-03` · Partiellement corrigé · `A01-P1-02` · Corrigé, qualification physique nécessaire · `A01-P1-14` · Corrigé, qualification physique nécessaire |
+| H5D-01 | `A01-P0-01` · Corrigé, qualification physique nécessaire |
+| H5D-02 | `A01-P1-03` · Partiellement corrigé · `A01-P1-04` · Corrigé, qualification physique nécessaire |
+| H5R-01 | `A01-P0-02` · Corrigé, qualification physique nécessaire · `A01-P1-05` · Non applicable après reconception · `A01-P0-05` · Partiellement corrigé |

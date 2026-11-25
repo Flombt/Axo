@@ -1,0 +1,18 @@
+{
+  "name": "AURA-01 V5 · Stabilisation",
+  "data_file_id": "urn:adsk.wipprod:dm.lineage:eFBLfdyfT4-U_TPXc36Ulg",
+  "version": 2,
+  "assemblies": 143,
+  "as_built": 188,
+  "motion_links": 18,
+  "external_references": 0,
+  "restored_from_f3d": true,
+  "archive_sha256": "6b2daefa8f79067125ac4b9171f718c69cf002c466cc288441623480150a8709",
+  "timeline_findings": [],
+  "baseline_untouched": true,
+  "cloud_verified": true,
+  "neutral_verified": true,
+  "pivots": 27,
+  "comparaison_volumes_cloud_mm3": 1.9184653865522705e-10,
+  "service_j3": true
+}

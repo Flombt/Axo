@@ -2,6 +2,10 @@
 
 Référence à partir de la [[README#14 — Expression émotionnelle : modèle créatif et technique|section Expression émotionnelle]] du cahier des charges (sections 14 à 17). Relier les commandes à l’[[06_IA_Logiciel/ARCHITECTURE_IA|architecture logicielle]] et les essais à la [[08_Tests/MATRICE_TESTS|matrice de validation]].
 
+## AURA-01 V5-stabilisation · Scène et mouvements
+
+La scène Blender reprend 37 poses natives de la CAO Fusion v2, avec les quatre axes du bras et les cinq commandes de la main. Les gaines dessinées au repos sont masquées pendant le mouvement. Les essais de flexion, de tension et d’effort à la pince restent à faire sur montage. [Scène Blender](../../../fusion/AURA-01-cinematique.blend) · [Vues de la révision](../../../docs/diagnostic/corrections/visuels/) · [Campagne Fusion](../../../docs/diagnostic/corrections/campagne_finale.json)
+
 ## AURA-009 r04 — Socle et doigts indépendants
 
 Deux vidéos à partir de la CAO r04 v4. J1 fait deux tours dans chaque sens devant une caméra fixe. La main montre chaque doigt, puis les flexions combinées et les éprouvettes géométriques. [[02_Conception_Fusion/TABLE_R04|Prototype de table r04]] · [Release GitHub](https://github.com/Flombt/Axo/releases/tag/aura-009-r04-fabrication).

@@ -1,0 +1,500 @@
+[
+  {
+    "cases": [
+      130,
+      132,
+      134,
+      136
+    ],
+    "target": {
+      "J1": -88,
+      "J2": -7,
+      "J3": -7,
+      "J7": -32,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "tried": [
+      {
+        "reverse": true,
+        "use_motor": false,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 1,
+        "error_deg": 92.0,
+        "actual": {
+          "J1": -88.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 0.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 92.0,
+        "actual": {
+          "J1": -88.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 0.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": false,
+        "only_j1_motor": false,
+        "steps": 5,
+        "error_deg": 52.8,
+        "actual": {
+          "J1": -35.2,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 5,
+        "error_deg": 92.002841,
+        "actual": {
+          "J1": -88.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": -0.002841,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 5,
+        "error_deg": 52.763636,
+        "actual": {
+          "J1": -35.236364,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      }
+    ],
+    "confirmed": false
+  },
+  {
+    "cases": [
+      131,
+      133,
+      135,
+      137
+    ],
+    "target": {
+      "J1": -88,
+      "J2": -7,
+      "J3": -7,
+      "J7": 32,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "tried": [
+      {
+        "reverse": true,
+        "use_motor": false,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 1,
+        "error_deg": 92.0,
+        "actual": {
+          "J1": -88.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 32.0,
+          "Servo_P": 0.0,
+          "Servo_I": 0.0,
+          "Servo_M": -0.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 92.0,
+        "actual": {
+          "J1": -88.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 32.0,
+          "Servo_P": 0.0,
+          "Servo_I": 0.0,
+          "Servo_M": -0.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": false,
+        "only_j1_motor": false,
+        "steps": 5,
+        "error_deg": 70.4,
+        "actual": {
+          "J1": -17.6,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 5,
+        "error_deg": 52.763636,
+        "actual": {
+          "J1": -35.236364,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 6.4,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 5,
+        "error_deg": 70.381818,
+        "actual": {
+          "J1": -17.618182,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": 32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      }
+    ],
+    "confirmed": false
+  },
+  {
+    "cases": [
+      138,
+      140,
+      142,
+      144
+    ],
+    "target": {
+      "J1": 88,
+      "J2": -7,
+      "J3": -7,
+      "J7": -32,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "tried": [
+      {
+        "reverse": true,
+        "use_motor": false,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 1,
+        "error_deg": 92.0,
+        "actual": {
+          "J1": 88.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 0.0,
+          "Servo_M": -0.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 92.0,
+        "actual": {
+          "J1": 88.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 0.0,
+          "Servo_M": -0.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": false,
+        "steps": 1,
+        "error_deg": 88.0,
+        "actual": {
+          "J1": -0.0,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": false,
+        "only_j1_motor": false,
+        "steps": 5,
+        "error_deg": 17.599999999999994,
+        "actual": {
+          "J1": 70.4,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": false,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 5,
+        "error_deg": 17.527272999999994,
+        "actual": {
+          "J1": 70.472727,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      },
+      {
+        "reverse": true,
+        "use_motor": true,
+        "only_j1_motor": true,
+        "steps": 5,
+        "error_deg": 17.527272999999994,
+        "actual": {
+          "J1": 70.472727,
+          "J2": -7.0,
+          "J3": -7.0,
+          "J7": -32.0,
+          "Servo_P": 92.0,
+          "Servo_I": 92.0,
+          "Servo_M": 65.0,
+          "Servo_A": 0.0,
+          "Servo_U": 0.0
+        }
+      }
+    ],
+    "confirmed": false
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "q": {},
+    "overlaps": [
+      [
+        "Boucle_J2",
+        "J2_Chape_Tangage",
+        298.1809
+      ],
+      [
+        "Boucle_J3",
+        "J3_Chape_Tangage",
+        31.7761
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Cassette",
+        161.9237
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Paume",
+        161.857
+      ],
+      [
+        "Faisceau_Tourelle",
+        "Coque_Epaule",
+        78.3211
+      ],
+      [
+        "Faisceau_Tourelle",
+        "J2_Chape_Tangage",
+        100.1105
+      ],
+      [
+        "Ressort_J2",
+        "Axe_Ressort_J2",
+        17.2404
+      ],
+      [
+        "Ressort_J2",
+        "J2_Chape_Tangage",
+        175.4823
+      ],
+      [
+        "Ressort_J2",
+        "Tige_Ressort_J2",
+        69.8542
+      ],
+      [
+        "Ressort_J3",
+        "Axe_Ressort_J3",
+        13.3625
+      ],
+      [
+        "Ressort_J3",
+        "J3_Chape_Tangage",
+        141.6958
+      ],
+      [
+        "Ressort_J3",
+        "Tige_Ressort_J3",
+        43.275
+      ]
+    ],
+    "bend": {
+      "Boucle_J2": {
+        "bend_mm": 25.622255950637918,
+        "straight_mm": 5.752654468539276,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 23.547823678633232,
+        "straight_mm": 8.011165061589033,
+        "min_z_mm": 106.0
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.554804791094494,
+        "straight_mm": 9.71258813616263,
+        "min_z_mm": 106.2
+      },
+      "Ressort_J2": {
+        "length_mm": 97.65244492586963,
+        "newton": 10.653537883691317,
+        "torque_nm": 0.35521813484169684
+      },
+      "Ressort_J3": {
+        "length_mm": 50.89449872039218,
+        "newton": 6.591514654505889,
+        "torque_nm": 0.1558692632111232
+      }
+    }
+  },
+  {
+    "q": {
+      "J1": 88
+    },
+    "overlaps": [
+      [
+        "Boucle_J2",
+        "J2_Chape_Tangage",
+        298.0921
+      ],
+      [
+        "Boucle_J3",
+        "J3_Chape_Tangage",
+        31.7697
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Cassette",
+        161.8622
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Paume",
+        161.7956
+      ],
+      [
+        "Faisceau_Tourelle",
+        "Coque_Epaule",
+        78.3255
+      ],
+      [
+        "Faisceau_Tourelle",
+        "J2_Chape_Tangage",
+        100.1096
+      ],
+      [
+        "Ressort_J2",
+        "Axe_Ressort_J2",
+        17.2404
+      ],
+      [
+        "Ressort_J2",
+        "J2_Chape_Tangage",
+        175.4964
+      ],
+      [
+        "Ressort_J2",
+        "Tige_Ressort_J2",
+        69.8555
+      ],
+      [
+        "Ressort_J3",
+        "Axe_Ressort_J3",
+        13.3625
+      ],
+      [
+        "Ressort_J3",
+        "J3_Chape_Tangage",
+        141.7971
+      ],
+      [
+        "Ressort_J3",
+        "Tige_Ressort_J3",
+        43.2727
+      ]
+    ],
+    "bend": {
+      "Boucle_J2": {
+        "bend_mm": 25.62225595063792,
+        "straight_mm": 5.752654468539269,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 23.547823678633247,
+        "straight_mm": 8.011165061589004,
+        "min_z_mm": 106.0
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.554804791094487,
+        "straight_mm": 9.712588136162637,
+        "min_z_mm": 106.2
+      },
+      "Ressort_J2": {
+        "length_mm": 97.65244492586963,
+        "newton": 10.653537883691317,
+        "torque_nm": 0.3552181348416969
+      },
+      "Ressort_J3": {
+        "length_mm": 50.89449872039221,
+        "newton": 6.591514654505897,
+        "torque_nm": 0.15586926321112343
+      }
+    }
+  },
+  {
+    "q": {
+      "J1": -88
+    },
+    "overlaps": [
+      [
+        "Boucle_J2",
+        "J2_Chape_Tangage",
+        297.2085
+      ],
+      [
+        "Boucle_J3",
+        "J3_Chape_Tangage",
+        31.7795
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Cassette",
+        161.8832
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Paume",
+        161.8166
+      ],
+      [
+        "Faisceau_Tourelle",
+        "Coque_Epaule",
+        78.2915
+      ],
+      [
+        "Faisceau_Tourelle",
+        "J2_Chape_Tangage",
+        100.1107
+      ],
+      [
+        "Ressort_J2",
+        "Axe_Ressort_J2",
+        17.2404
+      ],
+      [
+        "Ressort_J2",
+        "J2_Chape_Tangage",
+        175.4738
+      ],
+      [
+        "Ressort_J2",
+        "Tige_Ressort_J2",
+        69.8555
+      ],
+      [
+        "Ressort_J3",
+        "Axe_Ressort_J3",
+        13.3625
+      ],
+      [
+        "Ressort_J3",
+        "J3_Chape_Tangage",
+        141.6836
+      ],
+      [
+        "Ressort_J3",
+        "Tige_Ressort_J3",
+        43.2727
+      ]
+    ],
+    "bend": {
+      "Boucle_J2": {
+        "bend_mm": 25.622255950637918,
+        "straight_mm": 5.752654468539276,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 23.547823678633236,
+        "straight_mm": 8.011165061589026,
+        "min_z_mm": 106.0
+      },
+      "Boucle_J7": {
+        "bend_mm": 20.5548047910945,
+        "straight_mm": 9.712588136162616,
+        "min_z_mm": 106.2
+      },
+      "Ressort_J2": {
+        "length_mm": 97.65244492586962,
+        "newton": 10.653537883691317,
+        "torque_nm": 0.355218134841697
+      },
+      "Ressort_J3": {
+        "length_mm": 50.89449872039219,
+        "newton": 6.591514654505892,
+        "torque_nm": 0.15586926321112327
+      }
+    }
+  },
+  {
+    "q": {
+      "J2": -21,
+      "J3": -32,
+      "J7": 32
+    },
+    "overlaps": [
+      [
+        "Boucle_J2",
+        "J2_Chape_Tangage",
+        304.143
+      ],
+      [
+        "Boucle_J3",
+        "J3_Chape_Tangage",
+        31.693
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Cassette",
+        171.4183
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Paume",
+        189.278
+      ],
+      [
+        "Faisceau_Tourelle",
+        "Coque_Epaule",
+        78.3211
+      ],
+      [
+        "Faisceau_Tourelle",
+        "J2_Chape_Tangage",
+        100.1105
+      ],
+      [
+        "Ressort_J2",
+        "Axe_Ressort_J2",
+        17.2408
+      ],
+      [
+        "Ressort_J2",
+        "J2_Chape_Tangage",
+        121.2291
+      ],
+      [
+        "Ressort_J2",
+        "Tige_Ressort_J2",
+        78.9738
+      ],
+      [
+        "Ressort_J3",
+        "Axe_Ressort_J3",
+        13.3658
+      ],
+      [
+        "Ressort_J3",
+        "J3_Chape_Tangage",
+        78.8572
+      ],
+      [
+        "Ressort_J3",
+        "Tige_Ressort_J3",
+        59.2409
+      ]
+    ],
+    "bend": {
+      "Boucle_J2": {
+        "bend_mm": 24.355584755495858,
+        "straight_mm": 7.7423369291253294,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 20.779533737146085,
+        "straight_mm": 12.359584733180299,
+        "min_z_mm": 60.482599088808556
+      },
+      "Boucle_J7": {
+        "bend_mm": 23.05660347140637,
+        "straight_mm": 5.7827719587484125,
+        "min_z_mm": -25.79429547459855
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337074,
+        "newton": 13.063493972341565,
+        "torque_nm": 0.341531294384332
+      },
+      "Ressort_J3": {
+        "length_mm": 62.32662137493052,
+        "newton": 9.67818777123124,
+        "torque_nm": 0.16358637432680542
+      }
+    }
+  },
+  {
+    "q": {
+      "J2": 21,
+      "J3": 32,
+      "J7": -32
+    },
+    "overlaps": [
+      [
+        "Boucle_J2",
+        "J2_Chape_Tangage",
+        292.9365
+      ],
+      [
+        "Boucle_J3",
+        "J3_Chape_Tangage",
+        32.7638
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Cassette",
+        162.4975
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Paume",
+        195.8837
+      ],
+      [
+        "Faisceau_Tourelle",
+        "Coque_Epaule",
+        78.3211
+      ],
+      [
+        "Faisceau_Tourelle",
+        "J2_Chape_Tangage",
+        100.1105
+      ],
+      [
+        "Ressort_J2",
+        "Axe_Ressort_J2",
+        17.2403
+      ],
+      [
+        "Ressort_J2",
+        "J2_Chape_Tangage",
+        372.1967
+      ],
+      [
+        "Ressort_J2",
+        "Tige_Ressort_J2",
+        65.3541
+      ],
+      [
+        "Ressort_J3",
+        "Axe_Ressort_J3",
+        13.3768
+      ],
+      [
+        "Ressort_J3",
+        "J3_Chape_Tangage",
+        159.5818
+      ],
+      [
+        "Ressort_J3",
+        "Tige_Ressort_J3",
+        38.9863
+      ]
+    ],
+    "bend": {
+      "Boucle_J2": {
+        "bend_mm": 26.205505978963,
+        "straight_mm": 4.8364874664432165,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.550405260145393,
+        "straight_mm": 6.4363135960375075,
+        "min_z_mm": 123.20017284132537
+      },
+      "Boucle_J7": {
+        "bend_mm": 22.833754530395666,
+        "straight_mm": 6.132822256718157,
+        "min_z_mm": 195.02222324691334
+      },
+      "Ressort_J2": {
+        "length_mm": 84.42778470020919,
+        "newton": 7.744112634046021,
+        "torque_nm": 0.29719401816738167
+      },
+      "Ressort_J3": {
+        "length_mm": 36.518164686605616,
+        "newton": 2.7099044653835165,
+        "torque_nm": 0.07329954240619745
+      }
+    }
+  },
+  {
+    "q": {
+      "J2": -21,
+      "J3": 32,
+      "J7": -32
+    },
+    "overlaps": [
+      [
+        "Boucle_J2",
+        "J2_Chape_Tangage",
+        304.143
+      ],
+      [
+        "Boucle_J3",
+        "J3_Chape_Tangage",
+        32.8163
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Cassette",
+        162.5147
+      ],
+      [
+        "Boucle_J7",
+        "Capot_Paume",
+        195.7574
+      ],
+      [
+        "Faisceau_Tourelle",
+        "Coque_Epaule",
+        78.3211
+      ],
+      [
+        "Faisceau_Tourelle",
+        "J2_Chape_Tangage",
+        100.1105
+      ],
+      [
+        "Ressort_J2",
+        "Axe_Ressort_J2",
+        17.2408
+      ],
+      [
+        "Ressort_J2",
+        "J2_Chape_Tangage",
+        121.2291
+      ],
+      [
+        "Ressort_J2",
+        "Tige_Ressort_J2",
+        78.9738
+      ],
+      [
+        "Ressort_J3",
+        "Axe_Ressort_J3",
+        13.3633
+      ],
+      [
+        "Ressort_J3",
+        "J3_Chape_Tangage",
+        159.5668
+      ],
+      [
+        "Ressort_J3",
+        "Tige_Ressort_J3",
+        38.9399
+      ]
+    ],
+    "bend": {
+      "Boucle_J2": {
+        "bend_mm": 24.35558475549587,
+        "straight_mm": 7.742336929125308,
+        "min_z_mm": 69.6
+      },
+      "Boucle_J3": {
+        "bend_mm": 24.550405260145354,
+        "straight_mm": 6.4363135960375715,
+        "min_z_mm": 85.21317018952354
+      },
+      "Boucle_J7": {
+        "bend_mm": 22.833754530395638,
+        "straight_mm": 6.132822256718207,
+        "min_z_mm": 92.92532686349226
+      },
+      "Ressort_J2": {
+        "length_mm": 108.60679078337078,
+        "newton": 13.063493972341572,
+        "torque_nm": 0.3415312943843322
+      },
+      "Ressort_J3": {
+        "length_mm": 36.51816468660562,
+        "newton": 2.7099044653835183,
+        "torque_nm": 0.07329954240619732
+      }
+    }
+  }
+]

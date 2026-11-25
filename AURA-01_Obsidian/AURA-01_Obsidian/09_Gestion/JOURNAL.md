@@ -1,5 +1,13 @@
 # Journal des sessions
 
+## 2026-11-25 — Stabilisation et contre-audit AURA-01
+
+- Enregistré **AURA-01 V5 · Stabilisation** v2 dans Fusion. L’archive réouverte compte 143 occurrences, 18 liens de mouvement et 27 pivots actifs. Le STEP réimporté livre 156 solides fermés. La V5 roulis originale reste restaurable depuis son tag. [Preuve Fusion](../../../docs/diagnostic/corrections/fusion_sauvegarde.json) · [Archives](../../../archives/README.md)
+- Fixé J2R/J3R, passé le faisceau au centre de J1, intégré les rehausses de 90 mm, les butées et les ressorts. Validé numériquement la dépose de J2 en deux mouvements, de J3 après le support démontable et de J7 après la cassette. La garde géométrique calculée vaut 8,68 mm aux butées. La pince passe de 17,68 à 3,70 mm à la fermeture échantillonnée. [Rapport des corrections](../../../RAPPORT_CORRECTIONS.md)
+- Rejoué 153 identifiants dans Fusion. Le solveur en atteint 141 à 0,02°. Trois combinaisons à J1 extrême et J7 ±32° expliquent douze refus. Les contre-poses des solides positionnés indépendamment retrouvent seulement les deux engagements M4 prévus. [Campagne finale](../../../docs/diagnostic/corrections/campagne_finale.json) · [Contre-poses](../../../docs/diagnostic/corrections/contreposes_brep.json)
+- Livré 54 références STL/3MF et 15 projets pour Kobra 3, Kobra X et Kobra 3 Max. Relu les 108 exports et tranché 17 plateaux. Le firmware neuf voies passe neuf essais hôte et trois compilations MicroPython. [Fabrication](../../../manufacturing/README.md) · [Firmware](../../../firmware/README.md)
+- Compté le filament fourni à 0 €. Le scénario atteint 188,74 € TTC avec provisions, avant le devis d’intégration. Restent le panier à 150 € et les essais physiques de montage, de retenue et de coupure. [Nomenclature](../../../purchases/NOMENCLATURE.md) · [Montage](../../../assembly/README.md)
+
 ## 2026-11-24 — Actualisation du tableau GitHub Axo
 
 - Tableau public mis à jour avec sept cartes. Trois jalons datés expliquent les versions r02 à r05 et renvoient aux fichiers publiés.
@@ -207,7 +215,7 @@ La v2 a été synchronisée. Le serveur MCP a cessé de répondre au contrôle d
 
 - Vérifié l’archive de la revue V5 v2 et sauvegardé une variante distincte dans Fusion. Réouverture contrôlée avec 154 occurrences, 31 pivots et 20 liens de mouvement.
 - Réalisé les deux roulis en série avec les tangages, leurs paliers fendus et les deux entraînements déportés dans le socle. Test natif aux quatre extrémités et recontrôle des solides sur 31 poses.
-- Chiffré les pièces ajoutées à 13,10 € et le panier de mise au point à 149,48 € selon les hypothèses de port. Passage des gaines, maintien et alimentation en charge à qualifier. [[02_Conception_Fusion/TABLE_V5_ROULIS|Implantation]] · [Achats](../../../purchases/NOMENCLATURE.md)
+- Chiffré les pièces ajoutées à 13,10 € et le panier de mise au point à 149,48 € selon les hypothèses de port. Passage des gaines, maintien et alimentation en charge à qualifier. [[02_Conception_Fusion/TABLE_V5_ROULIS|Implantation]] · [Achats historiques](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/purchases/NOMENCLATURE.md)
 
 ## 2026-11-24 — Audit indépendant avant fabrication de la V5 roulis
 

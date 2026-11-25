@@ -2,7 +2,13 @@
 
 Voir [[README#30 — Roadmap et ordre d'exécution recommandé|le plan du cahier des charges]] pour les critères complets et [[09_Gestion/TACHES|le suivi des tâches]] pour les actions de session.
 
-## Priorité — Bras V3 de table
+## Priorité · AURA-01 V5-stabilisation
+
+1. Vérifier le stock et le prix TTC des compléments, avec le filament fourni à 0 € et un plafond de 150 €. [Nomenclature](../../../purchases/NOMENCLATURE.md)
+2. Sur autorisation d’essai, mesurer les coupons et P3. Faire le montage à blanc ancré et mesurer les butées, retenues, passages de gaines et déposes. [Fabrication](../../../manufacturing/README.md) · [Montage](../../../assembly/README.md)
+3. Construire et qualifier la protection et l’arrêt sur charge factice. Calibrer ensuite les commandes sur des essais de moteur isolé. [[08_Tests/MATRICE_TESTS|Matrice]] · [Firmware](../../../firmware/README.md)
+
+## Archive · Bras V3 de table
 
 - [x] Sauvegarder la refonte mécanique AURA-009 de table r03, vérifier les poses et trancher les plateaux PETG. [[02_Conception_Fusion/TABLE_R03|CAO et contrôles]].
 - [ ] Qualifier les coupons, l’assemblage ancré, les retenues J2/J3, le rappel des doigts et le roulis câblé. Mettre en œuvre la commande PWM/TTL et éprouver la coupure. [[09_Gestion/TACHES#AURA-009 de table r03 — Reconcevoir et qualifier le kit|Suivi]].

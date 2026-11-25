@@ -1,5 +1,13 @@
 # Évolutions significatives d’AURA-01
 
+## 2026-11-25 · V5-stabilisation
+
+- Réintègre les deux raccords longitudinaux aux pièces de tangage. Reprend l’axe J1 traversant, ses 6000-ZZ, les guides de faisceau et les peignes de poignet.
+- Ajoute les rehausses, les butées de tangage et les reprises de compensation, de démontage et de pince.
+- Livre le STEP, les maillages, éprouvettes et projets Anycubic issus du modèle stabilisé.
+- Implémente neuf voies Pico 2 avec surveillance, enveloppe couplée et reprise volontaire. Compile les trois modules en MicroPython.
+- Recompte le panier avec filament à 0 €, documente les essais et conserve la V5 roulis au tag `aura-01-v5-roulis-v1`.
+
 ## 2026-11-24 · V5 roulis et organisation du projet
 
 - Deux axes motorisés J2R et J3R, cinq commandes de doigts, six axes de bras et onze servos. La CAO v1 est la source active. [Version](VERSION.md)

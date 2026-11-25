@@ -1,18 +1,20 @@
-# Axo · AURA-01
+# AURA-01
 
-Bras robotisé de table conçu dans Fusion. La **V5 roulis** ajoute deux axes longitudinaux à l’épaule et au coude. Le modèle comprend **six axes de bras, cinq doigts à commande séparée en CAO et onze servos**. La préparation à la fabrication est évaluée à **17/100**.
+Bras robotique de table imprimable en FDM, avec quatre axes motorisés de bras et cinq doigts indépendants. La **V5-stabilisation** documente un prototype numérique à qualifier sur banc ancré. [Version active](VERSION.md) · [Rapport des corrections](RAPPORT_CORRECTIONS.md)
 
-![Vue réelle de la V5 roulis dans Fusion](docs/diagnostic/latest/wireframes/01_fusion_actif.png)
+![Vue de la V5 stabilisée à partir des solides Fusion](docs/diagnostic/corrections/visuels/06_blender_ensemble.png)
 
-| Besoin | Point d’entrée |
+| Domaine | Point d’entrée |
 |---|---|
-| Ouvrir et modifier la CAO | [Fusion natif](fusion/AURA-01.f3d) · [Version](VERSION.md) |
-| Comprendre le projet et les blocages | [Contexte technique](docs/architecture/PROJECT_CONTEXT.md) · [Diagnostic complet](DIAGNOSTIC_ROBOT_COMPLET.md) |
-| Imprimer ou préparer le montage | [État de fabrication](manufacturing/README.md) · [Séquence de montage à qualifier](assembly/README.md) |
-| Préparer l’électronique et la commande | [Architecture électrique](electronics/README.md) · [Firmware](firmware/README.md) |
-| Vérifier le prix | [Nomenclature et budget](purchases/NOMENCLATURE.md) |
-| Maintenir ou retrouver une révision | [Règles du projet](AGENTS.md) · [Historique des versions](CHANGELOG.md) · [Archives](archives/README.md) |
+| Fusion et cinématique | [Modèle F3D, reproduction et animation](fusion/README.md) |
+| Impression | [STEP, STL, 3MF, plateaux et éprouvettes](manufacturing/README.md) |
+| Assemblage | [Montage à blanc, dépose et qualification](assembly/README.md) |
+| Électronique | [Rail, brochage, câblage et coupure](electronics/README.md) |
+| Commande | [Firmware Pico 2, calibration et protocole](firmware/README.md) |
+| Budget | [Nomenclature, prix TTC, stocks et ports](purchases/NOMENCLATURE.md) |
+| Documentation | [Contexte de reprise](docs/architecture/PROJECT_CONTEXT.md) · [Coffre Obsidian](AURA-01_Obsidian/AURA-01_Obsidian/LISEZ_MOI_D_ABORD.md) |
+| Audit et historique | [Diagnostic V5 roulis](DIAGNOSTIC_ROBOT_COMPLET.md) · [Archives](archives/README.md) · [Changelog](CHANGELOG.md) |
 
-**Budget maximal 150 €.** Le scénario matériel vaut **149,48 €** avant filament et corrections. Avec une bobine à 11,95 €, il atteint **161,43 €**. Les achats du lot, l’impression complète et la mise sous tension attendent les corrections et vérifications de l’audit.
+La commande passe par le Pico 2, l’arrêt matériel et le réarmement local. La phase physique commence par les éprouvettes, les retenues et une charge factice. Le budget opérationnel reste à confirmer sous **150 €**. [Critères de qualification](RAPPORT_CORRECTIONS.md)
 
-Les preuves visuelles actuelles, dont la garde au plan de table et les passages de gaines, sont dans les [vues Fusion annotées](docs/diagnostic/latest/wireframes/). Le [rapport de réorganisation](docs/REORGANISATION_PROJET.md) documente les déplacements et la restauration.
+Pour modifier le projet, suivre les [règles permanentes](AGENTS.md), puis lancer `python -B -X utf8 tools/verifier_projet.py` à la racine.

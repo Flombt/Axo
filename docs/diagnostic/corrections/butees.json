@@ -1,0 +1,38 @@
+{
+  "J1": [
+    {
+      "direction": -1,
+      "last_clear_deg": 92.59375,
+      "first_contact_deg": 92.703125
+    },
+    {
+      "direction": 1,
+      "last_clear_deg": 92.59375,
+      "first_contact_deg": 92.703125
+    }
+  ],
+  "J2": [
+    {
+      "direction": -1,
+      "last_clear_deg": 22.0,
+      "first_contact_deg": 22.0625
+    },
+    {
+      "direction": 1,
+      "last_clear_deg": 22.0,
+      "first_contact_deg": 22.0625
+    }
+  ],
+  "J3": [
+    {
+      "direction": -1,
+      "last_clear_deg": 33.125,
+      "first_contact_deg": 33.1875
+    },
+    {
+      "direction": 1,
+      "last_clear_deg": 33.125,
+      "first_contact_deg": 33.1875
+    }
+  ]
+}

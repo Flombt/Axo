@@ -1,0 +1,90 @@
+[
+  {
+    "q": {},
+    "interferences": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ]
+  },
+  {
+    "q": {
+      "J1": 88
+    },
+    "interferences": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ]
+  },
+  {
+    "q": {
+      "J2": -21,
+      "J3": -32,
+      "J7": 32
+    },
+    "interferences": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ]
+  },
+  {
+    "q": {
+      "J2": 21,
+      "J3": 32,
+      "J7": -32
+    },
+    "interferences": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ]
+  },
+  {
+    "q": {
+      "J2": -21,
+      "J3": 32
+    },
+    "interferences": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ]
+  }
+]

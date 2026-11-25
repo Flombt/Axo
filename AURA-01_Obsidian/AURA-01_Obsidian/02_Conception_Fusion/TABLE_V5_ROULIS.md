@@ -1,6 +1,6 @@
 # AURA-01 V5 — Roulis d’épaule et de coude
 
-**24 novembre 2026 · Variante de revue enregistrée dans Fusion.** Source « AURA-01 V5 — Revue design » v2 validée visuellement par le porteur du projet. La reprise est partie d’une copie de l’archive contrôlée en phase 0. [Modèle Fusion F3D](../../../fusion/AURA-01.f3d) · [Liste d’achats](../../../purchases/NOMENCLATURE.md)
+**24 novembre 2026 · Variante de revue historique enregistrée dans Fusion.** La [V5-stabilisation](../../../VERSION.md) est la révision de travail. Source « AURA-01 V5 — Revue design » v2 validée visuellement par le porteur du projet. La reprise est partie d’une copie de l’archive contrôlée en phase 0. [Modèle Fusion F3D historique](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/fusion/AURA-01.f3d) · [Liste d’achats historique](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/purchases/NOMENCLATURE.md)
 
 ## Implantation et mouvements
 
@@ -23,6 +23,6 @@ Chaque collier comprend un arbre creux, deux portées dans un palier fendu et un
 
 ## Achat et traçabilité
 
-**13,10 €** de pièces supplémentaires aux quantités chiffrées, avant le port d’une commande séparée. **149,48 € TTC** pour le panier complet de mise au point avec cinq SG90 économiques pour les doigts, aux conditions de port du panier. Avec onze servos, l’addition des hypothèses de pointe donne 11,3 A. Les tests en charge et l’alimentation définitive restent à qualifier. [Pièces et prix](../../../purchases/NOMENCLATURE.md) · [[05_Electronique/README_MOTEURS_V3#AURA-01 V5 · Roulis épaule et coude|Moteurs]]
+**13,10 €** de pièces supplémentaires aux quantités chiffrées, avant le port d’une commande séparée. **149,48 € TTC** pour le panier complet de mise au point avec cinq SG90 économiques pour les doigts, aux conditions de port du panier. Avec onze servos, l’addition des hypothèses de pointe donne 11,3 A. Les tests en charge et l’alimentation définitive restent à qualifier. [Pièces et prix historiques](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/purchases/NOMENCLATURE.md) · [[05_Electronique/README_MOTEURS_V3#AURA-01 V5 · Roulis épaule et coude|Moteurs]]
 
 SHA-256 de l’archive revue `55d3f7964cd04625a4f9062db03c406900fc6acf57cedec86a5bfd5b46495361`. SHA-256 de l’archive source `d44b5dbafedf1d7ecbb4df91b2020320680f58dc70f29f906f79b77b0ccff923`.

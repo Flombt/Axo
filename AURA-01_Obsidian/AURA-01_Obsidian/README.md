@@ -5,7 +5,7 @@ project: AURA-01
 aliases: [Robotic Arm V1, Bras robotisé expressif]
 status: projet de conception — non validé pour fabrication
 created: 2026-11-21
-updated: 2026-11-24
+updated: 2026-11-25
 owner: porteur du projet
 version: 0.1.0
 tags: [robotique, fusion, mecanique, impression-3d, ia, animation, obsidian]
@@ -19,9 +19,15 @@ tags: [robotique, fusion, mecanique, impression-3d, ia, animation, obsidian]
 
 ![État initial de l'assemblage Fusion, 21 novembre 2026](assets/fusion_etat_initial_2026-11-21.png)
 
-## AURA-01 V5 — Roulis d’épaule et de coude
+## Révision active · AURA-01 V5-stabilisation
 
-[[02_Conception_Fusion/TABLE_V5_ROULIS|Variante de revue avec deux roulis longitudinaux]] sur la silhouette V5. Les deux commandes indépendantes sont vérifiées dans Fusion. La revue de l’intégration et la qualification au banc précèdent la fabrication. [Panier de mise au point](../../purchases/NOMENCLATURE.md)
+La base J1 reçoit un axe creux et quatre rehausses de 90 mm ancrées. J2 et J3 conservent leur tangage avec butées et compensation. Les roulis d’épaule et de coude deviennent des liaisons fixes. J7 et les cinq doigts restent commandés séparément. Le support de service de J3 libère l’accès au moteur après désaccouplement des ressorts.
+
+L’archive Fusion v2, le STEP et le kit Anycubic sont vérifiés numériquement. Le firmware neuf voies attend sa calibration et la qualification de la coupure sur charge factice. Le filament est en stock à 0 € d’achat. Le scénario à 188,74 € TTC avec provisions dépasse le plafond de 150 € avant devis d’intégration. [Version active](../../VERSION.md) · [Contre-audit](../../RAPPORT_CORRECTIONS.md) · [Fabrication](../../manufacturing/README.md) · [Montage à blanc](../../assembly/README.md) · [Nomenclature](../../purchases/NOMENCLATURE.md)
+
+## Archive · AURA-01 V5 — Roulis d’épaule et de coude
+
+[[02_Conception_Fusion/TABLE_V5_ROULIS|Variante de revue avec deux roulis longitudinaux]] sur la silhouette V5. Les deux commandes indépendantes sont vérifiées dans Fusion. La revue de l’intégration et la qualification au banc précèdent la fabrication. [Panier historique](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/purchases/NOMENCLATURE.md)
 
 ## AURA-01 V5 — Revue design en attente
 

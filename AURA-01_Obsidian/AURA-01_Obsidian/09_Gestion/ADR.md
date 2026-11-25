@@ -157,6 +157,14 @@ Retenu pour l’intégration. Garder les 15 PWM dans la main, répartir le 6 V e
 - Former à chaque articulation un axe de tangage et un axe longitudinal en série. Déporter les deux MG90S dans le socle et transmettre le mouvement par brins opposés sous gaine.
 - Les paliers apportent 8 mm à chacun des deux entraxes. La modification reprend les volumes de carénage de la V5 revue avec un dégagement local pour le coude. Le prototype doit confirmer les pertes et la retenue au roulis avant qualification. [[02_Conception_Fusion/TABLE_V5_ROULIS|Décision et contrôles]]
 
+## ADR-020 — Fixer les roulis intermédiaires et garder l’accès aux tangages
+
+**25 novembre 2026 · V5-stabilisation.** Les deux colliers et leurs transmissions à gaines sont retirés. Le lacet J1 conserve le faisceau dans un axe creux. Les cinq doigts et J7 restent indépendants. Le plan de pose abaissé de 90 mm et les butées de J2/J3 améliorent la garde calculée. Les ressorts compensent le moment gravitaire. Le support extérieur vissé rend J3 accessible après désaccouplement des ressorts. Le montage physique doit caractériser la retenue et le jeu. [Rapport des corrections](../../../RAPPORT_CORRECTIONS.md) · [Notice de montage](../../../assembly/README.md)
+
+## ADR-021 — Commander neuf voies avec armement local et coupure verrouillée
+
+**25 novembre 2026 · V5-stabilisation.** Le Pico 2 vérifie la calibration, les deux retours analogiques de tangage et leur enveloppe couplée. La conception de puissance couple arrêt NC, verrouillage matériel, rail à coupure séparée et tampon PWM haute impédance à l’arrêt. Le calcul garde 11,30 A en pointe et dimensionne un bloc externe candidat. La chaîne réelle doit être éprouvée sur charge factice avant un moteur. [Électronique](../../../electronics/README.md) · [Firmware](../../../firmware/README.md)
+
 ## Template
 
 ### ADR-XXX — <titre>

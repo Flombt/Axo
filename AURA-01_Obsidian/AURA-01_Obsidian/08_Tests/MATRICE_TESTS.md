@@ -1,5 +1,17 @@
 # Matrice de validation
 
+## AURA-01 V5-stabilisation · Qualification
+
+| Contrôle | Résultat numérique du 25 novembre 2026 | Essai physique en attente |
+|---|---|---|
+| F3D et STEP | Réimportation réussie. Fusion v2 à 143 occurrences et 18 liens. STEP à 156 solides fermés. | Contrôler géométrie, serrages et jeu au montage à blanc ancré. |
+| Poses et butées | 141/153 identifiants atteints au solveur. Six contre-poses BRep et garde calculée de 8,68 mm aux butées. | Faire parcourir à la main les positions permises, bras captif, et éprouver les butées et retenues. |
+| Gaines et service | Huit poses contrôlées sur les tronçons souples modélisés. Parcours J2, J3 et J7 vérifiés. | Contrôler les cinq fins de gaine J7, le rappel et l’accessibilité avec l’outillage et les pièces réels. |
+| Fabrication | 54 références STL et 3MF, 108 fichiers relus et 17 plateaux tranchés. | Mesurer portées, axes, inserts et P3 sur les premiers coupons. |
+| Firmware et puissance | Neuf essais hôte et trois modules compilés pour MicroPython. | Qualifier arrêt, surintensité, chute de tension et verrouillage du retour d’alimentation sur charge factice, puis calibrer un moteur isolé. |
+
+[Registre et preuves](../../../RAPPORT_CORRECTIONS.md) · [Critères d’essai et de montage](../../../assembly/README.md) · [Fabrication](../../../manufacturing/README.md)
+
 ## AURA-009 r04 — Fabrication et fonctionnement
 
 | Contrôle | Résultat numérique | Suite |

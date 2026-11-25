@@ -1,10 +1,14 @@
 # Contexte court pour un nouvel agent
 
-La reprise active commence dans [VERSION.md](../../../VERSION.md) et le [contexte technique court](../../../docs/architecture/PROJECT_CONTEXT.md). Le [diagnostic V5](../../../DIAGNOSTIC_ROBOT_COMPLET.md) identifie les blocages actifs. Les notes ci-dessous conservent le contexte des branches.
+La révision active **V5-stabilisation** compte quatre axes de bras et cinq doigts commandés par neuf servos. Les deux anciens roulis sont fixes. Le passage axial J1, les nouvelles butées, les rehausses et les ressorts sont intégrés dans Fusion v2. Le kit d’impression et les neuf essais hôte du firmware sont disponibles. [Version](../../../VERSION.md) · [Contexte technique](../../../docs/architecture/PROJECT_CONTEXT.md) · [Rapport des corrections](../../../RAPPORT_CORRECTIONS.md)
 
-## Roulis d’épaule et de coude
+Le filament fourni compte pour 0 € au panier. Les **188,74 € TTC provisionnés** dépassent le plafond de 150 € avant devis d’intégration. La qualification commence au montage à blanc et sur charge factice selon la [[08_Tests/MATRICE_TESTS|matrice de validation]]. [Nomenclature](../../../purchases/NOMENCLATURE.md)
 
-[[02_Conception_Fusion/TABLE_V5_ROULIS|Reprise de la V5 approuvée visuellement]] avec deux arbres de roulis, deux MG90S déportés et deux axes indépendants de ±20° et ±24°. Fusion sauvegardé et F3D réouvert. Panier cible de mise au point de 149,48 € TTC. [Achats](../../../purchases/NOMENCLATURE.md)
+Les sections suivantes retracent les versions précédentes.
+
+## Archive · Roulis d’épaule et de coude
+
+[[02_Conception_Fusion/TABLE_V5_ROULIS|Reprise de la V5 approuvée visuellement]] avec deux arbres de roulis, deux MG90S déportés et deux axes indépendants de ±20° et ±24°. Fusion sauvegardé et F3D réouvert. Panier cible de mise au point de 149,48 € TTC. [Achats historiques](https://github.com/Flombt/Axo/blob/aura-01-v5-roulis-v1/purchases/NOMENCLATURE.md)
 
 ## Revue design de la V5
 

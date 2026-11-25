@@ -1,0 +1,190 @@
+{
+  "domaines": {
+    "Conception mécanique": {
+      "v5_audit": [
+        21,
+        19,
+        9,
+        5
+      ],
+      "stabilisation": [
+        21,
+        21,
+        14,
+        7
+      ]
+    },
+    "Motorisation": {
+      "v5_audit": [
+        18,
+        15,
+        5,
+        0
+      ],
+      "stabilisation": [
+        18,
+        17,
+        9,
+        0
+      ]
+    },
+    "Imprimabilité": {
+      "v5_audit": [
+        10,
+        0,
+        8,
+        0
+      ],
+      "stabilisation": [
+        16,
+        17,
+        11,
+        0
+      ]
+    },
+    "Électronique": {
+      "v5_audit": [
+        10,
+        12,
+        5,
+        0
+      ],
+      "stabilisation": [
+        16,
+        13,
+        11,
+        0
+      ]
+    },
+    "Alimentation": {
+      "v5_audit": [
+        11,
+        8,
+        3,
+        0
+      ],
+      "stabilisation": [
+        14,
+        12,
+        8,
+        0
+      ]
+    },
+    "Assemblage": {
+      "v5_audit": [
+        8,
+        10,
+        9,
+        0
+      ],
+      "stabilisation": [
+        14,
+        12,
+        11,
+        0
+      ]
+    },
+    "Logiciel": {
+      "v5_audit": [
+        5,
+        7,
+        4,
+        0
+      ],
+      "stabilisation": [
+        20,
+        15,
+        18,
+        0
+      ]
+    },
+    "Intelligence artificielle": {
+      "v5_audit": [
+        8,
+        0,
+        0,
+        0
+      ],
+      "stabilisation": [
+        8,
+        0,
+        0,
+        0
+      ]
+    },
+    "Sécurité": {
+      "v5_audit": [
+        11,
+        3,
+        6,
+        0
+      ],
+      "stabilisation": [
+        14,
+        12,
+        12,
+        0
+      ]
+    },
+    "Maintenabilité": {
+      "v5_audit": [
+        7,
+        10,
+        4,
+        0
+      ],
+      "stabilisation": [
+        12,
+        11,
+        8,
+        0
+      ]
+    },
+    "Documentation": {
+      "v5_audit": [
+        14,
+        6,
+        18,
+        8
+      ],
+      "stabilisation": [
+        19,
+        17,
+        20,
+        15
+      ]
+    }
+  },
+  "fabrication": {
+    "Mécanique": {
+      "audit": 4,
+      "stabilisation": 11,
+      "max": 20
+    },
+    "Kit": {
+      "audit": 0,
+      "stabilisation": 15,
+      "max": 20
+    },
+    "Achats": {
+      "audit": 8,
+      "stabilisation": 6,
+      "max": 15
+    },
+    "Assemblage": {
+      "audit": 5,
+      "stabilisation": 8,
+      "max": 15
+    },
+    "Alimentation et sécurité": {
+      "audit": 0,
+      "stabilisation": 5,
+      "max": 20
+    },
+    "Commande": {
+      "audit": 0,
+      "stabilisation": 5,
+      "max": 10
+    }
+  }
+}

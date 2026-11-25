@@ -1,0 +1,212 @@
+[
+  {
+    "label": "historique",
+    "cases": [
+      130,
+      132,
+      134,
+      136
+    ],
+    "target": {
+      "J1": -88,
+      "J2": -7,
+      "J3": -7,
+      "J7": -32,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "minimum_z_hand_mm": 57.34071733646792,
+    "pince_mm": 3.7000000000002298,
+    "intersections": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ],
+    "native_solver_confirmed": false
+  },
+  {
+    "label": "enveloppe_commande",
+    "cases": [
+      130,
+      132,
+      134,
+      136
+    ],
+    "target": {
+      "J1": -88,
+      "J2": -7,
+      "J3": -7,
+      "J7": -30.0,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "minimum_z_hand_mm": 56.7197762930508,
+    "pince_mm": 3.7000000000001325,
+    "intersections": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ],
+    "native_solver_confirmed": false
+  },
+  {
+    "label": "historique",
+    "cases": [
+      131,
+      133,
+      135,
+      137
+    ],
+    "target": {
+      "J1": -88,
+      "J2": -7,
+      "J3": -7,
+      "J7": 32,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "minimum_z_hand_mm": 40.64592862406654,
+    "pince_mm": 3.700000000000207,
+    "intersections": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ],
+    "native_solver_confirmed": false
+  },
+  {
+    "label": "enveloppe_commande",
+    "cases": [
+      131,
+      133,
+      135,
+      137
+    ],
+    "target": {
+      "J1": -88,
+      "J2": -7,
+      "J3": -7,
+      "J7": 30.0,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "minimum_z_hand_mm": 41.37058860428402,
+    "pince_mm": 3.70000000000021,
+    "intersections": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ],
+    "native_solver_confirmed": false
+  },
+  {
+    "label": "historique",
+    "cases": [
+      138,
+      140,
+      142,
+      144
+    ],
+    "target": {
+      "J1": 88,
+      "J2": -7,
+      "J3": -7,
+      "J7": -32,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "minimum_z_hand_mm": 57.34071733646792,
+    "pince_mm": 3.700000000000288,
+    "intersections": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ],
+    "native_solver_confirmed": false
+  },
+  {
+    "label": "enveloppe_commande",
+    "cases": [
+      138,
+      140,
+      142,
+      144
+    ],
+    "target": {
+      "J1": 88,
+      "J2": -7,
+      "J3": -7,
+      "J7": -30.0,
+      "Servo_P": 92,
+      "Servo_I": 92,
+      "Servo_M": 65,
+      "Servo_A": 0,
+      "Servo_U": 0
+    },
+    "minimum_z_hand_mm": 56.7197762930508,
+    "pince_mm": 3.7000000000001405,
+    "intersections": [
+      [
+        "Pied_Butee_1",
+        "Butee_J1_1",
+        10.43712
+      ],
+      [
+        "Pied_Butee_2",
+        "Butee_J1_2",
+        10.43712
+      ]
+    ],
+    "native_solver_confirmed": false
+  }
+]

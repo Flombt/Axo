@@ -1,0 +1,35 @@
+{
+  "target": "RP2350 Pico 2",
+  "compiler": "MicroPython v1.29.0 on 2026-08-29; mpy-cross emitting mpy v6.3",
+  "modules": {
+    "enveloppe": {
+      "sha256": "49ce9c2bebc1a13b9ae7a623219ae9abbcbf0329a2feb9fec4d095c04e8708e6",
+      "cross": 0
+    },
+    "controle": {
+      "sha256": "295aa8b011d946059fe42df2c5f1e8b5d079e536d0c71946dfbff88fd3633988",
+      "cross": 0
+    },
+    "main": {
+      "sha256": "f9c6a14d547f689d42694c811c9906dd53471870945eb1038e1f9fd9a72be3ef",
+      "cross": 0
+    }
+  },
+  "host_tests": [
+    "test_cross_corner_and_legitimate_escape (__main__.ControlTest.test_cross_corner_and_legitimate_escape) ... ok",
+    "test_disconnect_stop_and_bad_sensor (__main__.ControlTest.test_disconnect_stop_and_bad_sensor) ... ok",
+    "test_invalid_and_monotonic_calibration (__main__.ControlTest.test_invalid_and_monotonic_calibration) ... ok",
+    "test_manual_arm_requires_park_and_heartbeat (__main__.ControlTest.test_manual_arm_requires_park_and_heartbeat) ... ok",
+    "test_missing_calibration_cannot_enable_relay_or_pwm (__main__.ControlTest.test_missing_calibration_cannot_enable_relay_or_pwm) ... ok",
+    "test_no_autostart_held_button_usb_reset (__main__.ControlTest.test_no_autostart_held_button_usb_reset) ... ok",
+    "test_parser_atomic_bounds_all_nine (__main__.ControlTest.test_parser_atomic_bounds_all_nine) ... ok",
+    "test_rail_drop_and_return_latch (__main__.ControlTest.test_rail_drop_and_return_latch) ... ok",
+    "test_stall_and_tracking_faults (__main__.ControlTest.test_stall_and_tracking_faults) ... ok",
+    "",
+    "----------------------------------------------------------------------",
+    "Ran 9 tests in 0.002s",
+    "",
+    "OK"
+  ],
+  "physical": false
+}

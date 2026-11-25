@@ -1,0 +1,166 @@
+{
+  "reprise": [
+    {
+      "motor": "Moteur_J2",
+      "support": "05_Tourelle",
+      "cut_mm3": 662.4435,
+      "initial_volume_mm3": 28718.6783,
+      "boxes_mm": [
+        [
+          [
+            -26.900000000000006,
+            -4.5,
+            45.4
+          ],
+          [
+            -18.79999999999999,
+            26.4,
+            48.699999999999996
+          ],
+          0.5,
+          32.5
+        ]
+      ]
+    },
+    {
+      "motor": "Moteur_J3",
+      "support": "J2_Chape_Tangage",
+      "cut_mm3": 898.1208,
+      "initial_volume_mm3": 29299.9648,
+      "boxes_mm": [
+        [
+          [
+            23.663732352658496,
+            -2.913404066201864,
+            83.02949795788732
+          ],
+          [
+            27.304456300919618,
+            2.9134040662018523,
+            85.30255573445123
+          ],
+          2.0,
+          9.0
+        ],
+        [
+          [
+            15.642742289107323,
+            6.9499999999999895,
+            86.88019066428203
+          ],
+          [
+            25.768225827829077,
+            11.069999999999993,
+            103.33352757391779
+          ],
+          12.0,
+          17.5
+        ],
+        [
+          [
+            57.25783637286873,
+            16.199999999999996,
+            107.41283232130539
+          ],
+          [
+            67.28420792671814,
+            22.799999999999983,
+            122.48198805349116
+          ],
+          21.0,
+          29.0
+        ]
+      ]
+    },
+    {
+      "motor": "Moteur_J7",
+      "support": "J3_Chape_Tangage",
+      "cut_mm3": 359.4128,
+      "initial_volume_mm3": 20240.7364,
+      "boxes_mm": [
+        [
+          [
+            143.3722200200544,
+            -17.400000000000006,
+            115.0861212177102
+          ],
+          [
+            160.09322212927597,
+            11.249999999999995,
+            131.81002201721063
+          ],
+          1.0,
+          17.0
+        ]
+      ]
+    }
+  ],
+  "apres": [
+    {
+      "motor": "Moteur_J2",
+      "support": "05_Tourelle",
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "removed": [
+        "Coque_Epaule",
+        "Garde_J2",
+        "J2_Pignon"
+      ],
+      "blocks": {}
+    },
+    {
+      "motor": "Moteur_J3",
+      "support": "J2_Chape_Tangage",
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "removed": [
+        "Coque_Bras",
+        "Embout_Coude",
+        "Friction_J3_2",
+        "Garde_J3",
+        "J3_Pignon"
+      ],
+      "blocks": {}
+    },
+    {
+      "motor": "Moteur_J7",
+      "support": "J3_Chape_Tangage",
+      "direction": [
+        0,
+        0,
+        -1
+      ],
+      "removed": [
+        "09_Cassette_SG90",
+        "Bobine_A",
+        "Bobine_I",
+        "Bobine_M",
+        "Bobine_P",
+        "Bobine_U",
+        "Capot_Cassette",
+        "Capot_Paume",
+        "Coque_Avant",
+        "Embout_Coude",
+        "Moteur_FA",
+        "Moteur_FI",
+        "Moteur_FM",
+        "Moteur_FP",
+        "Moteur_FU",
+        "Palonnier_FA",
+        "Palonnier_FI",
+        "Palonnier_FM",
+        "Palonnier_FP",
+        "Palonnier_FU",
+        "Palonnier_J7",
+        "Support_J7"
+      ],
+      "blocks": {}
+    }
+  ]
+}
